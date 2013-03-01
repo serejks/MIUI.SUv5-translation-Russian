@@ -315,10 +315,14 @@
     <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
     <string name="pref_camera_volumekey_function_entry_zooming">Увеличение</string>
     <string name="pref_camera_volumekey_function_title">Настройка клавиш громкости</string>
+    <string name="pref_camera_long_pressing_burst_shooting_title">Звук затвора</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_off">Выкл</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_on">Вкл</string>
     <string name="pref_camera_current_k_value">Текущее значение</string>
     <string name="error_fail_to_start_audio_capture">Невозможно записать звук: Микрофон может быть занят другим приложением.</string>
     <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
     <string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
+    <string name="can_not_play_video">Для воспроизведения разблокируйте экран</string>
     <string name="accessibility_switch_to_camera">Переключить на фото</string>
     <string name="accessibility_switch_to_video">Переключить на видео</string>
     <string name="accessibility_switch_to_panorama">Переключить на панораму</string>
@@ -411,6 +415,7 @@
     <string name="albums">Альбомы</string>
     <string name="select_all">Выбрать все</string>
     <string name="set_label_all_albums">Все альбомы</string>
+    <string name="send_multiple_files_hint_format">Мульти отправка файлов (%s)</string>
     <string name="simple_mode_button_text_hdr">Отключить HDR режим</string>
     <string name="simple_mode_button_text_panorama">Отключить панораму</string>
     <string name="simple_mode_button_text_color_effect">Отключить фильтр</string>

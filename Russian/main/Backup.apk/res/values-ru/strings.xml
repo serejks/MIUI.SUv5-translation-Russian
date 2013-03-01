@@ -176,7 +176,7 @@
   <string name="system_backup_info">Настройки системы, рабочий стол и т.д.</string>
   <string name="software_backup_info">Копирование программ и их данных</string>
   <string name="account_contact_backup_info">Данные (Аккаунт Xiaomi, Gmail and Email аккаунты. Аккаунты и контакты будут сохранены вместе)</string>
-  <string name="select_backup_item">"Выберите "</string>
+  <string name="select_backup_item">Выберите пункты</string>
   <string name="restore_data">Восстановить данные</string>
   <string name="backup_data">Копирование данных</string>
 </resources>
