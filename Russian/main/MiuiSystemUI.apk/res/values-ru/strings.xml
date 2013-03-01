@@ -145,7 +145,7 @@
   <string name="status_bar_toggle_power_mid">Нормально</string>
   <string name="status_bar_toggle_ring">Звонок</string>
   <string name="status_bar_toggle_ringtone">Рингтон</string>
-  <string name="status_bar_toggle_sync_auto">Автосинхронизация</string>
+  <string name="status_bar_toggle_sync_auto">Автосинхр</string>
   <string name="status_bar_toggle_sync_manual">Синхронизация</string>
   <string name="status_bar_toggle_syncing">Синхронизация</string>
   <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
@@ -158,7 +158,7 @@
   <string name="usb_mode_mount_storage_title">Открыть сейчас USB-накопитель?</string>
   <string name="mount_storage">Да</string>
   <string name="dismount_storage">Нет</string>
-  <string name="usb_notification">Подключ. по USB</string>
+  <string name="usb_notification">Подкл. по USB</string>
   <string name="usb_notification_mtp_info">Доступ к данным с компьютера</string>
   <string name="usb_notification_ptp_info">Доступ к фото с компьютера</string>
   <string name="usb_notification_mtp_problem">Помощь ></string>
@@ -174,7 +174,7 @@
   <string name="user_guide_for_call">Для возврата в интерфейс телефона потяните вниз статусную строку и нажмите на уведомление о вызове</string>
   <string name="return_to_incall_screen">Нажмите для возврата к вызову</string>
   <string name="call_status_dialing">Вызывается</string>
-  <string name="status_bar_toggle_ac">Управление доступом</string>
+  <string name="status_bar_toggle_ac">Упр.дост.</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Подсветка</string>
   <string name="status_bar_toggle_data">Данные</string>
@@ -184,12 +184,12 @@
   <string name="status_bar_toggle_lock">Блокировка</string>
   <string name="status_bar_toggle_mute">Беззвучный</string>
   <string name="status_bar_toggle_network_type">Тип сети</string>
-  <string name="status_bar_toggle_privacy_mode">Приватный режим</string>
-  <string name="status_bar_toggle_reboot">Перезагрузка</string>
-  <string name="status_bar_toggle_rotate">Ориентация экрана</string>
+  <string name="status_bar_toggle_privacy_mode">Гость</string>
+  <string name="status_bar_toggle_reboot">Перезагр.</string>
+  <string name="status_bar_toggle_rotate">Поворот</string>
   <string name="status_bar_toggle_screen_button">Кнопка экрана</string>
-  <string name="status_bar_toggle_screenshot">Снимок экрана</string>
-  <string name="status_bar_toggle_shutdown">Выключение</string>
+  <string name="status_bar_toggle_screenshot">Скриншот</string>
+  <string name="status_bar_toggle_shutdown">Выключить</string>
   <string name="status_bar_toggle_sync">Синхронизация</string>
   <string name="status_bar_toggle_torch">Фонарик</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
