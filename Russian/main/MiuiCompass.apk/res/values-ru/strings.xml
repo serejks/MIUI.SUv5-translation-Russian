@@ -3,11 +3,11 @@
   <string name="app_label">Компас</string>
   <string name="getting_location">Определение местоположения…</string>
   <string name="cannot_get_location">Не удалось получить местонахождение</string>
-  <string name="location_north">%s С</string>
-  <string name="location_south">%s Ю</string>
-  <string name="location_east">%s З</string>
-  <string name="location_west">%s В</string>
-  <string name="direction_east">P</string>
+  <string name="location_north">С</string>
+  <string name="location_south">Ю</string>
+  <string name="location_east">З</string>
+  <string name="location_west">В</string>
+  <string name="direction_east">З</string>
   <string name="direction_north">C</string>
   <string name="direction_south">Ю</string>
   <string name="direction_west">В</string>
@@ -22,8 +22,8 @@
   <string name="altitude_title">Долгота</string>
   <string name="user_guide_calibrate">Нажмите Меню для калибровки компаса</string>
   <string name="toast_accuracy_low">Низкая точность.\nНажмите Меню для калибровки компаса.</string>
-  <string name="pressure">Давление %.1fhPa</string>
-  <string name="altitude">Долгота %.1fm</string>
+  <string name="pressure">%.1fhPa</string>
+  <string name="altitude">%.1fm</string>
   <string name="dialog_title_no_network">Пожалуйста подключитесь к Wi-Fi или мобильному интернету.</string>
   <string name="dialog_calibrat_altitude">Калибровка долготы через интернет.</string>
   <string name="latitude">Широта</string>
