@@ -145,13 +145,13 @@
   <string name="status_bar_toggle_power_mid">Нормально</string>
   <string name="status_bar_toggle_ring">Звонок</string>
   <string name="status_bar_toggle_ringtone">Рингтон</string>
-  <string name="status_bar_toggle_sync_auto">Авто синхронизация</string>
+  <string name="status_bar_toggle_sync_auto">Авто синхрониз.</string>
   <string name="status_bar_toggle_sync_manual">Синхронизация</string>
   <string name="status_bar_toggle_syncing">Синхронизация</string>
   <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
   <string name="status_bar_time_format_12_simple">H:mm</string>
   <string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
-  <string name="status_bar_recent_memory_info_format">%d MB</string>
+  <string name="status_bar_recent_memory_info_format">%d МБ</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="usb_mode_notification">USB-накопитель</string>
   <string name="usb_mode_dont_ask">"Больше не спрашивать"</string>

@@ -42,8 +42,8 @@
   <string name="menu_newContact">Новый контакт</string>
   <string name="menu_viewContact">Просмотреть контакт</string>
   <string name="menu_callNumber">Вызов: %s</string>
-  <string name="menu_addStar">Добавить в избранное</string>
-  <string name="menu_removeStar">Удалить из избранных</string>
+  <string name="menu_addStar">"Добавить в избранное "</string>
+  <string name="menu_removeStar">"Удалить из избранных "</string>
   <string name="menu_editContact">Изменить</string>
   <string name="menu_deleteContact">Удалить</string>
   <string name="menu_copy">Копировать</string>

@@ -24,8 +24,8 @@
     <string name="notification_paused_in_background">Пауза в фоне</string>
     <string name="wifi_required_title">Слишком большой размер для загрузки по сети</string>
     <string name="wifi_required_body" formatted="false">Вы должны использовать Wi-Fi для завершения загрузки. \n\n Нажмите %s что бы начать загрузку через Wi-Fi.</string>
-    <string name="wifi_recommended_title">Напоминатель расхода трафика</string>
-    <string name="wifi_recommended_body" formatted="false">При загрузке через мобильную сеть:\n\n %s（%s）\n\nЗагрузка файла может привести к росту затрат на трафик</string>
+    <string name="wifi_recommended_title">Напоминание о расходе трафика</string>
+    <string name="wifi_recommended_body" formatted="false">Загрузка файла через мобильную сеть:\n\n %s（%s）\n\nЗагрузка файла может привести к росту затрат на трафик</string>
     <string name="button_queue_for_wifi">В очередь</string>
     <string name="button_cancel_download">Отмена</string>
     <string name="button_start_now">Начать сейчас</string>
