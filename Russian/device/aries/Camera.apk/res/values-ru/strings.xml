@@ -40,9 +40,9 @@
     <string name="pref_camera_auto_focus_title_entry_off">Откл</string>
     <string name="pref_camera_auto_focus_title_entry_on">Вкл</string>
     <string name="pref_video_quality_title">Качество видео</string>
-    <string name="pref_video_quality_entry_1080p">FullHD 1080p</string>
-    <string name="pref_video_quality_entry_720p">HD 720p</string>
-    <string name="pref_video_quality_entry_480p">SD 480p</string>
+    <string name="pref_video_quality_entry_1080p">FullHD</string>
+    <string name="pref_video_quality_entry_720p">HD</string>
+    <string name="pref_video_quality_entry_480p">SD</string>
     <string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2 раза</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4 раза</string>
@@ -196,7 +196,7 @@
     <string name="dialog_ok">ОК</string>
     <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
-    <string name="pref_camera_hfr_title">Высокая чатота кадров видео (для замедленной съёмки)</string>
+    <string name="pref_camera_hfr_title">Высокая чатота кадров видео (Замедленная съёмка)</string>
     <string name="pref_camera_hfr_entry_off">Откл</string>
     <string name="pref_video_speed_title">Скорость видео</string>
     <string name="pref_video_speed_entry_normal">Нормально</string>
@@ -425,7 +425,7 @@
     <string name="simple_mode_button_text_audio_capture">Отключить запись звука</string>
     <string name="simple_mode_button_text_slow_video">Отключить замедленную съемку</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Фильтр</string>
-    <string name="pref_video_slow_speed_title_simple_mode">Замедленная съемка</string>
+    <string name="pref_video_slow_speed_title_simple_mode">Замед.съемка</string>
     <string name="enter_expert_mode_title">Профессиональный режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
 </resources>
