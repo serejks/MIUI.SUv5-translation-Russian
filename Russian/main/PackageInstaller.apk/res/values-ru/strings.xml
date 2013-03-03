@@ -54,7 +54,7 @@
   <string name="uninstalling">Удаление…</string>
   <string name="uninstall_done">Удаление завершено</string>
   <string name="uninstall_failed">Ошибка при удалении</string>
-  <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования усройства.</string>
+  <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства.</string>
   <string name="manage_device_administrators">Настройки администрирования</string>
   <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось.</string>
   <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
