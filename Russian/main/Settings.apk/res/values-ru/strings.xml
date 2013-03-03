@@ -1859,8 +1859,6 @@
   <string name="perm_log_clear_content">Все журналы будут удалены. Вы уверены что хотите этого?</string>
   <string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
   <string name="perm_privacy_app_count">%1$d права</string>
-  <string name="perm_privacy_app_count_trust_summary">Доверенные приложения</string>
-  <string name="perm_privacy_app_count_trust">%1$dправа - &lt;font color=#478800>Trusted&lt;/font></string>
   <string name="perm_privacy_app_trust">Я доверяю этому приложению</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI будет контролировать это приложение</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI будет доверять этому приложению</string>
@@ -1868,7 +1866,7 @@
   <string name="perm_privacy_app_uninstall">Удалить</string>
   <string name="perm_privacy_app_log">Журналы</string>
   <string name="perm_privacy_app_installed">Установка завершена!</string>
-  <string name="perm_privacy_app_finish">Финиш</string>
+  <string name="perm_privacy_app_finish">Готово</string>
   <string name="perm_privacy_app_launch">Запуск</string>
   <string name="perm_privacy_app_trust_dialog_title">Доверять этому приложению</string>
   <string name="perm_privacy_app_trust_summary">Доверенные</string>
