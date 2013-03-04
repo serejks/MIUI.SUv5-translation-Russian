@@ -163,7 +163,7 @@
     <string name="cit_sim_state_ready">SIM-карта в порядке</string>
     <string name="cit_sim_state_unkown">Неизвестное состояние</string>
     <string name="cit_start_calibration">Начало калибровки</string>
-    <string name="cit_stop_calibration">Конец калибровки</string>
+    <string name="cit_stop_calibration">Калибровка закончена</string>
     <string name="cit_tool">Инструменты</string>
     <string name="cit_tool_bluetooth">Bluetooth</string>
     <string name="cit_tool_bluetooth_mode">Режим</string>

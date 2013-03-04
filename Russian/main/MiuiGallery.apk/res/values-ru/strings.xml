@@ -302,7 +302,7 @@
     <string name="slideshow_interval_invalid">Неправильне настройки времени показа, значение должно быть в интервале 1~3600 секунд. Время показа останется стандартным.</string>
     <string name="slideshow_repeat_mode">Повторение</string>
     <string name="clear_thumbnail_cache">Очистить кэш эскизов</string>
-    <string name="clear_thumbnail_cache_summary">При просмотре будут сгенерированы эскизы. Ичистка кэша освободит пространство.</string>
+    <string name="clear_thumbnail_cache_summary">При просмотре будут сгенерированы эскизы. Очистка кэша освободит пространство.</string>
     <string name="clear_thumbnail_cache_confirm">Все эскизы вашей галереи будут удалены галерея будет вновь просканирована во время просмотра для создания эскизов. Это отразится на скорости просмотра.</string>
     <string name="cleaning_cache">Очистка кэша…</string>
     <string name="seconds">секунд</string>
