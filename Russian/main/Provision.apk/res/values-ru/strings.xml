@@ -23,4 +23,6 @@
     <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика.</string>
     <string name="data_usage_summary">Если вы еще не выбрали тарифный план, рекомендуется выключить передачу данных. В противном случае оператор может взымать плату.</string>
     <string name="use_data">Передача данных включена</string>
+    <string name="input_method_category">Выберите способ ввода по умолчанию</string>
+    <string name="input_method">Способ ввода</string>
 </resources>
