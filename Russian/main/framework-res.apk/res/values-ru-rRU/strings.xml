@@ -915,7 +915,7 @@
     <string name="chooseUsbActivity">Выберите действие для USB устройства</string>
     <string name="noApplications">Это действие не может выполнять ни одно приложение</string>
     <string name="aerr_application">К сожалению, приложение \"%1$s\" было закрыто.</string>
-    <string name="aerr_process">К сожалению, процесс \"%1$s\" был останвлен.</string>
+    <string name="aerr_process">К сожалению, процесс \"%1$s\" был остановлен.</string>
     <string name="anr_activity_application">%2$s не отвечает.\n\n Хотите его закрыть?</string>
     <string name="anr_activity_process">Приложение \"%1$s\" не отвечает.\n\nХотите его закрыть?</string>
     <string name="anr_application_process">\"%1$s\" не отвечает. Закрыть его?</string>
@@ -971,9 +971,6 @@
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены.</string>
     <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct</string>
-    <string name="wifi_p2p_pbc_go_negotiation_запрос_message">Wi-Fi Direct connection setup запрос from %1$s. Click OK to accept.</string>
-    <string name="wifi_p2p_pin_go_negotiation_запрос_message">Wi-Fi Direct connection setup запрос from %1$s. Enter pin to proceed.</string>
-    <string name="wifi_p2p_pin_display_message">WPS pin %1$s needs to be entered on the peer device %2$s for connection setup to proceed</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
     <string name="wifi_p2p_enabled_notification_message">Нажмите, для изменения настроек</string>
     <string name="wifi_p2p_wps_setup">Wi-Fi protected setup</string>
@@ -1274,8 +1271,8 @@
     <string name="data_blocked_dun">Этот телефон не поддерживает Dial-up соединение.</string>
     <string name="data_enable_wifi_to_3g_transition_toast">Wi-Fi сеть недоступна. Подклюение через 3G/4G соединение. Ваши расходы на связь увеличатся, если вы не используете оптимальный тариф.</string>
     <string name="data_disable_wifi_to_3g_transition_toast">Wi-Fi сеть недоступна. Разрешите Wi-Fi или 3G/4G соединение.</string>
-    <string name="data_allowed_toast">Todo.. update data_allowed_toast string</string>
-    <string name="data_blocked_toast">Todo.. update data_blocked_toast string</string>
+    <string name="data_allowed_toast">Обновление строки data_allowed_toast</string>
+    <string name="data_blocked_toast">Обновление строки data_blocked_toast</string>
     <string name="volume_system">Прослушивание при настройке уровня звука</string>
     <string name="xtraDownload_start_noti_text">Данные A-GPS буду загружены.</string>
     <string name="xtraDownload_fail_noti_text">Загрузка данных А-GPS прервана.</string>
