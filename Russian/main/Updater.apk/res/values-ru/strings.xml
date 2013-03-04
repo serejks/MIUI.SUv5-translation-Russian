@@ -43,7 +43,7 @@
     <string name="file_not_found_error_message">Запрошенный файл не найден</string>
     <string name="apply_upload_info_message_manually">После перезагрузки, вы можете вручную зайти в Recovery для применения обновления %s с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
     <string name="apply_upload_info_message">Нажатие \"Обновить сейчас\" автоматичеки перезагружает аппарат после применения обновления</string>
-    <string name="apply_buddy_update_info_message">Нажмите \"Обновить сейчас\" для обновления</string>
+    <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить сейчас\"</string>
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
     <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
     <string name="system_backup_ok_text">Резервное копирование</string>
