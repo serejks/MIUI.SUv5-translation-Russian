@@ -3,8 +3,8 @@
     <string name="app_label">Spare Parts</string>
     <string name="device_info_title">Информация об устройстве</string>
     <string name="title_battery_history">История батареи</string>
-    <string name="summary_battery_history">Инфйормация об использовании батареи</string>
-    <string name="title_battery_information">Информация о батареи</string>
+    <string name="summary_battery_history">Информация об использовании батареи</string>
+    <string name="title_battery_information">Информация о батарее</string>
     <string name="summary_battery_information">Текущий статус батареи</string>
     <string name="title_usage_statistics">Статистика использования</string>
     <string name="summary_usage_statistics">Суммарная информация использования приложений</string>
