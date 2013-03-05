@@ -437,7 +437,7 @@
     <string name="ok">ОК</string>
     <string name="cancel">Отмена</string>
     <string name="uploading_to">Загрузка в %s</string>
-    <string name="uploading_for">" для %s "</string>
+    <string name="uploading_for">for %s</string>
     <string name="destination_format" formatted="false">%1$s \"%2$s\"</string>
     <string name="toast_intent_error">Не удалось начать загрузку.</string>
     <string name="toast_file_error">Файл недоступен.</string>

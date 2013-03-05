@@ -2063,7 +2063,7 @@
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Такое имя уже существует. Введите другое</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания папки</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD карта не содержит AS сертификатов</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS сертификат не найден на SD карте</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неправильный формат сертификата! Установите правильный сертификат</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неправильный формат сертификата! Установите правильный сертификат</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите название сертификата</string>
