@@ -586,6 +586,7 @@
   <string name="group_name_coworkers">Коллеги</string>
   <string name="unkown_location">" "</string>
   <string name="service_provider">Желтые страницы</string>
+  <string name="zero_items_selected">Выберите пункты</string>
   <string name="menu_group_add_members">Добавить в группу</string>
   <string name="nickname_picker_name_column">Имя</string>
   <string name="nickname_picker_nickname_column">Заголовок</string>
@@ -620,8 +621,8 @@
   <string name="menu_group_ringtone">Рингтон группы</string>
   <string name="recent_contacts_label">Последние</string>
   <string name="recent_number">Последние</string>
-  <string name="pick_favorites_list_title">Всего избранных номеров контактов: %1$d</string>
-  <string name="pick_recent_list_title">Всего последних номеров контактов: %1$d</string>
+  <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>
+  <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
   <string name="noRecentContacts">Нет последних контактов</string>
   <string name="hint_search_contacts">%d контакт(ов)</string>
   <string name="hint_search_phone_numbers">%d номер(ов) контакт(ов)</string>

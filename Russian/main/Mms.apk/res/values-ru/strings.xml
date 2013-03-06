@@ -166,8 +166,12 @@
     <string name="confirm_delete_locked_message">Сообщение заблокировано. Все равно удалить его?</string>
     <string name="delete_unlocked">Удалить заблокированные сообщения</string>
     <string name="delete">Удалить</string>
-    <string name="stick">Прилепить</string>
-    <string name="unstick">Отлепить</string>
+    <string name="stick">Закрепить</string>
+    <string name="unstick">Снять закрепление</string>
+    <string name="stick_conversation">Закрепить диалог</string>
+    <string name="unstick_conversation">Снять закрепление диалога</string>
+    <string name="sticked_conversation">Диалог закреплен</string>
+    <string name="unsticked_conversation">Закрепление диалога снято</string>
     <string name="select_conversations">Выбрать цепочки</string>
     <string name="no_conversations">Пока ничего нет</string>
     <string name="loading_conversations">Загрузка обсуждений…</string>

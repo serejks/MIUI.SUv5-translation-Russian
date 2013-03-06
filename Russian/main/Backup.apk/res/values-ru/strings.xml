@@ -23,7 +23,7 @@
   <string name="delete_backup_process">Удаление, подождите…</string>
   <string name="backup_error">Ошибки бэкапа</string>
   <string name="delete_failed_backup_confirm">Файл резервной копии содержит ошибки, не может быть использована для восстановления</string>
-  <string name="batch_delete_backup_confirm">Вы уверены, что хотите удалить выбранный(е) бэкап(ы)?</string>
+  <string name="batch_delete_backup_confirm">Вы уверены, что хотите удалить выбранный бэкап?</string>
   <string name="start_restore">Восстановить</string>
   <string name="backup_file_error">Проблемы с бэкапом, восстановление прервано</string>
   <string name="unit_byte">\u0020байт</string>
