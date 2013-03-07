@@ -12,7 +12,7 @@
   <string name="direction_south">Ю</string>
   <string name="direction_west">В</string>
   <string name="menu_calibrate">Калибровка компаса</string>
-  <string name="menu_calibrate_altitude">Калибровать долготу через интернет</string>
+  <string name="menu_calibrate_altitude">Калибровка высоты через интернет</string>
   <string name="dialog_title">Прервать калибровку</string>
   <string name="dialog_content">Калибровка компаса не завершена и его показания могут быть неточными. Все равно прервать?</string>
   <string name="calibrate_success">Калибровка завершена</string>
@@ -25,7 +25,7 @@
   <string name="pressure">%.1f</string>
   <string name="altitude">%.1f</string>
   <string name="dialog_title_no_network">Пожалуйста подключитесь к Wi-Fi или мобильному интернету.</string>
-  <string name="dialog_calibrat_altitude">Калибровка долготы через интернет.</string>
+  <string name="dialog_calibrat_altitude">Калибровка высоты через интернет.</string>
   <string name="latitude">Широта</string>
   <string name="longitude">Долгота</string>
 </resources>
