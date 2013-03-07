@@ -756,7 +756,7 @@
   <string name="import_to_xiaomi_account_progress_finish">Импорт выполнен</string>
   <string name="import_to_xiaomi_account_title">Вы хотите импортировать выбранные контакты в аккаунт Xiaomi?</string>
   <string name="menu_batch_delete">Пакетное удаление контактов</string>
-  <string name="batch_delete_msg">Вы уверены, что хотите удалить выбранные %d контакты(ов)? \n\n Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
+  <string name="batch_delete_msg">Выбрано контактов: %d. Вы действительно хотите их удалить? \n\n Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
   <string name="listTotalAllContactsZero">Нет контактов</string>
   <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
   <string name="listTotalAllContactsZeroGroup">Нет контактов в %s</string>

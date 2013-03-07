@@ -67,4 +67,7 @@
   <string name="safe_relative">Личная безопасность</string>
   <string name="privacy_relative">Доступ к личным данным</string>
   <string name="other_relative">Другие разрешения</string>
+  <string name="perm_action_accept">Разрешить</string>
+  <string name="perm_action_prompt">С запросом</string>
+  <string name="perm_action_reject">Запретить</string>
 </resources>

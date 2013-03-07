@@ -434,7 +434,7 @@
   <string name="solar_calendar">Григорианский календарь</string>
   <string name="speaker">Громкоговоритель</string>
   <string name="resource_selected_number">Выбрано ресурсов: %1$d </string>
-  <string name="resource_delete_all">Вы уверены, что хотите удалить %1$d выбранных ресурсов?</string>
+  <string name="resource_delete_all">Выбрано ресурсов: %1$d. Вы уверены, что хотите их удалить?</string>
   <string name="resource_can_not_selected">%1$s невозможно выбрать!</string>
   <string name="resource_system_title">Системные ресурсы</string>
   <string name="resource_downloaded_title">Загруженные ресурсы</string>

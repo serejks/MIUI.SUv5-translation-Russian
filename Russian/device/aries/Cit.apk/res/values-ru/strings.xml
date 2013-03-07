@@ -108,7 +108,8 @@
     <string name="cit_magnetic_sensor_check_summary">Значение индукции магнитного поля X, Y, Z, показано ниже</string>
     <string name="cit_magnetic_sensor_check_title">Проверка встроенного компаса</string>
     <string name="cit_main_camera_check_summary">Шаги:\n\n1. Нажмите кнопку камеры\n2. Выбирете стандартную камеру, если у вас имеется несколько приложений для фотосъемки\n3. Сфотографируйте\n4. Подтвердите сохранение снимка\n5. Просмотрите изображение, а после удалите соответствующей кнопкой</string>
-    <string name="cit_camera_sdcard_error">нимок не может быть сделан. SD картазаполнена.</string>
+    <string name="cit_front_camera_check_summary">"测试步骤如下：\n\n1.点击拍照按钮，调用系统相机\n2.点击拍照\n3.点击系统相机确定按钮，系统会自动保存图片\n4.看到图片显示到当前屏幕后，单击删除"</string>
+	<string name="cit_camera_sdcard_error">нимок не может быть сделан. SD картазаполнена.</string>
     <string name="cit_gps_check_summary">Во время проверки, будет показана информация GPS</string>
 	<string name="cit_main_camera_check_title">Проверка задней камеры</string>
     <string name="cit_front_camera_check_title">Проверка передней камеры</string>

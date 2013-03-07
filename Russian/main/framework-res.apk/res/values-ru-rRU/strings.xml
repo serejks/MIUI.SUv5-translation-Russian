@@ -267,7 +267,7 @@
     <string name="httpErrorFailedSslHandshake">Невозможно установить защищённое соединение.</string>
     <string name="httpErrorFile">Нет доступа к файлу.</string>
     <string name="httpErrorFileNotFound">Запрашиваемый файл не найден.</string>
-    <string name="httpErrorTooManyзапросs">Обрабатывается слишком много запросов. Попробуйте позже.</string>
+    <string name="httpErrorTooManyRequests">Обрабатывается слишком много запросов. Попробуйте позже.</string>
     <string name="notification_title">Ошибка входа %1$s</string>
     <string name="contentServiceSync">Синхр.</string>
     <string name="contentServiceSyncNotificationTitle">Синхр.</string>
@@ -1079,8 +1079,7 @@
     <string name="grant_permissions_header_text">Запрос доступа</string>
     <string name="allow">Разрешить</string>
     <string name="deny">Запретить</string>
-    <string name="permission_запрос_notification_title">Разрешение запрошено</string>
-    <string name="permission_запрос_notification_with_subtitle">Требуется разрешение\n для аккаунта \"%s\"</string>
+    <string name="permission_request_notification_with_subtitle">Требуется разрешение\n для аккаунта \"%s\"</string>
     <string name="input_method_binding_label">Метод ввода</string>
     <string name="sync_binding_label">Синхр.</string>
     <string name="accessibility_binding_label">Специальные возможности</string>

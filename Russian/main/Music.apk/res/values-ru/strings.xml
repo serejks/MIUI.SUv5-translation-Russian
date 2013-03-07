@@ -80,7 +80,7 @@
   <string name="filter_notification">Фильтр применён. Вы можете изменить его настройки в настройках фильтра.</string>
   <string name="delete_item">Удалить</string>
   <string name="remove_item">Убрать</string>
-  <string name="delete_song_desc">Вы уверены, что хотите удалить %s ?</string>
+  <string name="delete_song_desc">Вы уверены, что хотите удалить %s?</string>
   <string name="scanning">Сканирую карту памяти…</string>
   <string name="scanning_nosdcard">Сканирую USB накопитель…</string>
   <string name="online_indicator">-онлайн</string>

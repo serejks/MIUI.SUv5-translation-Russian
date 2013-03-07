@@ -503,4 +503,8 @@
     <string name="enable_password_protect">Включить защиту паролем</string>
     <string name="importing_progress_private_message">Импортирую сообщения в приватный ящик</string>
     <string name="exporting_progress_private_message">Экспортирую сообщения из приватного ящика</string>
+    <string name="confirm_export_dialog_title">Удалить приватные контакты</string>
+    <string name="confirm_export_dialog_description">Удалить 1 выбранный приватный контакт и перевести диалог в обычный режим. Продолжить?</string>
+    <string name="select_local_audio">Выбор локального аудио…</string>
+    <string name="select_local_video">Выбор локального видео...</string>
 </resources>

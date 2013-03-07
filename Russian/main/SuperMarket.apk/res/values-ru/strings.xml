@@ -22,9 +22,16 @@
     <string name="menu_install_all">Установить все</string>
     <string name="menu_download_manager">Загрузки</string>
     <string name="menu_refresh">Обновить</string>
+    <string name="menu_clear_search_history">Очистить историю поиска</string>
     <string name="quicksearchbox_description">Поиск приложений</string>
     <string name="more_app">Что топового</string>
     <string name="more_subject">Колекции</string>
+    <string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
+    <string name="login_active_title">Ваш аккаунт не активирован, активировать его сейчас?</string>
+    <string name="login_download_title">Вход в аккаунт Xiaomi</string>
+    <string name="login_skip">Пропустить</string>
+    <string name="login_ok">Вход</string>
+    <string name="login_active">Активир.</string>
     <string name="pref_title_auto_update_setting">Настройки автообновления</string>
     <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
     <string name="pref_title_data_save_mode">Режим сохранения данных</string>
@@ -44,6 +51,7 @@
     <string name="pref_title_use_staging">Использование промежуточного сервера</string>
     <string name="clear_search_record_message">Вы действительно хотите очистить историю поиска?</string>
     <string name="result_of_clear_history">История очищена</string>
+    <string name="pref_title_silent_install">Тихая установка</string>
     <string name="app_comments_title">%1$s коментариев к приложению</string>
     <string name="edit_comment_title">%1$s добавить коментарий</string>
     <string name="app_comments">Коментарии к приложения</string>
@@ -96,6 +104,7 @@
     <string name="show_all_local_app_with_count">Показать все установленные (%1$d)</string>
     <string name="enable_updata_local_app">Доступно обновлений: %1$s</string>
     <string name="update_all">Обновить все</string>
+    <string name="search_local_app_text_hint">Поиск прилодений в %1$d установленных/string>
     <string name="menu_update">Обновить</string>
     <string name="menu_ignore">Игнорировать</string>
     <string name="menu_detail">Показать детали приложения</string>
@@ -115,7 +124,9 @@
     <string name="install_fail">Ошибка установки %1$s</string>
     <string name="system_app_sign_not_match_fail">Ошибка установки %1$s: некорректная подпись приложения, обновление не завершено</string>
     <string name="remove_package_timeout_fail">Ошибка установки %1$s невозможно установить, удалите вручную</string>
+    <string name="no_network">Нет доступа к интернету. Проверьте и обновите :)</string>
     <string name="no_data">Ошибка сети, проверьте соединение</string>
+    <string name="no_fitness">Упс! Нет нужных приложений, попробуйте поиск :)</string>
     <string name="no_update">Нет доступных обновлений</string>
     <string name="no_local_apps">Нет установленных приложений</string>
     <string name="no_description">Нет подробностей</string>
@@ -132,6 +143,9 @@
     <string name="loading_search_result">Загрузка результатов поиска…</string>
     <string name="launch_failed_text">Ошибка запуска %1$s</string>
     <string name="expand_full_text">Развернуть весь текст▼</string>
+    <string name="expand_full_text_comment">Развернуть весь текст▼</string>
+    <string name="button_refresh">Обновить</string>
+    <string name="button_search">Поиск</string>
     <string name="notif_title_update">%1$s обновлений</string>
     <string name="notif_installing">Установка %1$s…</string>
     <string name="notif_install_successful">%1$s установлено, нажмите для запуска</string>
@@ -158,7 +172,8 @@
     <string name="no_comment">Нет комментариев</string>
     <string name="comment_sending">Отправка комментария…</string>
     <string name="comment_upload_failed">Ошибка отправки комментария</string>
-    <string name="comment_upload_success">Комментарий отправлен! It will be displayed after the audit</string>
+    <string name="comment_upload_success">Комментарий отправлен! Он будет отображен после проверки</string>
+    <string name="comment_upload_hint">Ваш комментарий будет отображен после проверки</string>
     <string name="comment_upload_data_invalid">Извините, неверный комментарий</string>
     <string name="comment_upload_not_logined">Сначала войдите</string>
     <string name="comment_upload_need_login">Вы хотите войти, для отправки комментария?</string>

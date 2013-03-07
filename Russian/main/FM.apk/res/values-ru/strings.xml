@@ -92,6 +92,7 @@
     <string name="set">Установить</string>
     <string name="stations_list">Список станций</string>
     <string name="stations_list_empty">Список станций пуст</string>
+    <string name="station_freq_format">%sМГц</string>
     <string name="station_name_already_used">Такое название уже используется. Введите другое название.</string>
     <string name="toast_save_station">%sMHz была сохранена</string>
     <string name="hint_station_name">Название станции</string>

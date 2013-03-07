@@ -124,7 +124,7 @@
   <string name="resource_can_not_selected">%1$s не может быть выбрано!</string>
   <string name="resource_default">Стандартный рингтон</string>
   <string name="resource_default_name">Ресурсы</string>
-  <string name="resource_delete_all">Удалить %1$d выбранных ресурсов?</string>
+  <string name="resource_delete_all">Выбрано ресурсов: %1$d. Вы уверены, что хотите их удалить?</string>
   <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
   <string name="resource_detail">Детали</string>
   <string name="resource_download">Загрузка</string>

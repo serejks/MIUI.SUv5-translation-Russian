@@ -79,11 +79,11 @@
     <string name="set_image">Установить изображение как</string>
     <string name="camera_setas_wallpaper">Фон рабочего стола</string>
     <string name="delete">Удалить</string>
-    <string name="confirm_delete">Отмечено изображений: %s. Вы уверены, что хотите удалить?</string>
+    <string name="confirm_delete">Отмечено изображений: %s. Вы уверены, что хотите их удалить?</string>
     <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить %s альбомов (включая %s штук)?</string>
     <string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
     <string name="confirm_delete_folders_and_pictures">Удалить %s?</string>
-    <string name="confirm_delete_pictures"> %s изображений</string>
+    <string name="confirm_delete_pictures"> %s</string>
     <string name="confirm_delete_folders_including" formatted="false">" %s папок (включая %s)"</string>
     <string name="confirm_delete_videos"> %s видео</string>
     <string name="confirm_delete_including_null">0 штук</string>
@@ -262,6 +262,7 @@
     <string name="must_pick_file">Выберите изображение</string>
     <string name="play_video">Воспроизвести</string>
     <string name="set_lock_or_wallpaper">Установить в качестве обоев</string>
+    <string name="set_lock_and_wallpaper">Установка в качестве обоев…</string>
     <string name="set_wallpaper">Установить как обои рабочего стола</string>
     <string name="set_lockscreen">Установить как обои экрана блокировки</string>
     <string name="show_details">Детали</string>

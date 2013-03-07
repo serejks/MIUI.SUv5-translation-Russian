@@ -1825,7 +1825,7 @@
   <string name="perm_hips_security_prompt_root_step3">Ваша личная информация такая как счета, пароль и сообщения может потерять конфидециальность</string>
   <string name="perm_hips_security_prompt_root_step4">Также возможно повреждение компонентов устройства</string>
   <string name="perm_hips_security_prompt_root_step5">Используйте с осторожностью!</string>
-  <string name="perm_hips_security_Prompt_root_step6">Вы уверенны что хотите предоставить %1$s права ROOT?</string>
+  <string name="perm_hips_security_prompt_root_step6">Вы уверенны что хотите предоставить %1$s права ROOT?</string>
   <string name="perm">Разрешения</string>
   <string name="perm_app">Приложения</string>
   <string name="perm_app_name">Разрешения</string>
@@ -1945,6 +1945,11 @@
   <string name="screen_timeout_title">Экран в спящий режим</string>
   <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
   <string name="screen_on_proximity_sensor_summary">Предотвращение ошибок пока телефон находится в кармане (определяется с помощью датчика приближения)</string>
+  <string name="preferred_launcher_title">Предпочитаемый лаунчер</string>
+  <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
+  <string name="preferred_launcher_warning_message">Замена стандартного лаунчера может повлечь за собой большее потребление энергии, ухудшение скорости работы, ухудшить безопасность личных данных и т.д. Рекомендуется использовать стандартный лаунчер.</string>
+  <string name="preferred_launcher_warning_replace">Замена</string>
+  <string name="preferred_launcher_warning_use_system">Исп.лаунчер по умолчанию</string>
   <string name="key_settings_title">Настройка кнопок</string>
   <string name="key_settings">Настройка кнопок</string>
   <string name="menu_key">Клавиша меню</string>

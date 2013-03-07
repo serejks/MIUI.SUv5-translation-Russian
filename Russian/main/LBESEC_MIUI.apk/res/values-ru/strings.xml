@@ -184,4 +184,5 @@
     <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
     <string name="SysOpt_Boost_AutoStart">Разрешение на автозагрузку</string>
     <string name="Su_Enable_Dialog">%1$s пытается получить ROOT-доступ, который по умолчанию отлючён для обеспечения безопасности системы. Если Вам необходимо его включить, пожалуйста, перейдите в настройки в Менеджере Разрешений.</string>
+    <string name="Su_Unavailable">ROOT-доступ недоступен в стабильной версии MIUI. Установите версию для разработчиков для получение ROOT-доступа</string>
 </resources>

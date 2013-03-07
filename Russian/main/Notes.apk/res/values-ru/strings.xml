@@ -53,8 +53,10 @@
   <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
   <string name="alert_message_delete_folder">Подтвердите удаление папки и содержимого?</string>
   <string name="alert_title_delete">Удалить выбранные заметки</string>
-  <string name="alert_message_delete_notes">Отмечено заметок: %1$s. Вы уверены, что хотите удалить?</string>
-  <string name="alert_message_discard_changes">Отмечено папок: %1$s. Вы уверены, что хотите удалить?</string>
+  <string name="alert_message_delete_notes">Отмечено заметок: %1$s. Вы уверены, что хотите их удалить?</string>
+  <string name="alert_message_discard_changes">Отмечено папок: %1$s. Вы уверены, что хотите их удалить?</string>
+  <string name="alert_title_exceed_image_limit">Достигнут предел изображений на одну заметку</string>
+  <string name="alert_message_exceed_image_limit">Каждая заметка может содержать 15 изображений, вы можете создать новую, чтобы прикрепить ващи изображения</string>
   <string name="alert_title_discard">Отменить изменения?</string>
   <string name="alert_message_delete_folders">Подтвердите удаление папок %1$s?</string>
   <string name="alert_message_delete_folders_notes">Подтвердите удаление папок %1$s и заметок %2$s?</string>
