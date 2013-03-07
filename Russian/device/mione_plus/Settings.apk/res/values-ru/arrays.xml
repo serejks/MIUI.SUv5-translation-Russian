@@ -275,10 +275,9 @@
   <string-array name="led_color_entries">
     <item>Синий</item>
     <item>Красный</item>
-    <item>Желтый</item>
     <item>Зеленый</item>
-    <item>Голубой</item>
-    <item>Белый</item>
+    <item>Розовый</item>
+    <item>Лиловый</item>
     <item>Фиолетовый</item>
   </string-array>
   <string-array name="led_color_entries_for_mione">

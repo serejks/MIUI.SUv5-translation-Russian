@@ -20,8 +20,8 @@
   <string name="altitude_unit">м</string>
   <string name="dialog_title_no_network">Подключитесь к Wi-Fi или мобильному интернету.</string>
   <string name="dialog_calibrat_altitude">Калибровка высоты через интернет.</string>
-  <string name="latitude">ШИР</string>
-  <string name="longitude">ДОЛ</string>
+  <string name="latitude">Широта</string>
+  <string name="longitude">Долгота</string>
   <string name="direction_east">З</string>
   <string name="direction_north">C</string>
   <string name="direction_south">Ю</string>
