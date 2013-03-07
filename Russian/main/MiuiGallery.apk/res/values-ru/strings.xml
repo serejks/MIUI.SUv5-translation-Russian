@@ -79,7 +79,7 @@
     <string name="set_image">Установить изображение как</string>
     <string name="camera_setas_wallpaper">Фон рабочего стола</string>
     <string name="delete">Удалить</string>
-    <string name="confirm_delete">Вы уверены, что хотите удалить %s изображений?</string>
+    <string name="confirm_delete">Отмечено изображений: %s. Вы уверены, что хотите удалить?</string>
     <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить %s альбомов (включая %s штук)?</string>
     <string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
     <string name="confirm_delete_folders_and_pictures">Удалить %s?</string>

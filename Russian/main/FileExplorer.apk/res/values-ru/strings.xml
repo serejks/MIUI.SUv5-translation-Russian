@@ -164,7 +164,7 @@
   <string name="space_info">KuaiPan объем: %1$ доступно, %2$s всего</string>
   <string name="trash_box_capacity">Корзина %1$s</string>
   <string name="data_capacity">Объем %1$s</string>
-  <string name="send_to_midrive">Послать в KuaiPan</string>
+  <string name="send_to_midrive">В KuaiPan</string>
   <string name="choose_upload_location">Выбор места назначения</string>
   <string name="send_to_midrive_failed_message">KuaiPan не может принять это содержимое</string>
   <string name="operation_compress">Архивация</string>

@@ -53,12 +53,12 @@
   <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
   <string name="alert_message_delete_folder">Подтвердите удаление папки и содержимого?</string>
   <string name="alert_title_delete">Удалить выбранные заметки</string>
-  <string name="alert_message_delete_notes">Подтвердите удаление заметок %1$s?</string>
-  <string name="alert_message_discard_changes">Отменить все изменения?</string>
+  <string name="alert_message_delete_notes">Отмечено заметок: %1$s. Вы уверены, что хотите удалить?</string>
+  <string name="alert_message_discard_changes">Отмечено папок: %1$s. Вы уверены, что хотите удалить?</string>
   <string name="alert_title_discard">Отменить изменения?</string>
   <string name="alert_message_delete_folders">Подтвердите удаление папок %1$s?</string>
   <string name="alert_message_delete_folders_notes">Подтвердите удаление папок %1$s и заметок %2$s?</string>
-  <string name="alert_message_delete_note">Подтвердите удаление заметок?</string>
+  <string name="alert_message_delete_note">Подтвердите удаление заметок.</string>
   <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
   <string name="error_sdcard_unmounted">SD карта недоступна</string>
   <string name="error_sdcard_export">Экспорт не удался, проверьте SD карту</string>

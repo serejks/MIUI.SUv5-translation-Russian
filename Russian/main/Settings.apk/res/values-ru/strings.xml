@@ -2003,7 +2003,7 @@
   <string name="incoming_call_vibrate_abbreviation">Вызовы</string>
   <string name="notification_vibrate_abbreviation">Уведомления</string>
   <string name="mms_vibrate_abbreviation">Сообщения</string>
-  <string name="breathing_light_color_title">Цвет LED</string>
+  <string name="breathing_light_color_title">" Цвет LED"</string>
   <string name="breathing_light_color_summary">Цвет LED для уведомлений</string>
   <string name="breathing_light_freq_title">Частота LED</string>
   <string name="breathing_light_freq_summary">Частота миганий LED для уведомлений</string>
