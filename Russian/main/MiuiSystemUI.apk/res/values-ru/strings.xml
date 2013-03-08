@@ -141,7 +141,7 @@
   <string name="tab_toggles_lable">Переключатели</string>
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">H:mm</string>
-  <string name="status_bar_toggle_auto_brightness">Авто яркость</string>
+  <string name="status_bar_toggle_auto_brightness">Авто подсветка</string>
   <string name="status_bar_toggle_drive_mode">За рулем</string>
   <string name="status_bar_toggle_power_high">Производительность</string>
   <string name="status_bar_toggle_power_low">Сбережение энергии</string>

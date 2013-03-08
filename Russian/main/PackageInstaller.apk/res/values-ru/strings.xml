@@ -33,7 +33,7 @@
   <string name="dlg_sys_app_replacement_statement">Это системное приложение. Заменить?\n\nВсе пользовательские данные будут сохранены.</string>
   <string name="out_of_space_dlg_title">Недостаточно места</string>
   <string name="perm_notice">Оповещение безопасности</string>
-  <string name="perm_privacy_app_finish">Финиш</string>
+  <string name="perm_privacy_app_finish">Закрыть</string>
   <string name="perm_privacy_app_installed">Установка завершена!</string>
   <string name="perm_privacy_app_launch">Открыть</string>
   <string name="perm_privacy_app_trust">Я доверяю этому приложению</string>
