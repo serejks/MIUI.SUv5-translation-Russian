@@ -51,7 +51,7 @@
     <string name="system_backup_error_message">Резервная копия MIUI не найдена, сделайте вручную</string>
     <string name="md5_check_cancelled">Проверка MD5 прервана</string>
     <string name="no_updatecheck_executed">Проверка обновления не проводилась</string>
-    <string name="no_updates_found">У вас уже последняя версия</string>
+    <string name="no_updates_found">У вас установлена последняя версия</string>
     <string name="no_updates_warning">На вашем аппарате не найдено обновлений</string>
     <string name="no_updates_warning2">Приложение уведомит вас об обновлении</string>
     <string name="new_updates_found_title">Доступны обнорвления</string>
