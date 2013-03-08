@@ -7,7 +7,7 @@
     <string name="download_ota_rom">Загрузить (%s)</string>
     <string name="apply_later_button_text">Применить позже</string>
     <string name="start_update">Начать обновление</string>
-    <string name="applying_update">Обновление…</string>
+    <string name="applying_update">Идет обновление (%s)…</string>
     <string name="apply_update_guide">Происходит обновление прошивки в фоновом режиме. Это не влияет на нормальную работу</string>
     <string name="apply_update_fail">Обновление системы не удалось</string>
     <string name="apply_update_refuse">Обновление в процессе, выберите заново и установите позже</string>

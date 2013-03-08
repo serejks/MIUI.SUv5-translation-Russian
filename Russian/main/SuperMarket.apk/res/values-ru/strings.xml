@@ -104,7 +104,7 @@
     <string name="show_all_local_app_with_count">Показать все установленные (%1$d)</string>
     <string name="enable_updata_local_app">Доступно обновлений: %1$s</string>
     <string name="update_all">Обновить все</string>
-    <string name="search_local_app_text_hint">Поиск прилодений в %1$d установленных/string>
+    <string name="search_local_app_text_hint">Поиск прилодений в %1$d установленных</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_ignore">Игнорировать</string>
     <string name="menu_detail">Показать детали приложения</string>
@@ -189,7 +189,7 @@
     <string name="basic_info">Основная информация</string>
     <string name="next">Следующее</string>
     <string name="prev">Назад</string>
-    <string name="forget_password"><u>Забыл пароль</u></string>
+    <string name="forget_password">Забыл пароль</string>
     <string name="password">Пароль</string>
     <string name="password_hint_text">6~16 символов</string>
     <string name="bad_authentication">Ошибка аутентификации. Неверное имя пользователя или пароль.</string>
