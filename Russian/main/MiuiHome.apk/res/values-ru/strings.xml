@@ -8,8 +8,6 @@
   <string name="aqi_quality_index_light_pollution">Лёгкое загрязенние</string>
   <string name="aqi_quality_index_moderate">Умеренно</string>
   <string name="aqi_quality_index_unhealthy">Вредно</string>
-  <string name="home_indicator">Нижняя точка</string>
-  <string name="wallpaper_scrolling">Все</string>
   <string name="application_name">Лаунчер</string>
   <string name="folder_name">Папка</string>
   <string name="unnamed_folder_name">Безымянная папка</string>
