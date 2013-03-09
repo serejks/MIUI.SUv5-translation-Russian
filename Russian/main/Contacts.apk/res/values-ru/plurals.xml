@@ -45,4 +45,12 @@
         <item quantity="zero">Выбрано %1$d</item> 
         <item quantity="one">Выбран %1$d</item> 
     </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Добавлен %1$d чел.</item>
+        <item quantity="one">Добавлен %1$d человек</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d чел.</item>
+        <item quantity="one">1 человек</item>
+    </plurals>
 </resources>

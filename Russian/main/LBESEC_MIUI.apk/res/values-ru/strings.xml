@@ -123,10 +123,10 @@
     <string name="HIPS_Perm_AdjustVolumeInCall">отрегулировать громкость разговорного динамика</string>
     <string name="HIPS_Perm_AdjustRingerVolume">отрегулировать громкость мелодии звонка</string>
     <string name="HIPS_SecurityPrompt_Caption">Предупреждение безопасности</string>
-    <string name="HIPS_SecurityPrompt_Title" formatted="false">%1$s пытается %2$s</string>
+    <string name="HIPS_SecurityPrompt_Title" formatted="false">%1$s пытается %2$s. Разрешить?</string>
     <string name="HIPS_SecurityPrompt_Remember">Запомнить выбор</string>
-    <string name="HIPS_SecurityPrompt_Accept">Разрешить (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject">Запретить (%d)</string>
+    <string name="HIPS_SecurityPrompt_Accept">Да (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Нет (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
     <string name="HIPS_SecurityPrompt_Next">Следующий</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Важное предупреждение</string>

@@ -55,7 +55,7 @@
   <string name="menu_deleteGroup">Удалить</string>
   <string name="menu_new_contact_action_bar">Добавить</string>
   <string name="menu_new_group_action_bar">Новая группа</string>
-  <string name="menu_new_favorite_action_bar">Уведомления календаря</string>
+  <string name="menu_new_favorite_action_bar">Добавить</string>
   <string name="splitConfirmation_title">Разделение данных</string>
   <string name="splitConfirmation">Действительно разделить этот контакт?</string>
   <string name="menu_joinAggregate">Объединить</string>
@@ -111,7 +111,7 @@
   <string name="groupSavedToast">Группа сохранена</string>
   <string name="groupSavedErrorToast">При сохранении изменений группы произошла ошибка.</string>
   <string name="listTotalAllContactsZeroStarred">Нет избранных.</string>
-  <string name="foundTooManyContacts">найдено более %d</string>
+  <string name="foundTooManyContacts">Найдено более %d</string>
   <string name="listFoundAllContactsZero">Не найдено</string>
   <string name="contactsAllLabel">Все</string>
   <string name="contactsGroupsLabel">Группы</string>
@@ -722,7 +722,7 @@
   <string name="phone_info_divider">"  |  "</string>
   <string name="menu_bar_group_add">Добавить</string>
   <string name="menu_bar_group_sms">Группы SMS</string>
-  <string name="menu_bar_group_ringtone">Звук вызова для групп</string>
+  <string name="menu_bar_group_ringtone">Рингтон</string>
   <string name="menu_bar_group_rename">Переименовать</string>
   <string name="menu_bar_group_delete">Удалить</string>
   <string name="group_rename_dialog_title">Переименовать группу</string>
@@ -770,7 +770,7 @@
   <string name="option_send_to_desktop">Послать на раб.стол</string>
   <string name="option_send_to_others">Послать</string>  
   <string name="option_not_star">Удалить из избранного</string>  
-  <string name="option_not_in_group">Удалить</string>
+  <string name="option_not_in_group">Удалить из группы</string>
   <string name="option_view_group">Показать</string>
   <string name="option_rename_group">Переименовать</string>
   <string name="option_delete_group">Удалить</string>

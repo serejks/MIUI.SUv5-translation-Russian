@@ -68,7 +68,7 @@
   <string name="battery_info_status_charging_usb">по USB</string>
   <string name="battery_info_status_discharging">Работа от батареи</string>
   <string name="battery_info_status_not_charging">Не заряжается</string>
-  <string name="battery_info_status_full">Аккумулятор заряжен</string>
+  <string name="battery_info_status_full">Батарея заряжен</string>
   <string name="battery_info_power_unplugged">Не подключено</string>
   <string name="battery_info_power_ac">Питание от сети</string>
   <string name="battery_info_power_usb">USB</string>
@@ -468,7 +468,7 @@
   <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
   <string name="wifi_enable_watchdog_service">Отслеживать хороший сигнал</string>
   <string name="wifi_poor_network_detection">Избегать плохих соединений</string>
-  <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть, если нет хорошего соединения с Интернетом</string>
+  <string name="wifi_poor_network_detection_summary">Использовать Wi-Fi сеть, если нет хорошего соединения с Интернетом</string>
   <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
   <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
   <string name="wifi_add_network">Добавить сеть</string>
@@ -1214,7 +1214,7 @@
   <string name="accessibility_touch_exploration_warning">Эта функция изменяет способ отклика при нажатии. Включить?</string>
   <string name="accessibility_service_default_description">Нет описания</string>
   <string name="settings_button">Настройки</string>
-  <string name="power_usage_summary_title">Аккумулятор</string>
+  <string name="power_usage_summary_title">Батарея</string>
   <string name="power_usage_summary">На что расходуется заряд батареи</string>
   <string name="power_usage_not_available">Уровень заряда неизвестен</string>
   <string name="power_usage_level_and_status" formatted="false">%1$s – %2$s</string>
@@ -1985,8 +1985,8 @@
   <string name="status_bar_settings">Строка состояния</string>
   <string name="complete_settings">Все настройки</string>
   <string name="common_settings">Общие настройки</string>
-  <string name="battery_settings">Аккумулятор</string>
-  <string name="battery_settings_title">Аккумулятор</string>
+  <string name="battery_settings">Батарея</string>
+  <string name="battery_settings_title">Батарея</string>
   <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="power_usage_history">Использование батареи</string>
   <string name="default_usb_mode">Подключение USB по умолчанию</string>

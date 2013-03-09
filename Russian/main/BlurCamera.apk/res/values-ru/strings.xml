@@ -347,9 +347,9 @@
     <string name="toast_cannotmodifymodesfront">Невозможно изменить режим съёмки во фронтальной камере</string>
     <string name="video_saving_msg_enc">Сохранение видеозаписи. Процесс может занять до 3 минут</string>
     <string name="video_saving_msg">Сохранение видеозаписи.</string>
-    <string name="batt_overheat">Перегрев аккумулятора! Запись приостановлена</string>
-    <string name="lowbatt_stoprecording">Низкий заряд аккумулятора! Запись приостановлена</string>
-    <string name="lowbatt_cannotstartrecording">Низкий заряд аккумулятора! Невозможно начать запись</string>
+    <string name="batt_overheat">Перегрев батареи! Запись приостановлена</string>
+    <string name="lowbatt_stoprecording">Низкий заряд батареи! Запись приостановлена</string>
+    <string name="lowbatt_cannotstartrecording">Низкий заряд батареи! Невозможно начать запись</string>
     <string name="autotimer_capture">Таймер</string>
     <string name="autotimer_select_title">Авто таймер</string>
     <string name="autotimer_3sec">3 сек</string>

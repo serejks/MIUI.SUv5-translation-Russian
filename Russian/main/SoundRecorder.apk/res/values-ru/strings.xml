@@ -6,8 +6,8 @@
   <string name="storage_is_full">Память заполнена</string>
   <string name="max_length_reached">Достигнута максимальная длина</string>
   <string name="insert_sd_card">Вставьте SD-карту</string>
-  <string name="low_battery_error">Осталось менее 5% заряда аккумулятора, во избежания потери записи, она будет остановлена и сохранена.</string>
-  <string name="low_battery_message_title">Низкай заряд аккумулятора</string>
+  <string name="low_battery_error">Осталось менее 5% заряда батареи, во избежания потери записи, она будет остановлена и сохранена.</string>
+  <string name="low_battery_message_title">Низкай заряд батареи</string>
   <string name="low_battery_warning">Неожиданное отключение может привести к потере записи, рекомендуется записывать только тогда, когда батарея полностью заряжена.</string>
   <string name="button_ok">ОК</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>

@@ -395,8 +395,8 @@
     <string name="permdesc_setProcessLimit">Позволяет контролировать число запущенных процессов. Не требуется для обычных приложений.</string>
     <string name="permlab_setAlwaysFinish">закрыть все фоновые приложения</string>
     <string name="permdesc_setAlwaysFinish">Позволяет закрывать приложения как только они начинают работать в фоновом режиме. Не требуется для обычных приложений.</string>
-    <string name="permlab_batteryStats">изменение статистики аккумулятора</string>
-    <string name="permdesc_batteryStats">Позволяет изменять собранную статистику аккумулятора. Обычные приложения не должны использовать.</string>
+    <string name="permlab_batteryStats">изменение статистики батареи</string>
+    <string name="permdesc_batteryStats">Позволяет изменять собранную статистику батареи. Обычные приложения не должны использовать.</string>
     <string name="permlab_backup">управление резервным копированием и восстановлением</string>
     <string name="permdesc_backup">Позволяет управлять механизмом резервного копирования и восстановления. Обычные приложения не должны использовать.</string>
     <string name="permlab_confirm_full_backup">подтверждение операции полного резервного копирования или восстановления</string>

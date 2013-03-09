@@ -566,4 +566,5 @@
     <string name="account_setup_basic_description_label">Имя аккаунта (не обязательно)</string>
     <string name="add_quick_responses_action">Создать новый</string>
     <string name="account_security_waiting_policy_key_message">%s запрашивает настройки безопасности с сервера，пожалуйста, подождите.</string>
+    <string name="cleared_trusted_senders_message">Очистка \"Показывать изображения\", изображения в сообщениях не будут показываться автоматически</string>
 </resources>
