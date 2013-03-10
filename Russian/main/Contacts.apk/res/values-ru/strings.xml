@@ -116,7 +116,7 @@
   <string name="listTotalAllContactsZeroStarred">Нет избранных.</string>
   <string name="foundTooManyContacts">Найдено более %d</string>
   <string name="listFoundAllContactsZero">Не найдено</string>
-  <string name="contactsAllLabel">Все</string>
+  <string name="contactsAllLabel">Контакты</string>
   <string name="contactsGroupsLabel">Группы</string>
   <string name="contactsFavoritesLabel">Избранное</string>
   <string name="dialerIconLabel">Последние</string>
