@@ -46,7 +46,7 @@
     <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить сейчас\"</string>
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
     <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
-    <string name="system_backup_ok_text">Резервное копирование</string>
+    <string name="system_backup_ok_text">Бэкап</string>
     <string name="sytemt_backup_helper">Обновление не очищает пользовательские данные. Однако рекомендуется делать резервную копию перед обновлением</string>
     <string name="system_backup_error_message">Резервная копия MIUI не найдена, сделайте вручную</string>
     <string name="md5_check_cancelled">Проверка MD5 прервана</string>
