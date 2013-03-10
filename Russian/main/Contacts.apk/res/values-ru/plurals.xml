@@ -37,7 +37,7 @@
         <item quantity="other">Номеров: %1$d</item>    
     </plurals>    
   <plurals name="notification_voicemail_title">
-    <item quantity="one">Голосовая почта</item>
+    <item quantity="one">Голосовое сообщение</item>
     <item quantity="other">Голосовые сообщения: %1$d</item>
   </plurals>
     <plurals name="number_of_items_selected">
