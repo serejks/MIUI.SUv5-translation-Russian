@@ -239,10 +239,10 @@
   <string name="notification_icon_filter_menu_item_hide">Не показать уведомления этого приложения в строке состояния</string>
   <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
   <string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
-  <string name="notification_otg_keyboard_in">Клавиатура подключен</string>
-  <string name="notification_otg_keyboard_out">Клавиатура отключен</string>
-  <string name="notification_otg_mouse_in">Мышь подключен</string>
-  <string name="notification_otg_mouse_out">Мышь отключен</string>
+  <string name="notification_otg_keyboard_in">Клавиатура подключена</string>
+  <string name="notification_otg_keyboard_out">Клавиатура отключена</string>
+  <string name="notification_otg_mouse_in">Мышь подключена</string>
+  <string name="notification_otg_mouse_out">Мышь отключена</string>
   <string name="notification_otg_stylus_in">Стилус подключен</string>
   <string name="notification_otg_stylus_out">Стилус отключен</string>
   <string name="notification_otg_touchPad_in">Тачпад подключен</string>
