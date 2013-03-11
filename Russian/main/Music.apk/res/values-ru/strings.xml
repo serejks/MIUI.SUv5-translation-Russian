@@ -42,7 +42,7 @@
   <string name="spectrogram_display_settings">Показать спектрограмму</string>
   <string name="spectrogram_display_summary">Может негативно влиять на производительность. Рекомендуется выключить для слабых устройств.</string>
   <string name="lyric_and_album">ТЕКСТЫ ПЕСЕН И АЛЬБОМЫ</string>
-  <string name="android_album_settings">Использовать встроенные обложки</string>
+  <string name="android_album_settings">Встроенные обложки</string>
   <string name="android_album_summary">Привязано к имени файла. Может вызывать ошибки. Рекомендуется выключить.</string>
   <string name="auto_correct_id3_settings">Автокорректировка ID3</string>
   <string name="auto_correct_id3_summary">Автокоррекция ID3 при проигрывании через сервис Baidu.</string>
@@ -66,7 +66,7 @@
   <string name="shake_degree_desc">Чувствительность встряхивания</string>
   <string name="shake_degree_low">Низкая</string>
   <string name="shake_degree_high">Высокая</string>
-  <string name="shake_while_screen_on_title">Пропустить только когда экран включен</string>
+  <string name="shake_while_screen_on_title">Проп.только когда экран включен</string>
   <string name="shake_while_screen_on_title_summary">Пропустить только когда экран используется. Помогает избежать ложных срабатываний при ходьбе ит.п..</string>
   <string name="other_settings">Остальное</string>
   <string name="play_and_download">Прослушать и скачать</string>
@@ -75,7 +75,7 @@
   <string name="screen_bright_wake_summary">Держать экран включенным на экране текущего воспроизведения. Рекомендуется включить.</string>
   <string name="keep_quit_position_settings">Запоминать позицию</string>
   <string name="keep_quit_position_summary">Продолжать воспроизведение с последней позиции до выхода. Рекомендуется включить.</string>
-  <string name="fade_effect_settings">Градиентный эфект переключения песни</string>
+  <string name="fade_effect_settings">Градиентный эффект переключения</string>
   <string name="fade_effect_summary">Выравнивание громкости между треками. Рекомендуется включить.</string>
   <string name="filter_notification">Фильтр применён. Вы можете изменить его настройки в настройках фильтра.</string>
   <string name="delete_item">Удалить</string>
@@ -213,7 +213,7 @@
   <string name="albums_title">Альбомы</string>
   <string name="folders_title">Папки</string>
   <string name="tracks_title">Все песни</string>
-  <string name="playlists_title">Списки воспроизведения</string>
+  <string name="playlists_title">Плейлисты</string>
   <string name="playlist_system">Системный список воспроизведения</string>
   <string name="playlist_custom">Мой список воспроизведения</string>
   <string name="playlist_new">Создать новый список воспроизведения</string>

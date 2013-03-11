@@ -960,7 +960,7 @@
     <string name="volume_icon_description_media">Громкость мультимедиа</string>
     <string name="volume_icon_description_notification">Громкость уведомлений</string>
     <string name="ringtone_default">Рингтон по умолчанию</string>
-    <string name="ringtone_default_with_actual">Рингтон по умолчанию (%1$s)</string>
+    <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
     <string name="ringtone_silent">Без звука</string>
     <string name="ringtone_picker_title">Рингтоны</string>
     <string name="ringtone_unknown">Неизвестный рингтон</string>

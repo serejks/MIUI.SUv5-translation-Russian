@@ -38,7 +38,7 @@
     <string name="sel_band_menu">Выбор регионального диапазона</string>
     <string name="test_menu">Выбрать тест</string>
     <string name="settings_menu">Настройки</string>
-    <string name="regional_band">Региональные частоты удалят все сохраненные станции</string>
+    <string name="regional_band">Регион.частоты удал.все сохр.станции</string>
     <string name="aud_output_mode">Аудиовыход</string>
     <string name="sel_audio_output">Выбор аудиовыхода</string>
     <string name="auto_select_af">Альтернативная частота</string>
@@ -81,7 +81,9 @@
     <string name="default_station">FM</string>
     <string name="transmit_msg_string">Передача:</string>
     <string name="audio_db_artist_name">Мои записи с радио</string>
-    <string name="audio_db_album_name">Записи с радио</string>
+    <string name="transmit_msg_string">Передача:</string>
+    <string name="audio_db_artist_name">Мои записи с радио</string>
+	<string name="audio_db_album_name">Записи с радио</string>
     <string name="audio_db_playlist_name">Записи с радио</string>
     <string name="test_prompt">Выберите тест</string>
     <string name="test_run">Запуск теста</string>
