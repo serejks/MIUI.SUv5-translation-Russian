@@ -1992,7 +1992,8 @@
   <string name="default_usb_mode">Подключение USB по умолчанию</string>
   <string name="unlock_set_unlock_summary">Укажите пароль для включения защиты по паролю</string>
   <string name="lock_settings_picker_settings">Блокировка экрана</string>
-  <string name="lock_screen_unlock_show">Отображает поле пароля напрямую</string>
+  <string name="lock_screen_unlock_show">Отображать поле пароля сразу</string>
+  <string name="lock_screen_unlock_show_summary">Отображать поле ввода пароля сразу, не используя другие экраны блокировки</string>
   <string name="lock_screen_unlock_show_summary">Не использовать другие экраны блокировки, кроме экрана ввода пароля</string>
   <string name="date_time_settings">Дата и время</string>
   <string name="timezone_settings">Часовой пояс</string>

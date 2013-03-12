@@ -81,7 +81,7 @@
   <string name="instruction_pre">Нажмите \"Старт\" для включения FTP сервера</string>
   <string name="instruction">Введите адрес: </string>
   <string name="no_wifi">Wi-Fi отключен</string>
-  <string name="no_wifi_hint">Подключение Wi-Fi не найдено.\nНажмите для проверки настроек</string>
+  <string name="no_wifi_hint">Wi-Fi не найден. Нажмите для подключения</string>
   <string name="search_title">Поиск</string>
   <string name="search_hint">Введите часть или всё имя файла</string>
   <string name="dialog_select_type">Выберите тип</string>

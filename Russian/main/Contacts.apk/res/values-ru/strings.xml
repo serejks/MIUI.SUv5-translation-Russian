@@ -118,7 +118,7 @@
   <string name="listFoundAllContactsZero">Не найдено</string>
   <string name="contactsAllLabel">Контакты</string>
   <string name="contactsGroupsLabel">Группы</string>
-  <string name="contactsFavoritesLabel">Избранное</string>
+  <string name="contactsFavoritesLabel">Избранные</string>
   <string name="dialerIconLabel">Последние</string>
   <string name="recentCallsIconLabel">Вызовы</string>
   <string name="menu_sendTextMessage">Отправить сообщение</string>
