@@ -427,10 +427,10 @@
 	<string name="lockscreen_access_pattern_detected">Графический ключ завершён</string>
 	<string name="lockscreen_transport_prev_description">Пред. трек</string>
 	<string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
-	<string name="lockscreen_emergency_call">Экстренный</string>
+	<string name="lockscreen_emergency_call">Экстренный вызов</string>
 	<string name="unlockscreen_recharging_message">Зарядка %d%%</string>
 	<string name="unlockscreen_recharge_completed">Зарядка</string>
-	<string name="emergency_call_string">Экстренный вызов</string>
+	<string name="emergency_call_string">Экстренный</string>
 	<string name="forget_password_string">Забыл пароль</string>
 	<string name="miui_unlockscreen_password_wrong">Неверный пароль! Попробуйте еще раз</string>
 	<string name="contact_carrier_message">Если у вас есть вопросы свяжитесь с поставщиком услуги</string>

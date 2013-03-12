@@ -180,7 +180,8 @@
   <string name="transformation_type_rotate">Поворот</string>
   <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
   <string name="pref_cell_layout_size">Сетка рабочего стола</string>
-  <string name="pref_keep_layout_title">Исп. текущую раскладку</string>
+  <string name="pref_keep_layout_title">Не менять распол.иконок</string>
+  <string name="pref_keep_layout_summary">Close this option. Switching the icon layout can disrupt the icon positions.</string>
   <string name="prompt_transition_icon_layout">Использовать предыдущее расположение иконок?</string>
   <string name="widget_gadget_player">Музыка</string>
   <string name="buffering">Буфферизация…</string>
