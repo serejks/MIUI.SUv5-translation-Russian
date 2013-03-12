@@ -275,21 +275,11 @@
   <string-array name="led_color_entries">
     <item>Синий</item>
     <item>Красный</item>
+    <item>Желтый</item>
     <item>Зеленый</item>
-    <item>Розовый</item>
-    <item>Лиловый</item>
-    <item>Фиолетовый</item>
-  </string-array>
-  <string-array name="led_color_entries_for_mione">
-    <item>Синий</item>
-    <item>Красный</item>
-    <item>Зеленый</item>
-    <item>Розовый</item>
-    <item>Фиолетовый</item>
-    <item>Пурпурный</item>
-    <item>Изумрудный</item>
     <item>Голубой</item>
-    <item>Сапфир</item>
+    <item>Белый</item>
+    <item>Фиолетовый</item>
   </string-array>
   <string-array name="back_long_press_timeout">
     <item>0.5 сек.</item>
