@@ -427,7 +427,7 @@
 	<string name="lockscreen_access_pattern_detected">Графический ключ завершён</string>
 	<string name="lockscreen_transport_prev_description">Пред. трек</string>
 	<string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
-	<string name="lockscreen_emergency_call">Экстренный вызов</string>
+	<string name="lockscreen_emergency_call">Экстренный</string>
 	<string name="unlockscreen_recharging_message">Зарядка %d%%</string>
 	<string name="unlockscreen_recharge_completed">Зарядка</string>
 	<string name="emergency_call_string">Экстренный вызов</string>

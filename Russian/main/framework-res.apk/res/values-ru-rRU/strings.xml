@@ -744,7 +744,7 @@
     <string name="lockscreen_instructions_when_pattern_enabled">Нажмите Меню для разблокировки или экстренного вызова</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Нажмите Меню для разблокировки</string>
     <string name="lockscreen_pattern_instructions">Для разблокировки введите графический ключ</string>
-    <string name="lockscreen_emergency_call">Экстренный вызов</string>
+    <string name="lockscreen_emergency_call">Экстренный</string>
     <string name="lockscreen_return_to_call">Вернуться к вызову</string>
     <string name="lockscreen_pattern_correct">Правильно!</string>
     <string name="lockscreen_pattern_wrong">Повторите попытку</string>
