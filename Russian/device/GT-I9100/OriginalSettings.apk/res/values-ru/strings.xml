@@ -325,13 +325,13 @@
     <string name="unlock_set_unlock_mode_password">Защита паролем</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
     <string name="unlock_disable_lock_pattern_summary">Удалить графический ключ разблокировки</string>
-    <string name="unlock_disable_lock_pin_summary">Удалить ПИН-код разблокировки</string>
+    <string name="unlock_disable_lock_pin_summary">Удалить PIN-код разблокировки</string>
     <string name="unlock_disable_lock_password_summary">Удалить пароль разблокировки</string>
     <string name="unlock_change_lock_pattern_title">Изменить графический ключ разблокировки</string>
-    <string name="unlock_change_lock_pin_title">Изменить ПИН-код разблокировки</string>
+    <string name="unlock_change_lock_pin_title">Изменить PIN-код разблокировки</string>
     <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
     <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
-    <string name="lockpassword_pin_too_short">ПИН-код должен содержать не менее %d символов</string>
+    <string name="lockpassword_pin_too_short">PIN-код должен содержать не менее %d символов</string>
     <string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
     <string name="lockpassword_continue_label">Продолжить</string>
     <string name="lockpassword_password_too_long">В пароле должно быть не более %d символом</string>
