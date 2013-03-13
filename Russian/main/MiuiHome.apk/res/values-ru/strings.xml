@@ -180,8 +180,8 @@
   <string name="transformation_type_rotate">Поворот</string>
   <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
   <string name="pref_cell_layout_size">Сетка рабочего стола</string>
-  <string name="pref_keep_layout_title">Не менять располож.ярлыков</string>
-  <string name="pref_keep_layout_summary">Если отключить эту функцию, при смене сетки раб.стола может измениться расположение ярлыков</string>
+  <string name="pref_keep_layout_title">Закрепить ярлыки</string>
+  <string name="pref_keep_layout_summary">Если отключить эту функцию, то при смене сетки рабочего стола может измениться расположение ярлыков</string>
   <string name="prompt_transition_icon_layout">Использовать предыдущее расположение иконок?</string>
   <string name="widget_gadget_player">Музыка</string>
   <string name="buffering">Буфферизация…</string>
