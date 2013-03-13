@@ -556,7 +556,7 @@
   <string name="callrecordview_menu_show_called">Исходящие</string>
   <string name="callrecordview_menu_show_accepted">Принятые</string>
   <string name="callrecordview_menu_show_stranger">Неизвестные</string>
-  <string name="callrecordview_menu_delete">Удалить список вызовов</string>
+  <string name="callrecordview_menu_delete">Удалить из списка вызовов</string>
   <string name="callrecordview_menu_delete_all">Очистить весь журнал вызовов</string>
   <string name="callrecordview_menu_delete_missed">Очистить пропущенные</string>
   <string name="callrecordview_menu_delete_called">Очистить исходящие</string>
