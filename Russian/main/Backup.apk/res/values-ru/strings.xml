@@ -160,11 +160,11 @@
 	<string name="multi_select_title">Выбрано элементов: %1$s</string>
 	<string name="enable_encrypt_title">Включение шифрования</string>
 	<string name="disable_encrypt_title">Выключение шифрования</string>
-	<string name="enable_encrypt_indicator">Бэкапы не зашифрованы, нажмите для шифрования</string>
+	<string name="enable_encrypt_indicator">Резервные копии не зашифрованы, нажмите для шифрования</string>
 	<string name="enable_encrypt">Включить сейчас</string>
 	<string name="already_enable_encrypt">Шифрование включено</string>
-	<string name="enable_encrypt_summery1">Система будет шифровать ваши бэкапы в вашем аккаунте Xiaomi\nВойдите в свой аккаунт Xiaomi для сброса настроек или используйте другой телефон для восстановления</string>
-	<string name="enable_encrypt_summery2">Новый бэкап будет автоматически зашифрован\nВойдите в свой аккаунт Xiaomi для сброса настроек или используйте другой телефон для восстановления</string>
+	<string name="enable_encrypt_summery1">Система будет шифровать резервные копии в вашем аккаунте Xiaomi.\nВойдите в свой аккаунт Xiaomi для сброса настроек или используйте другой телефон для восстановления.</string>
+	<string name="enable_encrypt_summery2">Все новые резервные копии будут автоматически зашифрованы.\nВойдите в свой аккаунт Xiaomi для сброса настроек или используйте другой телефон для восстановления.</string>
 	<string name="enable_encrypt_xiaomi_account">Бэкап создан в \"%1$s\", удалите текущий аккаунт\nи войдите как \"%2$s\" для восстановления данных.</string>
 	<string name="enable_encrypt_ok">ОК</string>
 	<string name="no_encrypt_password">Нет пароля для шифрования</string>

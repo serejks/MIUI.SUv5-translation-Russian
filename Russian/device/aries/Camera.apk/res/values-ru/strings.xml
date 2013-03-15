@@ -558,7 +558,7 @@
     <string name="group_by_time">По времени</string>
     <string name="locations">Места</string>
     <string name="people">Люди</string>
-    <string name="resume_playing_message">Возобновить воспроизведение с %s ?</string>
+    <string name="resume_playing_message">Возобновить воспроизведение с %s?</string>
     <string name="resume_playing_restart">Начать сначала</string>
     <string name="resume_playing_resume">Возобновить воспроизведение</string>
     <string name="resume_playing_title">Возобновить видео</string>

@@ -58,11 +58,10 @@
     <string name="loading_image">Загрузка изображения</string>
     <string name="loading_account">Загрузка аккаунта</string>
     <string name="resume_playing_title">Возобновить видео</string>
-    <string name="resume_playing_message">Продолжить просмотр видео с %s ?</string>
-    <string name="resume_playing_resume">Возобновить проигрывание</string>
+    <string name="resume_playing_message">Возобновить воспроизведение с %s?</string>
+    <string name="resume_playing_resume">Возобновить воспроизведение</string>
     <string name="loading">Загрузка</string>
-    <string name="loading_thumbnail">Загрузка миниатюр</string>
-    <string name="loading_will_cost">Загрузка миниатюр (Около %1$dK)</string>
+    <string name="loading_thumbnail">Загрузка миниатюр…</string>
     <string name="fail_to_load">Невозможно загрузить</string>
     <string name="no_thumbnail">Нет миниатюры</string>
     <string name="resume_playing_restart">Начать сначала</string>
@@ -79,13 +78,13 @@
     <string name="set_image">Установить изображение как</string>
     <string name="camera_setas_wallpaper">Фон рабочего стола</string>
     <string name="delete">Удалить</string>
-    <string name="confirm_delete">Отмечено изображений: %s. Вы уверены, что хотите их удалить?</string>
-    <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить %s альбомов (включая %s штук)?</string>
+    <string name="confirm_delete">Удалить выбранные пункты (%s шт.)?</string>
+    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая %s штук)?</string>
     <string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
-    <string name="confirm_delete_folders_and_pictures">Удалить %s?</string>
-    <string name="confirm_delete_pictures"> %s</string>
-    <string name="confirm_delete_folders_including" formatted="false">" %s папок (включая %s)"</string>
-    <string name="confirm_delete_videos"> %s видео</string>
+    <string name="confirm_delete_folders_and_pictures">Удалить (%s шт.)?</string>
+    <string name="confirm_delete_pictures">" %s"</string>
+    <string name="confirm_delete_folders_including" formatted="false">" папок: %s (Включая %s штук)"</string>
+    <string name="confirm_delete_videos">" %s видео"</string>
     <string name="confirm_delete_including_null">0 штук</string>
     <string name="cancel">Отмена</string>
     <string name="share">Отправить</string>
@@ -236,7 +235,7 @@
     <string name="storage_no_space">Недостаточно места в хранилище</string>
     <string name="add_to_cloud_album">Добавить в</string>
     <string name="move_to_cloud_album">Переместить в</string>
-    <string name="cant_delete_system_album"> %s системный альбом, который не может быть удален.</string>
+    <string name="cant_delete_system_album">\"%s\" системный альбом, который не может быть удален.</string>
     <string name="click_to_enter_camera">Нажмите для запуска камеры</string>
     <string name="camera_view_none_message">Захваченные фотографии будут отображаться здесь.</string>
     <string name="none_picture">В галерее нет изображений</string>
@@ -325,7 +324,7 @@
     <string name="external_usb_device">USB устройство</string>
     <string name="menu_item_sort">Сортировать</string>
     <string name="menu_item_sort_name_asc">По имени (А-Я)</string>
-    <string name="menu_item_sort_name_desc">By Имени (Я-А)</string>
+    <string name="menu_item_sort_name_desc">По имени (Я-А)</string>
     <string name="menu_item_sort_size_asc">Увеличение размера</string>
     <string name="menu_item_sort_size_desc">Уменьшение размера</string>
     <string name="menu_item_sort_visit_asc">Возрастание популярности</string>
@@ -338,10 +337,9 @@
     <string name="operation_info">Детали</string>
     <string name="operation_cancel">Отмена</string>
     <string name="operation_refresh">Обновить</string>
-    <string name="how_many_videos">%d видео</string>
-    <string name="how_many_sub_folders">%d папок</string>
-    <string name="how_many_pics">%d фото</string>
-    <string name="how_many_volumes">%d устройств хранения</string>
+    <string name="how_many_videos">Видео: %d</string>
+    <string name="how_many_sub_folders">Папок: %d</string>
+    <string name="how_many_pics">Фото: %d</string>
     <string name="file_info_title">Заголовок:</string>
     <string name="file_info_path">Путь:</string>
     <string name="file_info_geo_location">Местоположение:</string>
@@ -365,7 +363,6 @@
     <string name="photo_page_save_image">Сохранить</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в папку камеры по умолчанию.</string>
     <string name="photo_page_save_uri_image_fail">Ошибка сохранения фото.</string>
-    <string name="albumset_page_title_separator"> | </string>
     <string name="cloud_tab_all">Все</string>
     <string name="cloud_tab_albums">Альбомы</string>
     <string name="cloud_tab_locations">Расположение</string>
