@@ -37,10 +37,10 @@
 	<string name="act_mute_call">Без звука</string>
 	<string name="act_mute_call_summary">Не будет уведомлений о звонках, но они будут записываться в журнал вызовов</string>
 	<string name="act_ignore_call">Не фильтровать звонки</string>
-	<string name="act_action_reject_reject">Отслеживание входящих звонков и сообщений</string>
-	<string name="act_action_reject_mute">Отслеживание звонков, сообщения без звука</string>
-	<string name="act_action_reject_accept">Отслеживание звонков</string>
-	<string name="act_action_mute_reject">Звонки без звука, отслеживание сообщений</string>
+	<string name="act_action_reject_reject">Контроль входящих звонков и сообщений</string>
+	<string name="act_action_reject_mute">Контроль звонков, сообщения без звука</string>
+	<string name="act_action_reject_accept">Контроль звонков</string>
+	<string name="act_action_mute_reject">Звонки без звука, контроль сообщений</string>
 	<string name="act_action_mute_mute">Звонки и сообщения без звука</string>
 	<string name="act_action_mute_accept">Звонки без звука</string>
 	<string name="act_action_accept_reject">Блокировать сообщения</string>
@@ -58,7 +58,7 @@
 	<string name="fw_add_list_title">Введите номер</string>
 	<string name="fw_menu_pick_from_contact">Выбрать из контактов</string>
 	<string name="fw_menu_remove">Удалить</string>
-	<string name="confirm">Ок</string>
+	<string name="confirm">ОК</string>
 	<string name="no">Отмена</string>
 	<string name="fw_clear_blacklist">Очистить черный список</string>
 	<string name="fw_clear_whitelist">Очистить белый список</string>
