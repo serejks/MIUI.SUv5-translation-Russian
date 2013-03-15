@@ -465,7 +465,7 @@
     <string name="mx_auto_resend_mms">Отправить как MMS</string>
     <string name="mx_auto_resend_mms_summary">Отправить как MMS когда облачные сообщения недоступны.</string>
     <string name="msg_type_hint_sms">Текстовое сообщение</string>
-    <string name="msg_type_hint_mms">Мултимедийное сообщение</string>
+    <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
     <string name="msg_type_hint_mx">Облачное сообщение</string>
     <string name="mx_reactivate">Повторная активация</string>
     <string name="mx_activate_error_title">Ошибка активации облачных сообщений</string>

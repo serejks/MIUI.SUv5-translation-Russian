@@ -825,9 +825,9 @@
   <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
   <string name="master_clear_title">Сброс настроек</string>
   <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
-  <string name="master_clear_desc">Будут удалены все данные из   устройства, в том числе:\n\n \n \n</string>
+  <string name="master_clear_desc">Будут удалены все данные из устройства, в том числе:\n\n\n\n</string>
   <string name="master_clear_accounts">\n\nВ настоящее время вы выполнили вход в следующие аккаунты:\n</string>
-  <string name="master_clear_desc_also_erases_external">\n \n</string>
+  <string name="master_clear_desc_also_erases_external">\n\n</string>
   <string name="master_clear_desc_erase_external_storage">\n\nЧтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить  .</string>
   <string name="erase_external_storage">Очистить SD-карту</string>
   <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
@@ -987,7 +987,7 @@
   <string name="show_background_processes">Показать процессы в кэше</string>
   <string name="reset_app_preferences">Сброс настроек приложений</string>
   <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
-  <string name="reset_app_preferences_desc">Это сбросит все настройки для:\n\n\n\n\n\n\n Все данные приложений будут сохранены.</string>
+  <string name="reset_app_preferences_desc">Это сбросит все настройки для:\n\n\n\n\n\n\nВсе данные приложений будут сохранены.</string>
   <string name="reset_app_preferences_button">Сброс приложений</string>
   <string name="manage_space_text">Управление местом</string>
   <string name="filter">Фильтр</string>
@@ -1191,7 +1191,7 @@
   <string name="accessibility_power_button_ends_call_title">Кнопка питания заверш. вызов</string>
   <string name="accessibility_speak_password_title">Произнести пароль</string>
   <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string>
-  <string name="accessibility_touch_exploration_summary">Когда \"подсказки при нажатии\" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.\n\n Эта функция предназначена для людей с нарушением зрения.</string>
+  <string name="accessibility_touch_exploration_summary">Когда \"подсказки при нажатии\" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.\n\nЭта функция предназначена для людей с нарушением зрения.</string>
   <string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
   <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
   <string name="accessibility_menu_item_settings">Настройки</string>
@@ -2024,8 +2024,8 @@
   <string name="button_light_timeout">Настройки подсветки</string>
   <string name="screen_button_key">Виртуальные кнопки</string>
   <string name="screen_button_custom">Настройка расположения кнопок</string>
-  <string name="sim_change_failed_enable_sim_lock">Невозможно сменить SIM PIN.\n Включите блокировку SIM.</string>
-  <string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM.\n SIM не поддерживает ее.</string>
+  <string name="sim_change_failed_enable_sim_lock">Невозможно сменить SIM PIN.\nВключите блокировку SIM.</string>
+  <string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM.\nSIM не поддерживает ее.</string>
   <string name="sim_pin_enabled">PIN1 включен!</string>
   <string name="sim_pin_disabled">PIN1 выключен!</string>
   <string name="apn_new">Новая точка доступа</string>
@@ -2047,7 +2047,7 @@
   <string name="wifi_wapi_as_certificate">AS сертификат</string>
   <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
   <string name="silent_mode_title">Режим без звука</string>
-  <string name="wifi_wapi_certification_dont_exist">Введенныхэ пароль неверен. Попробуйте ещё раз</string>
+  <string name="wifi_wapi_certification_dont_exist">Введён неверный пароль. Попробуйте ещё раз</string>
   <string name="please_type_passphrase">Пароль сети</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -2218,10 +2218,10 @@
   <string name="msd_install">Переустановка драйвера</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, \nпожалуйста, следуйте его указаниям до окончания установки</string>
-  <string name="msd_install_retry_windows_xp">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\n Переустановите драйвера.</string>
-  <string name="msd_install_retry_windows_vista">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\n Переустановите драйвера.</string>
-  <string name="msd_install_retry_mac">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nПроизведите поиск на ПК по словам\n Android File Transfer,\n Отключите кабель USB от Mi2 и подключите заново.\n Переустановите драйвера.</string>
-  <string name="msd_install_retry_linux">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\n1) Use installation tools sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Create a directory mkdir /media/mtp\n3) Confirm user group permissions in the current fuse user group\n4) Re-login\n5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory\n6) Uninstall device fusermount -u /media/mtp\n Note: For ubuntu 8.04 environment</string>
+  <string name="msd_install_retry_windows_xp">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
+  <string name="msd_install_retry_windows_vista">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
+  <string name="msd_install_retry_mac">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nПроизведите поиск на ПК по словам\nAndroid File Transfer,\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
+  <string name="msd_install_retry_linux">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\n1) используйте программу "aptitude": sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Создайте директорию mkdir /media/mtp\n3) Подтвердите права доступа для пользовательской группы в текущей fuse user group\n4) Перелогинтесь\n5) Доступ к смонтированному устройству mtpfs /media/mtp Через файлменеджер; так же как к локальным папкам\n6) Отключение устройства fusermount -u /media/mtp\nПримечание: Для ubuntu 8.04 </string>
   <string name="msd_install_status_done">Драйвер уже установлен</string>
   <string name="msd_install_status_undo">Установка драйвера</string>
   <string name="password_guard">Защита</string>

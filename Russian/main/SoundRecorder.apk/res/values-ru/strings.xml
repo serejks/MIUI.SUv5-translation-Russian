@@ -58,6 +58,7 @@
   <string name="send_to">Отправить</string>
   <string name="status_bar_anti_disturb">Телефон был отключен, для возобновления отрегулируйте громкость.</string>
   <string name="status_bar_back">Нажмите, для возврата</string>
+  <string name="status_bar_recording_pause">"Запись на паузе. "</string>
   <string name="status_bar_recording">Запись…</string>
   <string name="delete">Удалить</string>
   <string name="deleting_message">Удаление…</string>

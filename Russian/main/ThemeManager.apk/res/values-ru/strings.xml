@@ -87,7 +87,7 @@
   <string name="apply_font_btn_exclude">Применить без шрифтов</string>
   <string name="title_local">Локальные</string>
   <string name="title_online">Онлайн</string>
-  <string name="title_component">Совмещенные</string>
+  <string name="title_component">Микс</string>
   <string name="title_system_resource">Системные ресурсы</string>
   <string name="title_download_resource">Загруженные ресурсы</string>
   <string name="long_ringtone_resource">Длинные\n(&gt;5сек)</string>

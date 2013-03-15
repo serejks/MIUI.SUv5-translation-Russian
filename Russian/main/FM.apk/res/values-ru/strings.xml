@@ -81,8 +81,6 @@
     <string name="default_station">FM</string>
     <string name="transmit_msg_string">Передача:</string>
     <string name="audio_db_artist_name">Мои записи с радио</string>
-    <string name="transmit_msg_string">Передача:</string>
-    <string name="audio_db_artist_name">Мои записи с радио</string>
 	<string name="audio_db_album_name">Записи с радио</string>
     <string name="audio_db_playlist_name">Записи с радио</string>
     <string name="test_prompt">Выберите тест</string>

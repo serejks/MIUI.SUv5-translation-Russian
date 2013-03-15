@@ -456,4 +456,6 @@
   <string name="selection_all">Выбрать все</string>
   <string name="send_bookmark_to_home_screen">Отправить на Домашний Экран</string>
   <string name="url_copy_done">URL скопирован</string>
+  <string name="pref_setting_title">Настройка страницы</string>
+  <string name="pref_general_setting_title">Настройка</string>
 </resources>

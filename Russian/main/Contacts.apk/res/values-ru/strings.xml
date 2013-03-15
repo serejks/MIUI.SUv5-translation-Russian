@@ -849,4 +849,8 @@
   <string name="device_import_done_toast">%1$d контактов импортировано</string>
   <string name="device_import_progress_toast">%1$d контактов импортировано только что</string>
   <string name="no_contact_in_other_phone">В вашем телефоне нет контактов</string>
+  <string name="add_xiaomi_account_dialog_title">Выберите аккаунт для контактов</string>
+  <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять ваши контакты в аккаунте Xiaomi. Аккаунт Xiaomi позволяет синхронизировать контакты и получать к ним доступ с вашего компьютера.</string>
+  <string name="add_xiaomi_account_dialog_btn">Использовать аккаунт Xiaomi</string>
+  <string name="keep_local_btn">Сохранить только в телефоне</string>
 </resources>

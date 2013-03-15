@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">小米商城</string>
-    <string name="main_tab">小米商城</string>
+    <string name="app_name">MiShop</string>
+    <string name="main_tab">MiShop</string>
     <string name="product_detail">Подробная информация</string>
     <string name="product_shopping_cart">Корзина</string>
     <string name="title_checkout">用户结算</string>

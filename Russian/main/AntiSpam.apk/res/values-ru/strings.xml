@@ -8,7 +8,6 @@
     <string name="fw_blacklist">Черный список</string>
     <string name="fw_whitelist">Белый список</string>
     <string name="enable_firewall">Включить фильтр</string>
-    <string name="fw_pattern_settings">Правила фильтров</string>
     <string name="fw_action_settings">Настройки фильтров</string>
     <string name="fw_time_settings">Блокировка по расписанию</string>
     <string name="fw_start_time">Время начала</string>
@@ -68,8 +67,8 @@
     <string name="fw_call" formatted="false">Перехват вызовов ：%s (%d)</string>
     <string name="fw_import_blacklist">Импорт черного списка</string>
     <string name="fw_import_whitelist">Импорт белого списка</string>
-    <string name="fw_import_blacklist_confirm" formatted="false">Выбрано номеров: %d. Занести их в черный список?</string>
-    <string name="fw_import_whitelist_confirm" formatted="false">Выбрано номеров: %d. Занести их в белый список?</string>
+    <string name="fw_import_blacklist_confirm">Выбрано номеров: %d. Занести их в черный список?</string>
+    <string name="fw_import_whitelist_confirm">Выбрано номеров: %d. Занести их в белый список?</string>
     <string name="fw_blacklist_hint">Вызовы и сообщения автоматически блокируются при добавлении в черный список</string>
     <string name="fw_whitelist_hint">Белый список не будет блокироваться</string>
     <string name="fw_no_effect">Режим защиты не включен. Включить?</string>
