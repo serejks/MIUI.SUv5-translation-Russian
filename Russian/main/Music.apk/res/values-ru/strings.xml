@@ -9,7 +9,7 @@
   <string name="network_error">Отсутствует подключение к сети. Пожалуйста, проверьте ваши настройки.</string>
   <string name="server_failed">Не удалось подключиться к серверу. Повторите попытку позже.</string>
   <string name="artist_details_format">%1$s, %2$s</string>
-  <string name="enter_sleep_mode">Вход в режим сна</string>
+  <string name="enter_sleep_mode">Таймер сна</string>
   <string name="sleep_mode">Таймер сна</string>
   <string name="cancel_sleep_mode">Отключить таймер сна</string>
   <string name="select_quit_time">Установить время до остановки плеера (мин.)</string>

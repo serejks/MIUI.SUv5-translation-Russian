@@ -1830,11 +1830,11 @@
   <string name="perm_app">Приложения</string>
   <string name="perm_app_name">Разрешения</string>
   <string name="perm_log">Журналы</string>
-  <string name="perm_header">Контролируется %1$d приложений</string>
+  <string name="perm_header">Контролируется приложений: %1$d</string>
   <string name="perm_header_disabled">Контроль за разрешениями отключен</string>
   <string name="perm_su_switch">Права ROOT</string>
   <string name="perm_su">Управление правами ROOT</string>
-  <string name="perm_su_desc">Контролируется %1$d приложений с правами ROOT</string>
+  <string name="perm_su_desc">Контролируется приложений с правами ROOT: %1$d</string>
   <string name="perm_su_desc1">Управление разрешениями ROOT</string>
   <string name="perm_su_disabled">Права ROOT отключены</string>
   <string name="perm_su_disabled_desc">Предоставление прав ROOT сторонним приложениям может привести к нестабильности системы, потере личных данных и повреждению устройства. Убедитесь, что вы знаете про ROOT разрешения.</string>
@@ -2268,7 +2268,7 @@
   <string name="finish_application">Закрыть</string>
   <string name="header_category_accounts">АККАУНТЫ</string>
   <string name="auto_startup_application_manage">Автозапуск приложений</string>
-  <string name="auto_startup_count">Разрешить %d приложениям автозуск</string>
+  <string name="auto_startup_count">Разрешить %d приложениям автозапуск</string>
   <string name="auto_startup_dialog_msg">MIUI позволит приложению запускаться автоматически. Это может повлечь за собой повышенное потребление энергии и трафика. Разрешить автозапуск?</string>
   <string name="man_add_application">Добавить вручную</string>
   <string name="application_item_disable">Запретить</string>

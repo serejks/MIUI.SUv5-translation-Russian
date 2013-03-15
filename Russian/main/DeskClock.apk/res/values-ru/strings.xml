@@ -99,7 +99,7 @@
 	<string name="timer_start_alarm">Время истекло</string>
 	<string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
 	<string name="remind_ringtone">Рингтон</string>
-	<string name="keep_screen_on">Оставить экран включеным</string>
+	<string name="keep_screen_on">Оставить экран включенным</string>
 	<string name="start_up">Пуск</string>
 	<string name="cancel">Отмена</string>
 	<string name="timer_minute">М</string>

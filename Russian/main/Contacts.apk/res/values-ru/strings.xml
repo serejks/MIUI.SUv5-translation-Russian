@@ -459,7 +459,7 @@
   <string name="toast_text_copied">Текст скопирован</string>
   <string name="cancel_confirmation_dialog_title">Отмена изменений</string>
   <string name="cancel_confirmation_dialog_message">Вы действительно хотите отменить изменения?</string>
-  <string name="profile_display_name">Настроить профиль</string>
+  <string name="profile_display_name">Визитная карточка</string>
   <string name="enter_contact_name">Имя контакта</string>
   <string name="view_updates_from_group">Обновления</string>
   <string name="notification_action_voicemail_play">Воспроизведение</string>
