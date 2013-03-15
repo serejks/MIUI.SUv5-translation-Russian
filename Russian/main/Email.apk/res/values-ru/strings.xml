@@ -405,7 +405,7 @@
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
-	<string name="long_string">Это очень длинная строка, дальше не будет ничего интересного! Поверьте, вы просто зря тратите своё бесценное время, вчитываясь в этот бред...уточка - три, корова - два, сколько лошадь?</string>
+	<string name="long_string">Это очень длинная строка, дальше не будет ничего интересного! Поверьте, вы просто зря тратите своё бесценное время, вчитываясь в этот бред…уточка - три, корова - два, сколько лошадь?</string>
     <string name="default_signature">Отправлено с MIPHONE</string>
     <string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге.</string>
     <string name="application_name">Загрузка с телефона</string>

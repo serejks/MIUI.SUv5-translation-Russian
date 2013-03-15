@@ -134,7 +134,7 @@
     <string name="web_addr_setting_action">Настройка адресов</string>
     <string name="web_upload_action">Интернет загрузка</string>
     <string name="share_multiple_action">Поделиться</string>
-    <string name="share_single_action">Поделиться через ...</string>
+    <string name="share_single_action">Поделиться через …</string>
     <string name="webaddrssetting_title">Настройки интернет загрузки</string>
     <string name="dialog_web_upload">Адрес интернет загрузки:</string>
     <string name="web_add_addrs_title">Добавьте адрес интернет загрузки</string>

@@ -1657,7 +1657,7 @@
   <string name="data_summary">Выбрать оператора для передачи данных</string>
   <string name="sms_title">SMS</string>
   <string name="sms_summary">Выбрать оператора для отправки SMS</string>
-  <string name="set_data_subscription_progress">Установка оператора передачи данных...</string>
+  <string name="set_data_subscription_progress">Установка оператора передачи данных…</string>
   <string name="set_dds_success">Оператора передачи данных успешно установлен</string>
   <string name="set_dds_failed">Ошибка при установке оператора передачи данных. Сбросить все подключения и попробовать снова?</string>
   <string name="set_dds_error">Ошибка при установке оператора передачи данных.</string>

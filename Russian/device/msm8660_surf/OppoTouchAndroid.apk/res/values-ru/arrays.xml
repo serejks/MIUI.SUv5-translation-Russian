@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Зазвонит меньше, чем через 1 мин.</item>
+        <item>Зазвонит меньше, чем через 1 мин</item>
         <item>Зазвонит через %1$s</item>
         <item>Зазвонит через %2$s</item>
         <item>Зазвонит через %1$s и %2$s</item>
