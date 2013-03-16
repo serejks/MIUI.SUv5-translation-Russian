@@ -102,7 +102,7 @@
     <string name="contextmenu_set_wallpaper">Установить как обои</string>
     <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
-    <string name="contextmenu_send_mail">Отправить сообщение по электронной почте</string>
+    <string name="contextmenu_send_mail">Отправить сообщение по эл. почте</string>
     <string name="contextmenu_map">Карта</string>
     <string name="choosertitle_sharevia">Отправить…</string>
     <string name="clear">Очистить</string>
@@ -218,7 +218,7 @@
     <string name="pref_development_normal_rendering">Нормальное отображение</string>
     <string name="pref_development_trace">Включить трассировку</string>
     <string name="pref_development_nav_dump">Включить кэш дамп nav</string>
-    <string name="pref_development_hardware_accel">Включить рендеринг OpenG</string>
+    <string name="pref_development_hardware_accel">Включить рендеринг OpenGL</string>
     <string name="pref_development_hardware_accel_skia">Включить аппаратное ускорение Skia</string>
     <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
     <string name="pref_development_cpu_upload_path">Включить путь загрузки ЦП</string>
@@ -361,7 +361,7 @@
     <string name="edit">Редактировать</string>
     <string name="delete">Удалить</string>
     <string name="multi_select_title">Выбрано пунктов: %1$s</string>
-    <string name="delete_multi_bookmarks_alert_title">Уверены, что хотите удалить эти закладки: %1$s ?</string>
+    <string name="delete_multi_bookmarks_alert_title">Удалить выбранные закладки (%1$s шт.)?</string>
     <string name="add_bookmark">Добавить закладку</string>
     <string name="send_bookmark_to_home_screen">Отправить на Домашний Экран</string>
     <string name="bookmark_title">Имя</string>
@@ -384,9 +384,9 @@
     <string name="pref_exit_on_closing_last_tab_enabled_summary">При выходе из браузера, закрывать последние вкладки. Снимите галочку, чтобы начинать с домашней страницы</string>
     <string name="url_hint">Поиск/Ввод URL</string>
     <string name="file_picker_new_folder">Новая папка</string>
-    <string name="file_picker_sdcard_not_found">SD карта не найдена. Проверьте устройство</string>
-    <string name="export_bookmark_sucess">Закладки экспортированы на SD карту</string>
-    <string name="export_bookmark_failure">Не удалось экспортировать закладки на SD карту</string>
+    <string name="file_picker_sdcard_not_found">SD-карта не найдена. Проверьте устройство</string>
+    <string name="export_bookmark_sucess">Закладки экспортированы на SD-карту</string>
+    <string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту</string>
     <string name="import_bookmark_sucess">Закладки импортированы!</string>
     <string name="import_bookmark_failure">Невозможно импортировать закладки!</string>
     <string name="importing_favorite_files">Импорт данных …</string>

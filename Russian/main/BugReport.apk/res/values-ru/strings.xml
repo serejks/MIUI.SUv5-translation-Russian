@@ -2,8 +2,8 @@
 <resources>
     <string name="app_label">Обратная связь</string>
     <string name="user_feedback">Отзывы</string>
-    <string name="report_miui">Отчет в MIUI</string>
-    <string name="menu_send">Послать отчет</string>
+    <string name="report_miui">Отчёт в MIUI</string>
+    <string name="menu_send">Отправить отчет</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_attach_screenshot">Прикрепить скришнот</string>
     <string name="menu_discard">Сброс</string>
@@ -29,7 +29,7 @@
     <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
     <string name="toast_description_required">Отзыв пользователя не может быть пустым</string>
     <string name="toast_pending_log_collection">Сохранение логов, подождите</string>
-    <string name="toast_feedback_submitted">Ваш отчет был представлен успешно</string>
+    <string name="toast_feedback_submitted">Ваш отчёт успешно зарегистрирован</string>
     <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении Wi-Fi</string>
     <string name="discard_draft_dialog_title">Отмена проекта</string>
     <string name="discard_draft_dialog_content">Отчет был исправлен, нажмите ок для отмены проекта.</string>
@@ -38,7 +38,7 @@
     <string name="network_unavailable_dialog_title">Сеть недоступна</string>
     <string name="network_unavailable_dialog_content">Ваш отчет будет отправлен при подключении к сети</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
-    <string name="wlan_unavailable_dialog_title">Wi-Fi недоступна</string>
+    <string name="wlan_unavailable_dialog_title">Нет сетей Wi-Fi</string>
     <string name="wlan_unavailable_dialog_content">%s доступно для 2G/3G, нажмите ОК для отправки только по Wi-Fi</string>
     <string name="wlan_unavailable_dialog_button_sent">Отправить сейчас</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
