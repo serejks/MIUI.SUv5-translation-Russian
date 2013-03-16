@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="yandex">
-        <item>Yandex</item>
+    <string-array name="yandex_ru">
+        <item>Яндекс</item>
         <item>yandex.ru</item>
         <item>http://yandex.ru/favicon.ico</item>
-        <item>http://yandex.ru/touchsearch?&amp;clid=1788326&amp;text={searchTerms}</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://suggest.yandex.net/suggest-ff.cgi?&amp;clid=1788326&amp;part={searchTerms}</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
     <string-array name="google">
         <item>Google</item>
@@ -28,10 +28,7 @@
         <item>Нет</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Текущая страница</item>
-        <item>Домашняя MIUI</item>
-        <item>Пустая страница</item>
-        <item>Страница по умолчанию</item>
+        <item>Стартовая страница</item>
         <item>Часто посещаемые веб-сайты</item>
         <item>Другая</item>
     </string-array>
@@ -76,7 +73,7 @@
         <item>MIUI.SU</item>
         <item>http://miui.su/</item>    
         <item>Яндекс</item>
-        <item>http://www.yandex.ru/?clid=1788326</item>        
+        <item>http://www.yandex.ru/</item>        
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Picasa</item>
