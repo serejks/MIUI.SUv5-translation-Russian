@@ -19,4 +19,16 @@
     <plurals name="weekN">
         <item quantity="other">%d НЕДЕЛЯ</item>
     </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d событий</item>
+        <item quantity="one">1 событие</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d событий</item>
+        <item quantity="one">+1 событие</item>
+    </plurals>
 </resources>

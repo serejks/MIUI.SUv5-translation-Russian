@@ -6,12 +6,11 @@
     <string name="no_cell_broadcasts">There are no active alerts in your area. You can change the Alert settings using the Settings menu option.</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_delete_all">Удалить трансляции</string>
-    <string name="message_options">Message options</string>
+    <string name="message_options">Опции сообщения</string>
     <string name="menu_view">Просмотреть трансляцию</string>
     <string name="menu_delete">Удалить трансляцию</string>
-    <string name="confirm_dialog_title">Удаление</string>
-    <string name="confirm_delete_broadcast">Широковещательное сообщение будет удалено.</string>
-    <string name="confirm_delete_all_broadcasts">Все полученные широковещательные сообщения будут удалены.</string>
+    <string name="confirm_delete_broadcast">Удалить?</string>
+    <string name="confirm_delete_all_broadcasts">Удалить Все полученные широковещательные сообщения?</string>
     <string name="button_delete">Удалить</string>
     <string name="button_cancel">Отмена</string>
     <string name="etws_earthquake_warning">Предупреждение о землетрясении</string>
@@ -41,9 +40,6 @@
     <string name="enable_cmas_extreme_threat_alerts_summary">Показать оповещения с угрозой для жизни</string>
     <string name="enable_cmas_severe_threat_alerts_title">Показать серьезные угрозы</string>
     <string name="enable_cmas_severe_threat_alerts_summary">Показать оповещения с угрозой для жизни</string>
-    <string name="category_cmas_settings_title">Настройки системы CMAS</string>
-    <string name="enable_cmas_imminent_threat_alerts_title">Показывать неминуемые угрозы</string>
-    <string name="enable_cmas_imminent_threat_alerts_summary">Показывать предупреждения системы CMAS о неминуемых угрозах</string>
     <string name="enable_cmas_amber_alerts_title">Показывать оповещения системы AMBER</string>
     <string name="enable_cmas_amber_alerts_summary">Показывать оповещения AMBER (сообщения о похищении детей)</string>
     <string name="enable_cmas_test_alerts_title">Показывать тестовые трансляции</string>
@@ -83,6 +79,6 @@
     <string name="cmas_certainty_heading">Определенность:</string>
     <string name="cmas_certainty_observed">Наблюдаемые</string>
     <string name="cmas_certainty_likely">Понравившиеся</string>
-    <string name="notification_multiple">%s непрочитанных оповещений.</string>
+    <string name="notification_multiple">Непрочитанных оповещений: %s</string>
     <string name="notification_multiple_title">Новые оповещения</string>
 </resources>

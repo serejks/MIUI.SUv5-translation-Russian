@@ -14,8 +14,6 @@
     <string name="one_usercrt">один пользовательский сертификат</string>
     <string name="one_cacrt">один сертификат центра сертификации</string>
     <string name="n_cacrts">Сертификатов центра сертификации: %d</string>
-    <string name="one_wapi_ascrt">один WAPI AS сертификат</string>
-    <string name="one_wapi_usercrt">один WAPI user сертификат</string>
     <string name="password_error">Введите правильный пароль.</string>
     <string name="password_empty_error">Введите пароль.</string>
     <string name="name_empty_error">Введите название.</string>
@@ -30,7 +28,5 @@
     <string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
     <string name="no_cert_file_found">На накопителе отсутствует файл сертификата.</string>
-    <string name="no_cert_file_found_sd">На SD-карте отсутствует файл сертификата.</string>
     <string name="sdcard_not_present">SD-карта отсутствует.</string>
-    <string name="sdcard_not_present_sd">SD-карта отсутствует.</string>
 </resources>

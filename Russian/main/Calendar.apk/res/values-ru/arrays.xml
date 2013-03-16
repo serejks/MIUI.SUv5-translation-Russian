@@ -138,34 +138,27 @@
     <string-array name="availability">
         <item>Занят</item>
         <item>Доступен</item>
-        <item>Возможно</item>
+        <item>Не определён</item>
     </string-array>
     <string-array name="visibility">
         <item>По умолчанию</item>
         <item>Закрытое</item>
         <item>Для всех</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>перв.</item>
-        <item>втор.</item>
-        <item>трет.</item>
-        <item>четверт.</item>
-        <item>последн.</item>
-    </string-array>
     <string-array name="response_labels1">
-        <item>(Нет ответа)</item>
+        <item>Нет ответа</item>
         <item>Да</item>
         <item>Возможно</item>
         <item>Нет</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Да</item>
-        <item>Возможно</item>
-        <item>Нет</item>
+    <string-array name="delete_repeating_labels">
+        <item>Только это событие</item>
+        <item>Это и будущие события</item>
+        <item>Все события</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Это и будущие мероприятия</item>
-        <item>Все мероприятия</item>
+        <item>Это и будущие события</item>
+        <item>Все события</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Только в этот раз</item>
