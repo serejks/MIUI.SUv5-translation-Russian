@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d похожих</item>
+        <item quantity="one">%d похожая</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d песен</item>
+        <item quantity="one">%d песню</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d песен</item>
+        <item quantity="one">%d песню</item>
+    </plurals>
     <plurals name="Ntracks_format">
         <item quantity="other">%d песен</item>
         <item quantity="one">%d песня</item>
@@ -28,36 +40,20 @@
         <item quantity="other">" папки"</item>
         <item quantity="one">" папка"</item>
     </plurals>
-    <plurals name="Ntracks_batch_selection">
-        <item quantity="other">выбрано %d песен</item>
-        <item quantity="one">выбрана %d песня</item>
-    </plurals>
-    <plurals name="Nalbums_batch_selection">
-        <item quantity="other">выбрано %d альбомов</item>
-        <item quantity="one">выбран %d альбом</item>
-    </plurals>
-    <plurals name="Nartists_batch_selection">
-        <item quantity="other">выбраны %d исполнителя</item>
-        <item quantity="one">выбран %d исполнитель</item>
-    </plurals>
-    <plurals name="Nfolders_batch_selection">
-        <item quantity="other">выбрано %d папок</item>
-        <item quantity="one">выбрана %d папка</item>
-    </plurals>
-    <plurals name="Nplaylists_batch_selection">
-        <item quantity="other">выбрано %d плейлистов</item>
-        <item quantity="one">выбран %d плейлист</item>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">Быбрано: %d</item>
+        <item quantity="one">Быбрано: %d</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">%d песен на SD-карте</item>
+        <item quantity="other">Песен на SD-карте: %d</item>
         <item quantity="one">%d песня на SD-карте</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d песен добавлены в плейлист.</item>
+        <item quantity="other">Песен добавлено в плейлист: %d.</item>
         <item quantity="one">1 песня добавлена в плейлист.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d песен добавлены в плейлист.</item>
+        <item quantity="other">Песен добавлено в плейлист: %d.</item>
         <item quantity="one">1 песня добавлена в плейлист.</item>
     </plurals>
     <plurals name="Nonlinecategory">
@@ -71,5 +67,9 @@
     <plurals name="NNNtracksdeleted">
         <item quantity="other">%d песен были удалены.</item>
         <item quantity="one">1 песня была удалена.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">Песен будет загружено: %d</item>
+        <item quantity="one">1 песяня будет загружена</item>
     </plurals>
 </resources>

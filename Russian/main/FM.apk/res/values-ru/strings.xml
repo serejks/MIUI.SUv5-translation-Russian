@@ -7,7 +7,7 @@
     <string name="menu_settings">Настройки</string>
     <string name="menu_record_start">Начать запись</string>
     <string name="menu_record_stop">Остановить запись</string>
-    <string name="menu_sleep">Сон</string>
+    <string name="menu_sleep">Таймер сна</string>
     <string name="menu_sleep_cancel">Выход из сна</string>
     <string name="menu_record_list">Список записей</string>
     <string name="menu_scan_start">Сканирование</string>

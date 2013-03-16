@@ -82,9 +82,9 @@
     <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая %s штук)?</string>
     <string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
     <string name="confirm_delete_folders_and_pictures">Удалить (%s шт.)?</string>
-    <string name="confirm_delete_pictures">" %s"</string>
+    <string name="confirm_delete_pictures">%s</string>
     <string name="confirm_delete_folders_including" formatted="false">" папок: %s (Включая %s штук)"</string>
-    <string name="confirm_delete_videos">" %s видео"</string>
+    <string name="confirm_delete_videos">%s</string>
     <string name="confirm_delete_including_null">0 штук</string>
     <string name="cancel">Отмена</string>
     <string name="share">Отправить</string>
@@ -358,7 +358,7 @@
     <string name="error_should_not_select_video">Внимание: не выбирайте файл видео.</string>
     <string name="storage_all_volumes">Все устройства хранения</string>
     <string name="settings_i_xiaomi_com">Войдите в ваш аккаунт на i.xiaomi.com для просмотра ваших облачных альбомов в любое время</string>
-    <string name="cloud_album_more_settings">Облачные альбомы и автоматическая загрузка</string>
+    <string name="cloud_album_more_settings">Облачные альбомы и автозагрузка</string>
     <string name="browse_category">Обзор фото</string>
     <string name="photo_page_save_image">Сохранить</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в папку камеры по умолчанию.</string>

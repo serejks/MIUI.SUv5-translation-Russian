@@ -50,7 +50,7 @@
   <string name="manual_input_used_traffic_hint">Объем входящего трафика</string>
   <string name="save">Сохранить</string>
   <string name="daily_limit_dialog_hint">Дневной лимит трафика (0 означает отсутствие лимита)</string>
-  <string name="input_hint">Пожалуйста, введите</string>
+  <string name="input_hint">Введите кол-во трафика</string>
   <string name="daily_limit_dialog_disconnect_hint">Интернет отключается, когда трафик превышает установленный предел</string>
   <string name="daily_limit_result_no_limit">Напоминать, когда лимит трафика превышен</string>
   <string name="daily_limit_result_no_disconnect">Напоминать, когда ежедневный трафик превышает %d МБ</string>
@@ -65,7 +65,7 @@
   <string name="unknown_location">Неизвестное местоположение</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
   <string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
-  <string name="unknown_free_traffic_title">Неизвестный бесплатный трафик</string>
+  <string name="unknown_free_traffic_title">Неизвестен порог бесплатного трафика</string>
   <string name="unknown_free_traffic_hint">Если вы не знаете об объемах пакетов трафика и о их стоимости, пожалуйста обратитесь к своему оператору</string>
   <string name="i_known_button">OK</string>
   <string name="traffic_none">Не исп.</string>

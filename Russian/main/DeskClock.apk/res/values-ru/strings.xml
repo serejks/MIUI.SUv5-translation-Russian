@@ -114,8 +114,8 @@
 	<string name="alarm_count_summary">, выключение после %d срабатываний</string>
 	<string name="alarm_count_never_summary">, не отключать</string>
 	<string name="shutdown_alarm_title">Принудительный режим</string>
-	<string name="shutdown_alarm_enable_summary">Принудительный режим вкл.</string>
-	<string name="shutdown_alarm_disable_summary">Принудительный режим выкл.</string>
+	<string name="shutdown_alarm_enable_summary">Включить телефон, если выключен</string>
+	<string name="shutdown_alarm_disable_summary">Не включить телефон, если выключен</string>
 	<string name="workday_alarm_clock">По рабочим дням</string>
 	<string name="weekend_alarm_clock">По выходным</string>
     <string name="system_time_setting">Настройка</string>
