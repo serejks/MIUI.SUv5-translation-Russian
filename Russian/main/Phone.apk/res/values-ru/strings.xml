@@ -1109,7 +1109,7 @@
   <string name="turn_off_miui">Выкл.</string>
   <string name="back_miui">Назад</string>
   <string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
-  <string name="missed_call_notify_times_summary_miui">Напоминать каждые 5 минут по умолчанию. Выберите свое значение</string>
+  <string name="missed_call_notify_times_summary_miui">Количество напоминаний о пропущенных вызовах</string>
   <string name="missed_call_notify_none_miui">Не напоминать</string>
   <string name="missed_call_notify_once_miui">Один раз</string>
   <string name="missed_call_notify_twice_miui">Два раза</string>
