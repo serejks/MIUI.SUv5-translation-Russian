@@ -3,7 +3,7 @@
     <string name="app_label">Широковещательная передача сообщений</string>
     <string name="sms_cb_settings">Настройки широковещательной передачи сообщений</string>
     <string name="button_dismiss">ОК</string>
-    <string name="no_cell_broadcasts">There are no active alerts in your area. You can change the Alert settings using the Settings menu option.</string>
+    <string name="no_cell_broadcasts">В вашем районе нет активных оповещений. Вы можете изменить параметры оповещений в Меню > Настройки.</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_delete_all">Удалить трансляции</string>
     <string name="message_options">Опции сообщения</string>
