@@ -105,11 +105,11 @@
     <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
     <string name="ui_main_toast_operation_failed">Операция не удалась для %1$s.</string>
     <string name="user_guide">Руководство</string>
-    <string name="user_guide_download_other_version">Вы можете загрузить KuaiPan на свой ПК или Mac</string>
+    <string name="user_guide_download_other_version">Загрузите KuaiPan на свой ПК или Mac</string>
     <string name="user_guide_kuaipan_copy">Получайте доступ к файлам на различных устройствах, загрузив их в KuaiPan</string>
-    <string name="user_guide_other_version">Загрузить альтернативную версию KuaiPan</string>
+    <string name="user_guide_other_version">Загрузите альтернативную версию KuaiPan</string>
     <string name="user_guide_summary">Как использовать KuaiPan</string>
-    <string name="user_guide_upload_to_kuaipan">Скопируйте со своего телефона в KuaiPan</string>
+    <string name="user_guide_upload_to_kuaipan">Скопируйте данные со своего телефона в KuaiPan</string>
     <string name="rename_failed">Ошибка переименования %1$s </string>
     <string name="ui_bar_txt_download_progress">%1$d файлов осталось загрузить</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>

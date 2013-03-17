@@ -16,7 +16,7 @@
     <string name="install_email">Установить e-mail софт</string>
     <string name="send_install_log_error">Ошибка при отправке лога ошибок</string>
     <string name="copy_install_log">Копировать</string>
-    <string name="reboot_to_new_system">Перезагрузка в новую версию</string>
+    <string name="reboot_to_new_system">Перезагрузиться в новую версию</string>
     <string name="update_success">Поздравляем, обновление прошивки выполнено успешно!</string>
     <string name="mione_update_success_title">Обновление завершено</string>
     <string name="mione_update_fail_title">Обновление не удалось</string>

@@ -22,12 +22,12 @@
     <string name="widget_loading">Нет данных о погоде</string>
     <string name="act_find_city_hot_title">Популярные города</string>
     <string name="act_find_city_title">Добавить город</string>
-    <string name="act_find_city_null_data">данный город отсутствует</string>
-    <string name="act_find_city_hint">Поиск по 2,400 горордам Китая</string>
+    <string name="act_find_city_null_data">Данный город отсутствует</string>
+    <string name="act_find_city_hint">Поиск по 2,400 городам Китая</string>
     <string name="act_set_city_find_side_on">Открыть определение местонахождения</string>
     <string name="act_set_city_find_side">Обнаружение местонахождения…</string>
     <string name="local_city">Местные города</string>
-    <string name="act_set_city_re_find_side">Определение местопоожения…</string>
+    <string name="act_set_city_re_find_side">Определение местоположения…</string>
     <string name="act_set_city_find_side_error">Определить местонахождение не удалось</string>
     <string name="act_city_find_gps_error">Ошибка. Выберите вручную</string>
     <string name="act_weather_main_data_null">Нет данных о погоде, обновите</string>
@@ -51,7 +51,7 @@
     <string name="settings_weather_animation">Анимация погоды</string>
     <string name="settings_weather_play_ani_title">Воспроизвести анимацию</string>    
     <string name="settings_weather_play_ani_summary">Показывать анимацию на главном экране</string>    
-    <string name="settings_weather_about">About</string>
+    <string name="settings_weather_about">О программе</string>
     <string name="settings_weather_pre_title">Погода</string>
     <string name="settings_weather_preview">Просмотр анимации погоды</string>
     <string name="menu_delete">Удалить</string>
