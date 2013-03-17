@@ -2,7 +2,7 @@
 <resources>
     <string name="wallpaper_vis1">Визуализатор</string>
     <string name="wallpaper_vis2">Волновая форма</string>
-    <string name="wallpaper_vis3">Спект</string>
+    <string name="wallpaper_vis3">Спектр</string>
     <string name="wallpaper_vis4">Вольтометр</string>
     <string name="wallpaper_vis5">Все вместе</string>
     <string name="wallpapers">Обои музыкальной визуализации</string>

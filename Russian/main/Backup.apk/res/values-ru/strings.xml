@@ -16,7 +16,7 @@
 	<string name="button_ok">ОК</string>
 	<string name="backup_finished">Бэкап завершен</string>
 	<string name="backup_report">Отчет</string>
-	<string name="backup_hint">Не выключайте телефон, это повредит данные</string>
+	<string name="backup_hint">Не выключайте телефон!</string>
 	<string name="menu_patch_delete">Удалить бэкап(ы)</string>
 	<string name="delete">Удалить</string>
 	<string name="cancel">Отмена</string>

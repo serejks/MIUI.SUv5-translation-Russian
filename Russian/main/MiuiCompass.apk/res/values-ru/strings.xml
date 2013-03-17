@@ -22,8 +22,8 @@
   <string name="dialog_calibrat_altitude">Калибровка высоты через интернет.</string>
   <string name="latitude">Широта</string>
   <string name="longitude">Долгота</string>
-  <string name="direction_east">З</string>
+  <string name="direction_east">В</string>
   <string name="direction_north">C</string>
   <string name="direction_south">Ю</string>
-  <string name="direction_west">В</string>
+  <string name="direction_west">З</string>
 </resources>

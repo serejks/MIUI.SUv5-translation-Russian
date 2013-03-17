@@ -457,7 +457,7 @@
     <string name="ex_type_mx">Облачные сообщения</string>
     <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
     <string name="mx_dspt_disabled">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке</string>
-    <string name="mx_dspt">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке (%s)</string>
+    <string name="mx_dspt">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке.</string>
     <string name="mx_current_status">Текущий статус: В сети</string>
     <string name="mx_count_dspt">После включения, MIUI отправило %1$d облачных сообщений для (%2$s)</string>
     <string name="mx_auto_resend_sms">Отправить как SMS</string>
