@@ -37,7 +37,6 @@
     <string name="policy_dont_allow_attachments">Не загружать прикрепленные файлы</string>
     <string name="policy_max_attachment_size">Ограничивать размер прикрепленных файлов</string>
     <string name="policy_require_encryption">Обязательное шифрование устройства</string>
-    <string name="policy_require_sd_encryption">Обязательное шифрование SD-карты</string>
     <string name="account_setup_options_mail_window_auto">Автоматически</string>
     <string name="account_setup_options_mail_window_1day">Один день</string>
     <string name="account_setup_options_mail_window_3days">Три дня</string>

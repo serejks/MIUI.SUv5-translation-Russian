@@ -367,7 +367,7 @@
     <string name="pref_summary_new_message_popup">Всплывающее окно при получении сообщений</string>
     <string name="pref_summary_new_message_popup_when_secure">Запрет всплывающих сообщений в режиме гостя</string>
     <string name="pref_title_wake_up_screen">Включение экрана</string>
-    <string name="pref_summary_wake_up_screen">Включить экран когда сообщение получено/string>
+    <string name="pref_summary_wake_up_screen">Включить экран когда сообщение получено</string>
     <string name="pref_title_delivery_reports">Отчеты о доставке</string>
     <string name="pref_summary_delivery_reports">Запрос отчёта о доставке для каждого отправляемого сообщения</string>
     <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
