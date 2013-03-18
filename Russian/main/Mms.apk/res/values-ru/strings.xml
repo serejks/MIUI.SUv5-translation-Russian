@@ -351,7 +351,7 @@
     <string name="view_bookmark">Показать оригинальное сообщение</string>
     <string name="bookmark_confirm_delete_message">Выбранное сообщение будет удалено из избранного</string>
     <string name="bookmark_empty">Нет закладок</string>
-    <string name="phrase_list_title">Шаблоны (%1$d)</string>
+    <string name="phrase_list_title">Шаблоны</string>
     <string name="new_phrase">Новый шаблон</string>
     <string name="edit_phrase">Редактировать шаблон</string>
     <string name="new_phrase_hint">Введите текст</string>
@@ -437,10 +437,10 @@
     <string name="to_send_wrapper">Будет отправлено в: %s</string>
     <string name="group_message">Сообщение группе</string>
     <string name="close">Закрыть</string>
-    <string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
+    <string name="timed_message_expired_title">Запланированных сообщений не отправлено: %d</string>
     <string name="timed_message_expired_title_2">Отправить сейчас?</string>
     <string name="timed_message_to">кому</string>
-    <string name="timed_message_in_total">… (%d всего)</string>
+    <string name="timed_message_in_total">… (Всего %d)</string>
     <string name="processing">Обработка…</string>
     <string name="title_date_type">Время сообщений</string>
     <string name="summary_date_type">Время сообщений</string>
