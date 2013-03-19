@@ -8,18 +8,9 @@
         <item>UTF-8</item>
         <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
-    <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
     <string-array name="search_engines">
-        <item>yandex</item>
         <item>google</item>
-        <item>yahoo</item>
+        <item>yandex_ru</item>
         <item>bing</item>
     </string-array>    
     <string-array name="pref_content_plugins_choices">
@@ -68,24 +59,6 @@
         <item>Никогда</item>
         <item>Только по Wi-Fi</item>
         <item>Всегда</item>
-    </string-array>
-    <string-array name="bookmarks">
-        <item>MIUI.SU</item>
-        <item>http://miui.su/</item>    
-        <item>Яндекс</item>
-        <item>http://www.yandex.ru/</item>        
-        <item>Google</item>
-        <item>http://www.google.com/</item>
-        <item>Picasa</item>
-        <item>http://picasaweb.google.com/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Страница вверх/вниз</item>

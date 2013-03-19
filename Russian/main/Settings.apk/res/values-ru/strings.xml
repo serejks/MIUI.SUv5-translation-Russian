@@ -468,7 +468,7 @@
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_enable_watchdog_service">Отслеживать хороший сигнал</string>
     <string name="wifi_poor_network_detection">Избегать плохих соединений</string>
-    <string name="wifi_poor_network_detection_summary">Использовать Wi-Fi сеть, если нет хорошего соединения с Интернетом</string>
+    <string name="wifi_poor_network_detection_summary">При плохом соединении по Wi-Fi переключаться на мобильный интернет</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
     <string name="wifi_add_network">Добавить сеть</string>
