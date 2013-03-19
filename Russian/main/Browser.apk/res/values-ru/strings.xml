@@ -113,7 +113,7 @@
     <string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
     <string name="pref_content_load_images">Загружать графику</string>
     <string name="pref_content_load_images_summary">Показывать изображения на веб-страницах</string>
-    <string name="pref_content_block_popups">Блокир. всплыв. окна</string>
+    <string name="pref_content_block_popups">Блокир. всплывающие окна</string>
     <string name="pref_content_javascript">Разрешить JavaScript</string>
     <string name="pref_content_open_in_background">Фоновые вкладки</string>
     <string name="pref_content_plugins">Разрешить плагины</string>
@@ -242,10 +242,10 @@
     <string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
     <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
     <string name="pref_link_prefetch_title">Предзагрузка страниц</string>
-    <string name="pref_link_prefetch_summary">Разрешить предзагрузку связанных страниц в фоне</string>
+    <string name="pref_link_prefetch_summary">" Разрешить предзагрузку связанных страниц в фоне"</string>
     <string name="pref_link_prefetch_dialogtitle">Предзагрузка страниц</string>
     <string name="pref_video_preload_title">Предзагрузка видео</string>
-    <string name="pref_video_preload_summary">Разрешить предзагрузку видео, когда это позволяет сервер</string>
+    <string name="pref_video_preload_summary">" Разрешить предзагрузку видео, когда это позволяет сервер"</string>
     <string name="pref_video_preload_dialogtitle">Предзагрузка видео</string>
     <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
     <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
@@ -381,7 +381,7 @@
     <string name="tab_quicklinks">Быстрые закладки</string>
     <string name="pref_content_night_read_mode">Включить ночной режим</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закрытии последней вкладки</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_summary">При выходе из браузера, закрывать последние вкладки. Снимите галочку, чтобы начинать с домашней страницы</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузере, при закрытии последней вкладки. Выключите, чтобы показывалась домашней страницы</string>
     <string name="url_hint">Поиск/Ввод URL</string>
     <string name="file_picker_new_folder">Новая папка</string>
     <string name="file_picker_sdcard_not_found">SD-карта не найдена. Проверьте устройство</string>
