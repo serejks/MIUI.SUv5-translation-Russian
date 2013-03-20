@@ -239,7 +239,7 @@
     <string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
     <string name="pref_data_title">Настройки контента</string>
     <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-    <string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
+    <string name="pref_data_preload_summary">" Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
     <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
     <string name="pref_link_prefetch_title">Предзагрузка страниц</string>
     <string name="pref_link_prefetch_summary">" Разрешить предзагрузку связанных страниц в фоне"</string>

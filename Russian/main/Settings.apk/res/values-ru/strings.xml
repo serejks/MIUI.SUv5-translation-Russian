@@ -715,8 +715,8 @@
     <string name="firmware_version">Версия Android:</string>
     <string name="model_number">Модель:</string>
     <string name="fcc_equipment_id">ID оборудования</string>
-    <string name="baseband_version">Радиомодуль</string>
-    <string name="kernel_version">Версия ядра</string>
+    <string name="baseband_version">Радиомодуль:</string>
+    <string name="kernel_version">Версия ядра:</string>
     <string name="build_number">Номер сборки</string>
     <string name="device_info_not_available">Недоступно</string>
     <string name="device_status_activity_title">Общая информация</string>
@@ -1683,7 +1683,7 @@
     <string name="user_remove_user_menu">Удаление пользователя</string>
     <string name="user_new_user_name">Защита от детей</string>
     <string name="user_confirm_remove_title">Удалить пользователя?</string>
-    <string name="user_confirm_remove_message">Вы уверены ,что хотите удалить пользователя и все данные, связанные с ним?</string>
+    <string name="user_confirm_remove_message">Удалить пользователя и все данные, связанные с ним?</string>
     <string name="app_notifications_switch_label">Показывать уведомления</string>
     <string name="help_label">Помощь</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
@@ -1852,9 +1852,9 @@
     <string name="perm_auto_start">Автозапуск</string>
     <string name="perm_auto_start_desc">Разрешить или запретить автозапуск приложения</string>
     <string name="perm_hips_disable_title">Контроль разрешений</string>
-    <string name="perm_hips_disable_content">При отключении этой функции MIUI прекратит контролировать запросы приложений и сохранять вашу безопасность и конфиденциальность.\nВы уверены что хотите отключить ее?</string>
+    <string name="perm_hips_disable_content">При отключении этой функции MIUI прекратит контролировать запросы приложений и сохранять вашу безопасность и конфиденциальность.\nОтключить ее?</string>
     <string name="perm_su_enable_title">Права ROOT</string>
-    <string name="perm_su_enable_content">Включение    этой функции позволит приложениям запрашивать права ROOT.\nВнимание: Приложения с правами ROOT могут привести к нестабильности системы, потере личных данных и повреждению устройства, пожалуйста будьте осторожны. Вы уверены что хотите включить ее?</string>
+    <string name="perm_su_enable_content">Включение этой функции позволит приложениям запрашивать права ROOT.\nВнимание: Приложения с правами ROOT могут привести к нестабильности системы, потере личных данных и повреждению устройства, пожалуйста будьте осторожны. Включить ее?</string>
     <string name="perm_log_clear_title">Очисть журналы</string>
     <string name="perm_log_clear_content">Все журналы будут удалены. Вы уверены что хотите этого?</string>
     <string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
@@ -2259,7 +2259,7 @@
     <string name="safe_relative">Связанные с безпасностью</string>
     <string name="privacy_relative">Связанные с конфиденциальностью</string>
     <string name="other_relative">Другие разрешения</string>
-    <string name="permission_manage_title">%s подробности разрешений</string>
+    <string name="permission_manage_title">%s: разрешения:</string>
     <string name="filter_apps_cached">Кешированные</string>
     <string name="screen">Экран</string>
     <string name="system">Система</string>

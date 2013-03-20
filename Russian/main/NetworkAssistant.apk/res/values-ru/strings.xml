@@ -27,7 +27,7 @@
   <string name="warning_title">Предупреждение</string>
   <string name="close_txt">Закрыть</string>
   <string name="cancel_txt">Отмена</string>
-  <string name="disable_background_connect_warning">При ограничении объёма трафика некоторые приложения не смогут работать через сеть. Вы уверены, что хотите закрыть?</string>
+  <string name="disable_background_connect_warning">При ограничении объёма трафика некоторые приложения не смогут работать через сеть. Закрыть?</string>
   <string name="menu_refresh">Обновить</string>
   <string name="menu_sort">Сортировка</string>
   <string name="menu_display_wifi">Показать трафик Wi-Fi</string>
@@ -70,10 +70,10 @@
   <string name="i_known_button">OK</string>
   <string name="traffic_none">Не исп.</string>
   <string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
-  <string name="control_app_internet">Кон-ль за использ. сети</string>
+  <string name="control_app_internet">Контроль трафика</string>
   <string name="fire_rule_program_list">Список приложений</string>
   <string name="fire_wall_is_closed">Firewall не активен</string>
-  <string name="menu_new_install_app_settings">Настройки для новых установленных приложений</string>
+  <string name="menu_new_install_app_settings">Настройки для новых приложений</string>
   <string name="traffic_suffix">Трафик</string>
   <string name="traffic_suffix_with_uint">Трафик (МБ)</string>
   <string name="app_detail_title">Инф. о прил.</string>

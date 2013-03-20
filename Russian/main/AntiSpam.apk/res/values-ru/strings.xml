@@ -113,7 +113,7 @@
 	<string name="confirm_clear_blacklist">Очистить черный список?</string>
 	<string name="confirm_clear_whitelist">Очистить белый список?</string>
 	<string name="context_call">Вызов</string>
-	<string name="context_ms">Послать сообщение</string>
+	<string name="context_ms">Отправить сообщение</string>
 	<string name="context_new_contact">Новый контакт</string>
 	<string name="context_add_contact">Добавить к контакту</string>
 	<string name="check_all">Отметить всё</string>

@@ -105,7 +105,7 @@
     <string name="frequency_already_exist">Такая частота уже существует</string>
     <string name="alert_title_new_station">Новая станция</string>
     <string name="alert_title_delete">Удалить</string>
-    <string name="alert_message_delete_station">Вы уверены, что хотите удалить выбранную станцию?</string>
+    <string name="alert_message_delete_station">Удалить выбранную станцию?</string>
     <string name="toast_delete_station">%sМГц была удалена.</string>
     <string name="msg_noantenna_message">Подключите наушники перед использованием.</string>
     <string name="exit_fm">Выход</string>

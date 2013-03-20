@@ -24,7 +24,7 @@
         <item>В этом месяце 2G/3G</item>
     </string-array>
     <string-array name="traffic_uints">
-        <item>" байт"</item>
+        <item>Байт</item>
         <item>Кб</item>
         <item>Мб</item>
         <item>Гб</item>

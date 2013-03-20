@@ -122,7 +122,7 @@
   <string name="resource_can_not_selected">%1$s не может быть выбрано!</string>
   <string name="resource_default">Стандартный рингтон</string>
   <string name="resource_default_name">Ресурсы</string>
-  <string name="resource_delete_all">Выбрано ресурсов: %1$d. Вы уверены, что хотите их удалить?</string>
+  <string name="resource_delete_all">Выбрано ресурсов: %1$d. Удалить?</string>
   <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
   <string name="resource_detail">Детали</string>
   <string name="resource_download">Загрузка</string>
@@ -162,7 +162,7 @@
   <string name="processing">Обработка…</string>
   <string name="preferences_general_title">Общие параметры</string>
   <string name="pref_keep_in_memory_title">Оставлять в памяти</string>
-  <string name="pref_keep_in_memory_summary">Держать лаунчер в памяти при нехватке памяти</string>
+  <string name="pref_keep_in_memory_summary">Никогда не выгружать лаунчер из оперативной памяти</string>
   <string name="pref_render_in_truecolor_title">Высокое качество графики</string>
   <string name="pref_render_in_truecolor_summary">Отключение этой опции улучшит отображение графики</string>
   <string name="pref_enable_drawing_cache_title">Кеш графики</string>

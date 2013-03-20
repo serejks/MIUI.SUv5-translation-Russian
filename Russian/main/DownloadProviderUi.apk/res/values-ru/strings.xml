@@ -56,7 +56,7 @@
     <string name="delete_the_downloaded_file">Удалить загруженные элементы</string>
     <string name="downloads_operating">Загрузка…</string>
     <string name="disable_download_only_in_wifi_title">Выключение \"Загрузка только по Wi-Fi\"</string>
-    <string name="confirm_disable_download_only_in_wifi_message">Выключение \"Загрузка только по Wi-Fi\" возможно приведет к дополнительным затратам. Вы уверены, что хотите выключить?</string>
+    <string name="confirm_disable_download_only_in_wifi_message">Выключение \"Загрузка только по Wi-Fi\" возможно приведет к дополнительным затратам. Выключить?</string>
     <string name="select_operation_items">Пожалуйста, выберите элементы</string>
     <string name="preferences_title">Настройки</string>
     <string name="pref_download_settings_title">Лимит трафика</string>

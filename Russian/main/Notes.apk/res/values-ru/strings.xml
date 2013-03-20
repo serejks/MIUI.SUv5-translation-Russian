@@ -33,12 +33,12 @@
 	<string name="menu_rename_folder">Переименовать</string>
 	<string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
 	<string name="alert_title_delete">Удаление выбранных заметок</string>
-	<string name="alert_message_delete_notes">Вы уверены, что хотите удалить выбранные заметки (%1$s шт.)?</string>
-	<string name="alert_message_delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$s шт.)?</string>
-	<string name="alert_message_delete_folders_notes">Вы уверены, что хотите удалить папки (%1$s шт.) и заметки (%2$s шт.)?</string>
-	<string name="alert_message_delete_note">Вы уверены, что хотите удалить заметку?</string>
+	<string name="alert_message_delete_notes">Удалить выбранные заметки (%1$s шт.)?</string>
+	<string name="alert_message_delete_folders">Удалить выбранные папки (%1$s шт.)?</string>
+	<string name="alert_message_delete_folders_notes">Удалить папки (%1$s шт.) и заметки (%2$s шт.)?</string>
+	<string name="alert_message_delete_note">Удалить заметку?</string>
 	<string name="alert_title_discard">Отменить изменения?</string>
-	<string name="alert_message_discard_changes">Отмечено папок: %1$s. Вы уверены, что хотите их удалить?</string>
+	<string name="alert_message_discard_changes">Отмечено папок (%1$s шт.). Удалить?</string>
 	<string name="alert_title_exceed_image_limit">Достигнут предел изображений на одну заметку</string>
 	<string name="alert_message_exceed_image_limit">Каждая заметка может содержать 15 изображений, вы можете создать новую, чтобы прикрепить ващи изображения</string>
 	<string name="format_move_notes_to_folder">Заметки (%1$d шт.) перемещены в \"%2$s\"</string>

@@ -794,7 +794,7 @@
   <string name="auto_ip_exception_miui">Номера, не нуждающиеся в IP префиксе</string>
   <string name="auto_ip_no_exceptions_miui">Добавьте номера, которым не нужен IP префикс</string>
   <string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
-  <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить эти номера: %d</string>
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">Удалить эти номера: %d</string>
   <string name="auto_ip_exception_summary_miui">%d всего</string>
   <string name="auto_ip_exception_summary_more_miui">,… %d всего</string>
   <string name="auto_ip_support_local_numbers">Поддержка локальных номеров</string>
@@ -886,7 +886,7 @@
   <string name="connect_disconnect_vibrate_weak_miui">Слабая вибрация</string>
   <string name="contacts_icon_label_miui">Контакты</string>
   <string name="count_of_persons_in_conference_miui">Всего %d человек</string>
-  <string name="countrycode_alert_message_warning_miui">Введенный код страны может быть не верный, вы уверены?</string>
+  <string name="countrycode_alert_message_warning_miui">Введенный код страны может быть неверный, вы уверены?</string>
   <string name="countrycode_alert_message_wrong_miui">Введенный код страны неверный, введите заново</string>
   <string name="countrycode_alert_title_miui">Внимание</string>
   <string name="crystaltalk_summary_miui">Оптимизация звука</string>
@@ -1100,7 +1100,7 @@
   <string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
   <string name="turn_off_auto_select_title_miui">Выключение автоматического выбора сети</string>
   <string name="turn_off_auto_select_warning_message_miui">После выключения данной опции будет использоваться сеть, выбранная вами вручную и вы не сможете зарегистрироваться в других сетях</string>
-  <string name="turn_off_auto_select_confirm_message_miui">Сеть может быть недоступна, вы уверены, что хотите выключить эту опцию?</string>
+  <string name="turn_off_auto_select_confirm_message_miui">Сеть может быть недоступна, выключить эту опцию?</string>
   <string name="network_work_query_failed_message_miui">Ошибка запроса, нажмите Отмена для автоматического выбора сети или ok для повтора</string>
   <string name="sum_select_automatically_option_miui">Автоматический выбор предпочитаемой сети, %s</string>
   <string name="register_network_failed_title_miui">Сервис недоступен</string>

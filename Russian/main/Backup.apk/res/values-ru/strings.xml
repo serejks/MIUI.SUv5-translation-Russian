@@ -113,7 +113,7 @@
 	<string name="progress_backup_hint">Бэкап…</string>
 	<string name="cancel_backup">Прервать</string>
 	<string name="restore_contact">Восстановить контакты</string>
-	<string name="restore_contact_content">Восстановление контактов может привести к дублированию контактов, вы уверены, что вы хотите это сделать?\n Примечание: затем можно выполнить слияние дубликатов контактов в списке</string>
+	<string name="restore_contact_content">Восстановление контактов может привести к дублированию контактов, всё равно это сделать?\n Примечание: затем можно выполнить слияние дубликатов контактов в списке</string>
 	<string name="progress_restore_hint">Восстановление…</string>
 	<string name="cancel_restore">Отменить восстановление</string>
 	<string name="restore_failed">Ошибка восстановления</string>
