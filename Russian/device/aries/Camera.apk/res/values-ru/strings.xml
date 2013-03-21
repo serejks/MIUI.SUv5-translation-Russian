@@ -70,6 +70,7 @@
     <string name="pref_camera_settings_category">Настройки камеры</string>
     <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
     <string name="pref_camera_picturesize_title">Размер фото</string>
+    <string name="pref_camera_picturesize_title_simple_mode">Соотношение сторон</string>
     <string name="pref_back_camera_picturesize_title">Размер изображения(Основная камера)</string>
     <string name="pref_front_camera_picturesize_title">Размер изображения(Передняя камера)</string>
     <string name="pref_camera_picturesize_entry_4208x3120">Стандартный 4:3</string>
@@ -360,7 +361,7 @@
     <string name="accessibility_switch">Переключить %1$s</string>
     <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_default">frame-average</string>
-    <string name="pref_camera_autoexposure_title">Выберите режим экспозиции</string>
+    <string name="pref_camera_autoexposure_title">Режим экспозиции</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Средняя по кадру</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенная по центру</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точка</string>

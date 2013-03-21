@@ -458,4 +458,6 @@
 	<string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
 	<string name="send">Отправка</string>
 	<string name="share">Отправить</string>
+    <string name="perm_data_update_lab">Обновление данных</string>
+    <string name="perm_data_update_dspt">Разрешить отправлять отметку об обновлении данных</string>
 </resources>

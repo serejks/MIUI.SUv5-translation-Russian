@@ -67,7 +67,7 @@
   <string name="status_bar_toggle_mute">Без звука</string>
   <string name="status_bar_toggle_network_type">Тип сети</string>
   <string name="status_bar_toggle_power_high">Производительность</string>
-  <string name="status_bar_toggle_power_low">Сбережение энергии</string>
+  <string name="status_bar_toggle_power_low">Экономия энергии</string>
   <string name="status_bar_toggle_power_mid">Нормально</string>
   <string name="status_bar_toggle_power_mode">Режим питания</string>
   <string name="status_bar_toggle_privacy_mode">Гость</string>

@@ -157,6 +157,7 @@
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
+    <string name="default_date_format">MM.dd.yyyy</string>
     <string name="normal_date_format">По умолчанию (%s)</string>
     <string name="display_preview_label">Предварительный просмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
@@ -2105,6 +2106,7 @@
     <string name="bluetooth_default_name">Устройство Xiaomi</string>
     <string name="bluetooth_profile_name">%1$s устройство Xiaomi</string>
     <string name="usage_log">Статистика использования приложений</string>
+    <string name="bluetooth_device_searchable">Включить определение</string>
     <string name="usb_msd_title">Накопитель</string>
     <string name="usb_msd_summary">Позволяет передавать файлы на Windows и Mac</string>
     <string name="usb_msd_driver_installer_title">Установщик драйверов (MSD)</string>
@@ -2237,6 +2239,9 @@
     <string name="accessibility_enable">Вкл. доступность</string>
     <string name="development_enable">Вкл. разработку</string>
     <string name="device_name">Имя устройства</string>
+    <string name="device_edit_title">Изменить имя устройства</string>
+    <string name="device_name_input_hint">Введите имя вашего устройства</string>
+    <string name="device_name_usage_point">Показывать имя вашего устройства во время обмена данными по Bluetooth, работы мобильного роутера Wi-Fi и т.п.</string>
     <string name="drive_mode">За рулём</string>
     <string name="enable_drive_mode">Вкл. \"За рулём\"</string>
     <string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>

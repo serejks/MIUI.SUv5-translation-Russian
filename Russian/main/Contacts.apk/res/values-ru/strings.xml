@@ -855,12 +855,12 @@
     <string name="keep_local_btn">Сохранить только в телефоне</string>
     <string name="batch_delete">Пакетное удаление контактов</string>
     <string name="batch_delete_msg">Выбрано контактов (%d шт.). Удалить ? \n\n Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
-    <string name="resource_app_name">Resource Browser</string>
+    <string name="resource_app_name">Диспетчер ресурсов</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit">MI Кредиты</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">Изменен статус SD-карты</string>
-    <string name="sdcard_status_changed_dialog_message">Going to exit.\nPlease reopen this app to refresh resource.</string>
+    <string name="sdcard_status_changed_dialog_message">Приложение будет выключено.\nЗапустите снова это приложение, чтобы обновить ресурсы.</string>
     <string name="resource_mute">Ничего</string>
     <string name="resource_default">Рингтон по умолчанию</string>
     <string name="resource_ringtone_default">Рингтоны</string>
@@ -901,14 +901,14 @@
     <string name="resource_list_title">Последние выбранные</string>
     <string name="resource_get_auth_checking">Проверка авторизации…</string>
     <string name="resource_get_auth_retrieving">Повтор авторизации…</string>
-    <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Authorized exceeds the limit</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Theme can not run on the current equipment with your account which is up to 10 mobile devices every year. Please try other Xiaomi accounts.</string>
-    <string name="resource_server_out_of_service">Out of service, please try again later.</string>
+    <string name="resource_get_auth_missing">Тема скачана не из официального Маркета, пожалуйста, скачайте аналогичную из официального Маркета.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Превышен лимит авторизаций</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Невозможно использовать тему на текущем устройстве с Вашим аккаунтом, на котором регистрируется до 10 устройств каждый год. Пожалуйста, попробуйте использовать другие аккаунты Xiaomi.</string>
+    <string name="resource_server_out_of_service">Сервер недоступен, пожалуйста, попробуйте позже.</string>
     <string name="resource_switch_account">Переключение</string>
     <string name="processing">Обработка…</string>
     <string name="resource_title_select_ringtone">Выбор рингтона</string>
     <string name="resource_tip_select_ringtone">Не выбрано рингтонов</string>
     <string name="loading_resource_detail_info">Загрузка</string>
-    <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
+    <string name="account_abnormal_state">Неправильная информация об аккаунте! Попробуйте войти ещё раз сейчас, либо позже.</string>
 </resources>
