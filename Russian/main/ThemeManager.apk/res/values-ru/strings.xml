@@ -21,8 +21,8 @@
     <string name="component_category_style_title">Стили</string>
     <string name="component_category_wallpaper_title">Обои</string>
     <string name="component_category_ringtone_title">Рингтоны</string>
-    <string name="component_category_finest_title">Популярные</string>
-    <string name="component_category_more_title">Больше</string>
+    <string name="component_category_finest_title">Основное</string>
+    <string name="component_category_more_title">Остальное</string>
     <string name="theme_component_title_framework">Стили</string>
     <string name="theme_component_title_mms">СМС</string>
     <string name="theme_component_title_wallpaper">Обои</string>

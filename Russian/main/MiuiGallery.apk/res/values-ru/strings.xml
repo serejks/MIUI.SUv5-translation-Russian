@@ -5,7 +5,7 @@
     <string name="saving_failure">Фото не может быть сохранено</string>
     <string name="photo_saved">Фото сохранено в %s</string>
     <string name="edited_photo_bucket_name">Отредактировано</string>
-    <string name="save_photo">Сохранить оотредактированное фото?</string>
+    <string name="save_photo">Сохранить отредактированное фото?</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="save">Сохранить</string>
