@@ -52,7 +52,7 @@
     <string name="alarm_notify_snooze_text">Нажмите, чтобы отменить.</string>
     <string name="volume_button_setting_title">Громкость</string>
     <string name="volume_button_dialog_title">Функция кнопок громкости</string>
-    <string name="volume_button_setting_summary">Определить функцию кнопкок во время звонка будильника</string>
+    <string name="volume_button_setting_summary">Определить функцию кнопок во время звонка будильника</string>
     <string name="default_ringtone_setting_title">Мелодия звонка по умолчанию</string>
     <string name="alarm_button_description">Будильник</string>
     <string name="gallery_button_description">Галерея</string>
