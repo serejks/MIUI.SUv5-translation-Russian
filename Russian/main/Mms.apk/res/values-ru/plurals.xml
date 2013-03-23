@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Выбрано цепочек: %1$s. Удалить?</item>
-        <item quantity="one">Вы уверены, что хотите удалить данную цепочку?</item>
+        <item quantity="one">Удалить данную цепочку?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s с.</item>

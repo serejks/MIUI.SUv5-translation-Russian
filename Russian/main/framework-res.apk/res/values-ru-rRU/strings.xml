@@ -739,7 +739,7 @@
     <string name="keyguard_pin_accepted">Код принят!</string>
     <string name="keyguard_label_text">Для разблокировки нажмите Меню, затем 0.</string>
     <string name="emergency_call_dialog_number_for_display">Экстренный</string>
-    <string name="lockscreen_carrier_default">Вне зоны доступа</string>
+    <string name="lockscreen_carrier_default">Без доступа к сети</string>
     <string name="lockscreen_screen_locked">Экран заблокирован</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Нажмите Меню для разблокировки или экстренного вызова</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Нажмите Меню для разблокировки</string>

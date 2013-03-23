@@ -376,7 +376,7 @@
 	<string name="send_sms_for_sync_notice">Для активации нужно отправить SMS, продолжить?</string>
 	<string name="send_sms_for_sync_title">Сервис активации не запущен</string>
 	<string name="sim_account_name">SIM</string>
-	<string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется послать SMS, продолжить?</string>
+	<string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется отправить SMS, продолжить?</string>
 	<string name="slight_cold">Осаму</string>
 	<string name="slight_heat">Тепло</string>
 	<string name="solar_calendar">Григорианский календарь</string>
@@ -456,7 +456,7 @@
 	<string name="open_wifi_settings">Открыть настройки Wi-Fi</string>
 	<string name="lock_screen_date">EEEE, MMMM d</string>
 	<string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
-	<string name="send">Отправка</string>
+	<string name="send">Отправить</string>
 	<string name="share">Отправить</string>
     <string name="perm_data_update_lab">Обновление данных</string>
     <string name="perm_data_update_dspt">Разрешить отправлять отметку об обновлении данных</string>

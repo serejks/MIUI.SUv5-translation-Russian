@@ -11,7 +11,7 @@
     <string name="device_info_default">Неизвестно</string>
     <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
     <string name="header_category_device">ПАРАМЕТРЫ УСТРОЙСТВА</string>
-    <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
+    <string name="header_category_personal">ПЕРСОНАЛИЗАЦИЯ</string>
     <string name="header_category_system">СИСТЕМНЫЕ НАСТРОЙКИ</string>
     <string name="turn_on_radio">Включить радио</string>
     <string name="turn_off_radio">Выключить радио</string>

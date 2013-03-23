@@ -61,11 +61,11 @@
     <string name="preferences_title">Настройки</string>
     <string name="pref_download_settings_title">Лимит трафика</string>
     <string name="pref_title_enable_max_bytes_popup">Максимальный размер загрузки</string>
-    <string name="pref_summary_enable_max_bytes_popup">Уведомление о том, что размера файла превысил лимит</string>
+    <string name="pref_summary_enable_max_bytes_popup">Уведомление о превышении лимита на размер файла</string>
     <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="pref_summary_max_bytes_limit_format">Уведомление появится, если размер превысит %s</string>
     <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
-    <string name="might_lead_to_mobile_charge">После отмены, будут отключены уведомления, что может привести к дополнительным затратам</string>
+    <string name="might_lead_to_mobile_charge">Отключение уведомлений может привести к дополнительным расходам!</string>
     <string name="cancel_download_notice">Не уведомлять о загрузках</string>
     <string name="download_in_process">Загрузка</string>
     <string name="download_complete">Завершенные</string>

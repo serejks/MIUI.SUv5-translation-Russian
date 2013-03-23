@@ -359,9 +359,9 @@
     <item>Драйвер уже установлен</item>
   </string-array>
   <string-array name="screen_color_title">
-    <item>Теплый</item>
-    <item>Натуральный</item>
-    <item>Холодный</item>
+    <item>Теплая</item>
+    <item>Натуральная</item>
+    <item>Холодная</item>
   </string-array>
   <string-array name="screen_saturation_title">
     <item>Яркий</item>

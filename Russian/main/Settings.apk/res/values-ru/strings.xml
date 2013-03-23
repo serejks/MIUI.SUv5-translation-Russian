@@ -6,7 +6,7 @@
     <string name="device_info_default">Неизвестно</string>
     <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
     <string name="header_category_device">УСТРОЙСТВО</string>
-    <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
+    <string name="header_category_personal">ПЕРСОНАЛИЗАЦИЯ</string>
     <string name="header_category_system">СИСТЕМА</string>
     <string name="turn_on_radio">Включить радио</string>
     <string name="turn_off_radio">Отключить радио</string>
@@ -698,7 +698,7 @@
     <string name="sim_enter_pin">PIN-код SIM-карты</string>
     <string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
     <string name="sim_disable_sim_lock">Разблокировать SIM-карту</string>
-    <string name="sim_enter_old">Прежний PIN-код SIM-карты</string>
+    <string name="sim_enter_old">Текущий PIN-код SIM-карты</string>
     <string name="sim_enter_new">Новый PIN SIM-карты</string>
     <string name="sim_reenter_new">Введите новый PIN повторно</string>
     <string name="sim_change_pin">PIN-код SIM-карты</string>
@@ -757,7 +757,7 @@
     <string name="memory_media_usage">Мультимедиа</string>
     <string name="memory_downloads_usage">Загрузки</string>
     <string name="memory_dcim_usage">Изображения и видео</string>
-    <string name="memory_music_usage">Аудио (музыка, рингтоны, подкасты и т. п.)</string>
+    <string name="memory_music_usage">Аудио (Музыка, рингтоны, подкасты и т. п.)</string>
     <string name="memory_media_misc_usage">Прочее</string>
     <string name="sd_eject">Извлечь SD-карту</string>
     <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
@@ -1387,7 +1387,7 @@
     <string name="sound_category_sound_title">Общие</string>
     <string name="sound_category_notification_title">Оповещения</string>
     <string name="sound_category_feedback_title">Система</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Рингтон вызова и вибро</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Настройка рингтонов</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Настройки Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
@@ -1440,7 +1440,7 @@
     <string name="settings_backup_summary">Резервная копия настроек.</string>
     <string name="sync_menu_sync_now">Синхронизировать</string>
     <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
-    <string name="sync_one_time_sync">Нажмите, чтобы начать синхронизацию %1$s</string>
+    <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Календарь</string>
     <string name="sync_contacts">Контакты</string>
@@ -1908,7 +1908,7 @@
     <string name="search_power_mode">Профиль</string>
     <string name="debug_log">Программа развития</string>
     <string name="upload_debug_log_title">Программа развития</string>
-    <string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, отправив данные диагностики и данных</string>
+    <string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, отправив данные диагностики и т.д.</string>
     <string name="device_miui_version">Версия MIUI:</string>
     <string name="device_cpu">Процессор:</string>
     <string name="device_memory">Операт. память:</string>
@@ -1925,11 +1925,11 @@
     <string name="sms_received_sound_dialog_title">Выберите звук входящего SMS</string>
     <string name="sms_delivered_sound_dialog_title">Выберите звук доставленного SMS</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
-    <string name="privacy_protect_title">Защита приватности</string>
+    <string name="privacy_protect_title">Настройка приватности</string>
     <string name="privacy_mode_enable_title">Включить защищенный режим</string>
     <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и прочее для защиты приватности.</string>
     <string name="ac_enable_title">Включить управление доступом</string>
-    <string name="ac_set_apps_title">Защитита приложений</string>
+    <string name="ac_set_apps_title">Защита приложений</string>
     <string name="ac_privacy_mode_title">Включить пароль</string>
     <string name="ac_privacy_mode_sum">Включить пароль для отключения режима защиты</string>
     <string name="access_control_password_title">Активировать пароль</string>
@@ -1937,7 +1937,7 @@
     <string name="access_control_reset_by_account">Войти в аккаунт Xiaomi для сброса пароля</string>
     <string name="access_control_need_password">%s защищено</string>
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
-    <string name="access_control_recording_intro_header">Использовать шаблон для создания пароля</string>
+    <string name="access_control_recording_intro_header">Задайте графический ключ разблокировки</string>
     <string name="access_control_app_entry_single">Открыть выбранное приложение</string>
     <string name="access_control_app_entry_multiple">Открыть %s</string>
     <string name="apn_mms">MMS</string>
@@ -1945,7 +1945,7 @@
     <string name="launcher_settings_title">Лаунчер</string>
     <string name="screen_timeout_title">Экран в спящий режим</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
-    <string name="screen_on_proximity_sensor_summary">Предотвращение ошибок пока телефон находится в кармане (определяется с помощью датчика приближения)</string>
+    <string name="screen_on_proximity_sensor_summary">Предотвращение ошибок пока телефон находится в кармане (Используется датчик приближения)</string>
     <string name="preferred_launcher_title">Предпочитаемый лаунчер</string>
     <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
     <string name="preferred_launcher_warning_message">Замена стандартного лаунчера может повлечь за собой большее потребление энергии, ухудшение скорости работы, ухудшить безопасность личных данных и т.д. Рекомендуется использовать стандартный лаунчер.</string>
@@ -1958,7 +1958,7 @@
     <string name="back_long_press">Клавиша назад</string>
     <string name="enable_back_long_press">Удержание для закр.приложения</string>
     <string name="back_long_press_timeout">Время задержки</string>
-    <string name="enable_snapshot_screenlock">Удержание на экр.для скриншота</string>
+    <string name="enable_snapshot_screenlock">Фото на экране блокировки</string>
     <string name="power_key">Клавиша питания</string>
     <string name="disable_power_key_long_press_under_keyguard">Откл. на экране блокировки</string>
     <string name="media_button">Клавиша медиа</string>
@@ -2120,7 +2120,7 @@
     <string name="volume_restore_alert">Все настройки будут установлены на стандартные, вы уверены?</string>
     <string name="sound_category_calls_and_notification_title">Рингтон и уведомления</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">Настройка размера шрифта для таких приложений, как \"Телефон\", \"Сообщения\", \"Контакты\" и прочее, для лучшего удобства пользования и читабельности.</string>
+    <string name="font_size_summary">Настройка размера шрифта для таких приложений, как \"Телефон\", \"Сообщения\", \"Контакты\" и прочее, для улучшения удобства пользования и читабельности.</string>
     <string name="font_size_small">1</string>
     <string name="font_size_normal">2</string>
     <string name="font_size_medium">3</string>
@@ -2188,7 +2188,7 @@
     <string name="dolby_eq_electronic">Электроник</string>
     <string name="dolby_eq_country">Кантри</string>
     <string name="dolby_eq_dance">Дэнс</string>
-    <string name="dolby_eq_metal">Метал</string>
+    <string name="dolby_eq_metal">Металл</string>
     <string name="dolby_eq_delete">Удалить</string>
     <string name="dolby_eq_delete_success">Успешно удалено</string>
     <string name="dolby_eq_auto">Пользовательский</string>
@@ -2235,7 +2235,7 @@
     <string name="sync_wifi_label">Настройки Wi-Fi</string>
     <string name="wifi_enable">Включение Wi-Fi</string>
     <string name="bluetooth_enable">Включение Bluetooth</string>
-    <string name="sync_enable">Вкл. синхронизацию</string>
+    <string name="sync_enable">Синхронизация</string>
     <string name="accessibility_enable">Вкл. доступность</string>
     <string name="development_enable">Вкл. разработку</string>
     <string name="device_name">Имя устройства</string>
@@ -2284,8 +2284,8 @@
     <string name="wps_connect_title">Подключение к WPS</string>
     <string name="wps_connect_summary">Пожалуйста, подтвердите что режим WPS поддерживается беспроводным маршрутизатором    и включен</string>
     <string name="retry">Повтор</string>
-    <string name="brightness_auto_adjust_off">Яркость можно регулировать по своему вкусу, перемещая ползунок. Яркость экрана    не будет зависеть от внешних условий.</string>
-    <string name="brightness_auto_adjust_on">Эффект Автояркость можно регулировать перемещая ползунок. Яркость экрана будет меняться в зависимости от вашей настройки и внешних условий.</string>
+    <string name="brightness_auto_adjust_off">Яркость можно регулировать по своему вкусу, перемещая ползунок. Яркость экрана не будет зависеть от внешних условий.</string>
+    <string name="brightness_auto_adjust_on">Эффект \"Автояркость\" можно регулировать перемещая ползунок. Яркость экрана будет меняться в зависимости от вашей настройки и внешних условий.</string>
     <string name="mdb_restore_label">Mdb восстановление</string>
     <string name="mdb_restore_info1">Будут всстановлены данные вашего телефона</string>
     <string name="mdb_restore_info2">Пожалуйста не отключайте USB</string>

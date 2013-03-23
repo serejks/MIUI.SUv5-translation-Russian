@@ -222,7 +222,7 @@
     <string name="settings_expandable_under_keyguard_summary">Работает, если для разблокировки не установлен пароль</string>
     <string name="settings_expandable_under_fullscreen">На весь экран</string>
     <string name="settings_expandable_under_fullscreen_summary">Потяните вниз от верхней части экрана</string>
-    <string name="settings_show_flow_info">Показать инфо-поток</string>
+    <string name="settings_show_flow_info">Показывать трафик</string>
     <string name="notification_icon_filter_settings">Уведомление</string>
     <string name="notification_icon_filter_settings_loading">Идёт загрузка, пожалуйста подождите</string>
     <string name="notification_icon_filter">Настройка уведомлений</string>
@@ -283,7 +283,7 @@
     <string name="camera_key_action_shortcut_wake">Заблокировать/Разблокировать</string>
     <string name="torch_activity_name">Фонарик</string>
     <string name="torch_activity_hint">Вы можете быстро включить фонарик, удерживая [icon] на экране блокировки</string>
-    <string name="lockscreen_carrier_default">Вне зоны доступа</string>
+    <string name="lockscreen_carrier_default">Без доступа к сети</string>
     <string name="chooseUsbActivity">Выберите приложение для USB-устройства</string>
     <string name="usb_storage_title">USB подключён</string>
     <string name="usb_storage_message">Вы подключили компьютер по USB. Нажмите на кнопку внизу, если хотите скопировать файлы между компьютером и USB-накопителем смартфона.</string>

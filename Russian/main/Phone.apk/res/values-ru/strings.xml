@@ -909,7 +909,7 @@
   <string name="description_direction_up_miui">Вверх для %s.</string>
   <string name="description_target_answer_miui">Ответ</string>
   <string name="description_target_decline_miui">Отбой</string>
-  <string name="description_target_send_sms_miui">Послать SMS</string>
+  <string name="description_target_send_sms_miui">Отправить SMS</string>
   <string name="disable_all_cf_miui">Отключить все переадресации</string>
   <string name="disable_miui">Отключить</string>
   <string name="disable_sim_pin_miui">Отключить SIM PIN</string>

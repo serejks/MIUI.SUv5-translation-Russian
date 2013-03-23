@@ -83,8 +83,8 @@
     <string name="old_format_convert_tip2">Или удалите и загрузите новую версию.</string>
     <string name="wrong_title">Ошибка</string>
     <string name="theme_format_wrong_content">Неверный формат темы</string>
-    <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка</string>
-    <string name="apply_font_btn_reboot">Применить и перезагрузить</string>
+    <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
+    <string name="apply_font_btn_reboot">Перезагрузить</string>
     <string name="apply_font_btn_exclude">Применить без шрифтов</string>
     <string name="title_local">Локальные</string>
     <string name="title_online">Онлайн</string>
@@ -96,7 +96,7 @@
     <string name="all_ringtone_resource">Все</string>
     <string name="resource_default">Стандартный рингтон</string>
     <string name="resource_default_name">Ресурсы</string>
-    <string name="resource_delete_all">Выбрано ресурсов: %1$d. Вы уверены, что хотите их удалить?</string>
+    <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
     <string name="resource_detail">Детали</string>
     <string name="resource_download">Загрузка</string>

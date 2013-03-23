@@ -24,9 +24,9 @@
     <string name="file_not_found">Файл не существует</string>
     <string name="music_settings">Настройки</string>
     <string name="mobile_connect_settings">Мобильная сеть</string>
-    <string name="download_album_settings">Загрузить изображения</string>
+    <string name="download_album_settings">Загружать изображения</string>
     <string name="download_album_summary">Увеличится объём загружаемых данных. Рекомендуется выключить.</string>
-    <string name="download_lyric_settings">Загрузить тексты песен</string>
+    <string name="download_lyric_settings">Загружать тексты песен</string>
     <string name="download_lyric_summary">Не сильно повлияет на объём загружаемых данных. Рекомендуется включить.</string>
     <string name="listen_to_music_online_settings">Слушать музыку онлайн</string>
     <string name="listen_to_online_summary">Увеличится объём загружаемых данных. Рекомендуется выключить.</string>
@@ -80,7 +80,7 @@
     <string name="filter_notification">Фильтр применён. Вы можете изменить его настройки в настройках фильтра.</string>
     <string name="delete_item">Удалить</string>
     <string name="remove_item">Убрать</string>
-    <string name="delete_song_desc">Вы уверены, что хотите удалить %s?</string>
+    <string name="delete_song_desc">Удалить выбранные песни (%s шт.)?</string>
     <string name="scanning">Сканирую карту памяти…</string>
     <string name="scanning_nosdcard">Сканирую USB накопитель…</string>
     <string name="online_indicator">-онлайн</string>
@@ -103,9 +103,9 @@
     <string name="sdcard_error_message_nosdcard">На USB накопителе произошла ошибка.</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
-    <string name="ringtone_menu">Использовать как мелодию звонка на телефоне</string>
-    <string name="ringtone_menu_short">Использовать как мелодию звонка</string>
-    <string name="ringtone_set">\"%s\" используется как мелодия звонка.</string>
+    <string name="ringtone_menu">Использовать как рингтон</string>
+    <string name="ringtone_menu_short">Использовать как рингтон</string>
+    <string name="ringtone_set">\"%s\" используется как рингтон.</string>
     <string name="play_selection">Воспроизвести</string>
     <string name="add_to_playlist">Добавить в плейлист</string>
     <string name="add_to_favorite">Добавить в избранное</string>
@@ -123,7 +123,7 @@
     <string name="search_hint">Поиск музыки</string>
     <string name="all_tracks">Все песни</string>
     <string name="menu_batch_selection">Редактор</string>
-    <string name="send_to">Отправить</string>
+    <string name="send_to">Действия с файлом</string>
     <string name="send_to_application">Отправить в другое приложение</string>
     <string name="edit_id3">Редактировать ID3 теги</string>
     <string name="download">Загрузить</string>

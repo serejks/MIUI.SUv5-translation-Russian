@@ -12,7 +12,7 @@
     <string name="apply_update_fail">Обновление системы не удалось</string>
     <string name="apply_update_refuse">Обновление в процессе, выберите заново и установите позже</string>
     <string name="view_install_log">Показать лог ошибок</string>
-    <string name="send_install_log">Послать лог ошибок</string>
+    <string name="send_install_log">Отправить лог ошибок</string>
     <string name="install_email">Установить e-mail софт</string>
     <string name="send_install_log_error">Ошибка при отправке лога ошибок</string>
     <string name="copy_install_log">Копировать</string>
@@ -33,7 +33,7 @@
     <string name="apply_update_dialog_update_button">Обновить</string>
     <string name="apply_update_dialog_cancel_button">Отмена</string>
     <string name="cancel_download_buton_text">Отмена</string>
-    <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите прервать текущую закрузку?</string>
+    <string name="confirm_download_cancelation_dialog_message">Прервать текущую закрузку?</string>
     <string name="dialog_yes">Да</string>
     <string name="dialog_no">Нет</string>
     <string name="dialog_ok">ОК</string>

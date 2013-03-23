@@ -43,7 +43,7 @@
   <string name="permdesc_write_settings">Позволяет приложению изменять настройки и ярлыки на главном экране.</string>
   <string name="start_activity_failed">Ошибка запуска. Повторите еще раз</string>
   <string name="gadget_error_text">Не удалось загрузить виджет</string>
-  <string name="menu_edit">Редактировать виджеты</string>
+  <string name="menu_edit">Управление виджетами</string>
   <string name="menu_sort">Сортировка</string>
   <string name="menu_launcher_setting">Настройки лаунчера</string>
   <string name="editing_tips">Добавление и редактирование виджетов</string>

@@ -51,7 +51,7 @@
     <string name="snooze_confirm_cancel">Отменить отложенный будильник</string>
 	<string name="volume_button_setting_title">Функции кнопок</string>
 	<string name="volume_button_dialog_title">Функция кнопок</string>
-	<string name="volume_button_setting_summary">Определить функцию этой кнопки во время звонка будильника</string>
+	<string name="volume_button_setting_summary">Определить функцию кнопкок во время звонка будильника</string>
 	<string name="default_ringtone_setting_title">Мелодия</string>
 	<string name="alarm_button_description">Будильник</string>
 	<string name="gallery_button_description">Галерея</string>
@@ -77,7 +77,7 @@
 	<string name="menu_delete">Удалить</string>
 	<string name="menu_edit_systemtime">Системное время</string>
 	<string name="delete_timezone_title">Удалить часовой пояс</string>
-	<string name="delelte_selected_timezone">Вы уверены, что хотите удалить выбранные часовые пояса?</string>
+	<string name="delelte_selected_timezone">Удалить выбранные часовые пояса?</string>
 	<string name="wait_when_operating_data_message">Обработка</string>
 	<string name="timezone_exist_error_message">Ошибка добавления часового пояса (Уже существует)</string>
 	<string name="timezone_search_hint">Поиск города</string>

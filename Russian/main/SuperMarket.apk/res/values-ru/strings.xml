@@ -70,11 +70,11 @@
     <string name="update_date_label">Обновление: </string>
     <string name="update_date">%1$s-%2$s-%3$s</string>
     <string name="version_label">Версия: </string>
-    <string name="share_button">Послать</string>
+    <string name="share_button">Отправить</string>
     <string name="update_info">Обновления</string>
     <string name="description_info">Описание</string>
     <string name="delta_update">Дельта обновление %1$s</string>
-    <string name="install">Установить</string>
+    <string name="install">"  Установить"</string>
     <string name="update">Обновить</string>
     <string name="installed">Установлено</string>
     <string name="cancel">Отмена</string>

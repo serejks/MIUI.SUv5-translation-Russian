@@ -7,8 +7,8 @@
 	<string name="start_backup">Начать</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="backup_empty">Бэкапов не найдено</string>
-	<string name="backup_items_sysdata_tailer">" системных файлов"</string>
-	<string name="backup_items_app_tailer">" приложений"</string>
+	<string name="backup_items_sysdata_tailer">" системных файлов "</string>
+	<string name="backup_items_app_tailer">" приложений "</string>
 	<string name="backup_failed">Ошибка резервного копирования</string>
 	<string name="backup_recently">" (Последний)"</string>
 	<string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
