@@ -67,7 +67,7 @@
   <string name="error_server">Ошибка сервера</string>
   <string name="error_sim_not_ready">SIM карта не готова</string>
   <string name="error_unknown">Неизвестная ошибка: %1$s</string>
-  <string name="quick_login_title">Проверка не требуется. Введите ваш пароль</string>
+  <string name="quick_login_title">Требуется проверка. Введите ваш пароль</string>
   <string name="account_name">Аккаунт: %1$s</string>
   <string name="input_password_hint">Введите пароль</string>
   <string name="confirm">Подтвердить</string>

@@ -128,7 +128,7 @@
     <string name="HIPS_SecurityPrompt_Accept">Да (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject">Нет (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
-    <string name="HIPS_SecurityPrompt_Next">Следующий</string>
+    <string name="HIPS_SecurityPrompt_Next">Далее</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Важное предупреждение</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Вы хотите предоставить ROOT для %1$s?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT может привести к нестабильности системы</string>
