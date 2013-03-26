@@ -6,8 +6,8 @@
     </string-array>
     <string-array name="font_size_names">
         <item>Маленький</item>
+        <item>Нормальный</item>
         <item>Большой</item>
-        <item>Очень большой</item>
         <item>Огромный</item>
     </string-array>
 </resources>
