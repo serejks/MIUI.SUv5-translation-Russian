@@ -1950,7 +1950,7 @@
     <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
     <string name="preferred_launcher_warning_message">Замена стандартного лаунчера может повлечь за собой большее потребление энергии, ухудшение скорости работы, ухудшить безопасность личных данных и т.д. Рекомендуется использовать стандартный лаунчер.</string>
     <string name="preferred_launcher_warning_replace">Замена</string>
-    <string name="preferred_launcher_warning_use_system">Исп.лаунчер по умолчанию</string>
+    <string name="preferred_launcher_warning_use_system">Отмена</string>
     <string name="key_settings_title">Настройка кнопок</string>
     <string name="key_settings">Настройка кнопок</string>
     <string name="menu_key">Клавиша меню</string>
