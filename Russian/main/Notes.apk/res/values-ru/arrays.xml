@@ -4,4 +4,10 @@
         <item>Сообщения</item>
         <item>E-mail</item>
     </string-array>
+    <string-array name="font_size_names">
+        <item>Маленький</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
+        <item>Огромный</item>
+    </string-array>
 </resources>
