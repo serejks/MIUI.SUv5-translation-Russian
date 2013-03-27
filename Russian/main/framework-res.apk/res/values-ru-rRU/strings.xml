@@ -695,8 +695,8 @@
     <string name="emailTypeMobile">Мобильная</string>
     <string name="postalTypeCustom">Свой ярлык</string>
     <string name="postalTypeHome">Домашний</string>
-    <string name="postalTypeWork">Рабочая</string>
-    <string name="postalTypeOther">Другая</string>
+    <string name="postalTypeWork">Рабочий</string>
+    <string name="postalTypeOther">Другой</string>
     <string name="imTypeCustom">Свой ярлык</string>
     <string name="imTypeHome">Домашний</string>
     <string name="imTypeWork">Рабочий</string>

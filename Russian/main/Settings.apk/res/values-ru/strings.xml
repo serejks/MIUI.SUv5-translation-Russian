@@ -2272,7 +2272,7 @@
     <string name="screen_saturation_adjust">Насыщенность цвета</string>
     <string name="finish_application">Закрыть</string>
     <string name="header_category_accounts">АККАУНТЫ</string>
-    <string name="auto_startup_application_manage">Автозапуск приложений</string>
+    <string name="auto_startup_application_manage">Автозапуск</string>
     <string name="auto_startup_count">Разрешить %d приложениям автозапуск</string>
     <string name="auto_startup_dialog_msg">MIUI позволит приложению запускаться автоматически. Это может повлечь за собой повышенное потребление энергии и трафика. Разрешить автозапуск?</string>
     <string name="man_add_application">Добавить вручную</string>

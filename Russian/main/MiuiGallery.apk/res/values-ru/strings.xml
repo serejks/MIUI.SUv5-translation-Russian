@@ -126,7 +126,7 @@
     <string name="crop_saved">Измененное изображение сохранено в папке Downloads.</string>
     <string name="crop_not_saved">Измененное изображение не было сохранено.</string>
     <string name="no_albums_alert">Альбомы не обнаружены.</string>
-    <string name="empty_album">O изображений/альбомов обнаружено.</string>
+    <string name="empty_album">Изображений/альбомов не обнаружено.</string>
     <string name="picasa_posts">Записи</string>
     <string name="make_available_offline">Сделать доступным офлайн</string>
     <string name="sync_picasa_albums">Обновить</string>

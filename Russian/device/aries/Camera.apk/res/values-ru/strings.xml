@@ -167,7 +167,7 @@
     <string name="pref_camera_coloreffect_entry_mosaic">Мозайка</string>
     <string name="pref_camera_coloreffect_entry_redtint">Красный оттенок</string>
     <string name="pref_camera_coloreffect_entry_bluetint">Синий оттенок</string>
-    <string name="pref_camera_coloreffect_entry_greentint">Зеоеный оттенок</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Зеленый оттенок</string>
     <string name="pref_camera_coloreffect_entry_lomo">Ломо</string>
     <string name="pref_camera_coloreffect_entry_pro">Под старину</string>
     <string name="pref_camera_touchafaec_default">touch-on</string>
