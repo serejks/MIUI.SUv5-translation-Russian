@@ -14,12 +14,9 @@
     <string name="new_app_tag">Новый</string>
     <string name="download_manager_tag_with_nonzero_downloads">Загрузки(%1$s/%2$s)</string>
     <string name="download_manager_tag">Загрузки</string>
-    <string name="menu_search">Поиск</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_login">Вход</string>
-    <string name="menu_logout">Выход</string>
     <string name="menu_account">Мой аккаунт</string>
-    <string name="menu_install_all">Установить все</string>
     <string name="menu_download_manager">Загрузки</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_clear_search_history">Очистить историю поиска</string>
@@ -37,10 +34,6 @@
     <string name="pref_title_data_save_mode">Режим сохранения данных</string>
     <string name="pref_title_clear_search_record">Очистить историю поиска</string>
     <string name="pref_title_update_notify_mode">Уведомления об обновлениях</string>
-    <string name="pref_summary_auto_update_setting">Уведомление при окончании загрузки</string>
-    <string name="pref_summary_data_save_mode">Не загружать изображения</string>
-    <string name="pref_summary_clear_search_record">Очистить историю поиска</string>
-    <string name="pref_summary_notification_frequency">Установка частоты уведомлений</string>
     <string name="pref_list_auto_update">Автообновление</string>
     <string name="pref_list_always_enable">Всегда вкл.</string>
     <string name="pref_list_remind_me_after_download">Уведомление об окончании загрузки</string>
@@ -193,9 +186,9 @@
     <string name="password">Пароль</string>
     <string name="password_hint_text">6~16 символов</string>
     <string name="bad_authentication">Ошибка аутентификации. Неверное имя пользователя или пароль.</string>
-    <string name="micloud_welcome_banner">Аккаунт XiaoMi</string>
-    <string name="micloud_account_name">Аккаунт XiaoMi</string>
-    <string name="micloud_log_prompt">Войти в аккаунт XiaoMi</string>
+    <string name="micloud_welcome_banner">Аккаунт Xiaomi</string>
+    <string name="micloud_account_name">Аккаунт Xiaomi</string>
+    <string name="micloud_log_prompt">Войти в аккаунт Xiaomi</string>
     <string name="micloud_use_existing">Существующий</string>
     <string name="micloud_reg_new">Новый</string>
     <string name="micloud_error_empty_username">Не введено имя пользователя</string>
@@ -208,8 +201,8 @@
     <string name="micloud_password_req_notice">8~16 символов, может содержать цифры, буквы, чувствителен к регистру</string>
     <string name="micloud_password_error_inconsistent">Пароли не совпадают</string>
     <string name="micloud_val_sms_alert">Чтобы подтвердить ваш номре телефона, необходимо отправить смс. Продолжить?</string>
-    <string name="micloud_error_email">Неверный Email</string>
-    <string name="micloud_account">Аккаунт XiaoMi</string>
+    <string name="micloud_error_email">Неверный e-mail</string>
+    <string name="micloud_account">Аккаунт Xiaomi</string>
     <string name="micloud_active_email_sent_1">Мы отправили ссылку для активации на ваш Email</string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">"Перейдите по ссылке из вашего Email для активации \nАккаунта Xiaomi"</string>
@@ -219,9 +212,9 @@
     <string name="micloud_active_sms_status_network">Нет сети</string>
     <string name="micloud_active_sms_status_success">Регистрация прошла успешно</string>
     <string name="completed">Завершить</string>
-    <string name="title_login">Войти в аккаунт XiaoMi</string>
-    <string name="title_reg">Создать аккаунт XiaoMi</string>
-    <string name="title_activate">Активировать ваш XiaoMi аккаунт</string>
+    <string name="title_login">Войти в аккаунт Xiaomi</string>
+    <string name="title_reg">Создать аккаунт Xiaomi</string>
+    <string name="title_activate">Активировать ваш Xiaomi аккаунт</string>
     <string name="micloud_account_label">Аккаунт:%1$s</string>
     <string name="reg_by_email_failure">Сбой регистрации:%1$s</string>
     <string name="reg_failed">Сбой регистрации</string>
@@ -239,14 +232,4 @@
     <string name="login_retry">Попробовать еще раз</string>
     <string name="failed_to_send_activate_email">Сбой отсылки активациионного email.</string>
     <string name="access_denied">Доступ запрещен</string>
-    <string name="abs__action_bar_home_description">В начало</string>
-    <string name="abs__action_bar_up_description">Вверх</string>
-    <string name="abs__action_menu_overflow_description">Больше настроек</string>
-    <string name="abs__action_mode_done">Завершено</string>
-    <string name="abs__activity_chooser_view_see_all">Просмотреть все…</string>
-    <string name="abs__activity_chooser_view_dialog_title_default">Выбрать действие</string>
-    <string name="abs__share_action_provider_share_with">Отправить…</string>
-    <string name="abs__activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abs__shareactionprovider_share_with">Отправить</string>
-    <string name="abs__shareactionprovider_share_with_application">Отправить %s</string>
 </resources>
