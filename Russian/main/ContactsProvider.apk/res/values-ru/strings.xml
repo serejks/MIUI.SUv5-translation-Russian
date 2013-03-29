@@ -16,4 +16,5 @@
     <string name="create_contact">Новый контакт</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="edit_contact">Добавить к контакту</string>
+    <string name="call_log_provider_label">Журнал вызовов</string>
 </resources>

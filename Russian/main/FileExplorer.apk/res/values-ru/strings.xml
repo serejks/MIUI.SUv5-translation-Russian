@@ -134,6 +134,9 @@
     <string name="kuaipan_over_space">У вас в KuaiPan закончилось место.</string>
     <string name="kuaipan_tech_support">Тех.поддержка Kingsoft Kuaipan</string>
     <string name="no_tasks">Нет задач</string>
+    <string name="no_more_space">Нет свободного места</string>
+    <string name="sd_full">SD-карта заполнена</string>
+    <string name="file_too_large">Слишком большой файл для загрузки</string>
     <string name="create_new_folder_failed">Ошибка создания папки %1$s</string>
     <string name="slide_left_text">Сдвиньте влево</string>
     <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD-карты в KuaiPan</string>
@@ -216,6 +219,9 @@
     <string name="uploading">Загрузка</string>
     <string name="downloading">Загрузка</string>
     <string name="waiting">Ожидание</string>
+    <string name="wait_wifi">Ожидание Wi-Fi</string>
+    <string name="wait_net">Ожидание сети</string>
+    <string name="wait_sdcard">Ожидание монтирования SD-карты</string>
     <string name="paused">Приостановлено</string>
     <string name="upload_failed">Ошибка загрузки</string>
     <string name="download_failed">Ошибка загрузки</string>
@@ -229,7 +235,9 @@
     <string name="trans_task">Передача по сети</string>
     <string name="trans_task_delete_confirm_message">Выбрано заданий: %1$d. Удалить?</string>
     <string name="des_running_trans">Еще %1$d файлов нужно передать</string>
-    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Нажмите&lt;/a&gt;чтобы очистить корзину</string>
+    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Нажмите&lt;/a&gt; чтобы очистить корзину</string>
+    <string name="scanning">Сканирование…</string>
+    <string name="clean_complete">Очищено</string>
     <string name="storage_internal">ВНУТРЕННЯЯ ПАМЯТЬ</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопитель</string>    
@@ -240,4 +248,14 @@
     <string name="binding_accout_title">Привязка к существующему аккаунту KuaiPan</string>
     <string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
     <string name="binded_accout_warning">Внимание! Эта операция необратима!</string>
+    <string name="cleanup_help">Удалите нежунные файлы.\nОчистите место для хранения</string>
+    <string name="account_bind_prompt">Перемещение пользовательских данных\nэто может занять несколько минут,\nваш аккаунт будет временно заблокирован, пожалуйста подождите…</string>
+    <string name="migrate_announcement_title">MiDriver был перенесен на KuaiPan</string>
+    <string name="migrate_announcement_msg">Если у вас есть аккаунт KuaiPan, вы можете подключиться к нему и получить доступ к данным KuaiPan.</string>
+    <string name="query_bind_state">Ожидание подключения, пожалуйста подождите…</string>
+    <string name="operation_deleting_detail">Удаление (%1$d/%2$d)</string>
+    <string name="operation_moving_detail">Перемещение (%1$d/%2$d)</string>
+    <string name="operation_copying">Копирование…</string>
+    <string name="operation_copying_detail">Копирование (%1$d/%2$d)</string>
+    <string name="name_illegal">Название не может быть пустое</string>
 </resources>

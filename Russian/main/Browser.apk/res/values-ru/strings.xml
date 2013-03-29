@@ -369,6 +369,7 @@
     <string name="bookmark_add_to">Добавить в</string>
     <string name="add_folder">Добавить папку</string>
     <string name="folder_name">Имя папки</string>
+    <string name="have_sent_bookmark_to_home_screen">Отправлена на рабочий стол</string>
     <string name="bookmark_this_page_to_readmodelist">Добавить страницу с список чтения</string>
     <string name="readmodelist_bookmarks_to_show">Список чтения</string>
     <string name="bookmark_to_readmodelist_saved">Сохранено в список чтения и закладки</string>
@@ -389,7 +390,7 @@
     <string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту</string>
     <string name="import_bookmark_sucess">Закладки импортированы!</string>
     <string name="import_bookmark_failure">Невозможно импортировать закладки!</string>
-    <string name="importing_favorite_files">Импорт данных …</string>
+    <string name="importing_favorite_files">Импорт данных…</string>
     <string name="please_select_a_file_to_import">Выберите файл с данными</string>
     <string name="exported_bookmark_file_name">Избранное</string>
     <string name="import_bookmark">Импорт закладок</string>
@@ -453,4 +454,5 @@
     <string name="url_copy_done">URL скопирован</string>
     <string name="pref_setting_title">Настройка страницы</string>
     <string name="pref_general_setting_title">Настройка</string>
+    <string name="return_to_homepage">Вернуться на домашнюю страницу</string>
 </resources>

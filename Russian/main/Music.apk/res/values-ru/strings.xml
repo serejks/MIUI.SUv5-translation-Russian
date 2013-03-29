@@ -247,7 +247,11 @@
     <string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
     <string name="album_select">Выберите обложку альбома</string>
     <string name="no_song_downloaded">Нет песен для загрузки.</string>
+    <string name="dirac_enabled">Dirac включен</string>
+    <string name="dirac_disabled">Dirac выключен</string>
+    <string name="filter_by_size_max">2Мб</string>
+    <string name="filter_by_size_min">0Кб</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="channel_postfix">МГц</string>
-    <string name="channel_format" formatted="false">"%s    %s МГц"</string>
+    <string name="channel_format" formatted="false">"%s  %s МГц"</string>
 </resources>
