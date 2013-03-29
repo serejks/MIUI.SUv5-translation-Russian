@@ -79,11 +79,11 @@
     <string name="camera_setas_wallpaper">Фон рабочего стола</string>
     <string name="delete">Удалить</string>
     <string name="confirm_delete">Удалить выбранные пункты (%s шт.)?</string>
-    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая %s штук)?</string>
+    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая %s вложений)?</string>
     <string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
     <string name="confirm_delete_folders_and_pictures">Удалить (%s шт.)?</string>
     <string name="confirm_delete_pictures">%s</string>
-    <string name="confirm_delete_folders_including" formatted="false">" папок: %s (Включая %s штук)"</string>
+    <string name="confirm_delete_folders_including" formatted="false">" папок: %s (Включая %s вложений)"</string>
     <string name="confirm_delete_videos">%s</string>
     <string name="confirm_delete_including_null">0 штук</string>
     <string name="cancel">Отмена</string>
