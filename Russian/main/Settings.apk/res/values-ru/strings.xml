@@ -2296,4 +2296,5 @@
     <string name="private_sms_need_to_unlock">Пожалуйста, введите личный пароль из SMS</string>
     <string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для сброса SMS пароля</string>
     <string name="private_sms_recording_intro_header">Нарисуйте узор для создания графического пароля</string>
+    <string name="dirac_control">Управление Dirac</string>
 </resources>
