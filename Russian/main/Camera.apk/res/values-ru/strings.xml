@@ -12,7 +12,6 @@
     <string name="not_enough_space_sd">Ваша %s заполнена</string>
     <string name="preparing_sd_sd">Подготовка %s…</string>
     <string name="access_sd_fail_sd">Ошибка доступа к %s.</string>
-    <string name="no_storage">Подключите USB-накопитель перед использованием камеры.</string>
     <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
     <string name="not_enough_space">Недостаточно памяти.</string>
     <string name="preparing_sd">Подготовка USB-накопителя…</string>
@@ -119,7 +118,6 @@
     <string name="pref_restore_detail">Восстановить настройки по умолчанию</string>
     <string name="pref_exposure_title">Экспозиция</string>
     <string name="dialog_ok">ОК</string>
-    <string name="spaceIsLow_content">Место на USB-накопителе заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
     <string name="switch_to_camera_label">Режим \"Фото\"</string>

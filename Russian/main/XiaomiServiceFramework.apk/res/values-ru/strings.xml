@@ -6,7 +6,7 @@
     <string name="login">Войти</string>
     <string name="next">Далее</string>
     <string name="prev">Назад</string>
-    <string name="forget_password"><u>абыли пароль?</u></string>
+    <string name="forget_password"><u>Забыли пароль?</u></string>
     <string name="password">Пароль</string>
     <string name="bad_authentication">Неправильный логин или пароль</string>
     <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
