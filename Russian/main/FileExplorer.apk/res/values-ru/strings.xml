@@ -161,7 +161,6 @@
     <string name="trash_box_message2">Вы можете удалить ненужные файлы или очистить корзину для освобождения места</string>
     <string name="close">Закрыть</string>
     <string name="clean_trash_box_failed">Ошибка удаления файлов старше 30 дней из Корзины</string>
-    <string name="cleanup_help">Очистка ненужных файлов в системе для свобождения пространства</string>
     <string name="cleanup_tab_app">Очистка приложений</string>
     <string name="cleanup_tab_garbage">Очистка системы</string>
     <string name="space_info">KuaiPan объем: %1$ доступно, %2$s всего</string>
