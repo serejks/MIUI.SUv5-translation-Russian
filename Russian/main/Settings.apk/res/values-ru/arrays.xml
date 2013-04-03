@@ -333,13 +333,13 @@
         <item>Энергосбережение</item>
   </string-array>  
   <string-array name="msd_pc_system">
-        <item>Windows XP и поздние версии</item>
+        <item>Windows XP и ранние версии</item>
         <item>Windows Vista и версии новее</item>
         <item>Mac OS</item>
         <item>Linux</item>
   </string-array>
   <string-array name="msd_pc_system_install_start_summary">
-        <item>Для Windows XP или версий старее,\nдрайвер следует установить вручную</item>
+        <item>Для Windows XP или ранних версий,\nдрайвер следует установить вручную</item>
         <item>Для Windows Vista или версий новее,\nмузыкальный проигрыватель MI 2 появится на вашем компьютере автоматически</item>
         <item>Для Mac OS X,\nдрайвер следует установить вручную</item>
         <item></item>
