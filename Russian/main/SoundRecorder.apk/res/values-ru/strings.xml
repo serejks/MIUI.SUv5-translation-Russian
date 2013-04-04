@@ -66,7 +66,7 @@
     <string name="rename_dialog_title">Переименовать эту запись</string>
     <string name="rename_illegal">Некорректное имя, пожалуйста повторите:</string>
     <string name="rename_duplicate">Такое имя уже существует, пожалуйста повторите:</string>
-    <string name="record_picker_title">Выберите одну запись</string>
+    <string name="record_picker_title">Диктофон</string>
     <string name="dialog_title_storage_full">Недостаточно места в памяти, очистить сейчас?</string>
     <string name="dialog_content_storage_full">Из-за нехватки памяти, запись была остановленна, удалите лишние файлы через Файл менеджер, запустить приложение?</string>
     <string name="record_saving">Сохранение записи. Подождите, пожалуйста.</string>
