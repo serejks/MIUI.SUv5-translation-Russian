@@ -220,7 +220,7 @@
     <string name="settings_expanded_view">Панель уведомлений</string>
     <string name="settings_expandable_under_keyguard">На экране блокировки</string>
     <string name="settings_expandable_under_keyguard_summary">Работает, если для разблокировки не установлен пароль</string>
-    <string name="settings_expandable_under_fullscreen">На весь экран</string>
+    <string name="settings_expandable_under_fullscreen">В полноэкранном режиме</string>
     <string name="settings_expandable_under_fullscreen_summary">Потяните вниз от верхней части экрана</string>
     <string name="settings_show_flow_info">Показывать трафик</string>
     <string name="notification_icon_filter_settings">Уведомление</string>
