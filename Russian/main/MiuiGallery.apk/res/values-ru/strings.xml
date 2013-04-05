@@ -79,10 +79,14 @@
     <string name="camera_setas_wallpaper">Фон рабочего стола</string>
     <string name="delete">Удалить</string>
     <string name="confirm_delete">Удалить выбранные пункты (%s шт.)?</string>
-    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая %s вложений)?</string>
+    <string name="confirm_delete_cloud_all_item_page" formatted="false">Картинок (%s шт.) в альбомах (%s шт.) Удалить?</string>
+    <string name="delete_fail_too_many_items">Ошибка удаления. Возможно отмечено слишком много.</string>
+    <string name="add_to_cloud_fail_too_many_items">Невозможно завершить операцию. Возможно отмечено слишком много.</string>
+    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая вложений: %s шт.)?</string>
     <string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
     <string name="confirm_delete_folders_and_pictures">Удалить (%s шт.)?</string>
     <string name="confirm_delete_pictures">%s</string>
+    <string name="confirm_delete_items">Значений: %s</string>
     <string name="confirm_delete_folders_including" formatted="false">" папок: %s (Включая %s вложений)"</string>
     <string name="confirm_delete_videos">%s</string>
     <string name="confirm_delete_including_null">0 штук</string>
@@ -235,6 +239,7 @@
     <string name="storage_no_space">Недостаточно места в хранилище</string>
     <string name="add_to_cloud_album">Добавить в</string>
     <string name="move_to_cloud_album">Переместить в</string>
+    <string name="send_to_cloud_failed_message">Невозможно добавить в облачный альбом</string>
     <string name="cant_delete_system_album">\"%s\" системный альбом, который не может быть удален.</string>
     <string name="click_to_enter_camera">Нажмите для запуска камеры</string>
     <string name="camera_view_none_message">Захваченные фотографии будут отображаться здесь.</string>
@@ -258,6 +263,8 @@
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">MiTalk Рисунки</string>
     <string name="miliao_saved_folder_display_name">MiTalk сохраненное</string>
+    <string name="mishop_saved_folder_display_name">MiShop сохраненное</string>
+    <string name="demo_video_folder_display_name">Демо видео</string>
     <string name="must_pick_file">Выберите изображение</string>
     <string name="play_video">Воспроизвести</string>
     <string name="set_lock_or_wallpaper">Установить в качестве обоев</string>

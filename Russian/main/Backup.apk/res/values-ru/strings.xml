@@ -87,6 +87,10 @@
 	<string name="data_no_enough_space_message">Возможен сбой резервного копирования, освободите память и попробуйте еще раз</string>
 	<string name="task_running_hint">Служба работает в фоне. Попробуйте еще раз восстановить</string>
 	<string name="task_running_dialog">Резервное копирование и восстановление работают в фоне, чтобы увидеть его, нажмите ОК</string>
+    <string name="task_running_backup_hint">Служба работает в фоновом режиме, попробуйте еще раз для резервного копирования!</string>
+    <string name="task_running_restore_hint">Служба работает в фоновом режиме, попробуйте еще раз для восстановления!</string>
+    <string name="task_running_backup_dialog">Резервное копирование выполняется в фоновом режиме, нажмите \"ОК\" для просмотра.</string>
+    <string name="task_running_restore_dialog">Восстановление выполняется в фоновом режиме, нажмите \"ОК\" для просмотра.</string>
 	<string name="task_service_not_launched">Сервис не запущен, ждите…</string>
 	<string name="task_local_backup_cancel_dialog">Резервное копирование не завершено\nНажмите ОК, для отмены</string>
 	<string name="task_cloud_backup_cancel_dialog">Резервное копирование не завершено\nНажмите ОК, для отмены</string>

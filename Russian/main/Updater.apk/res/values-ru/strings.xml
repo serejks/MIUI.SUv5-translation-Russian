@@ -5,6 +5,9 @@
     <string name="download_whole_rom">Загрузить (%s)</string>
     <string name="download_ota_rom">Загрузить (%s)</string>
     <string name="apply_later_button_text">Применить позже</string>
+    <string name="apply_update_timer">Обновление завершено. Устройство будет перезагружено через %d сек.</string>
+    <string name="reboot_now">Сейчас</string>
+    <string name="reboot_later">Позже</string>
     <string name="start_update">Начать обновление</string>
     <string name="applying_update">Идет обновление (%s)…</string>
     <string name="apply_update_fail">Обновление системы не удалось</string>
@@ -44,6 +47,10 @@
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
     <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
     <string name="system_backup_ok_text">Бэкап</string>
+    <string name="system_backup_download_helper">Устройство будет автоматически перезагружено для обновления после загрузки и применения</string>
+    <string name="system_backup_apply_helper">Устройство будет автоматически перезагружено для обновления после применения</string>
+    <string name="system_backup_helper">Обновление не затронет пользовательских данных. Однако, перед обновлением, рекомендуется сделать резервную копию ваших данных</string>
+    <string name="system_backup_ask">Не запоминать</string>
     <string name="sytemt_backup_helper">Обновление не очищает пользовательские данные. Однако рекомендуется делать резервную копию перед обновлением</string>
     <string name="system_backup_error_message">Резервная копия MIUI не найдена, сделайте вручную</string>
     <string name="md5_check_cancelled">Проверка MD5 прервана</string>
@@ -97,6 +104,7 @@
     <string name="update_monthly_build_only">Обновлять только до ежемесячных сборок</string>
     <string name="install_file_explorer">Установите файловый менеджер</string>
     <string name="share_update">Поделиться информацией об обновлении системы</string>
+    <string name="share">Поделиться</string>
     <string name="share_update_content_unsign">Я обновил MIUI до %1$s! Подробный список изменений на %2$s</string>
     <string name="share_update_content_sign">Я обновил MIUI до %1$s! Мой рейтинг обновления %2$s. Подробный список изменений на %3$s</string>
     <string name="share_sina">Отправить через Sina Weibo</string>

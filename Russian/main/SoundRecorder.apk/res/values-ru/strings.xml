@@ -73,4 +73,8 @@
     <string name="preparing_playback">Загрузка записи. Подождите, пожалуйста.</string>
     <string name="loading_duration">Загружается длительность…</string>
     <string name="record_name_hour">.</string>
+    <string name="sound_recorder_settings">Настройки</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="preference_led_indicator">Индикатор записи, при блокировке</string>
+    <string name="preference_led_indicator_prompt">Whether to turn on the LED and res status bar indicator when recording and screen locked</string>
 </resources>

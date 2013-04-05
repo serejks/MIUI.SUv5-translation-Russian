@@ -855,6 +855,10 @@
     <string name="keep_local_btn">Сохранить только в телефоне</string>
     <string name="batch_delete">Пакетное удаление контактов</string>
     <string name="batch_delete_msg">Выбрано контактов (%d шт.). Удалить ? \n\n Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
+    <string name="starred_contacts">Избранные</string>
+    <string name="other_contacts">Прочие</string>
+    <string name="cloud_antispam_title">Определить странные номера</string>
+    <string name="cloud_antispam_summary">仅在WLAN及3G网络下联网查询</string>
     <string name="resource_app_name">Диспетчер ресурсов</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit">MI Кредиты</string>

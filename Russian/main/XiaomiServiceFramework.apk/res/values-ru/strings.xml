@@ -137,6 +137,8 @@
     <string name="error_verify_summary">У вашего приложения не хватает прав для доступа к службе</string>
     <string name="error_frozen_title">Аккаунт заблокирован!</string>
     <string name="error_frozen_summary">Ваш аккаунт заблокирован</string>
+    <string name="error_account_changed_title">Аккаунт был изменен</string>
+    <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите</string>
     <string name="title_recharge">Пополнение счёта</string>
     <string name="recharge_prepaid_title">Карты предоплаты</string>
     <string name="recharge_prepaid_summary">Поддерживаются карты предоплаты China Mobile, China Unicom и China Telecom</string>
@@ -207,6 +209,7 @@
     <string name="progress_success_title">Зачислено %1$s Mi-долларов</string>
     <string name="progress_success_summary">Баланс аккаунта: %1$s Mi-долларов</string>
     <string name="progress_error_title">Не удалось пополнить счёт</string>
+    <string name="progress_warning_waiting">Все еще не отображается. Повторите позже.</string>
     <string name="progress_error_common">Не удалось пополнить счёт, пожалуйста, попробуйте позже.</string>
     <string name="progress_error_server">Ошибка сервера, пожалуйста, попробуйте позже.</string>
     <string name="progress_error_network">Не удалось установить соединение, проверьте подключение к сети.</string>
