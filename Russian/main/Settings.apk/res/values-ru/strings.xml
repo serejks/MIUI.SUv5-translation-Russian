@@ -1685,7 +1685,7 @@
     <string name="user_new_user_name">Защита от детей</string>
     <string name="user_confirm_remove_title">Удалить пользователя?</string>
     <string name="user_confirm_remove_message">Удалить пользователя и все данные, связанные с ним?</string>
-    <string name="app_notifications_switch_label">Показывать уведомления</string>
+    <string name="app_notifications_switch_label">Уведомления</string>
     <string name="help_label">Помощь</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
     <string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
@@ -2283,7 +2283,7 @@
     <string name="application_item_permission">Разрешить</string>
     <string name="application_item_already_permission">Разрешенные</string>
     <string name="application_forbid_auto_startup">Запретить %s запуск в фоновом режиме</string>
-    <string name="floating_window_switch_label">Показывать уведомления</string>
+    <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="app_floating_window_dlg">Разрешить \"%1$s\" уведомления?</string>
     <string name="wps_category">Быстрая и безопасная связь</string>
     <string name="wps_connect_title">Подключение к WPS</string>
