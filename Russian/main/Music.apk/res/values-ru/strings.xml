@@ -251,7 +251,7 @@
     <string name="dirac_disabled">Dirac выключен</string>
     <string name="filter_by_size_max">2Мб</string>
     <string name="filter_by_size_min">0Кб</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="channel_postfix">МГц</string>
     <string name="channel_format" formatted="false">"%s  %s МГц"</string>
 </resources>
