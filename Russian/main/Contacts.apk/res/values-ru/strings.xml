@@ -870,7 +870,7 @@
     <string name="resource_ringtone_default">Рингтоны</string>
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>
-    <string name="description_designer">Дизайнер:</string>
+    <string name="description_designer">Дизайн:</string>
     <string name="description_author">Автор:</string>
     <string name="description_size">Размер:</string>
     <string name="description_uploadtime">Обновление:</string>
