@@ -125,7 +125,7 @@
     <string name="alarm_label_hint">Введите описание будильника</string>
     <string name="legal_workday_invalidate">Дата истекла (Будильник настроен на работу с ПН по ПТ))</string>
     <string name="legal_workday_invalidate_message">(Дата истекла. Обновите дату в настройках)</string>
-    <string name="legal_workday_message">(Будильник выключен на время праздников)</string>
+    <string name="legal_workday_message">" (Будильник выключен на время праздников)"</string>
     <string name="update_legal_workday_toast">Обновите базу официальных праздников Китая в настройках</string>
     <string name="holiday_update_pref_title">Обновить информацию о рабочих днях</string>
     <string name="holiday_update_pref_invalidate_title">Обновить информацию о рабочих днях (данные устарели)</string>
