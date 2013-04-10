@@ -826,10 +826,21 @@
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
     <string name="master_clear_title">Сброс настроек</string>
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
-    <string name="master_clear_desc">Будут удалены все данные из устройства, в том числе:\n\n\n\n</string>
-    <string name="master_clear_accounts">\n\nВ настоящее время вы выполнили вход в следующие аккаунты:\n</string>
-    <string name="master_clear_desc_also_erases_external">\n\n</string>
-    <string name="master_clear_desc_erase_external_storage">\n\nЧтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить    .</string>
+    <string name="master_clear_desc">"Будут удалены все данные из "<b>внутренного хнакопителя</b>", включая:
+
+"<li>Ваш аккаунт Google</li>"
+"<li>Настройки и приложения</li>"
+"<li>Загруженные приложения</li></string>
+    <string name="master_clear_accounts">"
+
+В настоящее время вы выполнили вход в следующие аккаунты:
+"</string>
+    <string name="master_clear_desc_also_erases_external"><li>Музыка</li>"
+"<li>Фото</li>"
+"<li>Прочее</li></string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить "<b>USB накопитель</b>.</string>
     <string name="erase_external_storage">Очистить SD-карту</string>
     <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
     <string name="master_clear_button_text">Сбросить настройки телефона</string>
@@ -840,12 +851,12 @@
     <string name="master_clear_failed">Сброс не выполнен, поскольку служба System Clear недоступна.</string>
     <string name="master_clear_confirm_title">Выполнить сброс?</string>
     <string name="internal_media_format_title">Очистить внутренний накопитель</string>
-    <string name="internal_media_format_desc">Очистить внутренний накопитель? Вы потеряете все данные и все настройки сбросятся</string>
+    <string name="internal_media_format_desc">Очистить внутренний накопитель? Вы потеряете <b>все</b> данные и все настройки сбросятся</string>
     <string name="internal_media_format_button_text">Очистить внутренний накопитель</string>
     <string name="internal_media_format_final_desc">Удалить все данные с внутреннего накопителя? Это действие нельзя отменить! Телефон будет перезагружен после удаления всех данных!</string>
     <string name="media_format_title">Очистить SD-карту</string>
     <string name="media_format_summary">Удаление всех данных с SD-карты</string>
-    <string name="media_format_desc">Очистить SD-карту? Вы потеряете     данные на ней.</string>
+    <string name="media_format_desc">Очистить SD-карту? Вы потеряете <b>все</b> данные на ней.</string>
     <string name="media_format_button_text">Очистить SD-карту</string>
     <string name="media_format_final_desc">Удалить с SD-карты все файлы без возможности восстановления?</string>
     <string name="media_format_final_button_text">Стереть все</string>
@@ -1416,7 +1427,9 @@
     <string name="wifi_setup_status_eap_not_supported">EAP не поддерживается.</string>
     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки &gt; Беспроводные сети\".</string>
     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
-    <string name="wifi_setup_description_connected">Нажмите \"Далее\" для продолжения установки.\n\nНажмите \"Назад\" для подключения к другой сети Wi-Fi.</string>
+    <string name="wifi_setup_description_connected">Нажмите <b>Далее</b>" для продолжения установки.
+
+Нажмите "<b>Назад</b> для подключения к другой сети Wi-Fi.</string>
     <string name="time_zone_auto_stub">Выберите часовой пояс</string>
     <string name="accessibility_sync_enabled">Синхронизация включена</string>
     <string name="accessibility_sync_disabled">Синхронизация отключена</string>
@@ -1444,6 +1457,8 @@
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Календарь</string>
     <string name="sync_contacts">Контакты</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Добро пожаловать в синхронизацию Google!</font>" 
+Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства. "</string>
     <string name="sync_plug">\nТехнология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства.</string>
     <string name="header_application_sync_settings">Настройки синхронизации</string>
     <string name="header_data_and_synchronization">Cинхронизация данных</string>
@@ -1570,8 +1585,10 @@
     <string name="data_usage_limit_dialog_mobile">Ваша передача данных по сети будет отключена, когда указанный предел будет достигнут.\n\nКоличество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода.</string>
     <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
     <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
-    <string name="data_usage_sweep_warning">\n</string>
-    <string name="data_usage_sweep_limit">\n</string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">внимание</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_received_sent" formatted="false">Получено: %1$s; отправлено: %2$s</string>
     <string name="data_usage_total_during_range" formatted="false">%2$s: %1$s</string>

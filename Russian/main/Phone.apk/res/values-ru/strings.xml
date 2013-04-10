@@ -821,7 +821,8 @@
   <string name="caller_manage_manage_done_text_miui">Назад к вызову</string>
   <string name="call_forwarding_number_hint_miui">Введите номер для переадресации</string>
   <string name="call_forwarding_settings_miui">Переадресация вызовов</string>
-  <string name="calling_via_template_miui">"Вызов через ^1\n"</string>
+    <string name="calling_via_template_miui">"Вызов через ^1
+"<b>^2</b></string>
   <string name="call_log_number_limit_miui">Лимит записей журнала вызовов</string>
   <string name="call_log_number_limit_summary_miui">Ограничение количества записей вызовов</string>
   <string name="call_log_number_limit_setting_title">Настройки лимит записей журнала вызовов</string>

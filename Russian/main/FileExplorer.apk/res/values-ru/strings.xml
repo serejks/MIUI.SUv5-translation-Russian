@@ -154,7 +154,7 @@
     <string name="upload_file_toolarge_message">%1$d файлов размером более 300Мб не могут быть загружены. Проверьте "Управление передачами".</string>
     <string name="cution">Советы</string>
     <string name="clean_trash_box">Очистить Корзину</string>
-    <string name="trash_box_link">Чтобы очистить корзину, посетите pan.xiaomi.com</string>
+    <string name="trash_box_link">Чтобы очистить корзину, посетите <b>pan.xiaomi.com</b></string>
     <string name="clean_title">Удалить файлы из Корзины Старше 30 дней</string>
     <string name="clean_message"> Удаление %1$s</string>
     <string name="trash_box_message1">Вы можете удалить ненужные файлы для освобождения места</string>
