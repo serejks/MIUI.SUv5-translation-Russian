@@ -8,10 +8,10 @@
     <string name="gallery_camera_bucket_name">Снимки камеры</string>
     <string name="gallery_camera_videos_bucket_name">Видео камеры</string>
     <string name="wait">Пожалуйста подождите…</string>
-    <string name="no_storage">Подключите USB накопитель перед использованием камеры.</string>
-    <string name="not_enough_space">Нет места на USB накопителе.</string>
-    <string name="preparing_sd">Подготовка USB накопителя…</string>
-    <string name="access_sd_fail">"Нет доступа к USB накопителю."</string>
+    <string name="no_storage">Подключите USB-накопитель перед использованием камеры.</string>
+    <string name="not_enough_space">Нет места на USB-накопителе.</string>
+    <string name="preparing_sd">Подготовка USB-накопителя…</string>
+    <string name="access_sd_fail">Нет доступа к USB-накопителю.</string>
     <string name="confirm_restore_title">Восстановить по умолчанию</string>
     <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
     <string name="review_play">Воспроизвести</string>
@@ -93,7 +93,7 @@
     <string name="no_video_to_share">Нет видео для отправки.</string>
     <string name="pano_too_fast_prompt">Слишком быстро</string>
     <string name="pano_dialog_prepare_preview">Подготовка панорамы</string>
-    <string name="pano_dialog_panorama_failed">"Не могу сохранить панораму."</string>
+    <string name="pano_dialog_panorama_failed">Не могу сохранить панораму.</string>
     <string name="pano_dialog_title">Панорама</string>
     <string name="pano_capture_indication">Захват панорамы</string>
     <string name="pano_review_saving_indication_str">Сохранение…</string>

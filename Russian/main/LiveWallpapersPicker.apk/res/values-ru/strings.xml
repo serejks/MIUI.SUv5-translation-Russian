@@ -8,7 +8,7 @@
     <string name="wallpaper_instructions">Установить обои</string>
     <string name="live_wallpaper_empty">Нет Живых Обоев</string>
     <string name="set_live_wallpaper">Установить обои</string>
-    <string name="wallpaper_title_and_author" formatted="false">%1$s от %2$s</string>
+    <string name="wallpaper_title_and_author">%1$s по %2$s</string>
     <string name="live_wallpaper_loading">Загрузка Живых Обоев…</string>
     <string name="wallpaper_cancel">Отмена</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="empty" />
     <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
     <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>
     <string name="mobile_type">2G/3G</string>
@@ -72,7 +73,6 @@
     <string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
     <string name="control_app_internet">Контроль трафика</string>
     <string name="fire_rule_program_list">Список приложений</string>
-    <string name="fire_wall_is_closed">Firewall не активен</string>
     <string name="menu_new_install_app_settings">Настройки для новых приложений</string>
     <string name="traffic_suffix">Трафик</string>
     <string name="traffic_suffix_with_uint">Трафик (МБ)</string>
@@ -89,21 +89,23 @@
     <string name="plate_traffic_exceed">Превышено</string>
     <string name="traffic_remain">Оставшийся</string>
     <string name="apply_rules_failed_known">OK</string>
-    <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. \n(%s)</string>
-    <string name="traffic_total">Всего: %s</string>
-    <string name="traffic_used_status">Использовано: %s</string>
+    <string name="apply_rules_failed">"Не удалось включить брандмауэр, попробуйте еще раз. 
+(%s)"</string>
+    <string name="traffic_total">"%s
+Всего"</string>
+    <string name="traffic_used_status">"%s
+Использовано"</string>
     <string name="unknown_traffic_hint">Предел трафика не установлен, вы хотите его установить сейчас?</string>
     <string name="finish_traffic_settings_hint">Настройки сохранены</string>
     <string name="finish_traffic_settings_title">Регулировка трафика</string>
-    <string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете изменить настройки</string>
+    <string name="finish_traffic_settings_message">"Использовано трафика: %s. Данные верны?
+ Если нет, то вы можете изменить настройки."</string>
     <string name="dialog_button_adjust">Настройка</string>
     <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
     <string name="settings_page_traffic_summary">Доступно: %1$s, Использовано: %2$s, Дата последнего пополнения: %3$d</string>
     <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, Дата последнего пополнения: %d</string>
     <string name="sync_traffic_ing">Получение информации от оператора, пожалуйста, подождите…</string>
     <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
-    <string name="text_done">Готово</string>
-    <string name="text_save">Сохранить</string>
     <string name="sync_traffic_fail_title">Не удалось получить информацию</string>
     <string name="sync_traffic_fail_message">Не удалось получить информацию от оператора мобильной связи, сервер занят. Пожалуйста, повторите попытку позже или позвоните в службу поддержки: %s</string>
     <string name="retry">Повторить</string>
@@ -143,7 +145,7 @@
     <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти?</string>
     <string name="carrier_settings_button">Настройки оператора</string>
     <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
-    <string name="sync_traffic_no_cmd_detail">"Укажите ваши данные в форме по адресу: http://www.miui.com/forum-172-1.html.Спасибо."</string>
+    <string name="sync_traffic_no_cmd_detail">"Укажите ваши данные в форме по адресу: http://www.miui.com/forum-172-1.html. Спасибо."</string>
     <string name="version_label">Версия:</string>
     <string name="sms_template_updated_label">"Обновлено: "</string>
     <string name="unknown">неизвестно</string>
@@ -151,4 +153,7 @@
     <string name="overseas_menu_traffic_settings">Ограничение траффика</string>
     <string name="overseas_menu_traffic_adjust">Ручная настройка</string>
     <string name="about">О приложении</string>
+    <string name="fire_wall_is_closed">Firewall не активен</string>
+    <string name="text_done">Готово</string>
+    <string name="text_save">Сохранить</string>
 </resources>
