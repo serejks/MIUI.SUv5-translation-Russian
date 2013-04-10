@@ -1459,7 +1459,6 @@
     <string name="sync_contacts">Контакты</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Добро пожаловать в синхронизацию Google!</font>" 
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства. "</string>
-    <string name="sync_plug">\nТехнология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства.</string>
     <string name="header_application_sync_settings">Настройки синхронизации</string>
     <string name="header_data_and_synchronization">Cинхронизация данных</string>
     <string name="preference_change_password_title">Изменить пароль</string>
