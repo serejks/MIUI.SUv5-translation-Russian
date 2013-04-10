@@ -19,8 +19,13 @@
     <string-array name="search_engines">
         <item>google</item>
         <item>yandex_ru</item>
-        <item>bing</item>
+        <item>yahoo</item>
     </string-array>   
+    <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>yahoo</item>
+    </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>

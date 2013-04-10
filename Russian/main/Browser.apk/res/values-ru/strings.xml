@@ -455,4 +455,7 @@
     <string name="pref_setting_title">Настройка страницы</string>
     <string name="pref_general_setting_title">Настройка</string>
     <string name="return_to_homepage">Вернуться на домашнюю страницу</string>
+    <string name="notif_install_successful">Загрузка завершена.</string>
+    <string name="in_incognito">Вошли в режим инкогнито, история сохраняться не будет.</string>
+    <string name="tab_opened_background_in_incognito">Открыл новое окно в режиме инкогнито</string>
 </resources>
