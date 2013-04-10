@@ -38,7 +38,7 @@
 	<string name="analog_gadget">Часы</string>
 	<string name="settings">Настройки</string>
 	<string name="alarm_in_silent_mode_title">В режиме \"Без звука\"</string>
-    <string name="snooze_duration_title">Интервал срабатывания</string>
+    <string name="snooze_duration_title">Интервал повтора</string>
     <string name="auto_silence_title">Автовыключение</string>
     <string name="auto_silence_summary">Отключение будильника через %d мин.</string>
     <string name="auto_silence_never">Выкл.</string>
