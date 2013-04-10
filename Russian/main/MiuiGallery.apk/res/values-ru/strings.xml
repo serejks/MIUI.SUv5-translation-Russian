@@ -241,8 +241,8 @@
     <string name="move_to_cloud_album">Переместить в</string>
     <string name="send_to_cloud_failed_message">Невозможно добавить в облачный альбом</string>
     <string name="cant_delete_system_album">\"%s\" системный альбом, который не может быть удален.</string>
-    <string name="click_to_enter_camera">Нажмите для запуска камеры</string>
-    <string name="camera_view_none_message">Захваченные фотографии будут отображаться здесь.</string>
+    <string name="click_to_enter_camera">Альбом камеры пуст. Для того, чтобы сделать снимки нажмите на экран</string>
+    <string name="camera_view_none_message">Сделанные вами фотографии будут отображаться здесь.</string>
     <string name="none_picture">В галерее нет изображений</string>
     <string name="show_hidden_albums">Показывать скрытые альбомы</string>
     <string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>

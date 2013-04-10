@@ -15,6 +15,16 @@
         <item>Поспать</item>
         <item>Отключить</item>
     </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Выкл.</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Зазвонит менее чем через одну минуту</item>
         <item>Зазвонит через %1$s</item>

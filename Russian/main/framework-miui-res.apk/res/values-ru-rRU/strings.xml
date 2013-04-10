@@ -398,10 +398,10 @@
 	<string name="unknown">Неизвестный номер</string>
 	<string name="unknown_caller">Неизвестный номер</string>
 	<string name="user_agreement1">Вы будете использовать системы и Интернет услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
-	<string name="user_agreement2">Пользовательское соглашение</string>
+	<string name="user_agreement2">" Пользовательское соглашение"</string>
 	<string name="user_agreement3">" и "</string>
 	<string name="user_agreement4">Политику конфиденциальности</string>
-	<string name="user_agreement5">，нажав кнопку ОК, вы соглашаетесь и готовы соблюдать вышесказаное. В противном случае нажмите кнопку \"Отмена\" для выхода.</string>
+	<string name="user_agreement5">,нажав \"ОК\", вы соглашаетесь и готовы соблюдать вышесказаное. В случае несогласия нажмите \"Отмена\" для выхода.</string>
 	<string name="v5_deselect_all">Снять все</string>
 	<string name="v5_edit_mode_title_empty">Отметить</string>
 	<string name="v5_icon_menu_bar_more_item_label">Еще</string>
