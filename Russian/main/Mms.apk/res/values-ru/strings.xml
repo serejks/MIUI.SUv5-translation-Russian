@@ -197,8 +197,8 @@
     <string name="error_code_label">Код ошибки: </string>
     <string name="menu_edit">Изменить</string>
     <string name="menu_delete_messages">Удалить сообщения</string>
-    <string name="menu_lock">Заблокировать</string>
-    <string name="menu_unlock">Разблокировать</string>
+    <string name="menu_lock">В избранное</string>
+    <string name="menu_unlock">Из избранного</string>
     <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
     <string name="sim_delete">Удалить</string>
     <string name="sim_view">Просмотр</string>
@@ -459,7 +459,7 @@
     <string name="mx_dspt_disabled">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке</string>
     <string name="mx_dspt">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке.</string>
     <string name="mx_current_status">Текущий статус: В сети</string>
-    <string name="mx_count_dspt">После включения, MIUI отправило %1$d облачных сообщений для (%2$s)</string>
+    <string name="mx_count_dspt">После включения, MIUI отправило %1$d облачных сообщений для %2$s контактов</string>
     <string name="mx_auto_resend_sms">Отправить как SMS</string>
     <string name="mx_auto_resend_sms_summary">Отправить как SMS когда облачные сообщения недоступны.</string>
     <string name="mx_auto_resend_mms">Отправить как MMS</string>
