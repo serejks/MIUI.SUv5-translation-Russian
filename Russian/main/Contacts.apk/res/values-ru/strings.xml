@@ -663,6 +663,7 @@
     <string name="menu_group_ringtone">Рингтон группы</string>
     <string name="recent_contacts_label">Послед.</string>
     <string name="recent_number">Послед.</string>
+    <string name="cloud_antispam_mark">Отметить</string>
     <string name="menu_new_favorite_action_bar">Добавить</string>
     <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>
     <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>

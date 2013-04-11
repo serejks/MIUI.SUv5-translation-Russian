@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="in_half_hour">
-        <item quantity="other">Полчаса назад</item>
-    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
     </plurals>
@@ -26,6 +23,9 @@
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Час назад</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Полчаса назад</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>

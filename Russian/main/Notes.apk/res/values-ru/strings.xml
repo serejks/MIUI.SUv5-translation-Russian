@@ -23,7 +23,9 @@
 	<string name="menu_setting">Настройки</string>
 	<string name="menu_delete">Удалить</string>
 	<string name="menu_discard">Отменить</string>
-	<string name="menu_move">Переместить в папку</string>
+	<string name="menu_move">Переместить</string>
+    <string name="menu_stick">Закрепить</string>
+    <string name="menu_unstick">Отлепить</string>
 	<string name="menu_font_size">Размер шрифта</string>
 	<string name="menu_folder_change_name">Переименовать</string>
 	<string name="folder_exist">Папка \"%1$s\" уже существует, введите другое имя</string>

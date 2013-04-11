@@ -17,6 +17,7 @@
     <string name="dialog_failed_body">Загрузить файл позже или удалить из очереди?</string>
     <string name="dialog_title_queued_body">Файл недоступен</string>
     <string name="dialog_queued_body">Файл добавлен в очередь загрузки.</string>
+    <string name="dialog_file_missing_title">Не удается открыть файл</string>
     <string name="dialog_file_missing_body">Загружаемый файл не найден.</string>
     <string name="dialog_insufficient_space_on_external">Ошибка загрузки. Недостаточно свободного места на карте памяти.</string>
     <string name="dialog_insufficient_space_on_cache">Ошибка загрузки. Недостаточно свободного места на внутренней карте памяти.</string>

@@ -17,6 +17,7 @@
     <string name="menu_preferences">Настройки</string>
     <string name="menu_login">Вход</string>
     <string name="menu_account">Мой аккаунт</string>
+    <string name="menu_install_all">Установить все</string>
     <string name="menu_download_manager">Загрузки</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_clear_search_history">Очистить историю поиска</string>
@@ -142,6 +143,7 @@
     <string name="notif_title_update">%1$s обновлений</string>
     <string name="notif_installing">Установка %1$s…</string>
     <string name="notif_install_successful">%1$s установлено, нажмите для запуска</string>
+    <string name="notif_install_successful_default">%1$s установлено</string>
     <string name="notif_delta_update_successful">Дельта обновление завершено, сохранение %1$s. Нажмите для запуска.</string>
     <string name="notif_install_failed">%1$s ошибка установки</string>
     <string name="share_subject">Отправить приложение: %1$s</string>
@@ -159,6 +161,9 @@
     <string name="install_sign_not_same_title">Некорректная подпись</string>
     <string name="install_sign_not_same_message">%1$s обновлений не соответствуют подписям установленных приложений. Удалите локальные приложения и повторите. Продолжить?</string>
     <string name="install_sign_not_same_btn_remove">Удалить и обновить</string>
+    <string name="install_google_base_title">Установить Google Service Framework</string>
+    <string name="install_google_base_message">“%1$s” для работы запрашивает Google Service Framework</string>
+    <string name="install_google_base_button">Установить сейчас</string>
     <string name="status_downloading">Загружено: %1$s%%</string>
     <string name="header_processing">Очередь загрузок</string>
     <string name="header_waiting">Очередь</string>

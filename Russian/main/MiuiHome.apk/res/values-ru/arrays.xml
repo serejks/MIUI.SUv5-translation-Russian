@@ -45,5 +45,6 @@
         <item>Песчаная буря</item>
         <item>Град</item>
         <item>Грязь</item>
+        <item>Смог</item>
     </string-array>
 </resources>

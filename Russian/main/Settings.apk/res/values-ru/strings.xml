@@ -2318,4 +2318,6 @@
     <string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для сброса SMS пароля</string>
     <string name="private_sms_recording_intro_header">Нарисуйте узор для создания графического пароля</string>
     <string name="dirac_control">Управление Dirac</string>
+    <string name="cancel_alert">Отменить изменения?</string>
+    <string name="android_beam_witch_label">Включить Android Beam</string>
 </resources>
