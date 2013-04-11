@@ -302,7 +302,7 @@
     <string name="edit_nickname_for_nocontact_by_robot">Добавьте хотя бы одного получателя, для изменения ника</string>
     <string name="nickname_placeholder">Ник</string>
     <string name="me">Я</string>
-    <string name="to_count">%d всего</string>
+    <string name="to_count">Всего: %d</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="new_message_arrived">Получено новое сообщение</string>
     <string name="festival_sms_category_count_format">(%s)</string>
@@ -313,7 +313,7 @@
     <string name="refresh_failed">Ошибка обновления</string>
     <string name="database_corruption">База данных повреждена, восстановление</string>
     <string name="send_to">Кому: %1$s</string>
-    <string name="send_to_count">Отправлено %1$sсообщения(ий)</string>
+    <string name="send_to_count">Отправлено сообщений: %1$s</string>
     <string name="send_to_index_contact">Отправка %1$s из %2$s</string>
     <string name="message_received">Доставлено</string>
     <string name="message_failed">Ошибка</string>
@@ -390,7 +390,7 @@
     <string name="pref_key_append_signature_title">Подпись</string>
     <string name="pref_key_append_signature_summary">Автоматически вставлять подпись в конец сообщения</string>
     <string name="pref_key_edit_signature_title">Редактировать подпись</string>
-    <string name="pref_key_signature_summary">Введите тут свою подпись</string>
+    <string name="pref_key_signature_summary">Введите свою подпись</string>
     <string name="pref_key_signature_hint">Пожалуйста введите подпись</string>
     <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
     <string name="send_signature_confirm_dialog_message">Сообщение не введено. Отправить только подпись?</string>
@@ -398,7 +398,7 @@
     <string name="exit_edit_mode">Отмена</string>
     <string name="check_all">Отметить все</string>
     <string name="check_nothing">Отметить ничего</string>
-    <string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщение(ий)?</string>
+    <string name="batch_delete_confirm_dialog_message">Удалить сообщений: %1$s шт.?</string>
     <string name="batch_delete_thread_confirm_dialog_message">Удалить цепочку(и)?</string>
     <string name="batch_deleting_progress_message">Удаление выбранных цепочек</string>
     <string name="batch_deleting_message_progress_message">Удаление выбранных сообщений</string>
@@ -406,9 +406,9 @@
     <string name="delete_subject">Удалить тему</string>
     <string name="messaging_intent_label">SMS</string>
     <string name="multi_select_title_conversation_init">Выберите цепочку</string>
-    <string name="multi_select_title_message_init">Выберите сообщение(я)</string>
+    <string name="multi_select_title_message_init">Выбор сообщений</string>
     <string name="multi_select_title_conversation">Выбрано: %1$s</string>
-    <string name="multi_select_title_message">Выбрано %1$s сообщение(й)</string>
+    <string name="multi_select_title_message">Выбрано сообщений: %1$s шт.</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="loading_contacts">Загрузка контактов…</string>
     <string name="prepare_send">Подготовка к отправке…</string>
@@ -477,9 +477,9 @@
     <string name="mx_activate_hint_server">Сервер отклонил запрос активации. Необходимо SMS для повторной активации облачных сообщений. Активировать?</string>
     <string name="need_download">Ожидание синхронизации…</string>
     <string name="found_wild_messages_title">Загрузка сообщений</string>
-    <string name="found_wild_messages">Найдены сообщения с другой SIM карты в облаке:%s Скачать?</string>
+    <string name="found_wild_messages">Найдены сообщения с другой SIM-карты в облаке:%s Скачать?</string>
     <string name="found_old_messages_title">Загрузка сообщений</string>
-    <string name="found_old_messages">Найдены сообщения предыдущих аккаунтов:%1$s Загрузить их в аккаунт %2$s?</string>
+    <string name="found_old_messages">Найдены сообщения предыдущих аккаунтов:%1$s. Загрузить их в аккаунт %2$s?</string>
     <string name="show_all_messages">Показать все сообщения</string>
     <string name="loading_all_messages">Загрузка всех сообщений…</string>
     <string name="mx_online">В сети</string>
@@ -505,7 +505,7 @@
     <string name="importing_progress_private_message">Импортирую сообщения в приватный ящик</string>
     <string name="exporting_progress_private_message">Экспортирую сообщения из приватного ящика</string>
     <string name="confirm_export_dialog_title">Удалить приватные контакты</string>
-    <string name="confirm_export_dialog_description">Удалить 1 выбранный приватный контакт и перевести диалог в обычный режим. Продолжить?</string>
+    <string name="confirm_export_dialog_description">Удалить 1 выбранный приватный контакт и перевести диалог в обычный режим?</string>
     <string name="number_add_hint">Введите номер для добавления в Приватные Контакты</string>
     <string name="menu_new_manual">Ввести номер вручную</string>
     <string name="menu_pick_from_contact">Выбрать из контактов</string>
