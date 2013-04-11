@@ -112,7 +112,7 @@
     <string name="liveFolderFavorites">Помеченные контакты</string>
     <string name="liveFolderPhone">Контакты с номерами телефонов</string>
     <string name="recentCalls_editNumberBeforeCall">Изменить номер и вызвать</string>
-    <string name="recentCalls_addToContact">Добавить в контакты</string>
+    <string name="recentCalls_addToContact">Добавить к контакту</string>
     <string name="recentCalls_removeFromRecentList">Удалить из списка вызовов</string>
     <string name="recentCalls_deleteAll">Очистить историю вызовов</string>
     <string name="recentCalls_trashVoicemail">Удалить голосовую почту</string>
@@ -477,7 +477,7 @@
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="hint_findContacts">Найти контакты</string>
     <string name="non_phone_caption">Номер телефона</string>
-    <string name="non_phone_add_to_contacts">Добавить в контакты</string>
+    <string name="non_phone_add_to_contacts">Добавить к контакту</string>
     <string name="activity_title_confirm_add_detail">Добавить к контакту</string>
     <string name="non_phone_close">Закрыть</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
