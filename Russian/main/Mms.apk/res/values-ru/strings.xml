@@ -350,7 +350,7 @@
     <string name="delete_bookmark">Удалено из избранного</string>
     <string name="view_bookmark">Показать оригинальное сообщение</string>
     <string name="bookmark_confirm_delete_message">Выбранное сообщение будет удалено из избранного</string>
-    <string name="bookmark_empty">Нет закладок</string>
+    <string name="bookmark_empty">Нет избранных</string>
     <string name="phrase_list_title">Шаблоны</string>
     <string name="new_phrase">Новый шаблон</string>
     <string name="edit_phrase">Редактировать шаблон</string>
