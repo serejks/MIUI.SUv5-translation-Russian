@@ -4,7 +4,7 @@
     <string name="permission_risky_privacy">Доступ к приватным настройкам</string>
     <string name="permission_risky_security">Доступ к настройкам безопасности</string>
     <string name="permission_extra">Прочий доступ</string>
-    <string name="app_name">Супермаркет</string>
+    <string name="app_name">MiMarket</string>
     <string name="recommendation_tag">Топ</string>
     <string name="rank_tag">Рейтинг</string>
     <string name="category_tag">Категории</string>
