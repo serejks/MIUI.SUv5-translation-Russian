@@ -26,7 +26,7 @@
     <string name="video_info_audio_null">Нет</string>
     <string name="video_info_frame_rate_label">Частота кадров:</string>
     <string name="airkan_control_device_des">Вы не можете управлять воспроизведением нижними кнопками</string>
-    <string name="airkan_device_xiaomi_phone">Xiaomi Phone</string>
+    <string name="airkan_device_xiaomi_phone">Устройство MIUI.SU</string>
     <string name="toast_back_key_pressed_notice">Нажмите еще раз НАЗАД для выхода</string>
     <string name="adjust_position_prev_media_notice">Предыдущий</string>
     <string name="adjust_position_next_media_notice">Следующий</string>

@@ -2298,7 +2298,7 @@
     <string name="application_item_disable">Запретить</string>
     <string name="application_item_permission">Разрешить</string>
     <string name="application_item_already_permission">Разрешенные</string>
-    <string name="application_forbid_auto_startup">Запретить %s запуск в фоновом режиме</string>
+    <string name="application_forbid_auto_startup">Запретить \"%s\" запуск в фоновом режиме?</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="app_floating_window_dlg">Разрешить \"%1$s\" уведомления?</string>
     <string name="wps_category">Быстрая и безопасная связь</string>
