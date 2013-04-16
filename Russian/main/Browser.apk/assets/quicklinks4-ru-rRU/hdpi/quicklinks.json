@@ -1,6 +1,27 @@
 {
     "quicklinks":[
         {
+            "title":"MIUI Russia",
+            "url":"http://miui.su/",
+            "thumbnail":"thumb_miuisu.png",
+            "logobg":"bg01.9.png",
+            "favicon":""
+        },
+        {
+            "title":"VKontakte",
+            "url":"http://vk.com/",
+            "thumbnail":"thumb_vk.png",
+            "logobg":"bg01.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Yandex",
+            "url":"http://www.yandex.ru/?clid=2045130/",
+            "thumbnail":"thumb_yahoo.png",
+            "logobg":"bg01.9.png",
+            "favicon":""
+        },
+        {
             "title":"Google",
             "url":"http://www.google.com/",
             "thumbnail":"thumb_google.png",
@@ -8,43 +29,22 @@
             "favicon":""
         },
         {
-            "title":"Picasa",
-            "url":"http://picasaweb.google.com/",
-            "thumbnail":"thumb_picasa.png",
-            "logobg":"bg01.9.png",
-            "favicon":""
-        },
-        {
-            "title":"Yahoo!",
-            "url":"http://www.yahoo.com/",
-            "thumbnail":"thumb_yahoo.png",
-            "logobg":"bg01.9.png",
-            "favicon":""
-        },
-        {
-            "title":"MSN",
-            "url":"http://www.msn.com/",
-            "thumbnail":"thumb_msn.png",
+            "title":"4PDA",
+            "url":"http://4pda.ru/",
+            "thumbnail":"thumb_4pda.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Twitter",
-            "url":"http://twitter.com/",
+            "url":"http://www.twitter.com/",
             "thumbnail":"thumb_twitter.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
         {
-            "title":"Facebook",
-            "url":"http://www.facebook.com/",
-            "thumbnail":"thumb_facebook.png",
-            "logobg":"bg01.9.png",
-            "favicon":""
-        },
-        {
             "title":"Wikipedia",
-            "url":"http://www.wikipedia.org/",
+            "url":"http://www.ru.wikipedia.org/",
             "thumbnail":"thumb_wikipedia.png",
             "logobg":"bg01.9.png",
             "favicon":""
