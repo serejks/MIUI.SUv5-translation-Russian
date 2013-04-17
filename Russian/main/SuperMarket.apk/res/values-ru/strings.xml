@@ -91,7 +91,7 @@
     <string name="permissions_title">%1$s данные разрешений</string>
     <string name="permissions_expand_title">Все разрешения</string>
     <string name="version_name">Версия %1$s</string>
-    <string name="search_other_market">Поиск других магазинов</string>
+    <string name="search_other_market">Показать еще</string>
     <string name="result_notice">Результаты предоставляемые Baidu App Center</string>
     <string name="search_not_found">\"%1$s\" не найдено</string>
     <string name="show_all_local_app">Показать все установленные</string>
