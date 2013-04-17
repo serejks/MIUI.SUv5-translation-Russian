@@ -4,7 +4,7 @@
         <item>Яндекс</item>
         <item>yandex.ru</item>
         <item>http://yandex.ru/favicon.ico</item>
-        <item>http://yandex.ru/touchsearch?1788326=&amp;text=</item>
+        <item>http://yandex.ru/touchsearch?1788326=&amp;text={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
