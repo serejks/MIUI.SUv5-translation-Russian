@@ -131,4 +131,12 @@
 	<string name="whitelist_tab_title">Белый список</string>
 	<string name="log_count">(%d)</string>
 	<string name="new_bw_list_button">Добавить контакты</string>
+    <string name="mark_number_dialog_maintitle">Отметить неизвестный номер и загрузить</string>
+    <string name="mark_number_dialog_subtitle">Техническая поддержка: Sougou</string>
+    <string name="custom_mark_category">Пользовательские</string>
+    <string name="smart_antispam">Умное определение номеров</string>
+    <string name="turn_on_smart_antispam_hint">При включении будут определяться неизвестные номера и звонки мошенников.</string>
+    <string name="turn_on_smart_antispam_title">Определение неизвестных номеров</string>
+    <string name="turn_on_smart_antispam_summary_on">Только по Wi-Fi и 3G</string>
+    <string name="turn_on_smart_antispam_summary_off">Только с токальной базой</string>
 </resources>
