@@ -110,7 +110,9 @@
     <string name="user_guide_other_version">Загрузите альтернативную версию KuaiPan</string>
     <string name="user_guide_summary">Как использовать KuaiPan</string>
     <string name="user_guide_upload_to_kuaipan">Скопируйте данные со своего телефона в KuaiPan</string>
-    <string name="rename_failed">Ошибка переименования %1$s </string>
+    <string name="rename_failed">Ошибка переименования %1$s</string>
+    <string name="directory_no_item">Пустая папка</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="ui_bar_txt_download_progress">%1$d файлов осталось загрузить</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>
     <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
@@ -235,7 +237,6 @@
     <string name="trans_task_delete_confirm_message">Выбрано заданий: %1$d. Удалить?</string>
     <string name="des_running_trans">Еще %1$d файлов нужно передать</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Нажмите&lt;/a&gt; чтобы очистить корзину</string>
-    <string name="scanning">Сканирование…</string>
     <string name="clean_complete">Очищено</string>
     <string name="storage_internal">ВНУТРЕННЯЯ ПАМЯТЬ</string>
     <string name="storage_sd_card">SD-карта</string>
@@ -244,10 +245,52 @@
     <string name="bind_account_summary">Если у Вас уже есть аккаунт kuaipan， тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
     <string name="binded_accout_title">Вы уже привязаны к аккаунту KuaiPan</string>
     <string name="binded_accout_description">Два аккаунта были объединены. Для входа Вы можете использовать аккаунт xiaomi, либо аккаунт KuaiPan - оба имеют досту к Вашим данным</string>
+    <string name="scanning_on_going">Сканирование…</string>
+    <string name="scanning" formatted="false">Сканирование %d приложений… (Всего: %d)</string>
+    <string name="sys_size_title">Всего места</string>
+    <string name="sys_size">Всего места %1$s</string>
+    <string name="application_size_label">Приложения</string>
+    <string name="data_size_label">Данные</string>
+    <string name="cache_size_label">Кэш</string>
+    <string name="sd_size_label">Пользовательские данные</string>
+    <string name="version_text">версия %1$s</string>
+    <string name="uninstall_app_data">Удалить приложение и все данные</string>
     <string name="binding_accout_title">Привязка к существующему аккаунту KuaiPan</string>
     <string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
     <string name="binded_accout_warning">Внимание! Эта операция необратима!</string>
     <string name="cleanup_help">Удалите нежунные файлы.\nОчистите место для хранения</string>
+    <string name="header_text_scanning">Сканирование мусора…</string>
+    <string name="header_text_scanned">Вы можете очистить мусор</string>
+    <string name="header_text_cleaning">Очистка, осталось мусора</string>
+    <string name="header_text_cleaned">Удалить мусор</string>
+    <string name="waiting_for_cleaning">Ожидание очистки</string>
+    <string name="item_name">Нет имени</string>
+    <string name="waiting_for_scanning">Ожидание сканирования</string>
+    <string name="temp_file_title">Временные файлы</string>
+    <string name="thumbnail_title">Миниатюры</string>
+    <string name="app_cache_title">Кэш приложений</string>
+    <string name="empty_dir_title">Пустые папки</string>
+    <string name="app_garbage_title">Мусор приложений</string>
+    <string name="temp_file_cleanup_indication">Временные файлы: %s</string>
+    <string name="thumbnail_cleanup_indication">Миниатюры: %s</string>
+    <string name="app_cache_cleanup_indication">Кэш: %s</string>
+    <string name="empty_dir_cleanup_indication">Мусор: %s</string>
+    <string name="app_garbage_cleanup_indication">Мусор приложений: %s</string>
+    <string name="no_temp_file_indication">Нет временных файлов</string>
+    <string name="no_thumbnail_indication">Нет миниатюр</string>
+    <string name="no_app_cache_indication">Нет кэша приложений</string>
+    <string name="no_empty_dir_indication">Нет пустых папок</string>
+    <string name="no_app_garbage_indication">Нет мусора приложений</string>
+    <string name="cancel_app_garbage_cleanup">Не очищено</string>
+    <string name="clean_app_garbage">Удалить пунктов: %d</string>
+    <string name="app_garbage_path">Местоположение:</string>
+    <string name="give_up_cleaning">Отказаться</string>
+    <string name="restart_cleaning">Перезагрузка</string>
+    <string name="cleanup_complete">Готово</string>
+    <string name="garbage_size_metric">"%s
+Мусор"</string>
+    <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+    <string name="garbage_item_path_format" formatted="false">%s %s</string>
     <string name="account_bind_prompt">Перемещение пользовательских данных\nэто может занять несколько минут,\nваш аккаунт будет временно заблокирован, пожалуйста подождите…</string>
     <string name="migrate_announcement_title">MiDriver был перенесен на KuaiPan</string>
     <string name="migrate_announcement_msg">Если у вас есть аккаунт KuaiPan, вы можете подключиться к нему и получить доступ к данным KuaiPan.</string>
@@ -257,4 +300,9 @@
     <string name="operation_copying">Копирование…</string>
     <string name="operation_copying_detail">Копирование (%1$d/%2$d)</string>
     <string name="name_illegal">Название не может быть пустым</string>
+    <string name="open_changed_file_title">Файл изменен</string>
+    <string name="open_changed_file_message">"Файл, который вы пытаетесь открыть изменен, вы можете:
+1. Загрузить (Загрузка из локального файла)
+2. Обновить (Обновить удаленный файл)"</string>
+    <string name="ui_filechange_btn_upload">Загрузка файлов</string>
 </resources>
