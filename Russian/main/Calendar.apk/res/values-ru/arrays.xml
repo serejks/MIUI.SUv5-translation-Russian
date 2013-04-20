@@ -145,6 +145,13 @@
         <item>Закрытое</item>
         <item>Для всех</item>
     </string-array>
+    <string-array name="ordinal_labels">
+        <item>первую</item>
+        <item>вторую</item>
+        <item>третью</item>
+        <item>четвертую</item>
+        <item>последнюю</item>
+    </string-array>
     <string-array name="response_labels1">
         <item>Нет ответа</item>
         <item>Да</item>
