@@ -811,7 +811,7 @@
     <string name="factorytest_reboot">Перезагрузка</string>
     <string name="js_dialog_title">Страница \"%s\" сообщает:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">Уйти со страницы?\n\n %s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.</string>
+    <string name="js_dialog_before_unload">Уйти со страницы?\n\n%s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.</string>
     <string name="save_password_label">Сохранение пароля</string>
     <string name="double_tap_toast">Подсказка: используйте двойное нажатие для изменения масштаба.</string>
     <string name="autofill_this_form">Автозаполнение</string>

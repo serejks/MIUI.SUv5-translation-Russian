@@ -31,6 +31,7 @@
     <string name="listen_to_music_online_settings">Слушать музыку онлайн</string>
     <string name="listen_to_online_summary">Увеличится объём загружаемых данных. Рекомендуется выключить.</string>
     <string name="load_album_artist_failed">Ошибка загрузки альбома и списка исполнителей. Повторите позже.</string>
+    <string name="retry">Повтор</string>
     <string name="load_album_artist_in_process">Загрузка альбома и списка исполнителей…</string>
     <string name="correct_id3_settings">Корректирование ID3</string>
     <string name="correct_id3_summary">Может увеличить расходы на связь. Рекомендуется выключить.</string>

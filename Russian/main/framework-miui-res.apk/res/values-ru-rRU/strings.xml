@@ -460,4 +460,8 @@
 	<string name="share">Отправить</string>
 	<string name="perm_data_update_lab">Обновление данных</string>
 	<string name="perm_data_update_dspt">Разрешить отправлять отметку об обновлении данных</string>
+    <string name="provider_sougou">Поддеоржка Sogou</string>
+    <string name="provider_114">Provided by 114号码百事通</string>
+    <string name="device_xiaomi">Телефон MIUI.SU</string>
+    <string name="miui_device_name">MIUI.SU</string>
 </resources>
