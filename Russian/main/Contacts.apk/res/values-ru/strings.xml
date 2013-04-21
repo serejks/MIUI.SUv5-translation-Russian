@@ -309,7 +309,7 @@
     <string name="dialog_import_export">Импорт и экспорт контактов</string>
     <string name="dialog_import">Импорт контактов</string>
     <string name="menu_share">Отправить</string>
-    <string name="share_via">Способ отправки</string>
+    <string name="share_via">Отправить контакт</string>
     <string name="share_error">Этот контакт нельзя отправить.</string>
     <string name="nameLabelsGroup">Имя</string>
     <string name="nicknameLabelsGroup">Псевдоним</string>
