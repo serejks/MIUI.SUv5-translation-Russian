@@ -210,11 +210,6 @@
     <string name="progress_success_summary">Баланс аккаунта: %1$s Mi-долларов</string>
     <string name="progress_error_title">Не удалось пополнить счёт</string>
     <string name="progress_warning_waiting">Все еще не отображается. Повторите позже.</string>
-    <string name="progress_error_common">Не удалось пополнить счёт, пожалуйста, попробуйте позже.</string>
-    <string name="progress_error_server">Ошибка сервера, пожалуйста, попробуйте позже.</string>
-    <string name="progress_error_network">Не удалось установить соединение, проверьте подключение к сети.</string>
-    <string name="progress_error_waiting">Платёж всё ещё не подтверждён, пожалуйста, попробуйте позже :)</string>
-    <string name="progress_error_auth">Ошибка входа в аккаунт, повторите еще раз</string>
     <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
     <string name="btn_back">Назад</string>
     <string name="btn_recharge_other">Пополнить</string>

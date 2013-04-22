@@ -563,8 +563,6 @@
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Вернуться</string>
-    <string name="chips_waiting_for_directory_result">Ожидание ответов</string>
-    <string name="copy">Скопировать адрес эл. почты</string>
     <string name="alert_title_selected">Отметить всё</string>
     <string name="alert_selected_all_message">" Содержит %d сообщений. Выбираем всё, уверены?"</string>
     <string name="account_setup_index_title">Инструкция по настройке</string>

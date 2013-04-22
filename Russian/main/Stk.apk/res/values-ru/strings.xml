@@ -25,6 +25,4 @@
     <string name="default_close_channel_msg">Канал закрыт</string>
     <string name="stk_dialog_accept">ДА</string>
     <string name="stk_dialog_reject">НЕТ</string>
-    <string name="airplanemode">Невозможно запустить приложение. Включен режим \"В самолете\"</string>
-    <string name="setup_call">Вызов?</string>
 </resources>

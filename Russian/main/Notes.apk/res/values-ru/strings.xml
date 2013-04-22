@@ -41,8 +41,6 @@
 	<string name="alert_message_delete_note">Удалить заметку?</string>
 	<string name="alert_title_discard">Отменить изменения?</string>
 	<string name="alert_message_discard_changes">Отмечено папок (%1$s шт.). Удалить?</string>
-	<string name="alert_title_exceed_image_limit">Достигнут предел изображений на одну заметку</string>
-	<string name="alert_message_exceed_image_limit">Каждая заметка может содержать 15 изображений, вы можете создать новую, чтобы прикрепить ващи изображения</string>
 	<string name="format_move_notes_to_folder">Заметки (%1$d шт.) перемещены в \"%2$s\"</string>
 	<string name="error_sdcard_unmounted">SD-карта недоступна</string>
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту</string>
