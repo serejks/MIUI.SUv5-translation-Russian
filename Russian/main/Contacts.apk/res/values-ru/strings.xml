@@ -316,7 +316,7 @@
     <string name="organizationLabelsGroup">Организация</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
     <string name="eventLabelsGroup">Мероприятия</string>
-    <string name="relationLabelsGroup">Отношения</string>
+    <string name="relationLabelsGroup">Связь</string>
     <string name="groupsLabel">Группы</string>
     <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
     <string name="dialog_new_group_account">Создание группы в аккаунте</string>

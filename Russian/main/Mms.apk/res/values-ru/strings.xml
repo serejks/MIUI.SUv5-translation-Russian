@@ -446,7 +446,7 @@
     <string name="summary_date_type">Время сообщений</string>
     <string name="dialog_title_date_type">Время для отображения</string>
     <string name="generating_mms_to_forward">Создание Mms для отправки…</string>
-    <string name="mx_msg">Облачное сообщение</string>
+    <string name="mx_msg">Облачные сообщения</string>
     <string name="mi_msg">Облачные сообщения</string>
     <string name="mx_enable">Включить</string>
     <string name="mx_warning_notice">Для активации облачных сообщений будет отправлено SMS</string>

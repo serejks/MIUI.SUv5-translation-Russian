@@ -226,9 +226,9 @@
     <string name="deleting_files">Файлы удаляются…</string>
     <string name="bigscrren_slide_exit">Отменить слайд-шоу на ТВ</string>
     <string name="defalt_local_mobile">Мобильный</string>
-    <string name="add_to_cloud_folder">добавить в облачный альбом</string>
-    <string name="create_new_cloud_folder">новый облачный альбом</string>
-    <string name="input_cloudfolder_name">имя нового облачного альбома</string>
+    <string name="add_to_cloud_folder">Добавить в облачный альбом</string>
+    <string name="create_new_cloud_folder">Новый облачный альбом</string>
+    <string name="input_cloudfolder_name">Имя нового облачного альбома</string>
     <string name="cloudfolder_already_exists">такая облачная папка уже существует</string>
     <string name="other_category">Другие настройки</string>
     <string name="show_hidden_album">Показывать скрытые альбомы</string>
