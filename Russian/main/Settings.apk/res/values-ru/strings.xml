@@ -2168,12 +2168,12 @@
     <string name="virus_scan_app_passed">Сканирование завершено</string>
     <string name="virus_scan_app_risk">Найденые угрозы</string>
     <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
-    <string name="virus_scan_app_finish">Завершено</string>
+    <string name="virus_scan_app_finish">Завершить</string>
     <string name="virus_scan_app_continue">Продолжить сканирование</string>
     <string name="virus_scan_app_uninstall">Пакетное удаление (% d)</string>
     <string name="virus_scan_app_force_stop">Сканирование остановлено</string>
     <string name="virus_scan_app_find_risk">Найдено угроз: %d . Рекомендуется удалить</string>
-    <string name="virus_scan_app_scan_finish">Сканирование завершено</string>
+    <string name="virus_scan_app_scan_finish">Проверка завершена</string>
     <string name="virus_scan_app_no_risk">Угроз не найдено</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
     <string name="title_dolby_control">Настройки Dolby Mobile</string>
