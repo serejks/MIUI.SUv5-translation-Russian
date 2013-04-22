@@ -12,6 +12,7 @@
         <item>8</item>
         <item>9</item>
         <item>.</item>
+        <item>,</item>
     </string-array>
     <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
@@ -24,6 +25,7 @@
         <item>@drawable/digit7</item>
         <item>@drawable/digit8</item>
         <item>@drawable/digit9</item>
+        <item>@drawable/point</item>
         <item>@drawable/point</item>
     </array>
 </resources>
