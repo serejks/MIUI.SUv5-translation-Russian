@@ -45,6 +45,12 @@
     <string name="pref_camera_auto_focus_default">on</string>
     <string name="pref_camera_auto_focus_title_entry_off">Выкл</string>
     <string name="pref_camera_auto_focus_title_entry_on">Вкл</string>
+    <string name="pref_captrue_mirror_title">Передняя камера (Зеркало)</string>
+    <string name="pref_captrue_mirror_entry_off">Выкл</string>
+    <string name="pref_captrue_mirror_entry_on">Вкл</string>
+    <string name="pref_captrue_mirror_default">off</string>
+    <string name="pref_captrue_mirror_value_off">off</string>
+    <string name="pref_captrue_mirror_value_on">on</string>
     <string name="pref_camera_auto_focus_entry_off">off</string>
     <string name="pref_camera_auto_focus_entry_on">on</string>
     <string name="pref_video_quality_title">Качество видео</string>
@@ -443,7 +449,7 @@
     <string name="error_app_unsupported_hfr_720p">720р поддерживает до 90 FPS</string>
     <string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-    <string name="pref_camera_hand_night_title">HHT</string>
+    <string name="pref_camera_hand_night_title">Сумерки</string>
     <string name="pref_camera_ae_bracket_hdr_entry_off">Выкл</string>
     <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
     <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
@@ -452,6 +458,7 @@
     <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
     <string name="pref_camera_ae_bracket_hdr_default">Выкл</string>
     <string name="hdr_exit_button_text">Выход из режима HDR</string>
+    <string name="hand_night_exit_button_text">Выход из режима Сумерки</string>
     <string name="err_app_unsupport_ae_bracket_code">Ни одно приложение не поддерживает Авто-HDR</string>
     <string name="videocamera_settings_label">Настройки видеокамеры</string>
     <string name="camera_settings_label">Настройки камеры</string>
@@ -587,12 +594,14 @@
     <string name="set_label_all_albums">Все альбомы</string>
     <string name="send_multiple_files_hint_format">Мульти отправка файлов (%s)</string>
     <string name="simple_mode_button_text_hdr">Отключить HDR режим</string>
+    <string name="simple_mode_button_text_hand_night">Отключить режим Сумерки</string>
     <string name="simple_mode_button_text_panorama">Отключить панораму</string>
     <string name="simple_mode_button_text_color_effect">Отключить фильтр</string>
     <string name="simple_mode_button_text_audio_capture">Отключить запись звука</string>
     <string name="simple_mode_button_text_slow_video">Отключить замедленную съемку</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Фильтр</string>
     <string name="pref_video_slow_speed_title_simple_mode">Замедленная съемка</string>
+    <string name="simple_mode_title">Простой режим</string>
     <string name="enter_expert_mode_title">Профессиональный режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
     <string name="pref_video_captrue_ability_title">Фото при съемке</string>
