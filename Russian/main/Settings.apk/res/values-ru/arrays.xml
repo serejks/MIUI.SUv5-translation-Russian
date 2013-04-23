@@ -384,4 +384,17 @@
         <item>Разрешить</item>
         <item>Запретить</item>
   </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Ничего</item>
+        <item>Запустить Recent Panel</item>
+        <item>Запустить Voice Assistant</item>
+        <item>Запустить Google Now</item>
+        <item>Закрыть текущее приложение</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 сек.</item>
+        <item>1 сек.</item>
+        <item>1.5 сек.</item>
+        <item>2 сек.</item>
+    </string-array>
 </resources>

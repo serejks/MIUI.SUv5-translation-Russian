@@ -1969,7 +1969,13 @@
     <string name="preferred_launcher_warning_use_system">Отмена</string>
     <string name="key_settings_title">Настройка кнопок</string>
     <string name="key_settings">Настройка кнопок</string>
+    <string name="screen_key_long_press">Удерживание клавиш</string>
+    <string name="screen_key_long_press_action">Функция триггера</string>
     <string name="menu_key">Клавиша меню</string>
+    <string name="home_key">Клавиша домой</string>
+    <string name="back_key">Клавиша назад</string>
+    <string name="screen_key_long_press_timeout">Время удерживания</string>
+    <string name="under_keyguard">На локскрине</string>
     <string name="enable_assist_key_long_press">Удерживайте для открытия голосового помошника</string>
     <string name="back_long_press">Клавиша назад</string>
     <string name="enable_back_long_press">Удержание для закр.приложения</string>
@@ -2215,6 +2221,9 @@
     <string name="dolby_preset_select">Выберите предустановку</string>
     <string name="dolby_eq_enter_alert_title">Включен Dolby music</string>
     <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в даном режиме. Включить?</string>
+    <string name="dirac_mode_off">Dirac выкл</string>
+    <string name="dirac_mode_earbuds">Гарнитура</string>
+    <string name="dirac_mode_earphones">Наушники</string>
     <string name="dialog_title_entryvalues_dolby_control">Настройки Dolby Mobile</string>
     <string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
     <string name="wfd_settings_title">Дисплей Wi-Fi</string>
@@ -2300,6 +2309,11 @@
     <string name="application_item_already_permission">Разрешенные</string>
     <string name="application_forbid_auto_startup">Запретить \"%s\" запуск в фоновом режиме?</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
+    <string name="floating_window_switch_label_disable">Скрывать всплыв.окна</string>
+    <string name="app_floating_window_dlg_enable">"Enabling of %1$s's floating window settings requires the app to restart. You can also manually stop running the application yourself. 
+Are you sure you want to enable?"</string>
+    <string name="app_floating_window_dlg_disable">"Disabling of %1$s's floating window settings will stop the app forcibly. You can also manually open app.Disabling of %1$s's floating window settings will stop the app forcibly. You can also manually open app.
+Are you sure you want to disable?"</string>
     <string name="app_floating_window_dlg">Разрешить \"%1$s\" уведомления?</string>
     <string name="wps_category">Быстрая и безопасная связь</string>
     <string name="wps_connect_title">Подключение к WPS</string>
@@ -2320,4 +2334,5 @@
     <string name="dirac_control">Управление Dirac</string>
     <string name="cancel_alert">Отменить изменения?</string>
     <string name="android_beam_witch_label">Включить Android Beam</string>
+    <string name="sim_management_title">SIM менеджер</string>
 </resources>
