@@ -499,7 +499,7 @@
     <string name="permdesc_accessLocationExtraCommands">Доступ к дополнительным командам о местоположении. Вредоносное ПО способно мешать нормальному функционированию GPS или другим устройствам определяющим местоположение.</string>
     <string name="permlab_installLocationProvider">Доступ к изменению данных о местоположении</string>
     <string name="permdesc_installLocationProvider">Создает подменные данные о местоположении для тестирования. Вредоносное ПО может использовать эту функцию для подмены реальных данных о местоположении получаемых от GPS или оператора сети или отслеживать и передавать ваше местоположение третьим лицам.</string>
-    <string name="permlab_accessFineLocation">Точные служби позиционирования</string>
+    <string name="permlab_accessFineLocation">Точные службы позиционирования</string>
     <string name="permdesc_accessFineLocation">Доступ к точным службам позиционирования (например GPS), где доступно. Вредоносное ПО способно отслеживать ваше местоположение и приводить к чрезмерному энергопотреблению.</string>
     <string name="permlab_accessCoarseLocation">Примерное местоположение по координатам сети</string>
     <string name="permdesc_accessCoarseLocation">Дает доступ для определения приблизительного местоположения при помощи сот вышек мобильного оператора, где доступно. Вредоносное ПО способно отслеживать ваше приблизительное местоположение.</string>
@@ -630,7 +630,7 @@
     <string name="permlab_writeDictionary">Изменение пользовательского словаря</string>
     <string name="permdesc_writeDictionary">Дает приложениям доступ для записи слов в личный словарь пользователя.</string>
     <string name="permlab_sdcardRead">Тестовый доступ к защищенному носителю</string>
-    <string name="permdesc_sdcardRead">Дает приложению возможность протестировать доступ к защещенному носителю, который будет использоваться на будущих устройствах.</string>
+    <string name="permdesc_sdcardRead">Дает приложению возможность протестировать доступ к защищенному носителю, который будет использоваться на будущих устройствах.</string>
     <string name="permlab_sdcardWrite">Изменять, удалять содержимое USB носителя</string>
     <string name="permdesc_sdcardWrite">Дает приложениям возможность записи на USB-накопитель.</string>
     <string name="permlab_mediaStorageWrite">Изменять, удалять содержимое внутренней памяти.</string>
