@@ -73,12 +73,12 @@
 	<string name="close">Закрыть</string>
 	<string name="download_success">Загрузка завершена!</string>
 	<string name="theme_importing">Импорт тем</string>
-	<string name="theme_upgrade_request_title">Необходимо обновить тему</string>
+	<string name="theme_upgrade_request_title">Необходимо обновление темы</string>
 	<string name="theme_upgrade_request_content">Формат локальных тем нужно изменить для повышения производительности. Это займет некоторое время, телефон может не откликаться. Конвертировать сейчас?</string>
 	<string name="theme_upgrade_request_yes">Да</string>
 	<string name="theme_upgrade_request_cancel">Нет</string>
 	<string name="theme_import_preparing">Сканирование локальных тем</string>
-	<string name="theme_import_importing">Обновление.. осталось %1$d</string>
+	<string name="theme_import_importing">Обновление.. Осталось %1$d</string>
 	<string name="theme_import_normal">Обновления тем</string>
 	<string name="theme_sdcard_importing">Импорт</string>
 	<string name="theme_import_stoping">Прерывание…</string>

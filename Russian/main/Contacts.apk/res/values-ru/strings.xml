@@ -931,7 +931,7 @@
     <string name="description_uploadtime">Обновление:</string>
     <string name="description_download">Загрузка:</string>
     <string name="description_version">Версия:</string>
-    <string name="description_summary">Общее:</string>
+    <string name="description_summary">Общ.информация:</string>
     <string name="resource_local">Локальные %1$s</string>
     <string name="resource_online">Онлайн %1$s</string>
     <string name="resource_title">Детали ресурса</string>
@@ -941,7 +941,7 @@
     <string name="resource_update">Обновить</string>
     <string name="resource_select">Выбор</string>
     <string name="resource_buy">Купить</string>
-    <string name="resource_importing">Импортирование</string>
+    <string name="resource_importing">Импорт</string>
     <string name="online_no_network">Невозможно соединиться с сетью</string>
     <string name="online_search_hint">Поиск онлайн ресурсов</string>
     <string name="loading">Загрузка…</string>
