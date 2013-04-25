@@ -464,4 +464,8 @@
     <string name="provider_114">Provided by 114号码百事通</string>
     <string name="device_xiaomi">Телефон MIUI.SU</string>
     <string name="miui_device_name">MIUI.SU</string>
+    <string name="sim_unavailable">SIM-карта недоступна</string>
+    <string name="sim_locked">SIM-карта заблокирована</string>
+    <string name="sim_not_ready">SIM-карта используется. Повторите позже.</string>
+    <string name="sim_in_airplane_mode">Отключите режим \"В самолете\".</string>
 </resources>

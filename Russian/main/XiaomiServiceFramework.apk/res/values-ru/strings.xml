@@ -207,7 +207,7 @@
     <string name="btn_query">Запросить сейчас</string>
     <string name="progress_querying">Обрабатываю запрос подтверждения платежа…</string>
     <string name="progress_success_title">Зачислено %1$s Mi Dollars</string>
-    <string name="progress_success_summary">Баланс: %1$s Mi Dollars>
+    <string name="progress_success_summary">Баланс: %1$s Mi Dollars</string>
     <string name="progress_error_title">Не удалось пополнить счёт</string>
     <string name="progress_warning_waiting">Все еще не отображается. Повторите позже.</string>
     <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
