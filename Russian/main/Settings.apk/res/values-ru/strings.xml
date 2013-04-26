@@ -1526,7 +1526,7 @@
     <string name="window_animation_scale_title">Окно: масштаб</string>
     <string name="transition_animation_scale_title">Переход: масштаб</string>
     <string name="trust_switch_dialog_msg">MIUI не будет спрашивать разрешения на действия этого приложения связанных с безопасностью и конфиденциаьностью.\nДоверять этому приложению?</string>
-    <string name="animator_duration_scale_title">Шкала длительности анимации</string>
+    <string name="animator_duration_scale_title">Скорость анимации</string>
     <string name="debug_applications_category">Приложения</string>
     <string name="immediately_destroy_activities">Не сохранять действия</string>
     <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>

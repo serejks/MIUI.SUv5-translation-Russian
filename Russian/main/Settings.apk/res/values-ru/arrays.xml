@@ -386,7 +386,7 @@
   </string-array>
   <string-array name="screen_key_long_press_action">
         <item>Ничего</item>
-        <item>Запустить Recent Panel</item>
+        <item>Запустить очистку памяти</item>
         <item>Запустить Voice Assistant</item>
         <item>Запустить Google Now</item>
         <item>Закрыть текущее приложение</item>
