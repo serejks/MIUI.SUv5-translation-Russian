@@ -99,6 +99,6 @@
     <string name="button_pre">Назад</string>
     <string name="button_next">Далее</string>
     <string name="button_last">Начать сейчас</string>
-    <string name="support_tip">При подключении, AnyShare будет оказывать тех.поддержку</string>
+    <string name="support_tip">AnyShare будет оказывать тех. поддержку</string>
     <string name="share_text">MIUI V5 поддерживает передачу данных не по сети. Не-MIUI V5 пользователи могут загрузить: %1$s</string>
 </resources>
