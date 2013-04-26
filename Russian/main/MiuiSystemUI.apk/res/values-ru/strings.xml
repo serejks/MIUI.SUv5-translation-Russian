@@ -324,4 +324,7 @@
     <string name="drive_mode_tip">Вы за рулем автомобиля. Будте осторожны!</string>
     <string name="recording_tip">Нажмите, для возврата к записи</string>
     <string name="no_notification_tips">Нет уведомлений</string>
+    <string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>
+    <string name="ext_media_mountable_notification_message">Нажмите, для запуска файлового менеджера</string>
+    <string name="ext_media_safe_remove">Безопасное извлечение</string>
 </resources>
