@@ -16,9 +16,6 @@
     <string name="status_bar_no_notifications_title">Нет уведомлений</string>
     <string name="status_bar_ongoing_events_title">Текущие</string>
     <string name="status_bar_latest_events_title">Уведомления</string>
-    <string name="battery_low_title">Подсоедините зарядное устройство</string>
-    <string name="battery_low_subtitle">Батарея разряжается</string>
-    <string name="battery_low_percent_format">Осталось %d%%</string>
     <string name="invalid_charger">Зарядка по USB не поддерживается. Используйте только оригинальное зарядное устройство.</string>
     <string name="battery_low_why">Использование батареи</string>
     <string name="status_bar_settings_settings_button">Настройки</string>
@@ -157,7 +154,7 @@
     <string name="status_bar_recent_memory_info_format">%d МБ</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="usb_mode_notification">USB-накопитель</string>
-    <string name="usb_mode_dont_ask">"Больше не спрашивать"</string>
+    <string name="usb_mode_dont_ask">Больше не спрашивать</string>
     <string name="usb_mode_mount_storage_title">Открыть сейчас USB-накопитель?</string>
     <string name="mount_storage">Да</string>
     <string name="dismount_storage">Нет</string>
