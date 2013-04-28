@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_settings">Спец. возможности</string>
-  <string name="accessibility_settings_summary" />
   <string name="advanced_tab">Расширенные</string>
   <string name="app_label">Lennox Control</string>
   <string name="applying_pref">Применение выбранного…</string>
   <string name="battery_category">Настройки батареи</string>
   <string name="battery_info">Информация о батарее</string>
-  <string name="battery_info_summary" />
   <string name="carrier_label_category">Название оператора</string>
   <string name="cpu_governor">Governor</string>
   <string name="cpu_governor_unavailable">Текущее ядро не поддерживает смену CPU governor</string>
@@ -38,7 +36,6 @@
   <string name="fancy_ime_animations_summary_on">Использовать вычурную анимацию для окон ввода</string>
   <string name="fancy_ime_animations_title">Вычурная анимация</string>
   <string name="fuel_gauge">Использование батареи</string>
-  <string name="fuel_gauge_summary" />
   <string name="interface_animation_category">Анимация</string>
   <string name="interface_settings">Интерфейс</string>
   <string name="interface_summary">Контролировать внешний вид и работу</string>
@@ -55,7 +52,6 @@
   <string name="overscroll_weight_title">Сила отскока</string>
   <string name="personal_tab">Личные</string>
   <string name="phone_info">Информация о телефоне</string>
-  <string name="phone_info_summary" />
   <string name="progress_cpu_working">Читаю настройки CPU</string>
   <string name="progress_info_working">Читаю информацию о прошивке</string>
   <string name="progress_storage_working">Читаю настройки встроенной памяти</string>

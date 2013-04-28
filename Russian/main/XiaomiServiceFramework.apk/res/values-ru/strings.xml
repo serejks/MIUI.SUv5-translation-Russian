@@ -229,4 +229,15 @@
     <string name="mibi_license_title">Пользовательское соглашение</string>
     <string name="mibi_license_message">Вы используете сервис Xiaomi Mi Credit. Нажатие OK означает согласие с \"%1$s\".</string>
     <string name="mibi_license_message_span">Пользовательское соглашение Mi Credit</string>
+    <string name="sina_weibo">Sina WeiBo</string>
+    <string name="bind_sina_weibo">Bind Sina WeiBo</string>
+    <string name="bind_weibo_description">Find, phone contacts microblogging Friends supplementary information such as Avatar, birthday.</string>
+    <string name="add_weibo_account">Добавить аккаунт</string>
+    <string name="binded">Binded</string>
+    <string name="nobind">Nobind</string>
+    <string name="unbind">Unbind</string>
+    <string name="update_contacts">Обновить адресную книгу</string>
+    <string name="update_contacts_description">Sina micro Fair use your millet account phone number, the corresponding and synchronous microblogging friends avatar, birthday, and other information to the address book</string>
+    <string name="updated_contacts">Обновлено контактов: %s</string>
+    <string name="process_result">Process Result:</string>
 </resources>

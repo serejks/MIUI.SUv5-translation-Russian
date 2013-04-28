@@ -315,7 +315,7 @@
     <string name="nicknameLabelsGroup">Псевдоним</string>
     <string name="organizationLabelsGroup">Организация</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
-    <string name="eventLabelsGroup">Мероприятия</string>
+    <string name="eventLabelsGroup">День рождения</string>
     <string name="relationLabelsGroup">Связь</string>
     <string name="groupsLabel">Группы</string>
     <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
@@ -743,7 +743,7 @@
     <string name="preference_simple_mode_description">В списке не будут отображаться аватарки, заметки и компания</string>
     <string name="preference_contacts">Контакты</string>
     <string name="preference_contacts_display">Список контактов</string>
-    <string name="preference_contacts_more">Расширнные настройки контактов</string>
+    <string name="preference_contacts_more">Расширенные настройки контактов</string>
     <string name="preference_contacts_filter">Отображаемые контакты</string>
     <string name="preference_telocation_title">Местоположение</string>
     <string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>

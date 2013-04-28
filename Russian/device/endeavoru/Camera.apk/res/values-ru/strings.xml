@@ -188,13 +188,10 @@
   <string name="scene_continuous_burst">Непрерывная серия</string>
   <string name="scene_description_action">Съемка </string>
   <string name="scene_description_auto">Автоматически определяет и регулирует настройки, обеспечивая наилучшие результаты для большинства сюжетов.</string>
-  <string name="scene_description_burst" />
-  <string name="scene_description_hdr" />
   <string name="scene_description_lowlight">Режим </string>
   <string name="scene_description_macro">Режим </string>
   <string name="scene_description_manual">Для настройки дополнительных параметров нажмите кнопку меню.</string>
   <string name="scene_description_night">Режим </string>
-  <string name="scene_description_panorama" />
   <string name="scene_description_portrait">Режим </string>
   <string name="scene_landscape">Пейзаж</string>
   <string name="scene_lowlight">Слабое освещение</string>
