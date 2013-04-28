@@ -100,7 +100,11 @@
     <string name="cit_leds_check_summary">Проверка подсветки, индикатора и вспышки</string>
     <string name="cit_leds_check_title">LED</string>
     <string name="cit_light_sensor_check_summary">Датчик освещенности, уровень яркости окружающего пространства</string>
+    <string name="cit_gyroscope_sensor_check_summary">Проверка гироскопа по X, Y, Z</string>
+    <string name="cit_pressure_sensor_check_summary">Проверка барометрического давления</string>
     <string name="cit_light_sensor_check_title">Проверка датчика освещенности</string>
+    <string name="cit_pressure_sensor_check_title">Проверка барометрического давления</string>
+    <string name="cit_gyroscope_sensor_check_title">Проверка гироскопа</string>
     <string name="cit_magnetic_sensor_check_summary">Значение индукции магнитного поля X, Y, Z, показано ниже</string>
     <string name="cit_magnetic_sensor_check_title">Проверка встроенного компаса</string>
     <string name="cit_main_camera_check_summary">Шаги:\n\n1. Нажмите кнопку камеры\n2. Выбирете стандартную камеру, если у вас имеется несколько приложений для фотосъемки\n3. Сфотографируйте\n4. Подтвердите сохранение снимка\n5. Просмотрите изображение, а после удалите соответствующей кнопкой</string>
