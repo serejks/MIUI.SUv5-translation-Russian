@@ -450,7 +450,7 @@
     <string name="mi_msg">Облачные сообщения</string>
     <string name="mx_enable">Включить</string>
     <string name="mx_warning_notice">Для активации облачных сообщений будет отправлено SMS</string>
-    <string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Message. Normal carrier data rates may apply</string>
+    <string name="mx_int_warning_notice">Для активации облачных сообщений будет отправлена SMS на номер в Китае. Будет удержана плата за услуги связи в соответствии с Вашим тарифом</string>
     <string name="mx_btn_enable">Включить</string>
     <string name="mx_activating">Активация может занять несколько минут</string>
     <string name="no_sim">SIM отсутствует, облачные сообщения отключены</string>
@@ -470,14 +470,15 @@
     <string name="msg_type_hint_mx">Облачное сообщение</string>
     <string name="mx_reactivate">Повторная активация</string>
     <string name="mx_activate_error_title">Ошибка активации облачных сообщений</string>
-    <string name="mx_activate_error_sim_change">SIM изменилось, активируйте облачные сообщения заново</string>
+    <string name="mx_activate_error_sim_change">SIM-карта изменилось, активируйте облачные сообщения заново</string>
     <string name="mx_activate_error_malformed_info">Личные данные повреждены, необходима повторная активация облачных сообщений</string>
     <string name="mx_activate_error_server">Ошибка активации. Сервер отклонил активацию</string>
-    <string name="mx_activate_hint_sim_change">SIM карта изменилась. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
-    <string name="mx_activate_int_hint_sim_change">SIM card changed. An international SMS is required to reactivate Cloud Message. Activate it now?</string>
+    <string name="mx_activate_hint_sim_change">SIM-карта изменилась. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
+    <string name="mx_activate_int_hint_sim_change">SIM-карта изменилась. Необходима повторная активация облачных сообщений (стоимость равняется стоимости SMS в роуминге). Активировать?</string>
     <string name="mx_activate_hint_malformed_info">Личные данные повреждены. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
-    <string name="mx_activate_int_hint_malformed_info">Your personal info interrupted. An international SMS is required to reactivate Cloud Message. Activate it now?</string>
+    <string name="mx_activate_int_hint_malformed_info">Ваша личная информация была изменена или повреждена. Требуется повторная отправка SMS для активации облачных сообщений. Активировать?</string>
     <string name="mx_activate_hint_server">Сервер отклонил запрос активации. Необходимо SMS для повторной активации облачных сообщений. Активировать?</string>
+    <string name="mx_activate_int_hint_server">Сервер отказывается принять информацию, возможны проблемы с активацией облачных сообщений. Для повторной активации требуется отправка сообщения. Активировать?</string>
     <string name="need_download">Ожидание синхронизации…</string>
     <string name="found_wild_messages_title">Загрузка сообщений</string>
     <string name="found_wild_messages">Найдены сообщения с другой SIM-карты в облаке:%s Скачать?</string>
@@ -488,6 +489,7 @@
     <string name="mx_online">В сети</string>
     <string name="mx_offline">Не в сети</string>
     <string name="mx_enable_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между MIUI. За обычные сообщения взымается плата. Включить облачные сообщения?</string>
+    <string name="mx_enable_int_popup_msg">Облачные сообщения позволяют вам общаться с прочими пользователями MIUI. Для активации будет отправлен смс запрос (сообщение считается роуминговым). Ваш оператор поддерживает данную операцию, активировать её сейчас? В случае отказа, вы можете активировать её позже, в настройках</string>
     <string name="loading_mms">Загрузка…</string>
     <string name="add_number_to_sender">Добавить номер в %s</string>
     <string name="in_calling">Вызов</string>
