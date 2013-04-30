@@ -1875,7 +1875,7 @@
     <string name="perm_log_clear_title">Очисть журналы</string>
     <string name="perm_log_clear_content">Все журналы будут удалены. Вы уверены что хотите этого?</string>
     <string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d права</string>
+    <string name="perm_privacy_app_count">Разрешений: %1$d</string>
     <string name="perm_privacy_app_trust">Я доверяю этому приложению</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI будет контролировать это приложение</string>
     <string name="perm_privacy_app_trust_summary_on">MIUI будет доверять этому приложению</string>
