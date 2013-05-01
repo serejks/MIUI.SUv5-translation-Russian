@@ -116,9 +116,9 @@
     <string name="button_retry">Повтор</string>
     <string name="button_pay">Подтвердить</string>
     <string name="button_recharge">Пополнить</string>
-    <string name="balance">Баланс: %1$s Mi Credits</string>
+    <string name="balance">Баланс: %1$s Mi-долларов</string>
     <string name="frozen">(Заморожен)</string>
-    <string name="mili_center">Mi Credit</string>
+    <string name="mili_center">Кошелёк Xiaomi</string>
     <string name="error_mili_title">Недостаточно средств</string>
     <string name="error_network_title">Ошибка сети</string>
     <string name="error_network_summary">Невозможно подключиться. Пожалуйста, проверьте соединение</string>
@@ -214,8 +214,8 @@
     <string name="btn_back">Назад</string>
     <string name="btn_recharge_other">Пополнить</string>
     <string name="btn_call">Позвонить</string>
-    <string name="recharge_notification">Зачисляю %1$s Mi Credits</string>
-    <string name="title_mili_center">Mi Credits centre</string>
+    <string name="recharge_notification">Зачисляю %1$s Mi-долларов</string>
+    <string name="title_mili_center">Кошелёк Xiaomi</string>
     <string name="title_recharge_record">Зачисления</string>
     <string name="title_pay_record">%1$s: платежи</string>
     <string name="recharge_record">Отчёты по зачислениям</string>
@@ -230,14 +230,14 @@
     <string name="mibi_license_message">Вы используете сервис Xiaomi Mi Credit. Нажатие OK означает согласие с \"%1$s\".</string>
     <string name="mibi_license_message_span">Пользовательское соглашение Mi Credit</string>
     <string name="sina_weibo">Sina WeiBo</string>
-    <string name="bind_sina_weibo">Bind Sina WeiBo</string>
-    <string name="bind_weibo_description">Find, phone contacts microblogging Friends supplementary information such as Avatar, birthday.</string>
+    <string name="bind_sina_weibo">Привязать Sina WeiBo</string>
+    <string name="bind_weibo_description">Поиск среди друзей в Вашем микроблоге Sina WeiBo дополнительной информации о контактах в телефоне, например аватар и день рождения.</string>
     <string name="add_weibo_account">Добавить аккаунт</string>
-    <string name="binded">Binded</string>
-    <string name="nobind">Nobind</string>
-    <string name="unbind">Unbind</string>
+    <string name="binded">Привязан</string>
+    <string name="nobind">Не привязан</string>
+    <string name="unbind">Отвязать</string>
     <string name="update_contacts">Обновить адресную книгу</string>
-    <string name="update_contacts_description">Sina micro Fair use your millet account phone number, the corresponding and synchronous microblogging friends avatar, birthday, and other information to the address book</string>
+    <string name="update_contacts_description">Синхронизация информации о Ваших друзьях в микроблоге Sina WeiBo, например аватара, дня рождения и др., с контактами в телефоне. Для синхронизации будет использован Ваш аккаунт Xiaomi</string>
     <string name="updated_contacts">Обновлено контактов: %s</string>
-    <string name="process_result">Process Result:</string>
+    <string name="process_result">Результат процесса:</string>
 </resources>
