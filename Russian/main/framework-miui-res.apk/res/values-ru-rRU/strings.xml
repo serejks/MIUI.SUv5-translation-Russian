@@ -377,6 +377,7 @@
 	<string name="send_sms_for_sync_title">Сервис активации не запущен</string>
 	<string name="sim_account_name">SIM</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется отправить SMS, продолжить?</string>
+	<string name="sim_changed_reactivate_int_notice">Текущая SIM не активирована. Для активация сервиса необоходимо повторно отправить запрос, сделать это сейчас?</string>
 	<string name="slight_cold">Осаму</string>
 	<string name="slight_heat">Тепло</string>
 	<string name="solar_calendar">Григорианский календарь</string>

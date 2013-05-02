@@ -912,6 +912,7 @@
     <string name="batch_delete_msg">Выбрано контактов (%d шт.). Удалить ? \n\n Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
     <string name="starred_contacts">Избранные</string>
     <string name="other_contacts">Прочие</string>
+    <string name="set_photo_failed_msg">При установке аватарки возникла ошибка</string>
     <string name="cloud_antispam_title">Облачный антиспам</string>
     <string name="cloud_antispam_summary">Сетевые запросы только при Wi-Fi или 3G</string>
     <string name="resource_app_name">Диспетчер ресурсов</string>

@@ -61,6 +61,7 @@
     <string name="noti_receiving">%1$s:получение файлов: %2$d/%3$d</string>
     <string name="noti_completed">Завершено. Передано файлов: %1$d/%2$d</string>
     <string name="connect_confirm">%1$s запрашивает соединение</string>
+    <string name="about_to_receive">О получателе</string> 
     <string name="receive_canceled">Отменено</string>
     <string name="sdcard_unavailable">SD-карта недоступна</string>
     <string name="receive_cannot_created_file">Ошибка создания файла</string>

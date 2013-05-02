@@ -31,4 +31,5 @@
     <string name="use_data">Передача данных включена</string>
     <string name="input_method_category">Выберите способ ввода по умолчанию</string>
     <string name="input_method">Способ ввода</string>
+    <string name="default_gprs_sim_name">Пожалуйста введите \"%s\" Лимит трафика</string>
 </resources>
