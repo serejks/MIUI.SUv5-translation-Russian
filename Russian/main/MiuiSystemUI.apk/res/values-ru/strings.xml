@@ -232,8 +232,8 @@
     <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>
     <string name="notification_icon_filter_list_empty_summary">Текущий список пуст</string>
     <string name="notification_icon_filter_other_list">Список приложений</string>
-    <string name="notification_icon_filter_menu_item_show">Показать уведомления этого приложения в строке состояния</string>
-    <string name="notification_icon_filter_menu_item_hide">Не показать уведомления этого приложения в строке состояния</string>
+    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения в строке состояния</string>
+    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения в строке состояния</string>
     <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
     <string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
     <string name="notification_otg_keyboard_in">Клавиатура подключена</string>
