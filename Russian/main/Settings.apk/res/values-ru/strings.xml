@@ -707,8 +707,8 @@
     <string name="sim_absent">No SIM/RUIM</string>
     <string name="sim_change_failed">Не удается изменить PIN.\n Возможно, код введен неверно.</string>
     <string name="sim_change_succeeded">PIN-код SIM-карты успешно изменен</string>
-    <string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN.\n Включена UIM блокировка.</string>
-    <string name="sim_lock_change_not_supported">Невозможно изменить UIM блокировку. \n UIM не поддерживается.</string> 
+    <string name="sim_change_failed_enable_sim_lock">Невозможно изменить USIM PIN.\n Включена USIM PIN блокировка.</string>
+    <string name="sim_lock_change_not_supported">Невозможно изменить USIM PIN блокировку. \n USIM PIN не поддерживается.</string> 
     <string name="sim_lock_failed">Не удалось изменить состояние блокировки SIM-карты.\n Возможно, введен неверный PIN-код.</string>
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
@@ -2049,8 +2049,6 @@
     <string name="button_light_timeout">Настройки подсветки</string>
     <string name="screen_button_key">Виртуальные кнопки</string>
     <string name="screen_button_custom">Настройка расположения кнопок</string>
-    <string name="sim_change_failed_enable_sim_lock">Невозможно сменить SIM PIN.\nВключите блокировку SIM.</string>
-    <string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM.\nSIM не поддерживает ее.</string>
     <string name="sim_pin_enabled">PIN1 включен!</string>
     <string name="sim_pin_disabled">PIN1 выключен!</string>
     <string name="apn_new">Новая точка доступа</string>
