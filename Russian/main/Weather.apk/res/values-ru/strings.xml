@@ -70,8 +70,6 @@
     <string name="button_allow">Согласен</string>
     <string name="button_not_allow">Не согласен</string>
     <string name="location_allow_err">Открытие определения местонахождение не удалось</string>
-    <string name="format_date_wmd">M/d EEE</string>
-    <string name="format_date_md">M/d kk:mm</string>
     <string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
     <string name="act_weather_main_aqi_title">Чистота воздуха</string>
     <string name="aqi_quality_index_good">Хорошо</string>
