@@ -13,6 +13,9 @@
     <string name="status_bar_recent_guide_all">Сдвиньте вверх, чтобы закрыть, вниз, чтобы заблокировать</string>
     <string name="status_bar_recent_guide_top">Сдвиньте вверх, чтобы закрыть</string>
     <string name="status_bar_recent_guide_bottom">Сдвиньте вниз, чтобы заблокировать</string>
+    <string name="battery_low_title">Подключите зарядное устройство</string>
+    <string name="battery_low_subtitle">Низкий заряд батареи.</string>
+    <string name="battery_low_percent_format">Осталось %d%%</string>
     <string name="status_bar_no_notifications_title">Нет уведомлений</string>
     <string name="status_bar_ongoing_events_title">Текущие</string>
     <string name="status_bar_latest_events_title">Уведомления</string>
