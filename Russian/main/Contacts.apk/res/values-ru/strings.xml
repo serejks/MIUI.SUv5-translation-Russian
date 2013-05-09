@@ -711,7 +711,7 @@
     <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
     <string name="import_vcard_description">Импорт контактов с SD карты</string>
     <string name="import_weibo_dialog_title">Импорт контактов Sina Weibo</string>
-    <string name="import_weibo_fetch_followers">Экспорт друзей Sina Weibo…</string>
+    <string name="import_weibo_fetch_followers">Экспорт контактов Sina Weibo…</string>
     <string name="import_weibo_progress_name">Сопоставление \"%1$s\"…</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title">Импортирование контактов Sina Weibo…</string>
