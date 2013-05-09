@@ -52,7 +52,7 @@
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">XiaoMi digit</string>
     <string name="nowifi_alert_dialog_title">Уведомление</string>
-    <string name="nowifi_alert_dialog_message">Во время воспроизведения будет идти зарядка, продолжить?</string>
+    <string name="nowifi_alert_dialog_message">Во время воспроизведения будет идти загрузка, продолжить?</string>
     <string name="nowifi_alert_dialog_continue">Продолжить</string>
     <string name="nowifi_alert_dialog_exit">Выход</string>
 </resources>
