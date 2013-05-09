@@ -305,4 +305,5 @@
 1. Загрузить (Загрузка из локального файла)
 2. Обновить (Обновить удаленный файл)"</string>
     <string name="ui_filechange_btn_upload">Загрузка файлов</string>
+    <string name="folder_exist">Папка с таким именем уже существует</string> 
 </resources>
