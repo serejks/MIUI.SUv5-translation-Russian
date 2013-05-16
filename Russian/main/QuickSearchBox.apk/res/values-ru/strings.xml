@@ -29,4 +29,6 @@
     <string name="google_search_hint">Поиск Google</string>
     <string name="google_search_description">Поисковые подсказки Google</string>
     <string name="voice_search_hint_title">Попробуйте сказать:</string>
+    <string name="search_in_web">Искать в интернете</string>
+    <string name="search_in_app_store">поиск в маркете</string> 
 </resources>

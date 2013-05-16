@@ -68,6 +68,7 @@
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="time_picker_dialog_title">Время напоминания</string>
 	<string name="toast_message_add_image_fail">Ошибка при вставке изображения</string>
+        <string name="toast_privacy_mode">Для редактирования заметки требуется вход в защищенный режим</string>
         <string name="notify_alarm_title">Звуковое напоминание</string>
         <string name="notify_alarm_action_view">Просмотр</string>
         <string name="notify_alarm_action_mute">Выключить звук</string> 

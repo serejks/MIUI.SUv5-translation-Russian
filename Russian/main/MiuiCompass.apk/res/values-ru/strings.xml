@@ -26,4 +26,5 @@
     <string name="direction_south">Ю</string>
     <string name="direction_east">В</string>
     <string name="direction_west">З</string>
+    <string name="guide_toast">Возомжно вы находитесь в магнитном поле. \n Пожалуйста откалибруйте настройки компасса следующим жестом. </string> 
 </resources>
