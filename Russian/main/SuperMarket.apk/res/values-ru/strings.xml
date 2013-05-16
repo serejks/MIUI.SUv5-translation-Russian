@@ -239,8 +239,6 @@
     <string name="login_retry">Попробовать еще раз</string>
     <string name="failed_to_send_activate_email">Сбой при отправке активационного письма.</string>
     <string name="access_denied">Доступ запрещен</string>
-
-    <!-- first recommend -->
     <string name="first_recommend_download">Установить все</string>
     <string name="first_recommend_enter">Войти в маркет</string>
  
