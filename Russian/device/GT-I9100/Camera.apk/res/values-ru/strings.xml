@@ -7,6 +7,7 @@
     <string name="insert_mmc_msg">Для использования Камеры вставьте карту памяти</string>
     <string name="not_enough_space">Недостаточно памяти</string>
     <string name="change_to_card_memory">Недостаточно памяти. Для сохранения используется карта памяти</string>
+    <string name="burst_shot_disabled">Моментальная съемка отключена</string>
     <string name="change_to_phone_memory">Недостаточно памяти. Для сохранения используется память телефона</string>
     <string name="change_to_device_memory">Недостаточно памяти. Для сохранения используется память устройства</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер записи</string>
@@ -26,6 +27,8 @@
     <string name="close">Закрыть</string>
     <string name="cannot_start_camera_msg">Невозможно запустить Камеру во время звонка</string>
     <string name="cannot_start_camcorder_msg">Запись видео во время звонка</string>
+    <string name="finish_multi_camera_msg">Невозможно повторно открыть камеру, когда она уже зарущена</string>
+    <string name="finish_multi_camcorder_msg">Невозможно повторно открыть камеру, когда она уже зарущена</string>
     <string name="image_stitching_fail">Ошибка</string>
     <string name="SM_SINGLE">Один снимок</string>
     <string name="SM_CONTINUOUS">Непрерывный</string>
@@ -264,7 +267,7 @@
     <string name="singleshotburst_storage_helptext">Моментальные снимки по умолчанию сохраняются в хорошем качестве</string>
     <string name="sbeam_helptext">Фотографируй и делись фоторафиями с другими устройствами. Соедини устройства вместе, чтобы передавать файлы, используя функцию S Beam</string>
     <string name="storage_setting_dialog_title">Место хранения</string>
-    <string name="storage_setting_dialog_message">SD карта вставлена.\nИзменить хранилище файлов по умолчанию на SD?</string>
+    <string name="storage_setting_dialog_message">SD карта установлена.\nИзменить хранилище файлов по умолчанию на SD?</string>
     <string name="storage_setting_dialog_burstshot_message">Одиночные фото будут сохраняться на карту памяти SD. Моментальные снимки будут сохранены на устройстве хранения</string>
     <string name="do_not_ask_again">Больше не показывать</string>
     <string name="shutter">Затвор</string>
@@ -278,13 +281,15 @@
     <string name="buddy_photo_share_helptext">Фотографируйте и делитесь снимками с друзьями при помощи функции распознавания лиц</string>
     <string name="face_zoom_helptext">Дважды кликните по лицу для автофокусировки</string>
     <string name="burst_shot_guidetext">Моментальные снимки будут сохраняться в хранилище телефона</string>
+    <string name="continuous_shot_guidetext">Серийные снимки будет сохранены на память устройства</string>
     <string name="best_photo_guidetext">Лучшие снимки будут сохраняться в хранилище телефона</string>
     <string name="snap_shot_limitation_dialog">Невозможно использовать функцию записи снимка, пока включена функция защиты от сотрясений.</string>
+    <string name="voicecommand_helptext">Вы можете делать фото с помощью голосовызх команд, тких как %1$s, %2$s, %3$s, и %4$s</string>
     <string name="on_device_help_focus">Вы можете нажать на экран, чтобы настроить фокусs</string>
     <string name="on_device_help_camcorder">Вы можете переключаться между ФОТО и ВИДЕО режимами</string>
     <string name="on_device_help_self">Нажмите сюда, чтобы включить режим автопортрета</string>
     <string name="on_device_help_editable">Вы можее зажать и удерживать превью для редактирования файла.</string>
-    <string name="on_device_help_voicecommand">Вы можете снимать фото при помощи голосовых команд \"Capture\", \"Shoot\", \"Smile\" and \"Cheese\"</string>
+    <string name="on_device_help_voicecommand">Вы можете снимать фото при помощи голосовых команд \"Capture\", \"Shoot\", \"Smile\" и \"Cheese\"</string>
     <string name="Title_VideoSpeed">Скорость</string>
     <string name="SPEED_OFF">Нормальная</string>
     <string name="SPEED_2X_FASTER">Быстрее 2X</string>
@@ -356,4 +361,12 @@
     <string name="snapshot_saved">Изображение %s сохранено</string>
     <string name="editable_shortcut_reset">Сброс</string>
     <string name="sharehost_no_history">История пуста</string>
+    <string name="attention">Внимание</string>
+    <string name="temperature_too_high_flash_off">Вспышка отключена. Слишком большая температура устройства</string>
+    <string name="Title_VolumeKey">Использовать клавишу громкости как</string>
+    <string name="VK_ZOOM">увеличение</string>
+    <string name="VK_SHUTTER">затвор</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Возобновить</string>
+    <string name="snap_shot">Моментальный снимок</string>
 </resources>
