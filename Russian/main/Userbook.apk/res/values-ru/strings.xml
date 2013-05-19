@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Справочник</string>
-    <string name="read_progress_format">%1$s/%2$s</string>
-    <string name="read_progress_title">Чтение закончено</string>
-    <string name="total_read_progress_format">%1$s%%</string>
-    <string name="loading_userbook">Загрузка…</string>
-    <string name="grid_list_title">Узнайте все о своем телефоне!</string>
-</resources>
