@@ -4,7 +4,7 @@
         <item>Яндекс</item>
         <item>yandex.ru</item>
         <item>http://yandex.ru/favicon.ico</item>
-        <item>http://yandex.ru/touchsearch?1788326=&amp;text={searchTerms}</item>
+        <item>http://yandex.ru/touchsearch?text={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
@@ -32,7 +32,7 @@
         <item>MIUI.SU</item>
         <item>http://miui.su/</item>
         <item>Yandex</item>
-        <item>http://www.yandex.ru/?clid=2045130</item>
+        <item>http://www.yandex.ru/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
