@@ -205,7 +205,7 @@
     <string name="screen_button_notification_text">Нажатие \"Домой\"+\"Выключение\" для активации</string>
     <string name="status_bar_style_settings">Строка состояния</string>
     <string name="settings_toggle_layout_style">Стиль переключателей</string>
-    <string name="settings_toggle_layout_style_compact">Компактный</string>
+    <string name="settings_toggle_layout_style_compact">Компакт</string>
     <string name="settings_toggle_layout_style_single_page">Страница</string>
     <string name="settings_toggle_layout_style_applying">Меняю стиль переключателей…</string>
     <string name="settings_toggle">Переключатели</string>

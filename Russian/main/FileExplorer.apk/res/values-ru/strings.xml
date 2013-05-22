@@ -283,7 +283,7 @@
     <string name="no_app_garbage_indication">Нет мусора приложений</string>
     <string name="cancel_app_garbage_cleanup">Не очищено</string>
     <string name="clean_app_garbage">Удалить пунктов: %d</string>
-    <string name="app_garbage_path">Местоположение:</string>
+    <string name="app_garbage_path">Расположение:</string>
     <string name="give_up_cleaning">Отказаться</string>
     <string name="restart_cleaning">Перезагрузка</string>
     <string name="cleanup_complete">Готово</string>
