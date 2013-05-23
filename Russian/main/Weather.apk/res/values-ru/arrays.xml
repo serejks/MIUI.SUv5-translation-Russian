@@ -11,7 +11,7 @@
         <item>Индекс досуга:</item>
      </array>
     <array name="send_item">
-        <item>СМС</item>
+        <item>SMS</item>
         <item>E-mail</item>
     </array>
     <array name="weather_image">

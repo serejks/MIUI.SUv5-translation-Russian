@@ -8,13 +8,13 @@
     <string name="enable_notification_city">Будет открыто %s погодное уведомление, системное оповещение уведомления при изменении погоды</string>
     <string name="sms_notification">SMS уведомление</string>
     <string name="send_sms_notification">Отправка погоды</string>
-    <string name="send_sms_notification_summary">Отправить сегодняшний прогноз погоды друзьям по СМС</string>
+    <string name="send_sms_notification_summary">Отправить сегодняшний прогноз погоды друзьям по SMS</string>
     <string name="location_management">Местонахождение</string>
     <string name="enable_gps">GPS</string>
     <string name="add_city">Добавить город</string>
     <string name="cancel">Закрыть</string>
     <string name="menu_send_sms">Отправить</string>
-    <string name="app_love_sms_title">СМС</string>
+    <string name="app_love_sms_title">SMS</string>
     <string name="app_love_view_title">Предпросмотр</string>
     <string name="app_love_font_lng">%s</string>
     <string name="app_nohave_net">Нет соединения с сетью</string>

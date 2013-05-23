@@ -3,7 +3,7 @@
     <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
         <item>E-mail</item>
-        <item>СМС</item>
+        <item>SMS</item>
         <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">

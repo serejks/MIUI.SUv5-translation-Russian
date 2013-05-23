@@ -185,7 +185,7 @@
     <string name="accounts_welcome_exchange_alternate">Настроить аккаунт Exchange ActiveSync очень просто.</string>
     <string name="account_setup_basics_email_label">Адрес электронной почты</string>
     <string name="account_setup_basics_password_label">Пароль</string>
-    <string name="account_setup_basics_default_label">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений.</string>
+    <string name="account_setup_basics_default_label">Сделать аккаунтом по умолчанию для отправки почты.</string>
     <string name="account_setup_basics_manual_setup_action">Вручную</string>
     <string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль.</string>
     <string name="account_duplicate_dlg_title">Копировать аккаунт</string>
@@ -299,7 +299,7 @@
     <string name="security_notification_content_title">Обновите систему безопасности</string>
     <string name="account_security_title">Безопасность устройства</string>
     <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android.</string>
-    <string name="account_setup_failed_dlg_edit_details_action">Изменить сведения</string>
+    <string name="account_setup_failed_dlg_edit_details_action">Изменить настройки</string>
     <string name="password_expire_warning_ticker_fmt">Для аккаунта \"%s\" требуется изменить PIN-код или пароль блокировки экрана.</string>
     <string name="password_expire_warning_content_title">Истекает срок действия пароля</string>
     <string name="password_expired_ticker">Срок действия вашего PIN-кода или пароля блокировки экрана истек.</string>
@@ -470,7 +470,7 @@
     <string name="failed_network_error">Ошибка сети</string>
     <string name="failed_server_auth">Не удалось выполнить аутентификацию</string>
     <string name="manager_list_switcher_pending_format">Незавершенные загрузки [%d]</string>
-    <string name="manager_list_switcher_completed_format">Завершенные загрузки (%d)</string>
+    <string name="manager_list_switcher_completed_format">Завершенные загрузки [%d]</string>
     <string name="manager_pause">Приостановить загрузки</string>
     <string name="manager_resume">Продолжить загрузку</string>
     <string name="manager_upload_now">Загрузить</string>
@@ -489,15 +489,15 @@
     <string name="notify_resolved">Загрузки завершены</string>
     <string name="notify_paused">Загрузки приостановлены</string>
     <string name="notify_activation_reminder">Функция загрузки с телефона ещё не активирована</string>
-    <string name="dialog_first_wifi">Большие файлы будут загружаться только через соединение Wi-Fi.</string>
+    <string name="dialog_first_wifi">Большие файлы будут загружаться только через Wi-Fi.</string>
     <string name="dialog_sync_all_scanning">Поиск файлов…</string>
     <string name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке…</string>
     <string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено.</string>
     <string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже.</string>
     <string name="dialog_sync_all_canceled">Команда \"Синхронизировать все\" отменена</string>
     <string name="dialog_sync_all_error_title">Синхронизировать все</string>
-    <string name="manager_view_completed">Просмотреть завершенные</string>
-    <string name="manager_view_pending">Просмотреть незавершенные</string>
+    <string name="manager_view_completed">Посмотреть завершенные</string>
+    <string name="manager_view_pending">Посмотреть незавершенные</string>
     <string name="preference_category_title_general">Общие</string>
     <string name="preference_title_pause_all_uploads">Приостановить все загрузки</string>
     <string name="preference_title_need_power">Зарядка</string>
@@ -520,7 +520,7 @@
     <string name="preference_title_camera_sync_version">Загрузка с телефона</string>
     <string name="photos_upload_dimension_1600">Рекомендуется: 1600 пикселей (для публикации, распечатки и заставок)</string>
     <string name="photos_upload_dimension_original">Исходный размер файла (минимальная скорость загрузки)</string>
-    <string name="pause_state_need_media">приостановлено – отсутствует SD-карта</string>
+    <string name="pause_state_need_media">приостановлено – SD-карта недоступна</string>
     <string name="summary_subtitle_paused_need_media">SD-карта недоступна</string>
     <string name="preference_plus_title">Настройки загрузки</string>
     <string name="preference_plus_enable_cs">Загрузка с телефона</string>
@@ -549,9 +549,9 @@
     <string name="choosertitle_sharevia">Отправить через</string>
     <string name="contextmenu_openlink">Открыть в браузере</string>
     <string name="contextmenu_copy">Копировать</string>
-    <string name="contextmenu_copylink">Скопируйте URL-адрес</string>
+    <string name="contextmenu_copylink">Скопировать URL-адрес</string>
     <string name="contextmenu_dial_dot">Набрать…</string>
-    <string name="contextmenu_sms_dot">СМС…</string>
+    <string name="contextmenu_sms_dot">SMS…</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
     <string name="contextmenu_send_mail">Отправить письмо</string>
     <string name="contextmenu_map">Карты</string>
@@ -565,12 +565,12 @@
     <string name="alert_title_selected">Отметить всё</string>
     <string name="alert_selected_all_message">" Содержит %d сообщений. Выбираем всё, уверены?"</string>
     <string name="account_setup_index_title">Инструкция по настройке</string>
-    <string name="account_setup_index_label">Выберите, пожалуйста, почтовый сервис:</string>
+    <string name="account_setup_index_label">Выберите, почтовый сервис:</string>
     <string name="account_setup_index_other_mails">Другие почтовые сервисы</string>
-    <string name="account_setup_basic_label">Заполните информацию для почтового ящика %s :</string>
+    <string name="account_setup_basic_label">Заполните информацию для почтового ящика %s:</string>
     <string name="account_setup_basic_name_label">Ваше имя (не обязательно)</string>
     <string name="account_setup_basic_description_label">Имя аккаунта (не обязательно)</string>
     <string name="add_quick_responses_action">Создать новый</string>
-    <string name="account_security_waiting_policy_key_message">%s запрашивает настройки безопасности с сервера，пожалуйста, подождите.</string>
+    <string name="account_security_waiting_policy_key_message">\"%s\" запрашивает настройки безопасности с сервера，пожалуйста, подождите.</string>
     <string name="cleared_trusted_senders_message">Очистка \"Показывать изображения\", изображения в сообщениях не будут показываться автоматически</string>
 </resources>

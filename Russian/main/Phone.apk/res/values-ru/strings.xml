@@ -1029,8 +1029,8 @@
     <string name="preferred_network_type_title_miui">Выбор типа сети</string>
     <string name="puk_lock_warning_miui">SIM карта будет заблокирована навсегда при неудачной попытке!</string>
     <string name="remove_miui">Удалить</string>
-    <string name="reject_via_sms_miui">Отклонить с СМС</string>
-    <string name="reject_via_sms_summary_miui">Выберите СМС для отправки при отклонении</string>
+    <string name="reject_via_sms_miui">Отклонить с SMS</string>
+    <string name="reject_via_sms_summary_miui">Выберите SMS для отправки при отклонении</string>
     <string name="reject_via_sms_title_miui">Настройки отклонения с SMS</string>
     <string name="separate_from_conference_miui">Одиночный вызов</string>
     <string name="set_smsc_address_error_miui">Ошибка установки SMS центра, попробуйте позже</string>
