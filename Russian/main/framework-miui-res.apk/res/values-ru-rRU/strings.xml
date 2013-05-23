@@ -446,4 +446,9 @@
     <string name="sim_locked">SIM-карта заблокирована</string>
     <string name="sim_not_ready">SIM-карта используется. Повторите позже.</string>
     <string name="sim_in_airplane_mode">Отключите режим \"В самолете\".</string>
+	<string name="days">%d дн.</string>
+	<string name="hours">%d ч.</string>
+	<string name="minutes">%d мин.</string>
+	<string name="shutdown_confirm_title">Вы уверены, что хотите выключить телефон?</string>
+	<string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
 </resources>
