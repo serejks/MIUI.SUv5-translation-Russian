@@ -20,7 +20,7 @@
     <string name="done_action">Готово</string>
     <string name="create_action">Создать</string>
     <string name="delete_quick_response_action">Удалить</string>
-    <string name="quick_responses_empty_view">Нет шаблонов SMS-ответов</string>
+    <string name="quick_responses_empty_view">Нет шаблонов быстрых ответов</string>
     <string name="discard_action">Отменить</string>
     <string name="save_draft_action">Сохранить черновик</string>
     <string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
@@ -259,7 +259,7 @@
     <string name="account_setup_options_sync_contacts_label">Синхронизировать контакты из этого аккаунта.</string>
     <string name="account_setup_options_sync_calendar_label">Синхронизировать календарь из этого аккаунта.</string>
     <string name="account_setup_options_sync_email_label">Синхронизировать почту из этого аккаунта</string>
-    <string name="account_setup_options_background_attachments_label">Загружать прикрепленные файлы при подключении к Wi-Fi</string>
+    <string name="account_setup_options_background_attachments_label">Загружать вложения при подключении к Wi-Fi</string>
     <string name="account_setup_failed_dlg_title">Настройка не закончена</string>
     <string name="account_setup_options_mail_window_label">Период синхронизации</string>
     <string name="account_setup_options_mail_window_auto">Автоматически</string>
@@ -314,8 +314,8 @@
     <string name="account_settings_default_label">Аккаунт по умолчанию</string>
     <string name="account_settings_default_summary">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
     <string name="account_settings_background_attachments_label">Автозагрузка прикрепл. файлов</string>
-    <string name="account_settings_background_attachments_summary">Загружать прикрепленные файлы при подключении к Wi-Fi</string>
-    <string name="account_settings_notify_label">Уведомления электронной почты</string>
+    <string name="account_settings_background_attachments_summary">Загружать вложения при подключении к Wi-Fi</string>
+    <string name="account_settings_notify_label">Уведомления почты</string>
     <string name="account_settings_summary">Частота синхронизации, уведомления и другие настройки</string>
     <string name="account_settings_notify_summary">При получении почты показывать оповещение в строке состояния системы</string>
     <string name="account_settings_mail_check_frequency_label">Частота проверки папки Входящие</string>
@@ -348,7 +348,7 @@
     <string name="account_settings_ringtone">Выбрать рингтон</string>
     <string name="account_settings_servers">Настройки сервера</string>
     <string name="account_delete_dlg_title">Удалить аккаунт</string>
-    <string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален из Почты.</string>
+    <string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален.</string>
     <string name="account_settings_category_delete_account">Удалить аккаунт</string>
     <string name="account_settings_delete_account_label">Удалить аккаунт</string>
     <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
@@ -375,8 +375,8 @@
     <string name="general_preference_auto_advance_label">Автопереход</string>
     <string name="general_preference_auto_advance_summary">Выберите экран для отображения после удаления цепочки писем</string>
     <string name="general_preference_auto_advance_dialog_title">Переходить к</string>
-    <string name="general_preference_auto_advance_newer">Предыдущему сообщению</string>
-    <string name="general_preference_auto_advance_older">Следующему сообщению</string>
+    <string name="general_preference_auto_advance_newer">Следующему сообщению</string>
+    <string name="general_preference_auto_advance_older">Предыдущему сообщению</string>
     <string name="general_preference_auto_advance_message_list">Списку сообщений</string>
     <string name="general_preference_text_zoom_label">Размер шрифта</string>
     <string name="general_preference_text_zoom_dialog_title">Размер шрифта</string>
@@ -387,8 +387,8 @@
     <string name="general_preference_text_zoom_huge">Огромный</string>
     <string name="general_preference_reply_all_label">Ответить всем</string>
     <string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
-    <string name="general_preferences_clear_trusted_senders_title">Сброс знач.\"Показать изображения\"</string>
-    <string name="general_preferences_clear_trusted_senders_summary">Восстановить значения по умолчанию для всех отправителей (отключить автоматический показ их изображений)</string>
+    <string name="general_preferences_clear_trusted_senders_title">Очистка \"Показать изображения\"</string>
+    <string name="general_preferences_clear_trusted_senders_summary">Изображения в письмах не будут показываться автоматически</string>
     <string name="trusted_senders_cleared">Показ изображений отключен.</string>
     <string name="position_of_count">%1$d из %2$s</string>
     <string name="waitinf_for_sync_message_1">Ожидание синхронизации</string>
