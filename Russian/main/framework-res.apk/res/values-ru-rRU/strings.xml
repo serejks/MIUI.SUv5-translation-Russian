@@ -284,15 +284,15 @@
     <string name="silent_mode_vibrate">Вибрация</string>
     <string name="silent_mode_ring">Звонок</string>
     <string name="shutdown_progress">Выключение…</string>
-    <string name="shutdown_confirm">Устройство будет выключено</string>
-    <string name="shutdown_confirm_question">Хотите выключить?</string>
+    <string name="shutdown_confirm">Телефон будет выключено</string>
+    <string name="shutdown_confirm_question">Выключить телефон?</string>
+	<string name="restart_confirm">Телефон будет перезагружен</string>
     <string name="reboot_safemode_title">Перезагрузка в безопасный режим</string>
     <string name="reboot_safemode_confirm">Вы действительно хотите перейти в безопасный режим? Будут отключены приложения третих сторон. Их функциональность будет восстановлена после повторной загрузки.</string>
     <string name="recent_tasks_title">Недавние</string>
     <string name="no_recent_tasks">Нет недавних приложений.</string>
     <string name="global_actions">Настройки устройства</string>
     <string name="global_action_lock">Блокировка экрана</string>
-    <string name="global_action_power_off">Выключение</string>
     <string name="global_action_toggle_silent_mode">Беззвучный режим</string>
     <string name="global_action_silent_mode_on_status">Звук отключён</string>
     <string name="global_action_silent_mode_off_status">Звук включён</string>
@@ -809,6 +809,8 @@
     <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для приложений, установленных в /system/app.</string>
     <string name="factorytest_no_action">Не обнаружено приложений, поддерживающих действие FACTORY_TEST.</string>
     <string name="factorytest_reboot">Перезагрузка</string>
+	<string name="global_action_power_off">Выключение</string>
+	<string name="global_action_restart">Перезагрузка</string>
     <string name="js_dialog_title">Страница \"%s\" сообщает:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Уйти со страницы?\n\n%s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.</string>
