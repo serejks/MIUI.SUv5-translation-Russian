@@ -63,7 +63,7 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
-	<string-array name="alarm_in_future">
+    <string-array name="alarm_in_future">
         <item>Будильник зазвонит менее чем через минуту</item>
         <item>Будильник зазвонит через %1$s</item>
         <item>Будильник зазвонит через %2$s</item>

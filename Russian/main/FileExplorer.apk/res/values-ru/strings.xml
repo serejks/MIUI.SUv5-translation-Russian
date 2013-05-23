@@ -71,7 +71,7 @@
     <string name="error_info_cant_send_folder">Невозможно передать папку</string>
     <string name="fail_to_create_folder">Невозможно создать: уже существует</string>
     <string name="fail_to_rename">Невозможно переименовать: файл или папка уже существует</string>
-	<string name="error_filename_too_long">Имя файла слишком длинное</string>
+    <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="enable_sd_card">SD-карта недоступна. Вставьте карту или переключите режим USB</string>
     <string name="start_server">Старт</string>
     <string name="stop_server">Стоп</string>
@@ -113,7 +113,7 @@
     <string name="user_guide_upload_to_kuaipan">Скопируйте данные со своего телефона в KuaiPan</string>
     <string name="rename_failed">Ошибка переименования %1$s</string>
     <string name="directory_no_item">Пустая папка</string>
-	<string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
+    <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="ui_bar_txt_download_progress">%1$d файлов осталось загрузить</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>
