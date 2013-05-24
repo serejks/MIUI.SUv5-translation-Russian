@@ -321,7 +321,7 @@
     <string name="status_bar_network_flow_today">Сегодня:%1$s</string>
     <string name="status_bar_network_flow">Сегодня:%1$s Остаток:%2$s Тариф:%3$s</string>
     <string name="status_bar_network_flow_exceed">Сегодня:%1$s Превышено:%2$s Тариф:%3$s</string>
-    <string name="drive_mode_tip">Вы за рулем автомобиля. Будте осторожны!</string>
+    <string name="drive_mode_tip">Вы за рулем автомобиля. Будьте осторожны!</string>
     <string name="recording_tip">Нажмите, для возврата к записи</string>
     <string name="no_notification_tips">Нет уведомлений</string>
     <string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>

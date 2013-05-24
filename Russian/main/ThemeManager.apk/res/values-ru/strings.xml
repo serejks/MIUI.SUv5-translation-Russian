@@ -18,7 +18,7 @@
 	<string name="theme_component_title_framework">Стили</string>
 	<string name="theme_component_title_mms">SMS</string>
 	<string name="theme_component_title_wallpaper">Обои</string>
-	<string name="theme_component_title_lockwallpaper">Обои блокировки</string>
+	<string name="theme_component_title_lockwallpaper">Обои блокир-ки</string>
 	<string name="theme_component_title_miwallpaper">Обои</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_boot_animation">Анимация загрузки</string>
@@ -28,7 +28,7 @@
 	<string name="theme_component_title_notification">Уведомления</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_contact">Кнопки</string>
-	<string name="theme_component_title_lockstyle">Экран блокировки</string>
+	<string name="theme_component_title_lockstyle">Экран блокир-ки</string>
 	<string name="theme_component_title_statusbar">Строка состояния</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
 	<string name="theme_component_title_audio_effect">Звуковые эффекты</string>

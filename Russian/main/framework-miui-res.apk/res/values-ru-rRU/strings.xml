@@ -3,7 +3,7 @@
 	<string name="activate">Активация</string>
 	<string name="activate_fail_notification_title">Повтор активации служб Xiaomi</string>
 	<string name="activating">Активация…</string>
-	<string name="alwaysUsePrompt">Установить по умолчанию (Больше не спрашивать)</string>
+	<string name="alwaysUsePrompt">Установить по умолчанию</string>
 	<string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт</string>
 	<string name="today">Сегодня</string>
 	<string name="tomorrow">Завтра</string>
