@@ -49,7 +49,7 @@
     <string name="system_backup_ok_text">Бэкап</string>
     <string name="system_backup_download_helper">"Устройство будет автоматически перезагружено для обновления после загрузки и применения изменений. "</string>
     <string name="system_backup_apply_helper">"Устройство будет автоматически перезагружено для обновления после применения изменений. "</string>
-    <string name="system_backup_helper">Обновление не затронет пользовательские данные. Однако, перед обновлением, рекомендуется сделать резервную копию ваших данных</string>
+    <string name="system_backup_helper">Обновление не затронет личные данные. Однако, перед обновлением, рекомендуется сделать резервную копию ваших данных</string>
     <string name="system_backup_ask">Не запоминать</string>
     <string name="system_backup_error_message">Резервная копия MIUI не найдена, сделайте вручную</string>
     <string name="md5_check_cancelled">Проверка MD5 прервана</string>
