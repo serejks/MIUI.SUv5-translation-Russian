@@ -28,7 +28,7 @@
     <string name="menu_switch_test">Переключиться в тестовый(Нужна перезагрузка)</string>
     <string name="menu_switch_formal">Переключиться в обычный(Нужна перезагрузка)</string>
     <string name="switch_formal_test_hint">Изменения вступят в силу после перезагрузки</string>
-    <string name="menu_refresh">Обновление</string>
+    <string name="menu_refresh">Обновить</string>
     <string name="tab_indicator_home">Топ</string>
     <string name="tab_indicator_category">Категории</string>
     <string name="tab_indicator_shopping">Корзина</string>

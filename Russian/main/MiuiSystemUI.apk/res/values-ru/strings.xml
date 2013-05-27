@@ -10,9 +10,9 @@
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
     <string name="status_bar_recent_clear_result">Успешно очищено %1$s памяти, сейчас доступно %2$s</string>
     <string name="status_bar_recent_clear_nothing_result">Нет памяти, которую можно очистить</string>
-    <string name="status_bar_recent_guide_all">Сдвиньте вверх, чтобы закрыть, вниз, чтобы заблокировать</string>
-    <string name="status_bar_recent_guide_top">Сдвиньте вверх, чтобы закрыть</string>
-    <string name="status_bar_recent_guide_bottom">Сдвиньте вниз, чтобы заблокировать</string>
+    <string name="status_bar_recent_guide_all">Слайд вверх для закрытия, слайд вниз для закрепления</string>
+    <string name="status_bar_recent_guide_top">Слайд вверх для закрытия</string>
+    <string name="status_bar_recent_guide_bottom">Слайд вниз для закрепления</string>
     <string name="battery_low_title">Подключите зарядное устройство</string>
     <string name="battery_low_subtitle">Низкий заряд батареи.</string>
     <string name="battery_low_percent_format">Осталось %d%%</string>
@@ -20,7 +20,7 @@
     <string name="status_bar_ongoing_events_title">Текущие</string>
     <string name="status_bar_latest_events_title">Уведомления</string>
     <string name="invalid_charger">Зарядка по USB не поддерживается. Используйте только оригинальное зарядное устройство.</string>
-    <string name="battery_low_why">Использование батареи</string>
+    <string name="battery_low_why">Расход батареи</string>
     <string name="status_bar_settings_settings_button">Настройки</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">В самолете</string>

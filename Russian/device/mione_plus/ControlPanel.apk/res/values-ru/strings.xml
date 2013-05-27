@@ -35,7 +35,7 @@
   <string name="fancy_ime_animations_summary_off">Использовать обычную анимацию для окон ввода</string>
   <string name="fancy_ime_animations_summary_on">Использовать вычурную анимацию для окон ввода</string>
   <string name="fancy_ime_animations_title">Вычурная анимация</string>
-  <string name="fuel_gauge">Использование батареи</string>
+  <string name="fuel_gauge">Расход батареи</string>
   <string name="interface_animation_category">Анимация</string>
   <string name="interface_settings">Интерфейс</string>
   <string name="interface_summary">Контролировать внешний вид и работу</string>

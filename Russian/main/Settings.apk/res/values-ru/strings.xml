@@ -1874,8 +1874,8 @@
     <string name="perm_hips_disable_content">При отключении этой функции MIUI прекратит контролировать запросы приложений и сохранять вашу безопасность и конфиденциальность.\nОтключить ее?</string>
     <string name="perm_su_enable_title">Права ROOT</string>
     <string name="perm_su_enable_content">Включение этой функции позволит приложениям запрашивать права ROOT.\nВнимание: Приложения с правами ROOT могут привести к нестабильности системы, потере личных данных и повреждению устройства, пожалуйста будьте осторожны. Включить ее?</string>
-    <string name="perm_log_clear_title">Очисть журналы</string>
-    <string name="perm_log_clear_content">Все журналы будут удалены. Вы уверены что хотите этого?</string>
+    <string name="perm_log_clear_title">Очисть журнал</string>
+    <string name="perm_log_clear_content">Очистить журанал?</string>
     <string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
     <string name="perm_privacy_app_count">Разрешений: %1$d</string>
     <string name="perm_privacy_app_trust">Я доверяю этому приложению</string>
