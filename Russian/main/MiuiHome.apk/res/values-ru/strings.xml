@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста выполните вход снова.</string>
+    <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
     <string name="all_resources">Все</string>
     <string name="aqi_quality_index_dangerous">Опасно</string>
     <string name="aqi_quality_index_good">Хорошо</string>

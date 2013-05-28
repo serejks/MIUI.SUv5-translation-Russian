@@ -199,5 +199,5 @@
 	<string name="resource_title_select_ringtone">Выбор рингтона</string>
 	<string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
 	<string name="loading_resource_detail_info">Загрузка…</string>
-	<string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста выполните вход снова!</string>
+	<string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
 </resources>
