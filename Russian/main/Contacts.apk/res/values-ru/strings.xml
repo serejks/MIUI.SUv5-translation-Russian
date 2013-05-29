@@ -560,7 +560,7 @@
     <string name="dialog_voicemail_not_ready_message">Для настройки голосовой почты перейдите в Меню > Настройки.</string>
     <string name="dialog_voicemail_airplane_mode_message">Выключите режим "В самолёте", чтобы вызвать голосовую почту.</string>
     <string name="action_menu_overflow_description">Больше настроек</string>
-    <string name="add_blacklist">Добавить в черный список</string>
+    <string name="add_blacklist">В черный список</string>
     <string name="unknown_contact_name">MIUI Home</string>
     <string name="primary_indicator">Основной</string>
     <string name="contactDetailCalllog">История звонков</string>
@@ -647,7 +647,7 @@
     <string name="confirm_delete_contact_all_call_logs">Удалить все журналы вызовов контакта %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Удалить все журналы вызовов контакта?</string>
     <string name="confirm_delete_selected_call_log">Удалить выбранное из журнала?</string>
-    <string name="calllog_menu_blacklist">Добавить в черный список</string>
+    <string name="calllog_menu_blacklist">В черный список</string>
     <string name="calllog_menu_edit_before_call">Редактировать перед звонком</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="menu_call_ip_number">IP телефония (набрать %s)</string>
