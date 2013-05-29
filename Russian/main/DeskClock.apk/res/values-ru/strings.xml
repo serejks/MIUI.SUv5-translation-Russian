@@ -164,7 +164,7 @@
 	<string name="description_summary">Общ.информация:</string>
 	<string name="resource_local">Локальные %1$s</string>
 	<string name="resource_online">Онлайн %1$s</string>
-	<string name="resource_title">Детали ресурса</string>
+	<string name="resource_title">Свойства ресурса</string>
 	<string name="resource_download">Загрузка</string>
 	<string name="resource_downloading">Загрузка</string>
 	<string name="resource_apply">Применить</string>
@@ -180,7 +180,7 @@
 	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="all_resources">Все</string>
 	<string name="resource_default_name">Ресурсы</string>
-	<string name="resource_detail">Детали</string>
+	<string name="resource_detail">Свойства</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбрано!</string>
 	<string name="resource_system_title">Системные ресурсы</string>

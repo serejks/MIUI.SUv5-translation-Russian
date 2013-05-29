@@ -290,7 +290,7 @@
     <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана</string>
     <string name="crypt_keeper_confirm_title">Подтвердить шифрование</string>
-    <string name="crypt_keeper_final_desc">Вы действительно хотите зашифровать устройство? Операция необратима, прерывание приведет к потере данных. Шифрование может занять час и более, в процессе ваше телефон может быть перезагружен несколько раз</string>
+    <string name="crypt_keeper_final_desc">Зашифровать устройство? Операция необратима, прерывание приведет к потере данных. Шифрование может занять час и более, в процессе ваше телефон может быть перезагружен несколько раз</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
     <string name="crypt_keeper_setup_description">Идет шифрование устройства. ^1% завершено</string>
     <string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
@@ -578,7 +578,7 @@
     <string name="wifi_p2p_help_message">Wi-Fi Direct позволяет прамое подключение устройств через Wi-Fi для печати, синхронизации, обмена файлами. Подключаясь к устройствам, которые поддерживают Wi-Fi Direct, позволяет вам делиться файлами, синхронизировать данные, общаться с друзьями, играть в игры, делиться аудио-,видео файлами и использовать другие функции приложений</string>
     <string name="wifi_p2p_no_device">Устройства не найдены</string>
     <string name="wifi_p2p_cancel_connect_title">Отменить подключение</string>
-    <string name="wifi_p2p_cancel_connect">Вы действительно хотите завершить это подключение?</string>
+    <string name="wifi_p2p_cancel_connect">Завершить это подключение?</string>
     <string name="wifi_p2p_info_mac">MAC адрес</string>
     <string name="wifi_p2p_info_time">Время соединения</string>
     <string name="wifi_p2p_info_title">Информация об устройстве</string>

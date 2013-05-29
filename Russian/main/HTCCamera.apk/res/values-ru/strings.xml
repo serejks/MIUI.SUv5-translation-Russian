@@ -180,8 +180,8 @@
     <string name="mms_recording_limit_size">Наибольший размер записи для MMS %s.</string>
     <string name="limit_time_unit">Сек.</string>
     <string name="recording_limit_time">Максимальное время записи %s.</string>
-    <string name="action_screen_confirm_delete_message">Вы действительно хотите удалить %s?</string>
-    <string name="action_screen_confirm_delete_message_burst">Вы действительно хотите удалить сделанные снимки?</string>
+    <string name="action_screen_confirm_delete_message">Удалить %s?</string>
+    <string name="action_screen_confirm_delete_message_burst">Удалить сделанные снимки?</string>
     <string name="action_screen_share_image">Опубликуйте фото через</string>
     <string name="action_screen_share_video">Опубликуйте видео через</string>
     <string name="action_screen_button_delete">Удалить</string>

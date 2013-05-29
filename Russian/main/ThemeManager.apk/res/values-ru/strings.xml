@@ -63,8 +63,8 @@
 	<string name="long_ringtone_resource">Длинные\n(&gt;5сек)</string>
 	<string name="short_ringtone_resource">Короткие\n(&lt;5сек)</string>
 	<string name="all_ringtone_resource">Все</string>
-	<string name="resource_preview">Предпросмотр</string>
-	<string name="wallpaper_set_as_both">Применить обои и локскрин</string>
+	<string name="resource_preview">Просмотр</string>
+	<string name="wallpaper_set_as_both">Применить как обои и локскрин</string>
 	<string name="wallpaper_set_as_destop">Применить как обои</string>
 	<string name="wallpaper_set_as_lockscreen">Применить как экран блокировки</string>
 	<string name="wallpaper_crop">Обрезать</string>
@@ -83,7 +83,7 @@
 	<string name="theme_sdcard_importing">Импорт</string>
 	<string name="theme_import_stoping">Прерывание…</string>
 	<string name="theme_import_oper_stop">Остановить</string>
-	<string name="theme_import_oper_stop_request_content">Эти темы необходимо обновить для дальнейшего использования. Вы действительно хотите остановить процесс?</string>
+	<string name="theme_import_oper_stop_request_content">Эти темы необходимо обновить для дальнейшего использования. Остановить процесс?</string>
 	<string name="theme_import_oper_start">Обновить все</string>
 	<string name="theme_import_oper_complete">Готово</string>
 	<string name="theme_import_item_not_upgraded">Не обновлено</string>
@@ -144,7 +144,7 @@
 	<string name="description_summary">Общ.информация:</string>
 	<string name="resource_local">Локальные %1$s</string>
 	<string name="resource_online">Онлайн %1$s</string>
-	<string name="resource_title">Детали ресурса</string>
+	<string name="resource_title">Свойства ресурса</string>
 	<string name="resource_download">Загрузка</string>
 	<string name="resource_downloading">Загрузка</string>
 	<string name="resource_apply">Применить</string>
@@ -160,7 +160,7 @@
 	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="all_resources">Все</string>
 	<string name="resource_default_name">Ресурсы</string>
-	<string name="resource_detail">Детали</string>
+	<string name="resource_detail">Свойства</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбрано!</string>
 	<string name="resource_system_title">Системные ресурсы</string>

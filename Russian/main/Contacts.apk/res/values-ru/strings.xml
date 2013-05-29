@@ -291,7 +291,7 @@
     <string name="cancel_import_confirmation_title">Отмена импорта vCard</string>
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
     <string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
-    <string name="cancel_export_confirmation_message">Вы действительно хотите отменить экспорт %s?</string>
+    <string name="cancel_export_confirmation_message">Отменить экспорт %s?</string>
     <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
     <string name="search_settings_description">Имена контактов</string>
     <string name="add_2sec_pause">Добавить 2-секундную паузу</string>
@@ -490,14 +490,14 @@
     <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">[Создать новую группу]</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
-    <string name="delete_group_dialog_message">Вы действительно хотите удалить группу \%1$s\? Обратите внимание: при удалении группы контакты удалены не будут.</string>
+    <string name="delete_group_dialog_message">Удалить группу \%1$s\? Обратите внимание: при удалении группы контакты удалены не будут.</string>
     <string name="toast_join_with_empty_contact">Введите имя контакта перед тем, как объединять его с другим.</string>
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>
     <string name="clear_default">Удалить настройки по умолчанию</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="cancel_confirmation_dialog_title">Отмена изменений</string>
-    <string name="cancel_confirmation_dialog_message">Вы действительно хотите отменить изменения?</string>
+    <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="profile_display_name">Визитная карточка</string>
     <string name="enter_contact_name">Имя контакта</string>
     <string name="view_updates_from_group">Обновления</string>
@@ -935,7 +935,7 @@
     <string name="description_summary">Общ.информация:</string>
     <string name="resource_local">Локальные %1$s</string>
     <string name="resource_online">Онлайн %1$s</string>
-    <string name="resource_title">Детали ресурса</string>
+    <string name="resource_title">Свойства ресурса</string>
     <string name="resource_download">Загрузка</string>
     <string name="resource_downloading">Загрузка</string>
     <string name="resource_apply">Применить</string>
@@ -951,7 +951,7 @@
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурсы</string>
-    <string name="resource_detail">Детали</string>
+    <string name="resource_detail">Свойства</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
     <string name="resource_can_not_selected">Невозможно выбрать: %1$s!</string>
     <string name="resource_system_title">Системные ресурсы</string>
