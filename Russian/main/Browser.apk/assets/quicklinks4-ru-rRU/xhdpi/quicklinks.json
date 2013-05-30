@@ -17,7 +17,7 @@
         {
             "title":"Yandex",
             "url":"http://www.yandex.ru/",
-            "thumbnail":"thumb_yandex.png",
+            "thumbnail":"thumb_yahoo.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
@@ -50,19 +50,27 @@
             "favicon":""
         },
         {
+            "title":"xda-developers",
+            "url":"http://xda-developers.com/",
+            "thumbnail":"thumb_xda.png",
+            "logobg":"bg01.9.png",
+            "favicon":""
+        },
+		
+        {
             "title":"eBay",
             "url":"http://www.ebay.com/",
             "thumbnail":"thumb_ebay.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
-
         {
             "title":"CNN",
             "url":"http://www.cnn.com/",
             "thumbnail":"thumb_cnn.png",
             "logobg":"bg01.9.png",
             "favicon":""
+            "hidden":"true"
         },
         {
             "title":"NY Times",
@@ -70,6 +78,7 @@
             "thumbnail":"thumb_nytimes.png",
             "logobg":"bg01.9.png",
             "favicon":""
+            "hidden":"true"
         },
         {
             "title":"ESPN",
@@ -77,6 +86,7 @@
             "thumbnail":"thumb_espn.png",
             "logobg":"bg01.9.png",
             "favicon":""
+            "hidden":"true"
         },
         {
             "title":"Amazon",
