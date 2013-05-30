@@ -467,7 +467,7 @@
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
-    <string name="wifi_enable_watchdog_service">Отслеживать хороший сигнал</string>
+    <string name="wifi_enable_watchdog_service">Игнорировать сети с плохим сигналом</string>
     <string name="wifi_poor_network_detection">Избегать плохих соединений</string>
     <string name="wifi_poor_network_detection_summary">При плохом соединении по Wi-Fi переключаться на мобильный интернет</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
@@ -681,7 +681,7 @@
     <string name="screensaver_component_title">Заставка</string>
     <string name="screensaver_timeout_title">Время до активации</string>
     <string name="screensaver_timeout_summary">%1$s</string>
-    <string name="screensaver_timeout_zero_summary">Выкл.</string>
+    <string name="screensaver_timeout_zero_summary">Откл</string>
     <string name="screensaver_test">Попробовать</string>
     <string name="screensaver_activate_on_dock_title">Вкл. в док-станции</string>
     <string name="automatic_brightness">Автонастройка</string>
@@ -1727,7 +1727,7 @@
     <string name="perm_service_enabled">Сервис активен</string>
     <string name="perm_service_disabled">Сервис не активен</string>
     <string name="perm_summary_enabled">Вкл</string>
-    <string name="perm_summary_disabled">Выкл</string>
+    <string name="perm_summary_disabled">Откл</string>
     <string name="perm_enable">Включить</string>
     <string name="perm_disable">Выключить</string>
     <string name="perm_optimize">Оптимизировать</string>
@@ -1907,7 +1907,7 @@
     <string name="search_wallpaper">Обои</string>
     <string name="search_launcher">Лаунчер</string>
     <string name="search_accelerometer">Акселерометр</string>
-    <string name="search_screen_timeout">Выкл. экрана</string>
+    <string name="search_screen_timeout">Откл. экрана</string>
     <string name="search_ring_volume">Громкость звонка</string>
     <string name="search_ringtone">Рингтон</string>
     <string name="search_sms_received">Получение SMS</string>
@@ -1944,9 +1944,9 @@
     <string name="sms_delivered_sound_dialog_title">Выберите звук доставленного SMS</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="privacy_protect_title">Настройка приватности</string>
-    <string name="privacy_mode_enable_title">Включить защищенный режим</string>
+    <string name="privacy_mode_enable_title">Защищенный режим</string>
     <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и прочее для защиты приватности.</string>
-    <string name="ac_enable_title">Включить управление доступом</string>
+    <string name="ac_enable_title">Управление доступом</string>
     <string name="ac_set_apps_title">Защита приложений</string>
     <string name="ac_privacy_mode_title">Включить пароль</string>
     <string name="ac_privacy_mode_sum">Включить пароль для отключения режима защиты</string>
@@ -2183,7 +2183,7 @@
     <string name="virus_scan_app_no_risk">Угроз не найдено</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
     <string name="title_dolby_control">Настройки Dolby Mobile</string>
-    <string name="dolby_mode_off">Выкл</string>
+    <string name="dolby_mode_off">Откл</string>
     <string name="dolby_mode_music">Музыка</string>
     <string name="dolby_mode_movie">Фильм</string>
     <string name="dolby_effects">Эффекты Dolby</string>

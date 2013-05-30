@@ -24,10 +24,10 @@
     <string name="discard_action">Отменить</string>
     <string name="save_draft_action">Сохранить черновик</string>
     <string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
-    <string name="read_action">Прочитанное</string>
-    <string name="unread_action">" Непрочитанное"</string>
-    <string name="set_star_action">Пометить</string>
-    <string name="remove_star_action">Снять пометку</string>
+    <string name="read_action">"Прочитанное "</string>
+    <string name="unread_action">" Непрочитанное "</string>
+    <string name="set_star_action">Отметить</string>
+    <string name="remove_star_action">Снять отметку</string>
     <string name="refresh_action">Обновление</string>
     <string name="add_account_action">Добавить аккаунт</string>
     <string name="compose_action">Новое сообщение</string>

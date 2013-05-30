@@ -7,7 +7,7 @@
         <item>26%</item>
     </string-array>
     <string-array name="entries_animations">
-        <item>Выкл</item>
+        <item>Откл</item>
         <item>Быстро</item>
         <item>Нормально</item>
         <item>Медленно</item>

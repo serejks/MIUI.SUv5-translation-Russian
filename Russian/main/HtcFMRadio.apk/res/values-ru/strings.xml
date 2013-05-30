@@ -20,7 +20,7 @@
     <string name="fm_app_name">FM Радио</string>
     <string name="fm_label_seek">Сканирование. Подождите…</string>
     <string name="fm_label_turning_off">Выключение…</string>
-    <string name="fm_option_mute">Выкл.звук</string>
+    <string name="fm_option_mute">Откл.звук</string>
     <string name="fm_mute_off">Вкл.звук</string>
     <string name="fm_option_stereo">Стерео</string>
     <string name="fm_option_mono">Моно</string>

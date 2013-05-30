@@ -129,7 +129,7 @@
     <string name="SCN_Des_CANDLE_LIGHT">Съёмка при свечах</string>
     <string name="SCN_Des_BACK_LIGHT">Против света</string>
     <string name="OPTION_ON">Вкл</string>
-    <string name="OPTION_OFF">Выкл</string>
+    <string name="OPTION_OFF">Откл</string>
     <string name="EXPOSURE_METER">Экспозамер</string>
     <string name="ADJUST">Настроить</string>
     <string name="CONTRAST">Контраст</string>
@@ -271,7 +271,7 @@
     <string name="record">Запись</string>
     <string name="bestpic">Лучшее фото</string>
     <string name="bestpic_on">ВКЛ</string>
-    <string name="bestpic_off">ВЫКЛ</string>
+    <string name="bestpic_off">ОТКЛ</string>
     <string name="bestgroup">Лучший портрет</string>
     <string name="bestgroup_title">Выберите лучший портрет для сохранения</string>
     <string name="battery_low">Камера закрыта! Заряд батареи слишком низкий!</string>

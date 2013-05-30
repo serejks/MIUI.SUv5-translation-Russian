@@ -448,7 +448,7 @@
     <string name="wifi_wapi_fail_to_auth">"Ошибка WAPI аутентификации
 Пожалуйста, проверьте подлинность сертификатов"</string>
     <string name="wifi_notify_open_networks">Уведомляь о новых сетях</string>
-    <string name="wifi_notify_open_networks_summary">Уведомлять меня, когда доступна открытая сеть</string>
+    <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_enable_watchdog_service">Игнорировать сети с плохим сигналом</string>
     <string name="wifi_enable_watchdog_service_summary">Не подключаться к Wi-Fi сетям с плохим сигналом</string>
     <string name="wifi_setting_sleep_policy_title">Не отключать Wi-Fi в спящем режиме</string>

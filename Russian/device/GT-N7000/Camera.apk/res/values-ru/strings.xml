@@ -120,7 +120,7 @@
     <string name="SCN_Des_CANDLE_LIGHT">Съёмка при свечах</string>
     <string name="SCN_Des_BACK_LIGHT">Против света</string>
     <string name="OPTION_ON">Вкл</string>
-    <string name="OPTION_OFF">Выкл</string>
+    <string name="OPTION_OFF">Откл</string>
     <string name="EXPOSURE_METER">Экспозамер</string>
     <string name="ADJUST">Настроить</string>
     <string name="CONTRAST">Контраст</string>

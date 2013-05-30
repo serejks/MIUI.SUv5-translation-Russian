@@ -1107,7 +1107,7 @@
     <string name="register_network_failed_title_miui">Сервис недоступен</string>
     <string name="register_network_failed_message_miui">Невозможно зарегистрироваться в выбранной сети, вы хотите выбирать предпочитаемую сеть автоматически?</string>
     <string name="next_miui">Далее</string>
-    <string name="turn_off_miui">Выкл.</string>
+    <string name="turn_off_miui">Откл</string>
     <string name="back_miui">Назад</string>
     <string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
     <string name="missed_call_notify_times_summary_miui">Количество напоминаний о пропущенных вызовах</string>

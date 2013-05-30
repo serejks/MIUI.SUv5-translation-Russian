@@ -55,7 +55,7 @@
     <string name="setting_europe">Европа</string>
     <string name="setting_japan">Япония</string>
     <string name="setting_usa">США</string>
-    <string name="setting_off">Выкл</string>
+    <string name="setting_off">Откл</string>
     <string name="setting_30min">Через 30 мин</string>
     <string name="setting_hour">Через 1 час</string>
     <string name="setting_2hour">Через 2 часа</string>

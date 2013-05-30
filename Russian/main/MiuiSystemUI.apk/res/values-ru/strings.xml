@@ -283,7 +283,7 @@
     <string name="camera_key_action_shortcut_wake">Заблокировать/Разблокировать</string>
     <string name="torch_activity_name">Фонарик</string>
     <string name="torch_activity_hint">Вы можете быстро включить фонарик, удерживая [icon] на экране блокировки</string>
-    <string name="lockscreen_carrier_default">Без доступа к сети</string>
+    <string name="lockscreen_carrier_default">Нет сети</string>
     <string name="chooseUsbActivity">Выберите приложение для USB-устройства</string>
     <string name="usb_storage_title">USB подключён</string>
     <string name="usb_storage_message">Вы подключили компьютер по USB. Нажмите на кнопку внизу, если хотите скопировать файлы между компьютером и USB-накопителем смартфона.</string>

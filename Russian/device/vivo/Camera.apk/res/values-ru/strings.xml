@@ -169,7 +169,7 @@
 	<string name="pref_camera_id_entry_back">Основная</string>
 	<string name="pref_camera_id_entry_front">Передняя</string>
 	<string name="pref_camera_recordlocation_title">Геотеги</string>
-	<string name="pref_camera_recordlocation_entry_off">Выкл</string>
+	<string name="pref_camera_recordlocation_entry_off">Откл</string>
 	<string name="pref_camera_recordlocation_entry_on">Вкл</string>
 	<string name="pref_video_quality_title">Качество видео</string>
 	<string name="pref_video_quality_entry_high">Высокое качество(30 мин.)</string>
@@ -220,9 +220,9 @@
 	<string name="pref_camera_flashmode_title">Режим вспышки</string>
 	<string name="pref_camera_flashmode_entry_auto">Авто</string>
 	<string name="pref_camera_flashmode_entry_on">Вкл</string>
-	<string name="pref_camera_flashmode_entry_off">Выкл</string>
+	<string name="pref_camera_flashmode_entry_off">Откл</string>
 	<string name="pref_camera_timermode_title">Таймер</string>
-	<string name="pref_camera_timermode_entry_close">Выкл</string>
+	<string name="pref_camera_timermode_entry_close">Откл</string>
 	<string name="pref_camera_timermode_entry_two_seconds">2 сек.</string>
 	<string name="pref_camera_timermode_entry_five_seconds">5 сек.</string>
 	<string name="pref_camera_timermode_entry_ten_seconds">10 сек.</string>
