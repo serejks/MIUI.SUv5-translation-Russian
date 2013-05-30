@@ -184,7 +184,7 @@
     <string name="pref_keep_layout_summary">Если отключить эту функцию, то при смене сетки рабочего стола может измениться расположение ярлыков</string>
     <string name="prompt_transition_icon_layout">Использовать предыдущее расположение иконок?</string>
     <string name="widget_gadget_player">Музыка</string>
-    <string name="buffering">Буфферизация…</string>
+    <string name="buffering">Буферизация…</string>
     <string name="emptyplaylist">Список воспроизведения пуст</string>
     <string name="unknown_artist_name">Неизвестный</string>
     <string name="global_search_hint">Введите слова для поиска</string>
@@ -221,7 +221,7 @@
     <string name="gadget_weather_download_message">Необходимо загрузить пакет темы: %1$s. размер: %2$s. Выберите заново после окончания загрузки</string>
     <string name="gadget_weather_download_start">Старт</string>
     <string name="gadget_weather_downloading">Пакет темы загружается. Выберите заново после окончания загрузки</string>
-    <string name="gadget_weather_low_temp">низкая температура</string>
+    <string name="gadget_weather_low_temp">Низкая температура</string>
     <string name="free_style_apps_title">Выбор приложения</string>
     <string name="free_style_edit_bottom_empty_tip">Нажмите на прямоугольник для изменения</string>
     <string name="free_style_edit_bar_empty">Пусто</string>
@@ -236,7 +236,7 @@
     <string name="upside_enter_tip">Проведите вниз двумя пальцами для переключения на Free Launcher</string>
     <string name="upside_exit_tip">Проведите вверх двумя пальцами для выхода из Free Launcher</string>
     <string name="upside_londing_text">Расширяю воображение…</string>
-    <string name="toggle_select_title">Выбор перевключателя</string>
+    <string name="toggle_select_title">Выбор переключателя</string>
     <string name="toggle_title">Переключатель</string>
     <string name="mi_wallpaper_title">Mi Обои</string>
     <string name="mi_wallpaper_summary">Активируйте ваш рабочий стол</string>

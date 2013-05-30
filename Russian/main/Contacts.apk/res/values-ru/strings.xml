@@ -603,7 +603,7 @@
     <string name="callrecordview_menu_delete_stranger">Очистить неизвестные</string>
     <string name="callrecordview_menu_delete_confirm">Удалить %s?</string>
     <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
-    <string name="delete_call_log_title">Выберите журнал для очистки</string>
+    <string name="delete_call_log_title">Очистить журнал?</string>
     <string name="menu_dialpad_text">Клавиатура</string>
     <string name="dialer_empty_text_no_search_result">Не найдено контактов</string>
     <string name="dialer_empty_text_loading">Загрузка…</string>
