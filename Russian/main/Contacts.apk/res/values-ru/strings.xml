@@ -291,7 +291,7 @@
     <string name="cancel_import_confirmation_title">Отмена импорта vCard</string>
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
     <string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
-    <string name="cancel_export_confirmation_message">Отменить экспорт %s?</string>
+    <string name="cancel_export_confirmation_message">Вы действительно хотите отменить экспорт %s?</string>
     <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
     <string name="search_settings_description">Имена контактов</string>
     <string name="add_2sec_pause">Добавить 2-секундную паузу</string>
@@ -490,14 +490,14 @@
     <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">[Создать новую группу]</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
-    <string name="delete_group_dialog_message">Удалить группу \%1$s\? Обратите внимание: при удалении группы контакты удалены не будут.</string>
+    <string name="delete_group_dialog_message">Вы действительно хотите удалить группу \%1$s\? Обратите внимание: при удалении группы контакты удалены не будут.</string>
     <string name="toast_join_with_empty_contact">Введите имя контакта перед тем, как объединять его с другим.</string>
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>
     <string name="clear_default">Удалить настройки по умолчанию</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="cancel_confirmation_dialog_title">Отмена изменений</string>
-    <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
+    <string name="cancel_confirmation_dialog_message">Вы действительно хотите отменить изменения?</string>
     <string name="profile_display_name">Визитная карточка</string>
     <string name="enter_contact_name">Имя контакта</string>
     <string name="view_updates_from_group">Обновления</string>
@@ -560,7 +560,7 @@
     <string name="dialog_voicemail_not_ready_message">Для настройки голосовой почты перейдите в Меню > Настройки.</string>
     <string name="dialog_voicemail_airplane_mode_message">Выключите режим "В самолёте", чтобы вызвать голосовую почту.</string>
     <string name="action_menu_overflow_description">Больше настроек</string>
-    <string name="add_blacklist">В черный список</string>
+    <string name="add_blacklist">Добавить в черный список</string>
     <string name="unknown_contact_name">MIUI Home</string>
     <string name="primary_indicator">Основной</string>
     <string name="contactDetailCalllog">История звонков</string>
@@ -592,18 +592,20 @@
     <string name="callrecordview_menu_show_title">Выберите варианты отображения</string>
     <string name="callrecordview_menu_show_all">Все звонки</string>
     <string name="callrecordview_menu_show_missed">Пропущенные</string>
+	<string name="callrecordview_menu_show_new">Новые контакты</string>
     <string name="callrecordview_menu_show_called">Исходящие</string>
     <string name="callrecordview_menu_show_accepted">Принятые</string>
     <string name="callrecordview_menu_show_stranger">Неизвестные</string>
     <string name="callrecordview_menu_delete">Удалить из списка вызовов</string>
     <string name="callrecordview_menu_delete_all">Очистить журнал вызовов</string>
     <string name="callrecordview_menu_delete_missed">Очистить пропущенные</string>
+	<string name="callrecordview_menu_delete_new">Очистить новые контакты</string>
     <string name="callrecordview_menu_delete_called">Очистить исходящие</string>
     <string name="callrecordview_menu_delete_accepted">Очистить принятые</string>
     <string name="callrecordview_menu_delete_stranger">Очистить неизвестные</string>
     <string name="callrecordview_menu_delete_confirm">Удалить %s?</string>
     <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
-    <string name="delete_call_log_title">Очистить журнал?</string>
+    <string name="delete_call_log_title">Выберите журнал для очистки</string>
     <string name="menu_dialpad_text">Клавиатура</string>
     <string name="dialer_empty_text_no_search_result">Не найдено контактов</string>
     <string name="dialer_empty_text_loading">Загрузка…</string>
@@ -647,7 +649,7 @@
     <string name="confirm_delete_contact_all_call_logs">Удалить все журналы вызовов контакта %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Удалить все журналы вызовов контакта?</string>
     <string name="confirm_delete_selected_call_log">Удалить выбранное из журнала?</string>
-    <string name="calllog_menu_blacklist">В черный список</string>
+    <string name="calllog_menu_blacklist">Добавить в черный список</string>
     <string name="calllog_menu_edit_before_call">Редактировать перед звонком</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="menu_call_ip_number">IP телефония (набрать %s)</string>
@@ -669,6 +671,7 @@
     <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
     <string name="noRecentContacts">Нет последних контактов</string>
     <string name="hint_search_contacts">Контактов: %d</string>
+	<string name="hint_search_emails">Почтовых адресов: %d</string>
     <string name="hint_search_phone_numbers">Номеров контактов: %d</string>
     <string name="pick_favorites_contacts_list_title">Всего избранных контактов: %1$d</string>
     <string name="pick_recent_contacts_list_title">Всего последних номеров контактов: %1$d</string>
@@ -725,6 +728,8 @@
     <string name="sim_contacts">Контакты SIM</string>
     <string name="export_sim_contacts_dialog_message">Ваша SIM карта может вместить %d контактов, продолжить?</string>
     <string name="export_sim_contact_finish">Экспорт на SIM карту завершен</string>
+    <string name="export_sim_contact_finish_failure">Недостаточно места, Скопировано: %1$d Не скопировано: %2$d</string>
+    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="sim_export_loading">Чтение SIM карты. Эта операция может занять несколько минут</string>
     <string name="pref_title_account_import">Импорт из аккаунта</string>
     <string name="pref_title_import_from_account">Экспорт в аккаунт Xiaomi</string>
@@ -935,7 +940,7 @@
     <string name="description_summary">Общ.информация:</string>
     <string name="resource_local">Локальные %1$s</string>
     <string name="resource_online">Онлайн %1$s</string>
-    <string name="resource_title">Свойства ресурса</string>
+    <string name="resource_title">Детали ресурса</string>
     <string name="resource_download">Загрузка</string>
     <string name="resource_downloading">Загрузка</string>
     <string name="resource_apply">Применить</string>
@@ -951,7 +956,7 @@
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурсы</string>
-    <string name="resource_detail">Свойства</string>
+    <string name="resource_detail">Детали</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
     <string name="resource_can_not_selected">Невозможно выбрать: %1$s!</string>
     <string name="resource_system_title">Системные ресурсы</string>
@@ -968,7 +973,7 @@
     <string name="resource_switch_account">Переключение</string>
     <string name="processing">Обработка…</string>
     <string name="resource_title_select_ringtone">Выбор рингтона</string>
-    <string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
-    <string name="loading_resource_detail_info">Загрузка…</string>
-    <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
+    <string name="resource_tip_select_ringtone">Не выбрано рингтонов</string>
+    <string name="loading_resource_detail_info">Загрузка</string>
+    <string name="account_abnormal_state">Неправильная информация об аккаунте! Попробуйте войти ещё раз сейчас, либо позже.</string>
 </resources>
