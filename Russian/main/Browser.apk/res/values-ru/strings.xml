@@ -10,6 +10,7 @@
     <string name="tab_history">История</string>
     <string name="tab_snapshots">Сохраненные страницы</string>
     <string name="added_to_bookmarks">Добавлено в закладки</string>
+	<string name="alert_tips">Этот сайт может содержать вредоносные ресурсы, будьте осторожны!</string>
     <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="sign_in_to" formatted="false">Войти в \"%s2\"</string>
     <string name="username">Имя</string>
@@ -52,6 +53,10 @@
     <string name="add_to_homescreen_menu_option">Главный экран</string>
     <string name="add_to_other_folder_menu_option">Другая папка</string>
     <string name="name">Ярлык</string>
+    <string name="navigation_button_close">Закрыть</string>
+    <string name="navigation_button_newtab">Новая</string>
+    <string name="navigation_button_tab">Вкладки</string>
+    <string name="navigation_button_view">Вид</string>
     <string name="http">http://</string>
     <string name="save_to_bookmarks">Добавить закладку</string>
     <string name="bookmark_this_page">Закладка для этой страницы</string>
@@ -254,6 +259,8 @@
     <string name="loadSuspendedTitle">Нет подключения</string>
     <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>
     <string name="clear_history">Очистить историю</string>
+    <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
+    <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
     <string name="browser_history">Недавно посещенные страницы</string>
     <string name="empty_history">Нет данных</string>
     <string name="go_home">Домашняя страница</string>
@@ -415,6 +422,7 @@
     <string name="pref_volume_key_operation">Действия клавиш громкости</string>
     <string name="pref_gesture_title">Жесты</string>
     <string name="pref_fling_on_border_enabled">Отпустить на границе</string>
+	<string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
     <string name="pref_fling_on_border_operation">Действие при отпускании на границе</string>
     <string name="is_page_top">Верх страницы</string>
     <string name="is_page_bottom">Низ страницы</string>

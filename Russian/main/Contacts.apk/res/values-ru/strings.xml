@@ -592,12 +592,14 @@
     <string name="callrecordview_menu_show_title">Выберите варианты отображения</string>
     <string name="callrecordview_menu_show_all">Все звонки</string>
     <string name="callrecordview_menu_show_missed">Пропущенные</string>
+	<string name="callrecordview_menu_show_new">Новые контакты</string>
     <string name="callrecordview_menu_show_called">Исходящие</string>
     <string name="callrecordview_menu_show_accepted">Принятые</string>
     <string name="callrecordview_menu_show_stranger">Неизвестные</string>
     <string name="callrecordview_menu_delete">Удалить из списка вызовов</string>
     <string name="callrecordview_menu_delete_all">Очистить журнал вызовов</string>
     <string name="callrecordview_menu_delete_missed">Очистить пропущенные</string>
+	<string name="callrecordview_menu_delete_new">Очистить новые контакты</string>
     <string name="callrecordview_menu_delete_called">Очистить исходящие</string>
     <string name="callrecordview_menu_delete_accepted">Очистить принятые</string>
     <string name="callrecordview_menu_delete_stranger">Очистить неизвестные</string>
@@ -669,6 +671,7 @@
     <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
     <string name="noRecentContacts">Нет последних контактов</string>
     <string name="hint_search_contacts">Контактов: %d</string>
+	<string name="hint_search_emails">Почтовых адресов: %d</string>
     <string name="hint_search_phone_numbers">Номеров контактов: %d</string>
     <string name="pick_favorites_contacts_list_title">Всего избранных контактов: %1$d</string>
     <string name="pick_recent_contacts_list_title">Всего последних номеров контактов: %1$d</string>
@@ -725,6 +728,8 @@
     <string name="sim_contacts">Контакты SIM</string>
     <string name="export_sim_contacts_dialog_message">Ваша SIM карта может вместить %d контактов, продолжить?</string>
     <string name="export_sim_contact_finish">Экспорт на SIM карту завершен</string>
+    <string name="export_sim_contact_finish_failure">Недостаточно места, Скопировано: %1$d Не скопировано: %2$d</string>
+    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="sim_export_loading">Чтение SIM карты. Эта операция может занять несколько минут</string>
     <string name="pref_title_account_import">Импорт из аккаунта</string>
     <string name="pref_title_import_from_account">Экспорт в аккаунт Xiaomi</string>

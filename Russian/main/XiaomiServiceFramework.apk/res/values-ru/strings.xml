@@ -119,7 +119,18 @@
     <string name="button_recharge">Пополнить</string>
     <string name="balance">Баланс: %1$s Mi-долларов</string>
     <string name="frozen">(Заморожен)</string>
+    <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
+    <string name="giftcard_denom">MiCredit</string>
+    <string name="giftcard_denom_available">MiCredit доступно</string>
+    <string name="giftcard_denom_frozen">MiCredit заморжено</string>
+    <string name="giftcard_empty">Нет подарочной карты</string>
+    <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
+    <string name="giftcard_hint">"Вам будут переведены MiCredit'ы на подарочную карту.</string>
+    <string name="giftcard_record">MiCredit получены</string>
+    <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
+    <string name="header_data_and_synchronization">Данные и синхронизация</string>
     <string name="mili_center">Кошелёк Xiaomi</string>
+	<string name="my_mili_record">Мой MiCredit</string>
     <string name="error_mili_title">Недостаточно средств</string>
     <string name="error_network_title">Ошибка сети</string>
     <string name="error_network_summary">Невозможно подключиться. Пожалуйста, проверьте соединение</string>
@@ -138,6 +149,7 @@
     <string name="error_verify_summary">У вашего приложения не хватает прав для доступа к службе</string>
     <string name="error_expired_summary">Время ожидания вышло</string>
     <string name="error_frozen_title">Аккаунт заблокирован!</string>
+	<string name="error_giftcard_summary">Не возможно получить информацию о подарочной карте</string>
     <string name="error_frozen_summary">Ваш аккаунт заблокирован</string>
     <string name="error_account_changed_title">Аккаунт был изменен</string>
     <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите</string>
@@ -190,6 +202,7 @@
     <string name="prepaid_error_card_length">Введите правильный номер карты и пароль</string>
     <string name="progress_prepaid_creating">Создаю платёжное поручение…</string>
     <string name="voucher_input">Пополнение</string>
+	<string name="voucher_input_password_prompt">Введите пароль</string>
     <string name="voucher_exchange">Обмен</string>
     <string name="voucher_exchange_count">Обмен (%1$s)</string>
     <string name="voucher_edit_hint">Пароль</string>
