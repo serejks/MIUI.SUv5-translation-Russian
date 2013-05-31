@@ -918,9 +918,9 @@
     <string name="noApplications">Это действие не может выполнять ни одно приложение</string>
     <string name="aerr_application">К сожалению, приложение \"%1$s\" было закрыто.</string>
     <string name="aerr_process">К сожалению, процесс \"%1$s\" был остановлен.</string>
-    <string name="anr_activity_application">%2$s не отвечает.\n\n Хотите его закрыть?</string>
+    <string name="anr_activity_application">%2$s не отвечает.\n\n Закрыть приложение?</string>
     <string name="anr_activity_process">Приложение \"%1$s\" не отвечает.\n\nХотите его закрыть?</string>
-    <string name="anr_application_process">\"%1$s\" не отвечает. Закрыть его?</string>
+    <string name="anr_application_process">\"%1$s\" не отвечает. Закрыть приложение?</string>
     <string name="anr_process">Процесс %1$s не отвечает.\n\n Хотите его закрыть?</string>
     <string name="force_close">ОК</string>
     <string name="report">Отзыв</string>

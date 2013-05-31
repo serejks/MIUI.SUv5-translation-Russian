@@ -34,7 +34,7 @@
     <string name="buffering">Буфферизация…</string>
     <string name="airkan_video_playing_in">Видео в реальном времени</string>
     <string name="airkan_video_playing">Трансляция</string>
-    <string name="menu_item_orientation_auto_sensor_action">Включить автоматический поворот</string>
+    <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоматический поворот</string>
     <string name="menu_item_screen_shot">Скриншот</string>
     <string name="menu_item_sub_title">Субтитры</string>

@@ -206,7 +206,7 @@
     <string name="photo_adjust">Редактировать фото</string>
     <string name="select_photo">Фото</string>
     <string name="select_frame">Рамка</string>
-    <string name="photo_confirm">Подтвердить</string>
+    <string name="photo_confirm">Готово</string>
     <string name="photo_load_failed">Ошибка загрузки фото!</string>
     <string name="frame_load_failed">Ошибка загрузки рамки!</string>
     <string name="gadget_weather_loading">Нет данных о погоде</string>
