@@ -24,7 +24,7 @@
     <string name="discard_action">Отменить</string>
     <string name="save_draft_action">Сохранить черновик</string>
     <string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
-    <string name="read_action">"Прочитанное "</string>
+    <string name="read_action">" Прочитанное "</string>
     <string name="unread_action">" Непрочитанное "</string>
     <string name="set_star_action">Отметить</string>
     <string name="remove_star_action">Снять отметку</string>
