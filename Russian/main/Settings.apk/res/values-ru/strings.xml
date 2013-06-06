@@ -2009,7 +2009,7 @@
     <string name="pref_volume_wake_summary">Нажатие клавиши громкости пробуждает устройство. Рекомендуется для устройств с проблемной клавишей блокировки.</string>
     <string name="status_bar_settings">Строка состояния</string>
     <string name="complete_settings">Все настройки</string>
-    <string name="common_settings">Общие настройки</string>
+    <string name="common_settings">Избранные</string>
     <string name="battery_settings">Батарея</string>
     <string name="battery_settings_title">Батарея</string>
     <string name="battery_indicator_style">Стиль индикатора батареи</string>
