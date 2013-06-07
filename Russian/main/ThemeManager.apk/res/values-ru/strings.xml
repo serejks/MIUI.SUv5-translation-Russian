@@ -102,7 +102,8 @@
 	<string name="theme_batch_has_update_text">Обновления тем: %1$d</string>
 	<string name="theme_batch_updating_text">Обновлено тем: %1$d</string>
 	<string name="theme_batch_update_all">Обновить все</string>
-	<string name="theme_batch_update_dlg_title">Обновить</string>Обновить сейчас?</string>
+	<string name="theme_batch_update_dlg_title">Обновить</string>
+	<string name="theme_batch_update_dlg_content">Обновить сейчас?</string>
 	<string name="resource_comment_sending">Отправляю комментарий…</string>
 	<string name="resource_comment_upload_failed">Ошибка отправки комментария</string>
 	<string name="resource_comment_upload_success">Комментарий отправлен! Он будет опубликован после проверки</string>
@@ -152,6 +153,7 @@
 	<string name="resource_title">Свойства ресурса</string>
 	<string name="resource_download">Загрузка</string>
 	<string name="resource_downloading">Загрузка</string>
+	<string name="resource_waiting_download">Ожидание</string>
 	<string name="resource_apply">Применить</string>
 	<string name="resource_update">Обновление</string>
 	<string name="resource_select">Выбрать</string>
@@ -184,5 +186,6 @@
 	<string name="resource_title_select_ringtone">Выбор рингтона</string>
 	<string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
 	<string name="loading_resource_detail_info">Загрузка…</string>
+	<string name="loading_resource_detail_fail">Ошибка загрузки ресурса</string>
 	<string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
 </resources>
