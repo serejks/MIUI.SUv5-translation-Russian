@@ -365,6 +365,17 @@
     <string name="google_bookmarks">"Google: "</string>
     <string name="bookmarks_management">Закладки</string>
     <string name="bookmarks_root_folder">Корневая папка</string>
+	<string name="bookmarks_content_is_null">Пусто</string>
+	<string name="history_browsed">История просмотра</string>
+	<string name="history_track">История</string>
+	<string name="history_most_visited">Часто посещаемые</string>
+	<string name="history_saved_webpage">Сохраненные страницы</string>
+	<string name="clear_history">Очистить историю</string>
+	<string name="clear_history_group">очистить всю историю</string>
+	<string name="open_history_group_in_new_window">открыть всю историю в новом окне</string>
+	<string name="open_history_most_visited_group_in_new_window">открыть все часто посещаемые</string>
+	<string name="pref_privacy_clear_history_dlg">Очистить всю историю браузера?</string>
+	<string name="pref_privacy_clear_history_by_group_dlg">Подтвердите очистку всей истории браузера</string>
     <string name="edit">Редактировать</string>
     <string name="delete">Удалить</string>
     <string name="multi_select_title">Выбрано пунктов: %1$s</string>
@@ -466,4 +477,16 @@
     <string name="in_incognito">Вошли в режим инкогнито, история сохраняться не будет.</string>
     <string name="tab_opened_background_in_incognito">Открыл новое окно в режиме инкогнито</string>
     <string name="stop_loading">Стоп</string>
+    <string name="file_picker">Обзор</string>
+    <string name="file_name">Имя файла</string>
+    <string name="file_dir">Папка</string>
+    <string name="storage_internal">Внутреннее хранилище</string>
+    <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_usb">USB хранилище</string>
+    <string name="save_dialog_title">Сохранить</string>
+    <string name="save_file_already_exist_alert_title">Внимание</string>
+    <string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>
+    <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
+    <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены</string>
+    <string name="quicklinks_management">Быстрые закладки</string>
 </resources>

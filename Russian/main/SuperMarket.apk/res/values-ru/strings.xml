@@ -22,6 +22,7 @@
     <string name="menu_refresh">Обновить</string>
     <string name="menu_clear_search_history">Очистить историю поиска</string>
     <string name="quicksearchbox_description">Поиск приложений</string>
+	<string name="data_save_mode_tip">Изображение отключены в настройках</string>
     <string name="more_app">Что топового</string>
     <string name="more_subject">Колекции</string>
     <string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
@@ -32,16 +33,19 @@
     <string name="login_active">Активир.</string>
     <string name="pref_title_auto_update_setting">Настройки автообновления</string>
     <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
-    <string name="pref_title_data_save_mode">Режим сохранения данных</string>
+    <string name="pref_title_data_save_mode">Показывать изображения</string>
     <string name="pref_title_clear_search_record">Очистить историю поиска</string>
     <string name="pref_title_update_notify_mode">Уведомления об обновлениях</string>
     <string name="pref_list_auto_update">Автообновление</string>
     <string name="pref_list_always_enable">Всегда вкл.</string>
     <string name="pref_list_remind_me_after_download">Уведомление об окончании загрузки</string>
     <string name="pref_list_data_network">Только данные</string>
-    <string name="pref_list_disable">Откл.</string>
+    <string name="pref_list_disable">Никогда</string>
     <string name="pref_list_per_week">Еженедельно</string>
     <string name="pref_list_per_day">Ежедневно</string>
+	<string name="pref_list_data_save_mode_always">Никогда</string>
+	<string name="pref_list_data_save_mode_network">Только по Wi-Fi</string>
+	<string name="pref_list_data_save_mode_never">Всегда</string>
     <string name="pref_title_use_staging">Использование промежуточного сервера</string>
     <string name="clear_search_record_message">Очистить историю поиска?</string>
     <string name="result_of_clear_history">История очищена</string>
@@ -104,6 +108,7 @@
     <string name="menu_detail">Показать детали приложения</string>
     <string name="connect_fail">Ошибка установки %1$s:ошибка связи. Повторите еще раз</string>
     <string name="connect_no_fit_fail">Ошибка установки %1$s:телефон несовместим с этим приложением</string>
+	<string name="connect_no_enough_space">Недостаточно места для установки. Удалите ненужные данные и повторите снова.</string>
     <string name="download_start_fail">Ошибка установки %1$s:невозможно создать задачу загрузки</string>
     <string name="download_deleted_fail">Ошибка установки %1$s:загрузка удалена</string>
     <string name="download_fail">Ошибка установки %1$s:ошибка загрузки</string>
@@ -158,6 +163,7 @@
     <string name="install_btn_continue">Продолжить</string>
     <string name="install_btn_ok">OK</string>
     <string name="install_btn_download_manager">Менеджер загрузок</string>
+	<string name="install_start_cleanup">Начать очистку</string>
     <string name="install_sign_not_same_title">Некорректная подпись</string>
     <string name="install_sign_not_same_message">%1$s обновлений не соответствуют подписям установленных приложений. Удалите локальные приложения и повторите. Продолжить?</string>
     <string name="install_sign_not_same_btn_remove">Удалить и обновить</string>

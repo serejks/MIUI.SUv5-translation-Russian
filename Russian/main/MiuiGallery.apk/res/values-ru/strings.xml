@@ -290,8 +290,8 @@
     <string name="error_should_not_select_image">Внимание: не выбирайте файл изображения.</string>
     <string name="error_should_not_select_video">Внимание: не выбирайте файл видео.</string>
     <string name="storage_all_volumes">Все устройства хранения</string>
-    <string name="settings_i_xiaomi_com">Войдите в ваш аккаунт на i.xiaomi.com для просмотра ваших облачных альбомов в любое время</string>
-    <string name="cloud_album_more_settings">Облачные альбомы и автозагрузка</string>
+    <string name="settings_i_xiaomi_com">Зайдите на i.xiaomi.com для доступа к вашим облачным альбомам в любое время</string>
+    <string name="cloud_album_more_settings">Синхронизация облачных альбомов</string>
     <string name="browse_category">Обзор фото</string>
     <string name="by_email">Почта</string>
     <string name="by_sms">Сообщение</string>

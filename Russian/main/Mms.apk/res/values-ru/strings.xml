@@ -430,7 +430,7 @@
     <string name="pref_title_system_mms_priority">Приоритет приложения</string>
     <string name="pref_summary_on_system_mms_priority">Приоритет на получение сообщения у системного приложения</string>
     <string name="pref_summary_off_system_mms_priority">Приоритет на получение сообщения у стороннего приложения</string>
-    <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
+    <string name="title_timed_message_dialog">Время отправки сообщения</string>
     <string name="will_send_at">Будет отправлено в: %s</string>
     <string name="error_timed_msg">Невозможно назначить прошедшее время</string>
     <string name="menu_timed_message">Запланированное сообщение</string>

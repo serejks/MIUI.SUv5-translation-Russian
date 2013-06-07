@@ -89,6 +89,7 @@
 	<string name="theme_import_item_not_upgraded">Не обновлено</string>
 	<string name="theme_import_item_waiting">Ожидание</string>
 	<string name="theme_import_item_importing">Обновление</string>
+	<string name="theme_import_item_not_exist">Не существует</string>
 	<string name="theme_import_item_delete_request_title">Тема не обновлена</string>
 	<string name="theme_import_item_delete_request_content">Файл темы не обновлен, вы можете использовать его после "Обновить все" или удалить его.</string>
 	<string name="theme_import_item_delete_request_button">Удалить</string>
@@ -98,6 +99,10 @@
 	<string name="theme_import_new_download">Импорт</string>
 	<string name="theme_import_fail">Ошибка импорта темы %1$s.</string>
 	<string name="theme_import_data">Инициализация. Пожалуйста, подождите…</string>
+	<string name="theme_batch_has_update_text">Обновления тем: %1$d</string>
+	<string name="theme_batch_updating_text">Обновлено тем: %1$d</string>
+	<string name="theme_batch_update_all">Обновить все</string>
+	<string name="theme_batch_update_dlg_title">Обновить</string>Обновить сейчас?</string>
 	<string name="resource_comment_sending">Отправляю комментарий…</string>
 	<string name="resource_comment_upload_failed">Ошибка отправки комментария</string>
 	<string name="resource_comment_upload_success">Комментарий отправлен! Он будет опубликован после проверки</string>
