@@ -290,13 +290,13 @@
     <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
     <string name="conversation">Сообщения</string>
     <string name="bookmark">Избранное</string>
-    <string name="festival">Поздравление</string>
+    <string name="festival">Поздравления</string>
     <string name="add_smiley">Смайл</string>
     <string name="add_bookmark">Избранное</string>
     <string name="add_phrase">Фраза</string>
     <string name="add_contact">Контакт</string>
     <string name="add_nickname">Ник</string>
-    <string name="add_festival">Поздравление</string>
+    <string name="add_festival">Поздравления</string>
     <string name="add_nickname_title">Редактировать ник</string>
     <string name="edit_nickname_for_nocontact">Нет получателей. Добавьте хотя бы одного для добавления ника.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Добавьте хотя бы одного получателя, для изменения ника</string>
@@ -385,8 +385,8 @@
     <string name="pref_summary_allow_si_sl_push">Разрешить прием и уведомление WAP push сообщений (SI/SL)</string>
     <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
     <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
-    <string name="pref_title_hide_festival">Скрыть панель рекомендаций</string>
-    <string name="pref_summary_hide_festival">Скрыть панель рекомендаций для латиницы</string>
+    <string name="pref_title_hide_festival">Скрыть \"Поздравления\"</string>
+    <string name="pref_summary_hide_festival">Скрыть вкладку \"Поздравления\" для языков, отличных от китайского.</string>
     <string name="pref_key_append_signature_title">Подпись</string>
     <string name="pref_key_append_signature_summary">Автоматически вставлять подпись в конец сообщения</string>
     <string name="pref_key_edit_signature_title">Редактировать подпись</string>
