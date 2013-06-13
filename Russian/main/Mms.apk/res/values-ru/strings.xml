@@ -360,6 +360,9 @@
     <string name="phrase_confirm_delete_message">Выбранный шаблон будет удален</string>
     <string name="phrase_from">От %1s</string>
     <string name="phrase_empty">Нет фраз</string>
+	<string name="pref_title_notification_body_enabled">Show preview</string>
+	<string name="pref_summary_notification_body_enabled">Preview messages on lockscreen and status bar</string>
+	<string name="pref_summary_notification_body_enabled_when_secure">Preview messages disabled when access controlled</string>
     <string name="pref_title_notification_body_enabled">Предпросмотр</string>
     <string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в строке состояния</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
@@ -394,7 +397,7 @@
     <string name="pref_key_signature_hint">Пожалуйста введите подпись</string>
     <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
     <string name="send_signature_confirm_dialog_message">Сообщение не введено. Отправить только подпись?</string>
-    <string name="enter_edit_mode">Удалить</string>
+    <string name="enter_edit_mode">Режим редактирования</string>
     <string name="exit_edit_mode">Отмена</string>
     <string name="check_all">Отметить все</string>
     <string name="check_nothing">Отметить ничего</string>
@@ -415,7 +418,7 @@
     <string name="activity_not_found">Нет приложения для открытия файла</string>
     <string name="activity_not_found_uri">Нет приложения</string>
     <string name="fetion_prefix">[Fetion]</string>
-    <string name="chenghu_disable_mms">Нельзя использовать ники в Mms</string>
+    <string name="chenghu_disable_mms">Нельзя использовать ники в MMS. Удалить ники?</string>
     <string name="recent_contact_list_title">Последние</string>
     <string name="conversation_list_empty_text">нет сообщений</string>
     <string name="non_english_subject_limit">Максимум 13 символов для латиницы</string>

@@ -258,4 +258,6 @@
     <string name="update_contacts_description">Синхронизация информации о Ваших друзьях в микроблоге Sina WeiBo, например аватара, дня рождения и др., с контактами в телефоне. Для синхронизации будет использован Ваш аккаунт Xiaomi</string>
     <string name="updated_contacts">Обновлено контактов: %s</string>
     <string name="process_result">Результат процесса:</string>
+	<string name="account_detail">Аккаунт Xiaomi:\n%1$s</string>
+	<string name="memu_refresh">Обновить</string>
 </resources>

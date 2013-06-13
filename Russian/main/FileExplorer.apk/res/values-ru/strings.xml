@@ -69,7 +69,8 @@
     <string name="operation_moving">Перемещение…</string>
     <string name="confirm_know">Ок</string>
     <string name="error_info_cant_send_folder">Невозможно передать папку</string>
-    <string name="fail_to_create_folder">Невозможно создать: уже существует</string>
+    <string name="fail_to_create_folder">Невозможно создать: недостаточно места или уже существует</string>
+	<string name="fail_to_create_folder_unknown">Невозможно создать: неизвестная ошибка</string>
     <string name="fail_to_rename">Невозможно переименовать: файл или папка уже существует</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="enable_sd_card">SD-карта недоступна. Вставьте карту или переключите режим USB</string>
@@ -114,10 +115,14 @@
     <string name="rename_failed">Ошибка переименования %1$s</string>
     <string name="directory_no_item">Пустая папка</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
+	<string name="no_enough_space">Недостаточно места</string>
     <string name="directory_info_divider">"  |  "</string>
+	<string name="no_enough_storage_title">Недостаточно места</string>
+	<string name="no_enough_storage_indication">Недостаточно места, невозможно вставить. Удалите ненужные файлы или используйте Очистку файлов.</string>
     <string name="ui_bar_txt_download_progress">%1$d файлов осталось загрузить</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>
     <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
+	<string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
     <string name="login_reg_content0">KuaiPan это ваш сетевой диск</string>
     <string name="menu_item_cleanup">Очистка файлов</string>
     <string name="login_reg_content">KuaiPan позволяет хранить файлы и \nсинхронизировать их с другими устройствами</string>
@@ -308,4 +313,6 @@
 2. Обновить (Обновить удаленный файл)"</string>
     <string name="ui_filechange_btn_upload">Загрузка файлов</string>
     <string name="folder_exist">Папка с таким именем уже существует</string> 
+	<string name="unmount_inform_text">USB-хранилище отключено.</string>
+	<string name="dlg_error_unmount_text">Невозможно подключить USB-хранилище. Повторите позже.</string>
 </resources>
