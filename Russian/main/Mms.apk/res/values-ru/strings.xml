@@ -360,9 +360,9 @@
     <string name="phrase_confirm_delete_message">Выбранный шаблон будет удален</string>
     <string name="phrase_from">От %1s</string>
     <string name="phrase_empty">Нет фраз</string>
-	<string name="pref_title_notification_body_enabled">Show preview</string>
-	<string name="pref_summary_notification_body_enabled">Preview messages on lockscreen and status bar</string>
-	<string name="pref_summary_notification_body_enabled_when_secure">Preview messages disabled when access controlled</string>
+    <string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
+    <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщений на экране блокировки и в строке состояния.</string>
+    <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме гостя.</string>
     <string name="pref_title_notification_body_enabled">Предпросмотр</string>
     <string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в строке состояния</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
