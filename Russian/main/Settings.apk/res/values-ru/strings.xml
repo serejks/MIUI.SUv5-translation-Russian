@@ -91,7 +91,7 @@
     <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
     <string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым</string>
     <string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
-    <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование телефона Bluetooth, когда экран заблокирован</string>
+    <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование Bluetooth, когда экран заблокирован</string>
     <string name="bluetooth_devices">Устройства Bluetooth</string>
     <string name="bluetooth_device_name">Имя устройства</string>
     <string name="bluetooth_device_details">Настройки устройства</string>
@@ -913,9 +913,9 @@
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
     <string name="settings_safetylegal_activity_loading">Идет загрузка…</string>
-    <string name="lockpassword_choose_your_password_header">Выберите пароль</string>
+    <string name="lockpassword_choose_your_password_header">Введите пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
-    <string name="lockpassword_choose_your_pin_header">Выберите PIN-код</string>
+    <string name="lockpassword_choose_your_pin_header">Введите PIN-код</string>
     <string name="lockpassword_confirm_your_password_header">Подтвердите пароль</string>
     <string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
     <string name="lockpassword_confirm_your_pin_header">Подтвердите PIN-код</string>
@@ -1037,7 +1037,7 @@
     <string name="empty_list_msg">Нет приложений сторонних разработчиков.</string>
     <string name="version_text">Версия %1$s</string>
     <string name="move_app">Переместить</string>
-    <string name="move_app_to_internal">Перенести на телефон</string>
+    <string name="move_app_to_internal">Переместить на телефон</string>
     <string name="move_app_to_sdcard">Переместить на SD-карту</string>
     <string name="moving">Перенос…</string>
     <string name="insufficient_storage">Недостаточно места.</string>
@@ -1895,7 +1895,7 @@
     <string name="perm_sysopt_boost_auto_start_group">Автозапуск</string>
     <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск</string>
     <string name="perm_sysopt_boost_auto_start">Права автозапуска</string>
-    <string name="perm_su_enable_dialog">%1$s пытается получить права ROOT, которые по умолчанию отключены для обеспечения безопасности системы. Если вам нужно включить ее, перейдите в настройки Управление правами ROOT.</string>
+    <string name="perm_su_enable_dialog">%1$s пытается получить Root-права, которые по-умолчанию отключены для обеспечения безопасности системы. При необходимости Root-права можно включить в приложении Безопасность => Права суперпользователя.</string>
     <string name="search_airplane">\"В самолёте\"</string>
     <string name="search_network">Сеть</string>
     <string name="search_wifi">Wi-Fi</string>
@@ -2220,7 +2220,7 @@
     <string name="dolby_preset_hint">Введите имя</string>
     <string name="dolby_preset_select">Выберите предустановку</string>
     <string name="dolby_eq_enter_alert_title">Включен Dolby music</string>
-    <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в даном режиме. Включить?</string>
+    <string name="dolby_eq_enter_alert_msg">В данном режиме вы можете использовать только эквалайзер. Включить?</string>
     <string name="dirac_mode_off">Dirac выкл</string>
     <string name="dirac_mode_earbuds">Гарнитура</string>
     <string name="dirac_mode_earphones">Наушники</string>
@@ -2269,7 +2269,7 @@
     <string name="device_name">Имя устройства</string>
     <string name="device_edit_title">Изменить имя устройства</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
-    <string name="device_name_usage_point">Имя устройства при обмене данными по Bluetooth, работы мобильного роутера Wi-Fi и т.п.</string>
+    <string name="device_name_usage_point">Заданное имя будет отображаться при обмене данными с другими устройствами.</string>
     <string name="drive_mode">За рулём</string>
     <string name="enable_drive_mode">Вкл. \"За рулём\"</string>
     <string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
