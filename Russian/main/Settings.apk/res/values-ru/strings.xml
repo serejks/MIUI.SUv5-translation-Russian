@@ -1170,8 +1170,8 @@
     <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
     <string name="verifier_device_identifier">ID номер устройства</string>
     <string name="verifier_device_identifier_not_available">Информация об устройстве недоступна</string>
-    <string name="keep_screen_on">Оставить включенным</string>
-    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
+    <string name="keep_screen_on">Подсветка при зарядке</string>
+    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен.</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
@@ -2268,8 +2268,8 @@
     <string name="development_enable">Вкл. разработку</string>
     <string name="device_name">Имя устройства</string>
     <string name="device_edit_title">Изменить имя устройства</string>
-    <string name="device_name_input_hint">Введите имя вашего устройства</string>
-    <string name="device_name_usage_point">Показывать имя вашего устройства во время обмена данными по Bluetooth, работы мобильного роутера Wi-Fi и т.п.</string>
+    <string name="device_name_input_hint">Введите имя устройства</string>
+    <string name="device_name_usage_point">Имя устройства при обмене данными по Bluetooth, работы мобильного роутера Wi-Fi и т.п.</string>
     <string name="drive_mode">За рулём</string>
     <string name="enable_drive_mode">Вкл. \"За рулём\"</string>
     <string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
