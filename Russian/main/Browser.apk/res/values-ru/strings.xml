@@ -242,15 +242,26 @@
     <string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных).</string>
     <string name="pref_lab_fullscreen">Во весь экран</string>
     <string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
-    <string name="pref_data_title">Настройки контента</string>
+    <string name="pref_data_title" msgid="7255058703417796578">"Настройки контента"</string>
     <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-    <string name="pref_data_preload_summary">" Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
+    <string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоне.</string>
+    <string name="pref_data_preload_value_never_summary">Запретить браузеру предварительно загружать результаты поиска в фоне.</string>
     <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
     <string name="pref_link_prefetch_title">Предзагрузка страниц</string>
-    <string name="pref_link_prefetch_summary">" Разрешить предзагрузку связанных страниц в фоне"</string>
+    <string name="pref_link_prefetch_summary">"Разрешить предзагрузку связанных страниц в фоне"</string>
+    <string name="pref_link_prefetch_value_never_summary">"Запретить предзагрузку связанных страниц в фоне"</string>
     <string name="pref_link_prefetch_dialogtitle">Предзагрузка страниц</string>
     <string name="pref_video_preload_title">Предзагрузка видео</string>
-    <string name="pref_video_preload_summary">" Разрешить предзагрузку видео, когда это позволяет сервер"</string>
+    <string name="pref_video_preload_summary">"Разрешить предзагрузку видео."</string>
+    <string name="pref_video_preload_value_never_summary">"Запретить предзагрузку видео"</string>
+    <string name="pref_images_preload_summary">"Разрешить предзагрузку изображений."</string>
+    <string name="pref_images_preload_title">Предзагрузка изображений</string>
+    <string name="pref_content_preload_title">Предзагрузка содержания</string>
+    <string name="pref_image_display_control">Управление изображениями</string>
+    <string name="pref_images_preload_value_never_summary">Запретить предзагрузку изображений.</string>
+    <string name="pref_images_preload_value_wifi_only_summary">Выборочно разрешить предзагрузку изображений.</string>
+    <string name="pref_images_preload_value_always_summary">Разрешить предзагрузку изображений.</string>
+    <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
     <string name="pref_video_preload_dialogtitle">Предзагрузка видео</string>
     <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
     <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
@@ -472,8 +483,8 @@
     <string name="pref_general_setting_title">Настройка</string>
     <string name="return_to_homepage">Вернуться на домашнюю страницу</string>
     <string name="notif_install_successful">Загрузка завершена.</string>
-    <string name="in_incognito">Вошли в режим инкогнито, история сохраняться не будет.</string>
-    <string name="tab_opened_background_in_incognito">Открыл новое окно в режиме инкогнито</string>
+    <string name="in_incognito">Вы вошли в режим инкогнито, история сохраняться не будет.</string>
+    <string name="tab_opened_background_in_incognito">Открыто новое окно в режиме инкогнито</string>
     <string name="stop_loading">Стоп</string>
     <string name="file_picker">Обзор</string>
     <string name="file_name">Имя файла</string>
@@ -487,4 +498,9 @@
     <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены</string>
     <string name="quicklinks_management">Быстрые закладки</string>
+    <string name="download_failed">Ошибка загрузки</string>
+    <string name="download_complete">"Загрузка завершена"</string>
+    <string name="app_update_install">"Новая версия загружена и готова к установке"</string>
+    <string name="app_new_version">"Новая версия загружена и установлена"</string>
+    <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
 </resources>

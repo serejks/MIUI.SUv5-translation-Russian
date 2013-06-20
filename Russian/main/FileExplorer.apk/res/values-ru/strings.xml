@@ -201,9 +201,11 @@
     <string name="utf8_title">UTF-8</string>
     <string name="utf8_summary">Тип кодировки FTP по умолчанию</string>
     <string name="gbk_title">GBK</string>
-    <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, во избежание на китайском языке</string>
+    <string name="gbk_summary">Стандартная кодировка в упрощённой китайской версии Windows.</string>
+    <string name="big5_title">BIG5</string>
+    <string name="big5_summary">Стандартная кодировка в традиционной китайской версии Windows.</string>
     <string name="stay_awake_title">Не засыпать</string>
-    <string name="stay_awake_summary">Не засыпать, при использовании FTP</string>
+    <string name="stay_awake_summary">Не засыпать, при использовании FTP.</string>
     <string name="ftp_transfer_secure">Защита передачи</string>
     <string name="ftp_port_number">Номер порта</string>
     <string name="ftp_account_req_notice">Логин и пароль, 4-16 симв., включая цифры, буквы, чувствительны к регистру</string>

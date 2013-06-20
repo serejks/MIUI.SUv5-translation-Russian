@@ -71,6 +71,11 @@
         <item>Только по Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Никогда</item>
+        <item>Выборочно</item>
+        <item>Всегда</item>
+    </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Страница вверх/вниз</item>
         <item>Переключение вкладок</item>
