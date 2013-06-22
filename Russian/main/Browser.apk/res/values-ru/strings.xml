@@ -259,7 +259,7 @@
     <string name="pref_content_preload_title">Предзагрузка содержания</string>
     <string name="pref_image_display_control">Управление изображениями</string>
     <string name="pref_images_preload_value_never_summary">Запретить предзагрузку изображений.</string>
-    <string name="pref_images_preload_value_wifi_only_summary">Выборочно разрешить предзагрузку изображений.</string>
+    <string name="pref_images_preload_value_wifi_only_summary">Разрешить интеллектуальную предзагрузку изображений.</string>
     <string name="pref_images_preload_value_always_summary">Разрешить предзагрузку изображений.</string>
     <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
     <string name="pref_video_preload_dialogtitle">Предзагрузка видео</string>
