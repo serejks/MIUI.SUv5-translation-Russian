@@ -78,7 +78,7 @@
     <string name="confirm_delete_pictures">Фото: %s</string>
     <string name="confirm_delete_items">Значений: %s</string>
     <string name="confirm_delete_folders_including" formatted="false">" папок: %s (Включая %s)"</string>
-    <string name="confirm_delete_videos">%s видео</string>
+    <string name="confirm_delete_videos">Видео: %s</string>
     <string name="confirm_delete_including_null">0 штук</string>
     <string name="cancel">Отмена</string>
     <string name="select_all">Выбрать все</string>
