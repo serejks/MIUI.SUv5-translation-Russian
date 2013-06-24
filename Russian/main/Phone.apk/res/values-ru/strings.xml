@@ -985,11 +985,11 @@
     <string name="old_pin2_hint_miui">Текущий PIN2</string>
     <string name="old_pin_hint_miui">Текущий PIN</string>
     <string name="onscreen_add_call_text_miui">Добавить вызов</string>
-    <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
-    <string name="onscreen_audio_mode_handset_miui">Гарнитура</string>
+    <string name="onscreen_audio_mode_bluetooth_miui">Гарнитура</string>
+    <string name="onscreen_audio_mode_handset_miui">Телефон</string>
     <string name="onscreen_audio_mode_headset_miui">Наушники</string>
     <string name="onscreen_audio_mode_miui">Ответить:</string>
-    <string name="onscreen_audio_mode_speaker_miui">Динамик</string>
+    <string name="onscreen_audio_mode_speaker_miui">Громкая связь</string>
     <string name="onscreen_call_record_miui">Запись</string>
     <string name="onscreen_dialer_miui">Клавиатура</string>
     <string name="onscreen_end_call_text_miui">Отбой</string>

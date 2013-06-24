@@ -47,7 +47,7 @@
     <string name="adjust_traffic_carrier_settings_title">Оператор</string>
     <string name="adjust_traffic_auto_adjust_title">Авторегулировка трафика</string>
     <string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
-    <string name="manual_input_used_traffic_title">Введите допустимый объем входящего трафика</string>
+    <string name="manual_input_used_traffic_title">Введите использованный объем входящего трафика</string>
     <string name="manual_input_used_traffic_hint">Объем входящего трафика</string>
     <string name="save">Сохранить</string>
     <string name="daily_limit_dialog_hint">Дневной лимит трафика (0 означает отсутствие лимита)</string>
