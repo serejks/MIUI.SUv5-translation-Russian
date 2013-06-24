@@ -38,7 +38,7 @@
     <string name="callFailed_cdma_retryOrder">CDMA: Повторить заявку.</string>
     <string name="callFailed_cdma_accessFailure">CDMA: Ошибка доступа.</string>
     <string name="callFailed_cdma_preempted">CDMA: Приобретено.</string>
-    <string name="callFailed_cdma_notEmergency">Только экстренные.</string>
+    <string name="callFailed_cdma_notEmergency">Только экстренные</string>
     <string name="callFailed_unobtainable_number">Недействительный номер</string>
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов был утрачен</string>

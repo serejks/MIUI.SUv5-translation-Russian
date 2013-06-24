@@ -129,7 +129,7 @@
     <string name="login_reg_login_xiaomi">Вход в аккаунт Xiaomi</string>
     <string name="start_use_xiaomi_account">Войти</string>
     <string name="pan_settting">Настройки KuaiPan</string>
-    <string name="xiaomi_account">Аккаунт Xiaomi</string>
+    <string name="xiaomi_account">Xiaomi</string>
     <string name="space_usage">Использовано места</string>
     <string name="start_cleanup">Начало очистки</string>
     <string name="local_cache">Локальный кэш</string>

@@ -49,7 +49,7 @@
     <string name="uninstall_application_title">Удаление приложения</string>
     <string name="uninstall_update_title">Удаление обновления</string>
     <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
-    <string name="uninstall_confirm_question">Вы хотите удалить приложение?</string>
+    <string name="uninstall_confirm_question">Удалить приложение?</string>
     <string name="uninstall_application_text">Приложение будет удалено</string>
     <string name="uninstall_update_text">Будет восстановлена исходная версия приложения.</string>
     <string name="uninstalling">Удаление…</string>

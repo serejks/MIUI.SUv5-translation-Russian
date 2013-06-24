@@ -695,7 +695,7 @@
     <string name="frequency_three_days">Проверять и напоминать каждые три дня</string>
     <string name="frequency_weekly">Проверять и напоминать каждую неделю</string>
     <string name="frequency_none">Не напоминать мне</string>
-    <string name="dirty_contacts_notification_title">Вы хотите синхронизировать контакты?</string>
+    <string name="dirty_contacts_notification_title">Синхронизировать контакты?</string>
     <string name="dirty_contacts_notification_description">%d измененных контактов не синхронизировано</string>
     <string name="dirty_contacts_notification_message">(Вы можете изменить напоминание в настройках контакта)</string>
     <string name="remind_btn_sync_now">Синхронизировать сейчас</string>
@@ -815,7 +815,7 @@
     <string name="import_to_xiaomi_account_progress_title">Импорт контактов в аккаунт Xiaomi</string>
     <string name="import_to_xiaomi_account_progress_message">Импортирование…</string>
     <string name="import_to_xiaomi_account_progress_finish">Импорт выполнен</string>
-    <string name="import_to_xiaomi_account_title">Вы хотите импортировать выбранные контакты в аккаунт Xiaomi?</string>
+    <string name="import_to_xiaomi_account_title">Импортировать выбранные контакты в аккаунт Xiaomi?</string>
     <string name="menu_batch_delete">Пакетное удаление контактов</string>
     <string name="listTotalAllContactsZero">Нет контактов</string>
     <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>

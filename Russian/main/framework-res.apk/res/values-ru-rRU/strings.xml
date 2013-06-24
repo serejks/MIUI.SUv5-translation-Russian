@@ -765,7 +765,7 @@
     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
     <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
     <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
-    <string name="emergency_calls_only">Только экстренные вызовы</string>
+    <string name="emergency_calls_only">Только экстренные</string>
     <string name="lockscreen_sim_error_message_short">Недействительная карта.</string>
     <string name="lockscreen_sim_error_message">SIM-карта недействительна.</string>
     <string name="lockscreen_network_locked_message">Мобильная сеть заблокирована</string>

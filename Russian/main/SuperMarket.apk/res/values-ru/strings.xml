@@ -180,7 +180,7 @@
     <string name="comment_upload_hint">Ваш комментарий будет отображен после проверки</string>
     <string name="comment_upload_data_invalid">Извините, неверный комментарий</string>
     <string name="comment_upload_not_logined">Сначала войдите</string>
-    <string name="comment_upload_need_login">Вы хотите войти, для отправки комментария?</string>
+    <string name="comment_upload_need_login">Войти, для отправки комментария?</string>
     <string name="comment_upload_login_ok">OK</string>
     <string name="comment_upload_login_cancel">Отмена</string>
     <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Активировать?</string>

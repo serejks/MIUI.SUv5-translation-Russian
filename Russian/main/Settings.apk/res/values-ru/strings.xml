@@ -588,7 +588,7 @@
     <string name="wifi_p2p_disconnect_message">Если отключиться, то ваше соединение с %1$s будет разорвано.</string>
     <string name="wifi_p2p_disconnect_multiple_message">Если отключиться, то ваше соединение с %1$s и %2$s другими устройствами будет разорвано.</string>
     <string name="wifi_p2p_cancel_connect_title">Отменить приглашение?</string>
-    <string name="wifi_p2p_cancel_connect_message">Вы хотите отменить приглашение соединения с %1$s?</string>
+    <string name="wifi_p2p_cancel_connect_message">Отменить приглашение соединения с %1$s?</string>
     <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
     <string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
@@ -1839,7 +1839,7 @@
     <string name="perm_hips_security_prompt_accept_root">Разрешить</string>
     <string name="perm_hips_security_prompt_next">Следующий</string>
     <string name="perm_hips_security_prompt_root_caption">Важное предупреждение</string>
-    <string name="perm_hips_security_prompt_root_step1">Вы хотите %1$s предоставить права ROOT?</string>
+    <string name="perm_hips_security_prompt_root_step1">Предоставить права ROOT %1$s?</string>
     <string name="perm_hips_security_prompt_root_step2">Права ROOT могут привести к нестабильности системы</string>
     <string name="perm_hips_security_prompt_root_step3">Ваша личная информация такая как счета, пароль и сообщения может потерять конфидециальность</string>
     <string name="perm_hips_security_prompt_root_step4">Также возможно повреждение компонентов устройства</string>
@@ -1936,7 +1936,7 @@
     <string name="device_cpu4_info">"Четыре ядра "</string>
     <string name="available_size">%s (Доступно)</string>
     <string name="total_size">%s (Всего)</string>
-    <string name="xiaomi_account">Аккаунт Xiaomi</string>
+    <string name="xiaomi_account">Xiaomi</string>
     <string name="sync_settings">Аккаунты и синхронизация</string>
     <string name="sms_received_sound_title">Входящее SMS</string>
     <string name="sms_delivered_sound_title">Доставленное SMS</string>
