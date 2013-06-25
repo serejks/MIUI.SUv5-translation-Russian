@@ -135,7 +135,7 @@
     <string name="pref_autofill_enabled">Автозаполнение форм</string>
     <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
     <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
-    <string name="pref_autofill_profile_editor_summary">Настроить текст для автозаполнения веб-форм</string>
+    <string name="pref_autofill_profile_editor_summary">Шаблоны автозаполнения веб-форм</string>
     <string name="pref_autologin_title">Автоматический вход в систему</string>
     <string name="pref_autologin_progress">Вход в Сайты Google с помощью аккаунта %s</string>
     <string name="autologin_bar_text">Войти как</string>
@@ -408,8 +408,8 @@
     <string name="tab_yellowpage">Желтые страницы</string>
     <string name="tab_quicklinks">Быстрые закладки</string>
     <string name="pref_content_night_read_mode">Включить ночной режим</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закрытии последней вкладки</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузере, при закрытии последней вкладки. Выключите, чтобы показывалась домашней страницы</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закр.посл.вкладки</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузера, при закрытии последней вкладки. Выключите, чтобы показывалась домашней страницы</string>
     <string name="url_hint">Поиск/Ввод URL</string>
     <string name="file_picker_new_folder">Новая папка</string>
     <string name="file_picker_sdcard_not_found">SD-карта не найдена. Проверьте устройство</string>
@@ -456,8 +456,8 @@
     <string name="not_remind_again">Больше не напоминать</string>
     <string name="pref_general_exit_setting_title">Настройки выхода</string>
     <string name="pref_confirm_for_exit">Подтверждение при выходе</string>
-    <string name="pref_clear_cache_for_exit">Очистка кэша перед выходом</string>
-    <string name="pref_clear_history_for_exit">Очистка истории перед выходом</string>
+    <string name="pref_clear_cache_for_exit">Очистка кэша</string>
+    <string name="pref_clear_history_for_exit">Очистка истории</string>
     <string name="recover_from_crash">Восстановить последнюю сессию</string>
     <string name="recover">Восстановить</string>
     <string name="crash_recovcery_message">Браузер был экстренно закрыт. Восстановить последние вкладки?</string>
