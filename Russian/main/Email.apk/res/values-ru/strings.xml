@@ -136,9 +136,9 @@
     <string name="message_view_show_message_action">Сообщение</string>
     <string name="message_view_show_invite_action">Пригласить</string>
     <string name="message_view_show_pictures_action">Показать картинки</string>
-    <string name="message_view_always_show_pictures_button">Всегда показывать</string>
-    <string name="message_view_always_show_pictures_prompt">Всегда показывать картинки с этого адреса</string>
-    <string name="message_view_always_show_pictures_confirmation">Картинки, отправленные с этого адреса, будут всегда показываться.</string>
+    <string name="message_view_always_show_pictures_button">Всегда отображать</string>
+    <string name="message_view_always_show_pictures_prompt">Всегда отображать картинки с этого адреса</string>
+    <string name="message_view_always_show_pictures_confirmation">Картинки, отправленные с этого адреса, будут всегда отображаться</string>
     <string name="message_view_invite_view">Посмотреть в Календаре</string>
     <string name="message_view_invite_title">Календарь: приглашение</string>
     <string name="message_view_invite_text">Примете участие?</string>
