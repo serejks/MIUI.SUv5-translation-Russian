@@ -233,7 +233,7 @@
     <string name="btn_recharge_other">Пополнить</string>
     <string name="btn_call">Позвонить</string>
     <string name="recharge_notification">Зачисляю %1$s Mi-долларов</string>
-    <string name="title_mili_center">Кошелёк Xiaomi</string>
+    <string name="title_mili_center">MiCredits</string>
     <string name="title_recharge_record">Зачисления</string>
     <string name="title_pay_record">%1$s: платежи</string>
     <string name="recharge_record">Отчёты по зачислениям</string>
