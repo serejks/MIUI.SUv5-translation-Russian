@@ -15,16 +15,16 @@
             "favicon":""
         },
         {
-            "title":"Yahoo!",
-            "url":"http://www.yahoo.com/",
-            "thumbnail":"thumb_yahoo.png",
+            "title":"4PDA",
+            "url":"http://www.4pda.ru/",
+            "thumbnail":"thumb_4pda.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
         {
-            "title":"MSN",
-            "url":"http://www.msn.com/",
-            "thumbnail":"thumb_msn.png",
+            "title":"VK",
+            "url":"http://www.vk.com/",
+            "thumbnail":"thumb_vk.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
@@ -36,9 +36,9 @@
             "favicon":""
         },
         {
-            "title":"VK",
-            "url":"http://www.vk.com/",
-            "thumbnail":"thumb_vk.png",
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
             "logobg":"bg01.9.png",
             "favicon":""
         },
