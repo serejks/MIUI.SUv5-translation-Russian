@@ -41,7 +41,7 @@
     <string name="data_copy_outbox">исходящие</string>
     <string name="data_copy_sentbox">отправленные</string>
     <string name="data_copy_draftbox">черновики</string>
-    <string name="data_copy_phonebook">PhoneBook.</string>
+    <string name="data_copy_phonebook">Телефонная книга</string>
     <string name="data_copy_calllog">Журнал вызовов.</string>
     <string name="data_copy_incoming_call">входящие звонки</string>
     <string name="data_copy_outgoing_call">исходящие звонки</string>

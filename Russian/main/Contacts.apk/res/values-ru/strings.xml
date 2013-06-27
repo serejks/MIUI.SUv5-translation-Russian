@@ -859,7 +859,7 @@
     <string name="smart_group_frequency_3">В течение 6 месяцев</string>
     <string name="smart_group_frequency_4">Свыше 6 месяцев</string> 
     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
-    <string name="contact_detail_calllog_call_note_tips">Заметки для вызова</string>
+    <string name="contact_detail_calllog_call_note_tips">Заметки вызова</string>
     <string name="import_from_other_phone">Импорт с другого телефона</string>
     <string name="device_brand_title">выберите марку телефона</string>
     <string name="device_version_title">выберите модель телефона</string>
