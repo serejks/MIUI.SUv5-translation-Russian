@@ -492,7 +492,7 @@
     <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">[Создать новую группу]</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
-    <string name="delete_group_dialog_message">Удалить группу \%1$s\? Обратите внимание: при удалении группы контакты удалены не будут.</string>
+    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? Обратите внимание: при удалении группы контакты удалены не будут.</string>
     <string name="toast_join_with_empty_contact">Введите имя контакта перед тем, как объединять его с другим.</string>
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>
@@ -859,7 +859,7 @@
     <string name="smart_group_frequency_3">В течение 6 месяцев</string>
     <string name="smart_group_frequency_4">Свыше 6 месяцев</string> 
     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
-    <string name="contact_detail_calllog_call_note_tips">Заметки вызова</string>
+    <string name="contact_detail_calllog_call_note_tips">Заметки для вызова</string>
     <string name="import_from_other_phone">Импорт с другого телефона</string>
     <string name="device_brand_title">выберите марку телефона</string>
     <string name="device_version_title">выберите модель телефона</string>
