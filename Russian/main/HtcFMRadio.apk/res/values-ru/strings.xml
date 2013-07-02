@@ -35,7 +35,7 @@
     <string name="fm_dialog_no_headset_msg">Наушники выполняют роль антенны. Подключите наушники и попробуйте снова.</string>
     <string name="fm_dialog_scanning">Сканирование…</string>
     <string name="fm_dialog_ask_to_seek_msg">Нет предустановок. Вы хотите найти и сохранить?</string>
-    <string name="fm_dialog_airplane_msg">FM радио не доступно в режиме \"В самолете\".</string>
+    <string name="fm_dialog_airplane_msg">FM радио недоступно в режиме \"В самолете\".</string>
     <string name="fm_dialog_turning_on_label">FM выключается…</string>
     <string name="fm_dialog_no_channel_msg">Не найдено каналов, повторите позже.</string>
     <string name="fm_new_preset">Доб.предустановку</string>
