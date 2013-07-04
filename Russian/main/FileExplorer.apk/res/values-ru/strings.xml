@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Файл менеджер</string>
+    <string name="app_name">Файлы</string>
     <string name="confirm">ОК</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_search">Поиск</string>
@@ -165,7 +165,7 @@
     <string name="cution">Советы</string>
     <string name="clean_trash_box">Очистить Корзину</string>
     <string name="cleaned">Очищено</string>
-    <string name="cleaning">Очистка...</string>
+    <string name="cleaning">Очистка…</string>
     <string name="trash_box_link">Чтобы очистить корзину, посетите <b>pan.xiaomi.com</b></string>
     <string name="clean_title">Удалить файлы из Корзины Старше 30 дней</string>
     <string name="clean_message"> Удаление %1$s</string>

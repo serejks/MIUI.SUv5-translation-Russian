@@ -951,7 +951,7 @@
     <string name="resource_title">Свойства ресурса</string>
     <string name="resource_download">Загрузка</string>
     <string name="resource_downloading">Загрузка</string>
-	<string name="resource_waiting_download">Ожидание загрузки</string>
+	<string name="resource_waiting_download">Ожидание</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_update">Обновить</string>
     <string name="resource_select">Выбор</string>
