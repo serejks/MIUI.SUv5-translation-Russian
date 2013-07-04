@@ -1192,8 +1192,8 @@
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопитель</string>
     <string name="extract_edit_menu_button">Редактировать…</string>
-    <string name="data_usage_warning_title">Осталось мало трафика</string>
-    <string name="data_usage_warning_body">Проверить трафик и настройки</string>
+    <string name="data_usage_warning_title">Ограничение трафика</string>
+    <string name="data_usage_warning_body">Ограничения на использование трафика не настроены</string>
     <string name="data_usage_3g_limit_title">Передача данных по 2G-3G отключена</string>
     <string name="data_usage_4g_limit_title">Передача данных по 4G отключена</string>
     <string name="data_usage_mobile_limit_title">Передача данных по мобильной сети отключена</string>
