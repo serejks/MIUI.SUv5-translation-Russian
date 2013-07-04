@@ -1707,6 +1707,8 @@
     <string name="help_label">Помощь</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
     <string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
+	<string name="change_password">Сменить пароль</string>
+	<string name="change_security_lock">Попробуйте другие способы разблокировки.</string>
     <string name="config_mtp_function_name">mtp</string>
     <string name="config_ptp_function_name">ptp</string>
     <string name="perm_copyright">Powered by LBE Privacy Guard</string>
@@ -2019,6 +2021,8 @@
     <string name="lock_settings_picker_settings">Блокировка экрана</string>
     <string name="lock_screen_unlock_show">Отображать поле пароля сразу</string>
     <string name="lock_screen_unlock_show_summary">Отображать поле ввода пароля сразу, не используя другие экраны блокировки</string>
+	<string name="lock_settings_common_title">Настройка блокировки</string>
+	<string name="turn_off_security_lock">Отключить блокировку</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
     <string name="security_privacy_settings_title">Безопасность и приватность</string>
@@ -2337,8 +2341,4 @@
     <string name="sim_management_title">SIM менеджер</string>
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Информация об IMEI</string>
-    <string name="lock_settings_common_title">Настройки блокировки</string>
-    <string name="turn_off_security_lock">Выключить блокировку</string>
-    <string name="change_password">Изменить пароль</string>
-    <string name="change_security_lock">Другие способы разблокировки</string>
 </resources>
