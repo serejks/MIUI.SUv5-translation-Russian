@@ -18,6 +18,8 @@
 	<string name="theme_component_title_framework">Стили</string>
 	<string name="theme_component_title_mms">SMS</string>
 	<string name="theme_component_title_wallpaper">Обои</string>
+	<string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
+	<string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
 	<string name="theme_component_title_lockwallpaper">Обои блокир-ки</string>
 	<string name="theme_component_title_miwallpaper">Обои</string>
 	<string name="theme_component_title_icon">Иконки</string>
@@ -95,7 +97,8 @@
 	<string name="theme_import_item_delete_request_button">Удалить</string>
 	<string name="theme_import_item_reject_use">Тема в процессе обновления, подождите, пожалуйста.</string>
 	<string name="theme_another_import_running">Другой процесс импорта уже запущен, повторите позже.</string>
-	<string name="theme_is_imported">Эта тема импортирована</string>
+	<string name="theme_is_imported">Тема импортирована</string>
+	<string name="theme_name">%1$s</string>
 	<string name="theme_import_new_download">Импорт</string>
 	<string name="theme_import_fail">Ошибка импорта темы %1$s.</string>
 	<string name="theme_import_data">Инициализация. Пожалуйста, подождите…</string>

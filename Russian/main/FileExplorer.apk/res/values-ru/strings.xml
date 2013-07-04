@@ -93,6 +93,7 @@
     <string name="dialog_type_image">Изображения</string>
     <string name="favorite_photo">Фото</string>
     <string name="favorite_screen_cap">Скриншоты</string>
+    <string name="file_cleanup">Очистка файлов</string>
     <string name="favorite_ringtone">Рингтоны</string>
     <string name="file_loading">Загрузка…</string>
     <string name="remote_management">FTP</string>
@@ -163,12 +164,16 @@
     <string name="upload_file_toolarge_message">%1$d файлов размером более 300Мб не могут быть загружены. Проверьте "Управление передачами".</string>
     <string name="cution">Советы</string>
     <string name="clean_trash_box">Очистить Корзину</string>
+    <string name="cleaned">Очищено</string>
+    <string name="cleaning">Очистка...</string>
     <string name="trash_box_link">Чтобы очистить корзину, посетите <b>pan.xiaomi.com</b></string>
     <string name="clean_title">Удалить файлы из Корзины Старше 30 дней</string>
     <string name="clean_message"> Удаление %1$s</string>
     <string name="trash_box_message1">Вы можете удалить ненужные файлы для освобождения места</string>
     <string name="trash_box_message2">Вы можете удалить ненужные файлы или очистить корзину для освобождения места</string>
     <string name="close">Закрыть</string>
+    <string name="cleanup_stopped">Очистка остановлена</string>
+    <string name="count_down_time">Начало через %d сек.</string>
     <string name="clean_trash_box_failed">Ошибка удаления файлов старше 30 дней из Корзины</string>
     <string name="cleanup_tab_app">Очистка приложений</string>
     <string name="cleanup_tab_garbage">Очистка системы</string>
@@ -181,7 +186,7 @@
     <string name="operation_compress">Архивация</string>
     <string name="compress_title">Архивация</string>
     <string name="compress_message">Архивация в…</string>
-    <string name="compress_fail">Compression failed, destination already exists</string>
+    <string name="compress_fail">Ошибка архивации, архив уже существует</string>
     <string name="operation_compressing">Архивация…</string>
     <string name="operation_decompressing">Распаковка…</string>
     <string name="decompress_success">Распаковка завершена</string>
@@ -255,7 +260,6 @@
     <string name="bind_account_summary">Если у Вас уже есть аккаунт kuaipan， тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
     <string name="binded_accout_title">Вы уже привязаны к аккаунту KuaiPan</string>
     <string name="binded_accout_description">Два аккаунта были объединены. Для входа Вы можете использовать аккаунт xiaomi, либо аккаунт KuaiPan - оба имеют досту к Вашим данным</string>
-    <string name="file_cleanup">Очистка файлов</string>
     <string name="scanning_on_going">Сканирование…</string>
     <string name="scanning" formatted="false">Сканирование %d приложений… (Всего: %d)</string>
     <string name="sys_size_title">Всего места</string>
@@ -277,10 +281,6 @@
     <string name="waiting_for_cleaning">Ожидание очистки</string>
     <string name="item_name">Нет имени</string>
     <string name="waiting_for_scanning">Ожидание сканирования</string>
-    <string name="scanned">Сканирование завершено</string>
-    <string name="cleaning">Очистка…</string>
-    <string name="cleaned">Очистка завершена</string>
-    <string name="cleanup_stopped">Очистка остановлена</string>
     <string name="temp_file_title">Временные файлы</string>
     <string name="thumbnail_title">Миниатюры</string>
     <string name="app_cache_title">Кэш приложений</string>
@@ -296,14 +296,14 @@
     <string name="no_app_cache_indication">Нет кэша приложений</string>
     <string name="no_empty_dir_indication">Нет пустых папок</string>
     <string name="no_app_garbage_indication">Нет мусора приложений</string>
-    <string name="cancel_app_garbage_cleanup">Не очищено</string>
+    <string name="cancel_app_garbage_cleanup">Не очищать</string>
+    <string name="cancel_with_count_down">Отмена (%d)</string>
     <string name="clean_app_garbage">Удалить пунктов: %d</string>
     <string name="app_garbage_path">Расположение:</string>
     <string name="give_up_cleaning">Отказаться</string>
-    <string name="restart_cleaning">Перезагрузка</string>
+    <string name="restart_cleaning">Повтор</string>
+    <string name="scanned">Сканирование завершено</string>
     <string name="cleanup_complete">Готово</string>
-    <string name="count_down_time">Старт через %d сек.</string>
-    <string name="cancel_with_count_down">Отмена (%d)</string>
     <string name="garbage_size_metric">"%s
 Мусор"</string>
     <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>

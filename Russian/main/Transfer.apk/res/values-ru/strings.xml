@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="picker_title">Выберите приложение</string>
-    <string name="shortmessage">Short message</string>
-    <string name="send_sound">Send with sound</string>
-    <string name="send_2d_code">Send with 2D code</string>
-    <string name="send_nfc">Send with NFC</string>
-    <string name="scan_title">Please focus the 2D code</string>
-    <string name="recv_sound">Receive sound</string>
-    <string name="scan_2d_code">Scan 2D code</string>
+    <string name="shortmessage">Сообщение</string>
+    <string name="send_sound">Отправить со звуком</string>
+    <string name="send_2d_code">Отправить с 2D кодом</string>
+    <string name="send_nfc">Отправить через NFC</string>
+    <string name="scan_title">Пожалуйста сфокусируйте на 2D коде</string>
+    <string name="recv_sound">Звук получения</string>
+    <string name="scan_2d_code">Сканирование 2D кода</string>
     <string name="app_name">Трансфер</string>
     <string name="ok">Подтвердить</string>
     <string name="cancel">Отмена</string>

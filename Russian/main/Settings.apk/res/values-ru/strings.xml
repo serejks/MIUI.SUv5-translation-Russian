@@ -10,6 +10,7 @@
     <string name="header_category_system">СИСТЕМА</string>
     <string name="turn_on_radio">Включить радио</string>
     <string name="turn_off_radio">Отключить радио</string>
+	<string name="turn_off_security_lock">Отключить блокировку</string>
     <string name="sms_over_ims_on">Включить SMS через IMS</string>
     <string name="sms_over_ims_off">Отключить SMS через IMS</string>
     <string name="ims_reg_required_on">Обязательная регистрация IMS включена</string>
@@ -2022,7 +2023,6 @@
     <string name="lock_screen_unlock_show">Отображать поле пароля сразу</string>
     <string name="lock_screen_unlock_show_summary">Отображать поле ввода пароля сразу, не используя другие экраны блокировки</string>
 	<string name="lock_settings_common_title">Настройка блокировки</string>
-	<string name="turn_off_security_lock">Отключить блокировку</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
     <string name="security_privacy_settings_title">Безопасность и приватность</string>

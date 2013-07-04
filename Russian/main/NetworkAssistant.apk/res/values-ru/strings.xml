@@ -156,6 +156,6 @@
     <string name="fire_wall_is_closed">Firewall не активен</string>
     <string name="text_done">Готово</string>
     <string name="text_save">Сохранить</string>
-    <string name="adjust_no_network_update_data_fail">Update data fail. Please try again after checking the settings of network.</string>
+    <string name="adjust_no_network_update_data_fail">Ошибка обновления. Пожалуйста проверьте параметры подключения к интернету.</string>
     <string name="app_has_deleted">Удалено: %s.</string>
 </resources>

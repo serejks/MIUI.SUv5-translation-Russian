@@ -418,7 +418,7 @@
     <string name="account_type_format">Контакт %1$s</string>
     <string name="from_account_format">Удалить закладки с устройства и начать синхронизацию с аккаунтом Google</string>
     <string name="use_photo_as_primary">Использовать эту фотографию</string>
-    <string name="contact_read_only">Изменение невозможно в этом приложении</string>
+    <string name="contact_read_only">Контакт только для чтения</string>
     <string name="no_contact_details">Отсутствует дополнительная информация об этом контакте.</string>
     <string name="group_read_only">Данные доступны только для чтения</string>
     <string name="display_options_sort_list_by">Упорядочить контакты</string>
@@ -668,8 +668,6 @@
     <string name="recent_contacts_label">Послед.</string>
     <string name="recent_number">Послед.</string>
     <string name="cloud_antispam_mark">Отметить</string>
-    <string name="antispam_mark_my_contribution">My contribution to the mark</string>
-    <string name="antispam_provider_format">The mark is provided by %s</string>
     <string name="menu_new_favorite_action_bar">Добавить</string>
     <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>
     <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
@@ -718,16 +716,16 @@
     <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
     <string name="import_vcard_description">Импорт контактов с SD карты</string>
     <string name="import_weibo_dialog_title">Импорт контактов Sina Weibo</string>
+    <string name="import_weibo_error_no_matched_contacts">Нет совпадающих контактов</string>
+    <string name="import_weibo_error_no_network">Ошибка сети</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Нет телефонов в аккаунте Xiaomi</string>
+    <string name="import_weibo_error_unknown">Неизвестная ошибка</string>
+    <string name="import_weibo_error_user_cancel">Отменено пользователем</string>
     <string name="import_weibo_fetch_followers">Экспорт контактов Sina Weibo…</string>
     <string name="import_weibo_progress_name">Сопоставление \"%1$s\"…</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title">Импортирование контактов Sina Weibo…</string>
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
-    <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
-    <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
-    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
-    <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
     <string name="import_weibo_progress_hint">Импортирование…</string>
     <string name="export_vcard_description">Экспорт vCard на SD карту</string>
     <string name="export_to_sim">Экспорт на SIM карту</string>
@@ -789,11 +787,11 @@
     <string name="phone_primary">Основной</string>
     <string name="phone_info_divider">"  |  "</string>
     <string name="menu_bar_group_add">Добавить</string>
-    <string name="menu_bar_group_sms">Группы SMS</string>
-    <string name="menu_bar_group_ringtone">Рингтон</string>
+    <string name="menu_bar_group_sms">Отправить SMS группе</string>
+    <string name="menu_bar_group_ringtone">Рингтон группы</string>
+    <string name="menu_bar_group_ringtone_largeui">Рингтон</string>
     <string name="menu_bar_group_rename">Переименовать</string>
     <string name="menu_bar_group_delete">Удалить</string>
-    <string name="menu_bar_group_ringtone_largeui">Рингтон</string>
     <string name="group_rename_dialog_title">Переименовать группу</string>
     <string name="group_create_success_toast">Группа создана</string>
     <string name="group_rename_success_toast">Группа переименована</string>
@@ -953,7 +951,7 @@
     <string name="resource_title">Свойства ресурса</string>
     <string name="resource_download">Загрузка</string>
     <string name="resource_downloading">Загрузка</string>
-    <string name="resource_waiting_download">Ожидание</string>
+	<string name="resource_waiting_download">Ожидание загрузки</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_update">Обновить</string>
     <string name="resource_select">Выбор</string>
@@ -966,6 +964,8 @@
     <string name="download_preview_failed">Ошибка загрузки превью</string>
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
     <string name="all_resources">Все</string>
+    <string name="antispam_mark_my_contribution">Мои отметки в антиспаме</string>
+    <string name="antispam_provider_format">Техническая поддержка: %s</string>
     <string name="resource_default_name">Ресурсы</string>
     <string name="resource_detail">Свойства</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
@@ -986,8 +986,8 @@
     <string name="resource_title_select_ringtone">Выбор рингтона</string>
     <string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
-    <string name="loading_resource_detail_fail">Сбой загрузки ресурса!</string>
+	<string name="loading_resource_detail_fail">Сбой загрузки ресурса!</string>
     <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
-    <string name="contact_is_readOnly">Can not edit read-only contacts</string>
+    <string name="contact_is_readOnly">Не удается отредактировать, контакт только для чтения.</string>
     <string name="profile_name">Мой профиль</string>
 </resources>

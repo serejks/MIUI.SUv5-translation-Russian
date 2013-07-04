@@ -52,6 +52,12 @@
         <item>Быстрая</item>
         <item>Очень быстрая</item>
   </string-array>
+  <string-array name="change_security_lock_picker">
+		<item>Фейс-контроль</item>
+		<item>Графический ключ</item>
+		<item>Цифровой пароль</item>
+		<item>Смешанный пароль</item>
+  </string-array>
   <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
         <item>Низкий</item>
