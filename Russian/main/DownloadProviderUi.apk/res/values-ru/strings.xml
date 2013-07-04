@@ -44,7 +44,7 @@
     <string name="menu_enter_edit_mode">Редактор</string>
     <string name="delete_downloads_records">Удалить загрузки</string>
     <string name="pause_download">Пауза</string>
-    <string name="resume_download">Возобновить</string>
+    <string name="resume_download">Старт</string>
     <string name="restart_download">Еще раз</string>
     <string name="open_download">Открыть</string>
     <string name="paused_by_app">Остановлено вручную</string>
