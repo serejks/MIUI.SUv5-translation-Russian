@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Менеджер аккаунтов Xiaomi</string>
+    <string name="show_password">Показать пароль</string>
     <string name="account">Аккаунт</string>
     <string name="account_hint_text">E-mail/Номер телефона</string>
     <string name="login">Войти</string>
@@ -9,6 +10,7 @@
     <string name="forget_password"><u>Забыли пароль?</u></string>
     <string name="password">Пароль</string>
     <string name="bad_authentication">Ошибка аутентификации. Неправильный логин или пароль.</string>
+    <string name="int_phone_user_notice">When signing in with a number outside of mainland China, please also enter in country code. E.g. +886xxxxxxxxx</string>
     <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
     <string name="micloud_account_name">Аккаунт Xiaomi</string>
     <string name="micloud_use_existing">Существующий</string>
@@ -23,10 +25,22 @@
     <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
     <string name="micloud_password_req_notice">8~16 символов: цифры, буквы алфавита (Чувствителны к регистру)</string>
     <string name="micloud_password_error_inconsistent">Пароли не совпадают</string>
+    <string name="micloud_active_alert_title">Activate your account</string>
+    <string name="micloud_via_sms_alert">An activate SMS which may incur carrier charges will be sent to validate your phone number. Continue?</string>
+    <string name="micloud_via_int_sms_alert">An activate SMS which may incur international charges will be sent to validate your phone number. Continue?</string>
     <string name="micloud_val_sms_alert">Для проверки номера будет отправлено SMS. Продолжить?</string>
     <string name="micloud_error_email">Неправильный e-mail</string>
     <string name="micloud_account">Аккаунт Xiaomi</string>
     <string name="micloud_activing_account">Активация аккаунта…</string>
+    <string name="micloud_activing_account_delayed">"It probably needs 30 seconds to complete activating
+You can do something else..."</string>
+    <string name="micloud_activing_account_failed">Failed to activate your account</string>
+    <string name="micloud_activating_account_notify_title">Activating your Xiaomi account...</string>
+    <string name="micloud_activate_account_success_notify_title">Successfully activated your Xiaomi account</string>
+    <string name="micloud_activate_account_fail_notify_title">Failed to activate your Xiaomi account</string>
+    <string name="micloud_activating_account_notify_info">You are activating your Xiaomi account</string>
+    <string name="micloud_activate_back_btn">Отмена</string>
+    <string name="micloud_activate_retry_btn">Повтор активации</string>
     <string name="micloud_account_not_actived">Аккаунт не активирован</string>
     <string name="micloud_active_email_visit">Посетите %s</string>
     <string name="micloud_click_email_to_valid">Перейдите по ссылке в письме, пришедшем на Ваш e-mail</string>
@@ -42,6 +56,8 @@
     <string name="reg_by_email_failure">Регистрация прервана: %1$s</string>
     <string name="unactivated_user">Не активирован</string>
     <string name="reg_failed">Ошибка регистрации</string>
+    <string name="login_instead_reg">Login using this phone number</string>
+    <string name="get_back_pwd">Retrieve account password</string>
     <string name="login_failed">Ошибка входа</string>
     <string name="error_network">Ошибка сети</string>
     <string name="error_dup_phone">Телефон зарегистрирован</string>
@@ -63,8 +79,12 @@
     <string name="sync_sub_int_dspt">Для активации может потребоваться отправка дополнительного SMS сообщения</string>
     <string name="send_sms_for_sync_title">Синхронизация не активирована</string>
     <string name="send_sms_for_sync_notice">Для активации необходимо отправить SMS. Продолжить?</string>
+    <string name="send_int_sms_for_sync_notice">An activate SMS which may incur international charges is required to activate sync. Do you want to continue?</string>
     <string name="failed_to_send_activate_email">Сбой при отправке активационного письма</string>
     <string name="access_denied">Доступ запрещен</string>
+    <string name="reging">Registering. Please wait…</string>
+    <string name="reg_success">Registration succeeded</string>
+    <string name="reg_success_summary">Your mobile number %1$s is already designated to MiLock where you can use it to login and retrieve password.</string>
     <string name="sync_on">ВКЛ</string>
     <string name="sync_off">ОТКЛ</string>
     <string name="btn_activate">Активировать</string>
@@ -89,6 +109,11 @@
     <string name="i_know">Я знаю</string>
     <string name="find_device_disabled_title">Поиск устройств отключён</string>
     <string name="find_device_disabled_notice">Вы можете включить его снова в\nНастройки &lt; Аккаунты &lt;\n- Аккаунты Xiaomi</string>
+    <string name="activate_phone_send_sms_fail">Failed to send activation SMS, unable to open sync service</string>
+    <string name="activate_phone_server_error">Server error，unable to open sync service</string>
+    <string name="activate_phone_failed_notif_title">Failed to enable MiCloud service</string>
+    <string name="activate_phone_send_sms_failed_notif">Failed to send activation SMS</string>
+    <string name="activate_phone_server_error_notif">Server error</string>
     <string name="user_agreement_p1">"При входе вы соглашаетесь с "</string>
     <string name="user_agreement_p2">Правилами пользования сервисами Xiaomi</string>
     <string name="user_agreement_p3">" и "</string>
@@ -160,6 +185,8 @@
     <string name="recharge_alipay_summary">Поддерживается оплата через Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_tenpay_summary">Поддержка обмена через Tenpay</string>
+    <string name="recharge_pcpay_title">Recharge via computer</string>
+    <string name="recharge_pcpay_summary">Supports more recharge methods and higher limits</string>
     <string name="recharge_voucher_title">Mi Credit cards</string>
     <string name="recharge_voucher_summary">Поддержка переводов Mi Credit cards</string>
     <string name="recharge_hint">1 RMB равен 1 Mi Credit</string>
@@ -172,6 +199,8 @@
     <string name="btn_recharge_large">Пополнить сейчас</string>
     <string name="btn_pay_large">Оплатить сейчас</string> 
     <string name="recharge_other">Выберать другие методы пополнения</string>
+    <string name="btn_recharge_success">Recharge completed</string>
+    <string name="btn_recharge_success_quick">Recharge completed</string>
     <string name="paytool_picker_hint">Укажите сумму Mi Credit для зачисления</string>
     <string name="paytool_edit_hint">Сумма зачисления (RMB)</string>
     <string name="paytool_edit_limit">Меньше %1$s</string>
@@ -216,6 +245,8 @@
     <string name="voucher_error_code">Ошибка пароля Mi Credit card</string>
     <string name="progress_voucher_creating">Пополнение Mi Credit card…</string>
     <string name="progress_submit_title">Запрос принят, идет проверка</string>
+    <string name="progress_submit_recharge_summary">Recharging: %1$s RMB</string>
+    <string name="progress_submit_pay_summary">Paying: %1$s RMB</string>
     <string name="progress_submit_summary">Сумма зачисления: %1$s CNY</string>
     <string name="progress_submit_hint">Зачисление будет произведено в течение 3-х минут.</string>
     <string name="btn_count_down_auto">Запрос через %1$s сек.</string>
@@ -258,6 +289,30 @@
     <string name="update_contacts_description">Синхронизация информации о Ваших друзьях в микроблоге Sina WeiBo, например аватара, дня рождения и др., с контактами в телефоне. Для синхронизации будет использован Ваш аккаунт Xiaomi</string>
     <string name="updated_contacts">Обновлено контактов: %s</string>
     <string name="process_result">Результат процесса:</string>
+    <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
+    <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
+    <string name="service_error">Service error</string>
+    <string name="enable_micloud">Enable cloud services</string>
+    <string name="micloud_summary">Login to Xiaomi account to sync Contacts, Gallery Albums and other functions.</string>
+    <string name="micloud_is_what">What is MiCloud?</string>
+    <string name="available_functionality">Available functions</string>
+    <string name="internet_message">MiCloud messaging</string>
+    <string name="micloud_more">Learn more</string>
+    <string name="internet_comm">Messaging services</string>
+    <string name="cloud_messaging">MiCloud messaging</string>
+    <string name="xiaomi_cloud_service">MiCloud</string>
+    <string name="current_account">Current account</string>
+    <string name="my_xiaomi_account">My current Xiaomi account</string>
+    <string name="micloud_intro_01_part_01">Save on SMS costs</string>
+    <string name="micloud_intro_01_part_02">MIUI allows you to send free cloud messaging via the network</string>
+    <string name="micloud_intro_02_part_01">Don’t need to do anything</string>
+    <string name="micloud_intro_02_part_02">Cloud services helps you sync up contacts, messages, photos and other data on to various mobile devices.</string>
+    <string name="micloud_intro_03_part_01">Never lose your data again and ensure that contents are secure</string>
+    <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
+    <string name="micloud_dspt">Cloud services include MiCloud messaging, mobile sync, locating device and other features. You can also manage your data online at any time!</string>
+    <string name="start_micloud">Старт</string>
 	<string name="account_detail">Аккаунт Xiaomi:\n%1$s</string>
 	<string name="memu_refresh">Обновить</string>
+    <string name="micloud_proceed">Продолжить</string>
+    <string name="disable_micloud"><u>Не включать MiCloud</u></string>
 </resources>

@@ -668,6 +668,8 @@
     <string name="recent_contacts_label">Послед.</string>
     <string name="recent_number">Послед.</string>
     <string name="cloud_antispam_mark">Отметить</string>
+    <string name="antispam_mark_my_contribution">My contribution to the mark</string>
+    <string name="antispam_provider_format">The mark is provided by %s</string>
     <string name="menu_new_favorite_action_bar">Добавить</string>
     <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>
     <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
@@ -721,6 +723,11 @@
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="import_weibo_notification_title">Импортирование контактов Sina Weibo…</string>
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
+    <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
+    <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
+    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
+    <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
     <string name="import_weibo_progress_hint">Импортирование…</string>
     <string name="export_vcard_description">Экспорт vCard на SD карту</string>
     <string name="export_to_sim">Экспорт на SIM карту</string>
@@ -786,6 +793,7 @@
     <string name="menu_bar_group_ringtone">Рингтон</string>
     <string name="menu_bar_group_rename">Переименовать</string>
     <string name="menu_bar_group_delete">Удалить</string>
+    <string name="menu_bar_group_ringtone_largeui">Рингтон</string>
     <string name="group_rename_dialog_title">Переименовать группу</string>
     <string name="group_create_success_toast">Группа создана</string>
     <string name="group_rename_success_toast">Группа переименована</string>
@@ -945,6 +953,7 @@
     <string name="resource_title">Свойства ресурса</string>
     <string name="resource_download">Загрузка</string>
     <string name="resource_downloading">Загрузка</string>
+    <string name="resource_waiting_download">Ожидание</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_update">Обновить</string>
     <string name="resource_select">Выбор</string>
@@ -977,5 +986,8 @@
     <string name="resource_title_select_ringtone">Выбор рингтона</string>
     <string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
+    <string name="loading_resource_detail_fail">Сбой загрузки ресурса!</string>
     <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
+    <string name="contact_is_readOnly">Can not edit read-only contacts</string>
+    <string name="profile_name">Мой профиль</string>
 </resources>

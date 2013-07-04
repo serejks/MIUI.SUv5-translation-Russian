@@ -181,6 +181,7 @@
     <string name="operation_compress">Архивация</string>
     <string name="compress_title">Архивация</string>
     <string name="compress_message">Архивация в…</string>
+    <string name="compress_fail">Compression failed, destination already exists</string>
     <string name="operation_compressing">Архивация…</string>
     <string name="operation_decompressing">Распаковка…</string>
     <string name="decompress_success">Распаковка завершена</string>
@@ -254,6 +255,7 @@
     <string name="bind_account_summary">Если у Вас уже есть аккаунт kuaipan， тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
     <string name="binded_accout_title">Вы уже привязаны к аккаунту KuaiPan</string>
     <string name="binded_accout_description">Два аккаунта были объединены. Для входа Вы можете использовать аккаунт xiaomi, либо аккаунт KuaiPan - оба имеют досту к Вашим данным</string>
+    <string name="file_cleanup">Очистка файлов</string>
     <string name="scanning_on_going">Сканирование…</string>
     <string name="scanning" formatted="false">Сканирование %d приложений… (Всего: %d)</string>
     <string name="sys_size_title">Всего места</string>
@@ -275,6 +277,10 @@
     <string name="waiting_for_cleaning">Ожидание очистки</string>
     <string name="item_name">Нет имени</string>
     <string name="waiting_for_scanning">Ожидание сканирования</string>
+    <string name="scanned">Сканирование завершено</string>
+    <string name="cleaning">Очистка…</string>
+    <string name="cleaned">Очистка завершена</string>
+    <string name="cleanup_stopped">Очистка остановлена</string>
     <string name="temp_file_title">Временные файлы</string>
     <string name="thumbnail_title">Миниатюры</string>
     <string name="app_cache_title">Кэш приложений</string>
@@ -296,6 +302,8 @@
     <string name="give_up_cleaning">Отказаться</string>
     <string name="restart_cleaning">Перезагрузка</string>
     <string name="cleanup_complete">Готово</string>
+    <string name="count_down_time">Старт через %d сек.</string>
+    <string name="cancel_with_count_down">Отмена (%d)</string>
     <string name="garbage_size_metric">"%s
 Мусор"</string>
     <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
