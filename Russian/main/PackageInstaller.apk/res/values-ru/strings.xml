@@ -78,7 +78,7 @@
     <string name="perm_sysopt_boost_auto_start">Разрешения автозапуска</string>
     <string name="perm_sysopt_boost_auto_start_summary">Приложение будет запускаться автоматически!</string>
     <string name="perm_privacy_app_trust">Я доверяю этому приложению</string>
-    <string name="perm_privacy_app_trust_summary">MIUI будет отслеживать это приложение</string>
+    <string name="perm_privacy_app_trust_summary">Контроль действий приложения</string>
     <string name="perm_action_accept">Разрешить</string>
     <string name="perm_action_prompt">С запросом</string>
     <string name="perm_action_reject">Запретить</string>
