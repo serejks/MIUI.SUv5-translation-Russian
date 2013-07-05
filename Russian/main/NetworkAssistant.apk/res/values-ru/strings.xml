@@ -150,7 +150,7 @@
     <string name="sms_template_updated_label">"Обновлено: "</string>
     <string name="unknown">неизвестно</string>
     <string name="overseas_unknown_traffic_hint">Ограничения на расход траффика не настроены. Настроить сейчас?</string>
-    <string name="overseas_menu_traffic_settings">Ограничение траффика</string>
+    <string name="overseas_menu_traffic_settings">Ограничение трафика</string>
     <string name="overseas_menu_traffic_adjust">Ручная настройка</string>
     <string name="about">О приложении</string>
     <string name="fire_wall_is_closed">Firewall не активен</string>
