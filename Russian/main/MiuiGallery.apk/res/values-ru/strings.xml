@@ -67,8 +67,8 @@
     <string name="set_image">Установить изображение как</string>
     <string name="camera_setas_wallpaper">Фон рабочего стола</string>
     <string name="delete">Удалить</string>
-    <string name="confirm_delete">Удалить выбранные пункты (%s шт.)?</string>
-    <string name="confirm_delete_cloud_all_item_page" formatted="false">Картинок (%s шт.) в альбомах (%s шт.) Удалить?</string>
+    <string name="confirm_delete">Удалить выбранное (%s шт.)?</string>
+    <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить фото (%s шт.) в альбомах (%s шт.)?</string>
     <string name="delete_fail_too_many_items">Ошибка удаления. Возможно отмечено слишком много.</string>
     <string name="action_fail_unknown_error">Завершение операции невозможно из-за неизвестной ошибки.</string>
     <string name="add_to_cloud_fail_too_many_items">Ошибка. Возможно выбрано слишком много пунктов.</string>
