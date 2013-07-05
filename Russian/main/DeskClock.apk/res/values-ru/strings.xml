@@ -132,7 +132,7 @@
     <string name="alarm_label_hint">Введите описание будильника</string>
     <string name="legal_workday_invalidate">Дата истекла (Будильник настроен на работу с ПН по ПТ))</string>
     <string name="legal_workday_invalidate_message">(Дата истекла. Обновите дату в настройках)</string>
-    <string name="legal_workday_message">" (Будильник выключен на время праздников)"</string>
+    <string name="legal_workday_message">" (Выключен по праздникам)"</string>
     <string name="holiday_update_title">Для обновления списка рабочих дней необходима связь с интернетом</string>
     <string name="holiday_update_summary">Нажмите для проверки обновления</string> 
     <string name="holiday_data_updating">Обновление…</string>
