@@ -399,7 +399,7 @@
     <string name="pref_camera_videoencoder_dialogtitle">Формат видео</string>
     <string name="pref_camera_audioencoder_default">aac</string>
     <string name="pref_camera_audioencoder_title">Формат аудио</string>
-    <string name="pref_camera_audio_capture_title">Съемка по звуку</string>
+    <string name="pref_camera_audio_capture_title">Звукосъемка</string>
     <string name="pref_camera_audioencoder_entry_0">AMRNB</string>
     <string name="pref_camera_audioencoder_entry_1">AAC</string>
     <string name="pref_camera_video_duration_default">10</string>
