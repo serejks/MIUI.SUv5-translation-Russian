@@ -77,7 +77,7 @@
     <string name="menu_settings">Настройки</string>
     <string name="preference_led_indicator">Индикатор записи, при блокировке</string>
     <string name="preference_led_indicator_prompt">Который включает светодиодный индикатор и уведомление в строке состояния во время записи при заблокированном экране</string>
-    <string name="preference_silent_mode">Выключить звук в время записи</string>
+    <string name="preference_silent_mode">Выключить звук во время записи</string>
     <string name="preference_silent_mode_summary">Нажмите для включения режима без звука во время записи</string>
 	<string name="preference_record_type_title">Тип записи</string>
 	<string name="preference_record_type_dialog_title">Выберите тип записи</string>
