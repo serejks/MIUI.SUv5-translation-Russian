@@ -181,7 +181,7 @@
     <string name="title_recharge">Пополнение счёта</string>
     <string name="title_pay">Оплатить Mi Кошелек</string> 
 	<string name="recharge_group_1to1">1 юань равен 1 Micredit</string>
-	<string name="recharge_group_1to1">2 юаня равны 1 Micredit</string>
+	<string name="recharge_group_2to1">2 юаня равны 1 Micredit</string>
     <string name="recharge_prepaid_title">Карты предоплаты</string>
     <string name="recharge_prepaid_summary">Поддерживаются карты предоплаты China Mobile, China Unicom и China Telecom</string>
     <string name="recharge_alipay_title">Alipay</string>
