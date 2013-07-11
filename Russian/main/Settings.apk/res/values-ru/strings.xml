@@ -1939,6 +1939,7 @@
     <string name="device_cpu4_info">"Четыре ядра "</string>
     <string name="available_size">%s (Доступно)</string>
     <string name="total_size">%s (Всего)</string>
+    <string name="memory_title">"Доступно %1$s из %2$s"</string>
     <string name="xiaomi_account">Xiaomi</string>
     <string name="sync_settings">Аккаунты и синхронизация</string>
     <string name="sms_received_sound_title">Входящее SMS</string>

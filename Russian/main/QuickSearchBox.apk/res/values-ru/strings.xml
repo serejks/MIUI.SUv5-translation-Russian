@@ -7,7 +7,7 @@
     <string name="corpus_selection_heading">Поиск</string>
     <string name="corpus_label_global">Все</string>
     <string name="corpus_label_web">Интернет</string>
-    <string name="corpus_description_web">Веб-поиск, закладки и история браузера</string>
+    <string name="corpus_description_web">Веб-поиск и закладки</string>
     <string name="corpus_label_apps">Приложения</string>
     <string name="corpus_description_apps">Названия установленных приложений</string>
     <string name="corpus_hint_apps">Поиск приложений</string>

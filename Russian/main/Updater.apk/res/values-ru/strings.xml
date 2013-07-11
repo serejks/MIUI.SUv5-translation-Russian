@@ -73,6 +73,7 @@
     <string name="internal_build">Внутренняя сборка</string>
     <string name="top_secret_build">Секретная сборка</string>
     <string name="stable_build">Стабильная сборка</string>
+	<string name="unstable_build">Нестабильная сборка</string>
     <string name="about_device">О телефоне</string>
     <string name="emegency_build">Сборка:</string>
     <string name="wifi_not_available_title">Wi-Fi не подключен</string>
