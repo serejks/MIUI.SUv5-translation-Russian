@@ -23,6 +23,14 @@
     <string name="pref_video_sub_summary_on">Включить</string>
     <string name="pref_video_sub_summary_off">Выключить</string>
     <string name="pref_gallery_sort_title">Сортировать по</string>
+    <string name="details_category_label">Категория:</string>
+    <string name="details_description_label">Описание:</string>
+    <string name="details_publicView_text">Публичный</string>
+    <string name="details_tags_label">Тэги:</string>
+    <string name="details_title_label">Заголовок:</string>
+    <string name="details_save_text">Сохоранить</string>
+    <string name="details_language_label">Язык:</string>
+    <string name="details_privateView_text">Частный</string>
     <string name="details_panel_title">Детали</string>
     <string name="details_file_size">Размер файла:</string>
     <string name="details_image_resolution">Разрешение:</string>
