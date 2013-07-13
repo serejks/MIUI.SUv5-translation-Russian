@@ -65,7 +65,6 @@
     <string name="all_comments">Все</string>
     <string name="good_comments">Позитивные</string>
     <string name="bad_comments">Негативные</string>
-    <string name="app_comments_footer">Empty comments are not presented here.</string>
     <string name="comment_5_star">5 звёзд</string>
     <string name="comment_4_star">4 звезды</string>
     <string name="comment_3_star">3 звезды</string>
