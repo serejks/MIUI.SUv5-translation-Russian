@@ -2298,7 +2298,7 @@
     <string name="privacy_relative">Связанные с конфиденциальностью</string>
     <string name="other_relative">Другие разрешения</string>
     <string name="permission_manage_title">%s: разрешения:</string>
-    <string name="filter_apps_cached">Кешированные</string>
+    <string name="filter_apps_cached">Кэшированные</string>
     <string name="screen">Экран</string>
     <string name="system">Система</string>
     <string name="screen_color_temperature_adjust">Цветовая температура</string>

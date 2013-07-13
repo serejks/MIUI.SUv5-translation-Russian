@@ -789,8 +789,8 @@
     <string name="storage_menu_usb">USB PC connection</string>
     <string name="storage_title_usb">USB PC connection</string>
     <string name="usb_connection_category">Connect as</string>
-    <string name="usb_mtp_title">Media device (MTP)</string>
-    <string name="usb_mtp_summary">Allows you to transfer media files in Windows, or using Android file transfer on a Mac (see www.android.com/filetransfer)</string>
+    <string name="usb_mtp_title">Режим мультимедиа</string>
+    <string name="usb_mtp_summary">Позволяет синхронизировать мультимедийные файлы с Windows или Mac (подробнее www.android.com/filetransfer)</string>
     <string name="usb_ptp_title">Camera (PTP)</string>
     <string name="usb_ptp_summary">Allows you to transfer photos using camera software, and transfer any files onto PC that do not support MTP</string>
     <string name="usb_label_installer_cd">Install file-transfer tools</string>
