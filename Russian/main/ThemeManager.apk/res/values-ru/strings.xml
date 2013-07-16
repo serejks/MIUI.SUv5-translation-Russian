@@ -7,7 +7,7 @@
 	<string name="theme_changed_failed_message">Ошибка применения темы %1$s</string>
 	<string name="backup_preference_title">Бэкап темы</string>
 	<string name="backup_theme_dialog_ok">Бэкап</string>
-	<string name="backup_theme_dialog_message">Резервное копирование текущей темы в\n%1$s</string>
+	<string name="backup_theme_dialog_message">Резервное копирование текущей темы</string>
 	<string name="backup_theme_progress_message">Резервное копирование файлов темы. Подождите…</string>
 	<string name="backup_theme_success_message">Резервное копирование темы завершено</string>
 	<string name="backup_theme_name">Мои бэкапы</string>
