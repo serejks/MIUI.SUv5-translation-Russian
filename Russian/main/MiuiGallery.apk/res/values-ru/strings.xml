@@ -13,12 +13,12 @@
     <string name="crop">Обрезать</string>
     <string name="crossprocess">Кроссобработка</string>
     <string name="documentary">Документальные</string>
-    <string name="doodle">Подмалевать</string>
+    <string name="doodle">Подрисовать</string>
     <string name="duotone">Двойной тон</string>
     <string name="facelift">Сияние</string>
     <string name="facetan">Загар</string>
     <string name="filllight">Осветление</string>
-    <string name="fisheye">Рыбий глаз</string>
+    <string name="fisheye">" Рыбий глаз "</string>
     <string name="flip">Отразить</string>
     <string name="grain">Зернистость</string>
     <string name="grayscale">Ч/Б</string>
@@ -32,7 +32,7 @@
     <string name="sepia">Сепия</string>
     <string name="shadow">Тени</string>
     <string name="sharpen">Резкость</string>
-    <string name="straighten">Выравнивание</string>
+    <string name="straighten">Выравнить</string>
     <string name="temperature">Тепло</string>
     <string name="tint">Оттенок</string>
     <string name="vignette">Виньетка</string>
