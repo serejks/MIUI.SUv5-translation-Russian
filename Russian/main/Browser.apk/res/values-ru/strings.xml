@@ -381,8 +381,8 @@
     <string name="history_track">История</string>
     <string name="history_most_visited">Часто посещаемые</string>
     <string name="history_saved_webpage">Сохраненные страницы</string>
-    <string name="clear_history_group">очистить всю %s историю</string>
-    <string name="open_history_group_in_new_window">открыть всю %s историю в новом окне</string>
+    <string name="clear_history_group">очистить всю историю %s</string>
+    <string name="open_history_group_in_new_window">открыть всю историю в новом окне %s</string>
     <string name="open_history_most_visited_group_in_new_window">открыть все часто посещаемые</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Подтвердите удаление всей истории браузера</string>
     <string name="edit">Редактировать</string>
@@ -505,11 +505,11 @@
     <string name="app_update_install">"Новая версия загружена и готова к установке"</string>
     <string name="app_new_version">"Новая версия загружена и установлена"</string>
     <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
-    <string name="quicklinks_management">Hot Sites</string>
-    <string name="download">Download</string>
-    <string name="loading_rest_candidates">Loading rest candidates</string>
-    <string name="downloading">Downloading</string>
-    <string name="downloaded">Downloaded</string>
+    <string name="quicklinks_management">Популярные сайты</string>
+    <string name="download">Скачать</string>
+    <string name="loading_rest_candidates">Загрузка остальных вариантов</string>
+    <string name="downloading">Загрузка</string>
+    <string name="downloaded">Загружено</string>
     <string name="disk_space_used">"%1$s использовано"</string>
     <string name="disk_space_selected">"%1$s  выбрано"</string>
     <string name="disk_space_available">"%1$s  доступно"</string>
