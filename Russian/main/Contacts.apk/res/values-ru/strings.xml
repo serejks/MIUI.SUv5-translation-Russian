@@ -707,7 +707,7 @@
     <string name="scan_merge">Поиск возможных одинаковых контактов, подождите</string>
     <string name="scan_duplicate_message">Контактов с одинаковыми данными: %1$d</string>
     <string name="merge_contact_message">Контактов с одинаковыми данными: %1$d, объединено: %2$d</string>
-    <string name="delete_duplicate">Пакетное объединение</string>
+    <string name="delete_duplicate">Объединить</string>
     <string name="delete_duplicate_message">Объединение…</string>
     <string name="label_no_duplicate_contacts">Нет повторяющихся контактов</string>
     <string name="quit_dialog_confirm_title">Выйти?</string>
@@ -748,7 +748,7 @@
     <string name="pref_key_photo">Фото</string>
     <string name="pref_key_photo_word_title">Автовыбор фото контактов</string>
     <string name="pref_key_photo_word_summary">Создание иконки для контактов без фото</string>
-    <string name="remove_duplicate">MIUI поможет вам найти и объединить дублирующиеся контакты, контакты не могут объединиться автоматически, помогите объединить вручную\n\nНажмите объединить, Возможно необходимо немного подождать для автоматического завершения.</string>
+    <string name="remove_duplicate">MIUI поможет вам найти и объединить дублирующиеся контакты. Контакты не могут объединяться автоматически, поэтому их можно объединить вручную.\n\nНажмите \"Оъединить\", и подождите некоторое время для автоматического завершения.</string>
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">Дисплей</string>
     <string name="preference_simple_mode_title">Простой режим</string>
