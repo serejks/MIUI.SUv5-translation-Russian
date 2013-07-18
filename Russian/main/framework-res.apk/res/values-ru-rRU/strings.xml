@@ -936,7 +936,7 @@
     <string name="smv_process">Процесс %1$s нарушил свою политику \"Строгий режим\"</string>
     <string name="android_upgrading_title">Android обновляется…</string>
     <string name="android_upgrading_apk">Оптимизация приложений: %1$d из %2$d.</string>
-    <string name="android_upgrading_starting_apps">Запуск приложений.</string>
+    <string name="android_upgrading_starting_apps">Запуск приложений…</string>
     <string name="android_upgrading_complete">Завершение загрузки.</string>
     <string name="heavy_weight_notification">Приложение \"%1$s\" запущено</string>
     <string name="heavy_weight_notification_detail">Нажмите для выбора приложения</string>
