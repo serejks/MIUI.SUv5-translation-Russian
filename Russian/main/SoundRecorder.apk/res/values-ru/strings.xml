@@ -82,4 +82,9 @@
 	<string name="preference_record_type_title">Тип записи</string>
 	<string name="preference_record_type_dialog_title">Выберите тип записи</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
+	<string name="duration_format_hour">%s ч.</string>
+	<string name="duration_format_minute">%s мин.</string>
+	<string name="duration_format_second">%s сек.</string>
+	<string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимум %2$s вложений записей</string>
+	<string name="message_file_size_error">Запись достигла максимального лимита для поддержки %s</string>
 </resources>

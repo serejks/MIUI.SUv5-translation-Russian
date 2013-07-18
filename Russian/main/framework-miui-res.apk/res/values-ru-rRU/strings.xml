@@ -438,8 +438,8 @@
 	<string name="perm_data_update_lab">Обновление данных</string>
 	<string name="perm_data_update_dspt">Разрешить отправлять отметку об обновлении данных</string>
     <string name="provider_sougou">Поддеоржка Sogou</string>
-    <string name="provider_114">Provided by 114号码百事通</string>
     <string name="device_xiaomi">Телефон MIUI.SU</string>
+	<string name="device_hongmi">Телефон Hongmi</string>
     <string name="miui_device_name">MIUI.SU</string>
     <string name="sim_unavailable">SIM-карта недоступна</string>
     <string name="sim_locked">SIM-карта заблокирована</string>
@@ -450,4 +450,5 @@
     <string name="minutes">%d мин.</string>
     <string name="shutdown_confirm_title">Выключить телефон?</string>
     <string name="reboot_confirm_title">Перезагрузить телефон?</string>
+	<string name="err_resource_leak">\"%1$s\" было останогвлено из-за недостатка ресурсов.</string>
 </resources>
