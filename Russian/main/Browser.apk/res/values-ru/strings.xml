@@ -381,8 +381,8 @@
     <string name="history_track">История</string>
     <string name="history_most_visited">Часто посещаемые</string>
     <string name="history_saved_webpage">Сохраненные страницы</string>
-    <string name="clear_history_group">очистить всю историю</string>
-    <string name="open_history_group_in_new_window">открыть всю историю в новом окне</string>
+    <string name="clear_history_group">очистить всю %s историю</string>
+    <string name="open_history_group_in_new_window">открыть всю %s историю в новом окне</string>
     <string name="open_history_most_visited_group_in_new_window">открыть все часто посещаемые</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Подтвердите удаление всей истории браузера</string>
     <string name="edit">Редактировать</string>
@@ -396,6 +396,8 @@
     <string name="bookmark_add_to">Добавить в</string>
     <string name="add_folder">Добавить папку</string>
     <string name="folder_name">Имя папки</string>
+    <string name="same_folder_name_warning">Папка с таким именем уже существует</string>
+    <string name="same_bookmarks_warning">Закладка с таким именем уже существует</string>
     <string name="have_sent_bookmark_to_home_screen">Отправлена на рабочий стол</string>
     <string name="bookmark_this_page_to_readmodelist">Добавить страницу с список чтения</string>
     <string name="readmodelist_bookmarks_to_show">Список чтения</string>
@@ -503,4 +505,27 @@
     <string name="app_update_install">"Новая версия загружена и готова к установке"</string>
     <string name="app_new_version">"Новая версия загружена и установлена"</string>
     <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
+    <string name="quicklinks_management">Hot Sites</string>
+    <string name="download">Download</string>
+    <string name="loading_rest_candidates">Loading rest candidates</string>
+    <string name="downloading">Downloading</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="disk_space_used">"%1$s использовано"</string>
+    <string name="disk_space_selected">"%1$s  выбрано"</string>
+    <string name="disk_space_available">"%1$s  доступно"</string>
+    <string name="not_enough_disk_space_alert">Нет свободного места</string>
+    <string name="download_video_alert_title">Предупреждение</string>
+    <string name="download_video_alert_message">Загрузка видео через мобильный интернет может повлеч за собой большие затраты трафика, продолжить?</string>
+    <string name="pref_accessibility_url_shortcut_enter_title">"Ввод быстрых URL терминов"</string>
+    <string name="pref_accessibility_url_shortcut_enter_summary">"Быстрая вставка часто используеммых терминов (.com, www.) в адресную строку"</string>
+    <string name="common_use_phrase_bottom_bar_paste_analytic_txt">"Вставить"</string>
+    <string name="common_use_phrase_bottom_bar_up_analytic_txt">"Расширить"</string>
+    <string name="common_use_phrase_bottom_bar_down_analytic_txt">"Убрать"</string>
+    <string name="download_default_path_txt">"Установить путь сохранения по умолчанию и больше не напоминать"</string>
+    <string name="pref_file_download_save_title">"Скачать и сохранить файл"</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">"Сбросить настройки"</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">"Восстановить стандартные настройки для сохранения файлов?"</string>
+    <string name="pref_file_download_save_modify_default_path">"Изменить место хранения"</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed" msgid="156443445797377409">"Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки> Конфиденциальность и безопасность> Очистить доступ к местоположению."</string>
+    <string name="pref_content_homepage" msgid="3324574611613105696">"Установить домашней страницей"</string>
 </resources>
