@@ -310,7 +310,6 @@
     <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
     <string name="geolocation_settings_page_title">Закрыть геоданные</string>
     <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к вашему местоположению</string>
     <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
@@ -524,6 +523,6 @@
     <string name="pref_file_downlaod_save_reset_default_settings">Сбросить настройки</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить стандартные настройки для сохранения файлов?</string>
     <string name="pref_file_download_save_modify_default_path">Изменить место хранения</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки> Конфиденциальность и безопасность> Очистить доступ к местоположению.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки&gt; Конфиденциальность и безопасность&gt; Очистить доступ к местоположению.</string>
     <string name="pref_content_homepage">Сделать стартовой страницей</string>
 </resources>
