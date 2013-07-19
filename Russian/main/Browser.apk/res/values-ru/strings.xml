@@ -123,7 +123,6 @@
     <string name="pref_content_open_in_background">Фоновые вкладки</string>
     <string name="pref_content_plugins">Разрешить плагины</string>
     <string name="pref_content_open_in_background_summary">Открывать новые вкладки позади текущей</string>
-    <string name="pref_content_homepage">Стартовая страница</string>
     <string name="pref_content_search_engine">Поисковая система</string>
     <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
     <string name="pref_set_homepage_to">Сохранить</string>
@@ -499,7 +498,6 @@
     <string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>
     <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены</string>
-    <string name="quicklinks_management">Быстрые закладки</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_complete">"Загрузка завершена"</string>
     <string name="app_update_install">"Новая версия загружена и готова к установке"</string>
@@ -516,16 +514,16 @@
     <string name="not_enough_disk_space_alert">Нет свободного места</string>
     <string name="download_video_alert_title">Предупреждение</string>
     <string name="download_video_alert_message">Загрузка видео через мобильный интернет может повлеч за собой большие затраты трафика, продолжить?</string>
-    <string name="pref_accessibility_url_shortcut_enter_title">"Ввод быстрых URL терминов"</string>
-    <string name="pref_accessibility_url_shortcut_enter_summary">"Быстрая вставка часто используеммых терминов (.com, www.) в адресную строку"</string>
-    <string name="common_use_phrase_bottom_bar_paste_analytic_txt">"Вставить"</string>
-    <string name="common_use_phrase_bottom_bar_up_analytic_txt">"Расширить"</string>
-    <string name="common_use_phrase_bottom_bar_down_analytic_txt">"Убрать"</string>
-    <string name="download_default_path_txt">"Установить путь сохранения по умолчанию и больше не напоминать"</string>
-    <string name="pref_file_download_save_title">"Скачать и сохранить файл"</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">"Сбросить настройки"</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">"Восстановить стандартные настройки для сохранения файлов?"</string>
-    <string name="pref_file_download_save_modify_default_path">"Изменить место хранения"</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed" msgid="156443445797377409">"Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки> Конфиденциальность и безопасность> Очистить доступ к местоположению."</string>
-    <string name="pref_content_homepage" msgid="3324574611613105696">"Установить домашней страницей"</string>
+    <string name="pref_accessibility_url_shortcut_enter_title">Ввод быстрых URL терминов</string>
+    <string name="pref_accessibility_url_shortcut_enter_summary">Быстрая вставка часто используеммых терминов (.com, www.) в адресную строку</string>
+    <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Вставить</string>
+    <string name="common_use_phrase_bottom_bar_up_analytic_txt">Расширить</string>
+    <string name="common_use_phrase_bottom_bar_down_analytic_txt">Убрать</string>
+    <string name="download_default_path_txt">Установить путь сохранения по умолчанию и больше не напоминать</string>
+    <string name="pref_file_download_save_title">Скачать и сохранить файл</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">Сбросить настройки</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить стандартные настройки для сохранения файлов?</string>
+    <string name="pref_file_download_save_modify_default_path">Изменить место хранения</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки> Конфиденциальность и безопасность> Очистить доступ к местоположению.</string>
+    <string name="pref_content_homepage">Сделать стартовой страницей</string>
 </resources>

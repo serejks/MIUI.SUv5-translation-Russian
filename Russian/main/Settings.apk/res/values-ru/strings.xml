@@ -2238,7 +2238,6 @@
     <string name="dolby_preset_rename">Переименовать</string>
     <string name="dolby_preset_format">Настроить %d</string>
     <string name="dolby_preset_hint">Введите имя</string>
-    <string name="dolby_preset_select">Выберите предустановку</string>
     <string name="eq_flat">По умолчанию</string>
     <string name="eq_rock">Рок</string>
     <string name="eq_jazz">Джаз</string>
@@ -2263,7 +2262,7 @@
     <string name="dolby_ieq_open">Открыть</string>
     <string name="dolby_ieq_rich">Глубокий</string>
     <string name="dolby_ieq_focused">Выбранное</string>
-    <string name="dolby_preset_select">"Пожалуйста, выберите интеллектуальный режим эквалайзера."</string>
+    <string name="dolby_preset_select">Выберите интеллектуальный режим эквалайзера.</string>
     <string name="dolby_eq_enter_alert_title">Включен Dolby music</string>
     <string name="dolby_eq_enter_alert_msg">В данном режиме вы можете использовать только эквалайзер. Включить?</string>
     <string name="dolby_volume_leveler">"Уровень звука"</string>
