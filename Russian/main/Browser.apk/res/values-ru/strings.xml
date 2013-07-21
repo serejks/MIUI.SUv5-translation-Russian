@@ -489,9 +489,9 @@
     <string name="file_picker">Обзор</string>
     <string name="file_name">Имя</string>
     <string name="file_dir">Папка</string>
-    <string name="storage_internal">Внутреннее хранилище</string>
+    <string name="storage_internal">Внутренний накопитель</string>
     <string name="storage_sd_card">SD-карта</string>
-    <string name="storage_usb">USB хранилище</string>
+    <string name="storage_usb">USB-накопитель</string>
     <string name="save_dialog_title">Сохранить</string>
     <string name="save_file_already_exist_alert_title">Внимание</string>
     <string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>

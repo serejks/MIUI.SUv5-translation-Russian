@@ -79,7 +79,7 @@
 	<string name="status_forbidden">Передача запрещена на принимающем устройстве.</string>
 	<string name="status_canceled">Передача отменена.</string>
 	<string name="status_file_error">Ошибка хранилища.</string>
-	<string name="status_no_sd_card">Отсутствует USB-хранилище.</string>
+	<string name="status_no_sd_card">Отсутствует USB-накопитель.</string>
 	<string name="status_connection_error">Не удалось установить соединение.</string>
 	<string name="status_protocol_error">Невозможно правильно обработать запрос.</string>
 	<string name="status_unknown_error">Неизвестная ошибка</string>

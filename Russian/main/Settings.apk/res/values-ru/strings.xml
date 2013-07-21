@@ -48,7 +48,7 @@
     <string name="large_font">Большой</string>
     <string name="font_size_preview_text">MIUI. Перевод MIUI.SU</string>
     <string name="font_size_save">ОК</string>
-    <string name="sdcard_setting">USB хранилище</string>
+    <string name="sdcard_setting">USB-накопитель</string>
     <string name="battery_info_status_label">Состояние батареи:</string>
     <string name="battery_info_power_label">Питание:</string>
     <string name="battery_info_scale_label">Шкала батареи:</string>
@@ -1196,7 +1196,7 @@
     <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений.</string>
     <string name="enforce_read_external_title">Защита USB хранилища</string>
     <string name="enforce_read_external_summary">Приложения должны посылать запрос для доступа к USB хранилищу</string>
-    <string name="enforce_read_external_confirm_title">Защитить USB хранилище?</string>
+    <string name="enforce_read_external_confirm_title">Защитить USB-накопитель?</string>
     <string name="enforce_read_external_confirm_message">Когда включена защита USB хранилища, приложения должны запрашивать разрешения на чтение данных\n\nНекоторые приложения могут перестать работать, пока не будут обновлены разработчиками</string>
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="widget_picker_title">Выбор виджета</string>

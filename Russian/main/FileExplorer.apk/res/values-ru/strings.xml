@@ -323,6 +323,6 @@
 2. Обновить (Обновить удаленный файл)"</string>
     <string name="ui_filechange_btn_upload">Загрузка файлов</string>
     <string name="folder_exist">Папка с таким именем уже существует</string> 
-	<string name="unmount_inform_text">USB-хранилище отключено.</string>
-	<string name="dlg_error_unmount_text">Невозможно подключить USB-хранилище. Повторите позже.</string>
+	<string name="unmount_inform_text">USB-накопитель отключено.</string>
+	<string name="dlg_error_unmount_text">Невозможно подключить USB-накопитель. Повторите позже.</string>
 </resources>
