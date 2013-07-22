@@ -527,13 +527,13 @@
     <string name="ota_activate">Активировать</string>
     <string name="ota_title_activate_success">Телефон активирован!</string>
     <string name="ota_title_problem_with_activation">Неполадки при активации</string>
-    <string name="ota_listen">Следуйте голосовым инструкциям, пока вам не сообщат, что активация завершена.</string>
+    <string name="ota_listen">Следуйте голосовым инструкциям, пока Вам не сообщат, что активация завершена.</string>
     <string name="ota_dialpad">Клавиатура</string>
     <string name="ota_speaker">Динамик</string>
     <string name="ota_progress">Дождитесь завершения программирования телефона.</string>
     <string name="ota_failure">Сбой при программировании</string>
     <string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут.</string>
-    <string name="ota_unsuccessful">Телефон не был активирован. \nВозможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки.</string>
+    <string name="ota_unsuccessful">Телефон не был активирован. \nВозможно, Вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки.</string>
     <string name="ota_spc_failure">ПРЕВЫШЕНИЕ ЧИСЛА ОШИБОК SPC</string>
     <string name="ota_call_end">Назад</string>
     <string name="ota_try_again">Повторите попытку</string>
@@ -667,8 +667,8 @@
     <string name="auth_username">Имя пользователя</string>
     <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
     <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
-    <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню.</string>
-    <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже.</string>
+    <string name="respond_via_sms_canned_response_2">Я сейчас Вам перезвоню.</string>
+    <string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже.</string>
     <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
     <string name="respond_via_sms_custom_message">Собственное сообщение…</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
@@ -1087,7 +1087,7 @@
     <string name="delete_all_sim_contacts_miui">Удалить все контакты SIM</string>
     <string name="cdma_three_way_calls_miui">Трехсторонний вызов</string>
     <string name="cdma_conference_call_miui">Конференция</string>
-    <string name="respond_via_sms_canned_response_1_miui">Извините, сейчас я не могу ответить на звонок. Я перезвоню вам позже.</string>
+    <string name="respond_via_sms_canned_response_1_miui">Извините, сейчас я не могу ответить на звонок. Я перезвоню Вам позже.</string>
     <string name="respond_via_sms_canned_response_2_miui">Извините, сейчас я не могу ответить на звонок. Что я могу сделать для вас?</string>
     <string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Перезвоню позже.</string>
     <string name="respond_via_sms_canned_response_4_miui">Не могу сейчас говорить. Что случилось?</string>

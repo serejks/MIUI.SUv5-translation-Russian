@@ -748,7 +748,7 @@
     <string name="pref_key_photo">Фото</string>
     <string name="pref_key_photo_word_title">Автовыбор фото контактов</string>
     <string name="pref_key_photo_word_summary">Создание иконки для контактов без фото</string>
-    <string name="remove_duplicate">MIUI поможет вам найти и объединить дублирующиеся контакты. Контакты не могут объединяться автоматически, поэтому их можно объединить вручную.\n\nНажмите \"Оъединить\", и подождите некоторое время для автоматического завершения.</string>
+    <string name="remove_duplicate">MIUI поможет Вам найти и объединить дублирующиеся контакты. Контакты не могут объединяться автоматически, поэтому их можно объединить вручную.\n\nНажмите \"Оъединить\", и подождите некоторое время для автоматического завершения.</string>
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">Дисплей</string>
     <string name="preference_simple_mode_title">Простой режим</string>

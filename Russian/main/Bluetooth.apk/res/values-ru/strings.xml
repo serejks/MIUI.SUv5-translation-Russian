@@ -17,7 +17,7 @@
 	<string name="bt_enable_cancel">Отмена</string>
 	<string name="bt_enable_ok">Включить</string>
 	<string name="incoming_file_confirm_title">Передача файла</string>
-	<string name="incoming_file_confirm_content">\"%1$s\" отправляет вам файл \"%2$s\" (%3$s). \n\nПринять файл?</string>
+	<string name="incoming_file_confirm_content">\"%1$s\" отправляет Вам файл \"%2$s\" (%3$s). \n\nПринять файл?</string>
 	<string name="incoming_file_confirm_cancel">Отклонить</string>
 	<string name="incoming_file_confirm_ok">Принять</string>
 	<string name="incoming_file_confirm_timeout_ok">ОК</string>

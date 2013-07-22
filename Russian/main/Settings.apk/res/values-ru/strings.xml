@@ -1591,7 +1591,7 @@
     <string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию данных?</string>
     <string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.\n\nНекоторые аккаунты также могут автоматически копировать изменения с телефона в сеть.\n\nДля выбора данных для синхронизации перейдите в Настройки &gt; Аккаунты</string>
     <string name="data_usage_auto_sync_off_dialog_title">Выключить автосинхронизацию данных?</string>
-    <string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но вам придется синхронизировать ваши данные вручную. Вы также не будете получать уведомления об обновлениях.</string>
+    <string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но Вам придется синхронизировать ваши данные вручную. Вы также не будете получать уведомления об обновлениях.</string>
     <string name="data_usage_cycle_editor_title">Удаление статистики</string>
     <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
     <string name="data_usage_cycle_editor_positive">Сохранить</string>

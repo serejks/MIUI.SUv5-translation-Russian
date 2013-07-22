@@ -334,9 +334,9 @@
     <string name="permlab_processOutgoingCalls">Перехват исходящих вызовов</string>
     <string name="permdesc_processOutgoingCalls">Позволяет обрабатывать исходящие вызовы и менять набираемый номер. Вредоносные приложения могут отслеживать, перенаправлять или отменять исходящие звонки.</string>
     <string name="permlab_receiveSms">Получение SMS</string>
-    <string name="permdesc_receiveSms">Позволяет получать и обрабатывать SMS. Вредоносные программы могут отслеживать ваши сообщения или удалять их, не показывая вам.</string>
+    <string name="permdesc_receiveSms">Позволяет получать и обрабатывать SMS. Вредоносные программы могут отслеживать ваши сообщения или удалять их, не показывая Вам.</string>
     <string name="permlab_receiveMms">Получение MMS</string>
-    <string name="permdesc_receiveMms">Позволяет получать и обрабатывать MMS. Вредоносные программы могут отслеживать ваши сообщения или удалять их, не показывая вам.</string>
+    <string name="permdesc_receiveMms">Позволяет получать и обрабатывать MMS. Вредоносные программы могут отслеживать ваши сообщения или удалять их, не показывая Вам.</string>
     <string name="permlab_receiveEmergencyBroadcast">Получать экстренные широковещательные сообщения</string>
     <string name="permdesc_receiveEmergencyBroadcast">Позволяет получать и обрабатывать экстренные широковещательные сообщения. Это разрешение доступно только для системных приложений.</string>
     <string name="permlab_readCellBroadcasts">Отобразить сообщения оператора</string>
@@ -350,7 +350,7 @@
     <string name="permlab_writeSms">Редактирование SMS или MMS</string>
     <string name="permdesc_writeSms">Позволяет изменять SMS или MMS сообщения, сохранённые в смартфоне или на SIM-карте. Вредоносные приложения могут удалять Ваши сообщения.</string>
     <string name="permlab_receiveWapPush">Получение WAP-сообщений</string>
-    <string name="permdesc_receiveWapPush">Позволяет получать и обрабатывать WAP-сообщения. Вредоносные приложения отслеживать Ваши сообщения или удалять их, не показывая вам.</string>
+    <string name="permdesc_receiveWapPush">Позволяет получать и обрабатывать WAP-сообщения. Вредоносные приложения отслеживать Ваши сообщения или удалять их, не показывая Вам.</string>
     <string name="permlab_getTasks">Получение списка запущенных приложений</string>
     <string name="permdesc_getTasks">Позволяет получать информацию о текущих или недавно запущенных задачах. Вредоносные приложения могут получить доступ к закрытой информации о других приложениях.</string>
     <string name="permlab_getDetailedTasks">Получать детали работающих приложений</string>
@@ -1250,11 +1250,11 @@
     <string name="paypopup_cancelled_for_kt">WCDMA соединение отключено. Вы можете изменить настройки \"WCDMA Всегда ВКЛ\" для WCDMA соединения в  Настройка передачи данных.</string>
     <string name="backgroundDataBlock_noti_title">Фоновая передача данных</string>
     <string name="backgroundDataBlock_noti_text">Количество переданных данных превысило установленный лимит, Фоновая передача данных будет отключена.</string>
-    <string name="roaming_alert_context_on">За передачу данных через мобильные сети может взыматься плата в роуминге. Продолжить?</string>
-    <string name="roaming_alert_context_off">За передачу данных через мобильные сети может взыматься плата в роуминге. Разрешить соединение в роуминге?</string>
-    <string name="ps_alert_context">Всегда спрашивать разрешение на использование мобильного соединения. За передачу данных может взыматься плата. Продолжить</string>
+    <string name="roaming_alert_context_on">За передачу данных через мобильные сети может взиматься плата в роуминге. Продолжить?</string>
+    <string name="roaming_alert_context_off">За передачу данных через мобильные сети может взиматься плата в роуминге. Разрешить соединение в роуминге?</string>
+    <string name="ps_alert_context">Всегда спрашивать разрешение на использование мобильного соединения. За передачу данных может взиматься плата. Продолжить</string>
     <string name="always_req_notice">Внимание!</string>
-    <string name="fro_ena_to_ask_popup">Всегда спрашивать разрешение на использование мобильного соединения. За передачу данных может взыматься плата. Продолжить?</string>
+    <string name="fro_ena_to_ask_popup">Всегда спрашивать разрешение на использование мобильного соединения. За передачу данных может взиматься плата. Продолжить?</string>
     <string name="always_allow_popup">Использование сети передачи данных</string>
     <string name="roaming_notallow_bt">Настройки</string>
     <string name="always_ask_on_cancel">Подключение невозможно. Настройте мобильную сеть или WiFi для загрузки</string>
