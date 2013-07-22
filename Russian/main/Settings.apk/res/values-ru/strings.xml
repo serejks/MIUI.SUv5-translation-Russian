@@ -158,11 +158,11 @@
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
-    <string name="headset_settings">"Гарнитура"</string>
-    <string name="headset_function">"Назначение кнопок"</string>
-    <string name="headset_mode_volume">"Регулировка громкости - вверх / вниз"</string>
-    <string name="headset_mode_music">"Воспроизведение музыки - предыдущий / следующий"</string>
-    <string name="headset_calibrate">"Каллибровка кнопок"</string>
+    <string name="headset_settings">Гарнитура</string>
+    <string name="headset_function">Назначение кнопок</string>
+    <string name="headset_mode_volume">Регулировка громкости - вверх/вниз</string>
+    <string name="headset_mode_music">Воспроизведение музыки - предыдущий/следующий</string>
+    <string name="headset_calibrate">Калибровка кнопок</string>
     <string name="headset_calibrate_hint">"Пожалуйста, нажмите верхнюю кнопку"</string>
     <string name="headset_calibrate_success">"Настройки установлены"</string>
     <string name="headset_calibrate_apply">"Использовать"</string>
