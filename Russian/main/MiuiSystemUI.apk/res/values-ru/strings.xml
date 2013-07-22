@@ -262,6 +262,9 @@
     <string name="mdb_entering">Вход</string>
     <string name="status_bar_recording_back">Нажмите, для возврата в Диктофон</string>
     <string name="status_bar_recording_pause">Запись на паузе. Нажмите, для возврата в Диктофон</string>
+    <string name="headset_settings">Наушники подключены</string>
+    <string name="headset_info">Настроить функции кнопок</string>
+    <string name="headset_custom">Настроить</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Входящий вызов</string>
     <string name="notification_vibrate_hint">Уведомление</string>
