@@ -86,7 +86,7 @@
     <string name="reg_success">Регистрация завершена</string>
     <string name="reg_success_summary">Номер вашего телефона %1$s уже привязан к аккаунту MiLock где вы можете использовать его, чтобы войти в систему и получить пароль.</string>
     <string name="sync_on">ВКЛ</string>
-    <string name="sync_off">ОТКЛ</string>
+    <string name="sync_off">ВЫКЛ</string>
     <string name="btn_activate">Активировать</string>
     <string name="no_sim">Отсутствует SIM карта. Сервис недоступен</string>
     <string name="sim_changed_notification_content">SIM карта не активна, активируйте заново</string>

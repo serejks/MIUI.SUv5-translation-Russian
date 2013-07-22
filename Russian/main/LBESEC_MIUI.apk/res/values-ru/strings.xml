@@ -18,7 +18,7 @@
     <string name="Generic_Service_Enabled">Служба включена</string>
     <string name="Generic_Service_Disabled">Служба отключена</string>
     <string name="Generic_Summary_Enabled">Вкл</string>
-    <string name="Generic_Summary_Disabled">Откл</string>
+    <string name="Generic_Summary_Disabled">Выкл</string>
     <string name="Generic_Enable">Включено</string>
     <string name="Generic_Disable">Отключено</string>
     <string name="Generic_Optimize">Оптимизировать</string>

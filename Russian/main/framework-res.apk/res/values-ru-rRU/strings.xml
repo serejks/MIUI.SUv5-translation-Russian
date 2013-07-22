@@ -909,7 +909,7 @@
     <string name="low_internal_storage_view_text">Внутренней памяти телефона становится всё меньше и меньше.</string>
     <string name="loading">Загрузка…</string>
     <string name="capital_on">ВКЛ</string>
-    <string name="capital_off">ОТКЛ</string>
+    <string name="capital_off">ВЫКЛ</string>
     <string name="whichApplication">Открыть с помощью</string>
     <string name="alwaysUse">Исп. по умолчанию для этого действия.</string>
     <string name="clearDefaultHintMsg">Настроить заново можно перейдя в Настройки &gt; Приложения &gt; Управление приложениями.</string>

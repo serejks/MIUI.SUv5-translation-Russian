@@ -697,7 +697,7 @@
     <string name="screensaver_component_title">Заставка</string>
     <string name="screensaver_timeout_title">Время до активации</string>
     <string name="screensaver_timeout_summary">%1$s</string>
-    <string name="screensaver_timeout_zero_summary">Откл</string>
+    <string name="screensaver_timeout_zero_summary">Выкл</string>
     <string name="screensaver_test">Попробовать</string>
     <string name="screensaver_activate_on_dock_title">Вкл. в док-станции</string>
     <string name="automatic_brightness">Автонастройка</string>
@@ -1459,7 +1459,7 @@
     <string name="add_account_label">Добавить аккаунт</string>
     <string name="background_data">Фоновый режим</string>
     <string name="background_data_summary">Синхронизация, отправка и получение данных доступны всегда</string>
-    <string name="background_data_dialog_title">Откл. фоновый режим?</string>
+    <string name="background_data_dialog_title">Выкл. фоновый режим?</string>
     <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
     <string name="sync_automatically">Cинхронизировать данные приложений</string>
     <string name="sync_enabled">Синхронизация включена</string>
@@ -1745,7 +1745,7 @@
     <string name="perm_service_enabled">Сервис активен</string>
     <string name="perm_service_disabled">Сервис не активен</string>
     <string name="perm_summary_enabled">Вкл</string>
-    <string name="perm_summary_disabled">Откл</string>
+    <string name="perm_summary_disabled">Выкл</string>
     <string name="perm_enable">Включить</string>
     <string name="perm_disable">Выключить</string>
     <string name="perm_optimize">Оптимизировать</string>
@@ -1925,7 +1925,7 @@
     <string name="search_wallpaper">Обои</string>
     <string name="search_launcher">Лаунчер</string>
     <string name="search_accelerometer">Акселерометр</string>
-    <string name="search_screen_timeout">Откл. экрана</string>
+    <string name="search_screen_timeout">Выкл. экрана</string>
     <string name="search_ring_volume">Громкость звонка</string>
     <string name="search_ringtone">Рингтон</string>
     <string name="search_sms_received">Получение SMS</string>
@@ -2003,7 +2003,7 @@
     <string name="back_long_press_timeout">Время задержки</string>
     <string name="enable_snapshot_screenlock">Фото на экране блокировки</string>
     <string name="power_key">Клавиша питания</string>
-    <string name="disable_power_key_long_press_under_keyguard">Откл. на экране блокировки</string>
+    <string name="disable_power_key_long_press_under_keyguard">Выкл. на экране блокировки</string>
     <string name="media_button">Клавиша медиа</string>
     <string name="preferred_media_app_summary">Выберите музыкальный плеер</string>
     <string name="no_media_button_receiver">Нет</string>
@@ -2203,7 +2203,7 @@
     <string name="virus_scan_app_no_risk">Угроз не найдено</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
     <string name="title_dolby_control">Настройки Dolby Mobile</string>
-    <string name="dolby_mode_off">Откл</string>
+    <string name="dolby_mode_off">Выкл</string>
     <string name="dolby_mode_music">Музыка</string>
     <string name="dolby_mode_movie">Фильм</string>
     <string name="dolby_effects">Эффекты Dolby</string>
@@ -2258,7 +2258,7 @@
     <string name="preset_format">Настроить %d</string>
     <string name="preset_hint">Введите имя</string>
     <string name="preset_select">Выберите предустановку</string>
-    <string name="dolby_ieq_flat">Откл.</string>
+    <string name="dolby_ieq_flat">Выкл</string>
     <string name="dolby_ieq_open">Открыть</string>
     <string name="dolby_ieq_rich">Глубокий</string>
     <string name="dolby_ieq_focused">Выбранное</string>

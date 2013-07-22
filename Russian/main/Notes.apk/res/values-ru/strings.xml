@@ -9,7 +9,7 @@
 	<string name="note_alert_expired">Просрочено</string>
 	<string name="format_date_ymd">ddMMyyyy</string>
 	<string name="format_datetime_mdhm">dMMM kk:mm</string>
-	<string name="notealert_ok">Откл. сигнал</string>
+	<string name="notealert_ok">Выкл. сигнал</string>
 	<string name="notealert_enter">Просмотреть</string>
 	<string name="file_path">/MIUI/notes/</string>
 	<string name="file_name_txt_format">notes_%s.txt</string>

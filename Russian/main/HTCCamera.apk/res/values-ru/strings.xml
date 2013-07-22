@@ -41,7 +41,7 @@
     <string name="dialog_button_delete">Удалить</string>
     <string name="auto">Авто</string>
     <string name="on_capital">Вкл</string>
-    <string name="off_capital">Откл</string>
+    <string name="off_capital">Выкл</string>
     <string name="time_2_seconds">2 секунды</string>
     <string name="time_3_seconds">3 секунды</string>
     <string name="time_5_seconds">5 секунд</string>
@@ -71,7 +71,7 @@
     <string name="wb_cloudy">Облачно</string>
     <string name="review_duration">Контроль длительности</string>
     <string name="file_format">Формат файла</string>
-    <string name="camera_switch">ВКЛ/ОТКЛ камеры</string>
+    <string name="camera_switch">ВКЛ/ВЫКЛ камеры</string>
     <string name="camera_3D_status">состояние 3D режима</string>
     <string name="front_camera_mode">Режим зеркала</string>
     <string name="quality">Качество</string>
@@ -104,7 +104,7 @@
     <string name="smile_capture">Распознавание улыбки</string>
     <string name="blink_detection">Распознование моргания</string>
     <string name="auto_upload">Автозагрузка</string>
-    <string name="auto_upload_service">ОТКЛ</string>
+    <string name="auto_upload_service">ВЫКЛ</string>
     <string name="set_default">Сброс к начальным настройкам</string>
     <string name="switch_main">Основной</string>
     <string name="switch_secondary">Вторичный</string>
@@ -230,7 +230,7 @@
     <string name="doubleshot_main_bar_front">Вперед</string>
     <string name="doubleshot_main_bar_flash_auto">Авто</string>
     <string name="doubleshot_main_bar_flash_on">ВКЛ</string>
-    <string name="doubleshot_main_bar_flash_off">ОТКЛ</string>
+    <string name="doubleshot_main_bar_flash_off">ВЫКЛ</string>
     <string name="doubleshot_main_bar_scene_auto">Авто</string>
     <string name="doubleshot_main_bar_scene_portrait">Портрет</string>
     <string name="doubleshot_main_bar_scene_night">Ночь</string>

@@ -21,7 +21,7 @@
     <string name="pref_traffic_daily_limit_settings">Настройки дневного лимита</string>
     <string name="pref_connect_settings_title">Настройки приложения Монитор</string>
     <string name="pref_connect_settings_notify_in_statusbar">Иконка в панели уведомлений</string>
-    <string name="pref_connect_settings_exceed_limit">Откл.интернет при дост.порога</string>
+    <string name="pref_connect_settings_exceed_limit">Выкл.интернет при дост.порога</string>
     <string name="pref_connect_settings_exceed_limit_hint">Уведомить и отключить передачу данных при достижении порога</string>
     <string name="pref_connect_settings_enable_backgroung">Включить фоновые службы</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Разрешить подключение к сети приложениям в фоне</string>
@@ -139,7 +139,7 @@
     <string name="menu_sort_by_name">Сорт. по имени</string>
     <string name="menu_sort_by_mobile_traffic">Сорт. по 2G/3G траффику</string>
     <string name="menu_sort_by_all_traffic">Сорт. по общему траффику</string>
-    <string name="menu_sort_by_disabled">Сорт. по откл. приложениям</string>
+    <string name="menu_sort_by_disabled">Сорт. по выкл. приложениям</string>
     <string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить?</string>
     <string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить?</string>
     <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти?</string>

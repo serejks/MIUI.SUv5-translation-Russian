@@ -141,7 +141,7 @@
         <item>GTC</item>
   </string-array>
   <string-array name="wifi_network_setup">
-        <item>Откл</item>
+        <item>Выкл</item>
         <item>Push-кнопка</item>
         <item>PIN-код точки доступа</item>
         <item>PIN-код этого устройства</item>
@@ -155,7 +155,7 @@
         <item>Вручную</item>
   </string-array>
   <string-array name="emergency_tone_entries">
-        <item>Откл</item>
+        <item>Выкл</item>
         <item>Оповещение</item>
         <item>Виброзвонок</item>
   </string-array>
@@ -176,7 +176,7 @@
         <item>На усмотрение системы</item>
   </string-array>
   <string-array name="silent_mode_entries">
-        <item>Откл</item>
+        <item>Выкл</item>
         <item>Вибросигнал</item>
         <item>Вкл.</item>
   </string-array>
