@@ -21,7 +21,7 @@
 	<string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
 	<string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
 	<string name="theme_component_title_lockwallpaper">Обои блокир-ки</string>
-	<string name="theme_component_title_miwallpaper">Обои</string>
+	<string name="theme_component_title_miwallpaper">Mi обои</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_boot_animation">Анимация загрузки</string>
 	<string name="theme_component_title_boot_audio">Звук загрузки</string>
@@ -49,7 +49,7 @@
 	<string name="wallpaper_settings">Настройки обоев</string>
 	<string name="desktop_wallpaper">Рабочий стол</string>
 	<string name="live_wallpaper">Живые обои</string>
-	<string name="mi_wallpaper">Обои</string>
+	<string name="mi_wallpaper">Mi обои</string>
 	<string name="lockscreen_wallpaper">Экран блокировки</string>
 	<string name="change_wallpaper">Обои</string>
 	<string name="component_settings_title">Настройка тем</string>

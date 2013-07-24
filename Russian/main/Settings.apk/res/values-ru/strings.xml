@@ -2126,7 +2126,7 @@
     <string name="remove_from_frequently_fragment">Удалить \"%s\" из Общих Настроек?</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
     <string name="frequently_fragment_delete">Удалить</string>
-    <string name="show_fc">Показывать критические ошибки</string>
+    <string name="show_fc">Показ. критические ошибки</string>
     <string name="show_fc_summary">Показать информацию о критически закрытых приложениях</string>
     <string name="factory_reset_summary">Вы можете удалить личные данные или удалить установленные программы и отформатировать устройство, чтобы вернуться к заводским установкам</string>
     <string name="erase_sure">Удалить</string>
@@ -2262,7 +2262,7 @@
     <string name="dolby_ieq_open">Открыть</string>
     <string name="dolby_ieq_rich">Глубокий</string>
     <string name="dolby_ieq_focused">Выбранное</string>
-    <string name="dolby_preset_select">Выберите интеллектуальный режим эквалайзера.</string>
+    <string name="dolby_preset_select">Выберите интеллектуальный режим эквалайзера</string>
     <string name="dolby_eq_enter_alert_title">Включен Dolby music</string>
     <string name="dolby_eq_enter_alert_msg">В данном режиме вы можете использовать только эквалайзер. Включить?</string>
     <string name="dolby_volume_leveler">"Уровень звука"</string>
