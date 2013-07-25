@@ -802,6 +802,7 @@
     <string name="contact_unfavorite_toast">Контакт удален из избранных</string>
     <string name="group_member_remove_toast">Контакт удален из группы</string>
     <string name="contact_delete_toast">Контакт удален</string>
+	<string name="duplicate_group_name">Группа уже существует</string>
     <string name="all_list_empty">Нет контактов</string>
     <string name="favorites_list_empty">Нет избранных</string>
     <string name="groups_list_empty">Нет групп</string>

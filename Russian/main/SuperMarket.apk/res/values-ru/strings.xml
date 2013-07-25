@@ -32,6 +32,8 @@
     <string name="login_ok">Вход</string>
     <string name="login_active">Активир.</string>
     <string name="pref_title_auto_update_setting">Настройки автообновления</string>
+	<string name="pref_title_auto_update_via_wifi">Автообновление через Wi-Fi</string>
+    <string name="pref_title_auto_update_via_wifi_checkbox">Автообновление</string>
     <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
     <string name="pref_title_data_save_mode">Показывать изображения</string>
     <string name="pref_title_clear_search_record">Очистить историю поиска</string>
@@ -50,6 +52,7 @@
     <string name="clear_search_record_message">Очистить историю поиска?</string>
     <string name="result_of_clear_history">История очищена</string>
     <string name="pref_title_silent_install">Тихая установка</string>
+	<string name="pref_summary_auto_update_via_wifi">Автообновление через Wi-Fi при выключенном экране.</string>
     <string name="app_comments_title">%1$s коментариев к приложению</string>
     <string name="edit_comment_title">%1$s добавить коментарий</string>
     <string name="app_comments">Коментарии к приложению</string>
@@ -160,6 +163,12 @@
     <string name="notif_install_successful_default">%1$s установлено</string>
     <string name="notif_delta_update_successful">Дельта обновление завершено, сохранение %1$s. Нажмите для запуска.</string>
     <string name="notif_install_failed">%1$s ошибка установки</string>
+	<string name="notif_auto_update_via_wifi">Обновлено: %1$s</string>
+    <string name="notif_auto_update_successfull">Выполняется втоматическое обновление приложения: %1$s.</string>
+    <string name="notif_auto_update_failed">Several apps auto upgrade failed.</string>
+    <string name="notif_summary_auto_update_successful">Обновлено: %1$s.</string>
+    <string name="notif_summary_auto_update_failed">Нажмите для продолжения.</string>
+    <string name="notif_description_from_market">Через Xiaomi market</string>
     <string name="share_subject">Отправить приложение: %1$s</string>
     <string name="share_text">Вам возможно понравятся приложения: %1$s,! Ссылка: %2$s</string>
     <string name="already_bottom">Конец</string>
@@ -167,7 +176,8 @@
     <string name="install_no_network_description">Сеть недоступна, повторите позже</string>
     <string name="install_on_data_description">Загрузка без Wi-Fi может повлечь расходы, продолжить установку %1$s и %2$s?</string>
     <string name="install_only_on_wifi_description">Вы выбрали "Только Wi-Fi", поэтому загрузка не может начаться. Для загрузки отключите эту опцию.</string>
-    <string name="install_all_description">Установить %1$s и %2$s?</string>
+    <string name="install_all_description">Обновить %1$s и %2$s?</string>
+	<string name="install_all_title">Установить все приложения </string>
     <string name="install_btn_cancel">Отмена</string>
     <string name="install_btn_continue">Продолжить</string>
     <string name="install_btn_ok">OK</string>

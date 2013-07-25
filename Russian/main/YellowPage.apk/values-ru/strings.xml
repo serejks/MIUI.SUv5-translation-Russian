@@ -27,6 +27,8 @@
     <string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
     <string name="confirm_delete_call_log_title">Удалить из журнала вызовов?</string>
     <string name="confirm_delete_all_call_log_title">Очистить журнал вызовов?</string>
+	<string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
+    <string name="contact_detail_calllog_call_note_tips">Заметка</string>
     <string name="menu_delete_call_log">Очистить журнал</string>
     <string name="menu_add_black_list">Добавить в черный список</string>
     <string name="menu_about_yellow_page">Информация о странице</string>
