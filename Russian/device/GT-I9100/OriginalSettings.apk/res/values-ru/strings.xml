@@ -446,7 +446,7 @@
     <string name="wifi_wapi_fail_to_init">"Ошибка открытия сертификатов WAPI
 Возможно, хранилище не активировано"</string>
     <string name="wifi_wapi_fail_to_auth">"Ошибка WAPI аутентификации
-Пожалуйста, проверьте подлинность сертификатов"</string>
+Проверьте подлинность сертификатов"</string>
     <string name="wifi_notify_open_networks">Уведомляь о новых сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_enable_watchdog_service">Игнорировать сети с плохим сигналом</string>

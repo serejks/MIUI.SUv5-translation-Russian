@@ -203,7 +203,7 @@
     <string name="toast_file_not_can_read">Невозможно прочитать файл</string>
 	<string name="ui_main_menu_option_sign_in">Войти</string>
     <string name="sign_description">Подключение···</string>
-    <string name="signin_error">Нет подключения к сети, пожалйста попробуйте позже :)</string>
+    <string name="signin_error">Нет подключения к сети, попробуйте позже :)</string>
     <string name="signin_success">Вход успешно выполнен！\n Получить свободное место %1$s</string>
     <string name="already_signin_description">Подключение доступно только раз в день, попробуйте завтра :)</string>
     <string name="pull_to_signin">Сдвиньте вниз, чтобы войти в систему и получить свободное место</string>

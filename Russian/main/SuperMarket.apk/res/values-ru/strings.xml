@@ -165,7 +165,7 @@
     <string name="notif_install_failed">%1$s ошибка установки</string>
 	<string name="notif_auto_update_via_wifi">Обновлено: %1$s</string>
     <string name="notif_auto_update_successfull">Выполняется втоматическое обновление приложения: %1$s.</string>
-    <string name="notif_auto_update_failed">Several apps auto upgrade failed.</string>
+    <string name="notif_auto_update_failed">Автоматическое обновление приложений не удалось.</string>
     <string name="notif_summary_auto_update_successful">Обновлено: %1$s.</string>
     <string name="notif_summary_auto_update_failed">Нажмите для продолжения.</string>
     <string name="notif_description_from_market">Через Xiaomi market</string>
@@ -204,7 +204,7 @@
     <string name="comment_upload_login_cancel">Отмена</string>
     <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Активировать?</string>
     <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Активируйте и попробуйте еще раз</string>
-    <string name="comment_invalid">Пожалуйста коснитесь звезд, чтобы дать оценку</string>
+    <string name="comment_invalid">Коснитесь звезд, чтобы дать оценку</string>
     <string name="comment_version_name">(%1$s версия)</string>
     <string name="comment_cannot_comment">Используйте приложение, и вы сможете комментирования.</string>
     <string name="account">Аккаунт</string>

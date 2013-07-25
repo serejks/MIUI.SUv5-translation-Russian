@@ -33,7 +33,7 @@
     <string name="micloud_account">Аккаунт Xiaomi</string>
     <string name="micloud_activing_account">Активация аккаунта…</string>
     <string name="micloud_activing_account_delayed">"Активация может занять некоторое время
-Пожалуйста подождите..."</string>
+Пожалуйста подождите…"</string>
     <string name="micloud_activing_account_failed">Ошибка активации</string>
     <string name="micloud_activating_account_notify_title">Активация аккаунта...</string>
     <string name="micloud_activate_account_success_notify_title">Активация завершена</string>
@@ -82,7 +82,7 @@
     <string name="send_int_sms_for_sync_notice">Отправка SMS, которая будет оплачиваться в связи с тарифами вашего оператора, необходима для активации аккаунта. Вы хотите продолжить?</string>
     <string name="failed_to_send_activate_email">Сбой при отправке активационного письма</string>
     <string name="access_denied">Доступ запрещен</string>
-    <string name="reging">Регистрация. Пожалуйста подождите...</string>
+    <string name="reging">Регистрация. Подождите…</string>
     <string name="reg_success">Регистрация завершена</string>
     <string name="reg_success_summary">Номер вашего телефона %1$s уже привязан к аккаунту MiLock где вы можете использовать его, чтобы войти в систему и получить пароль.</string>
     <string name="sync_on">ВКЛ</string>
@@ -135,7 +135,7 @@
     <string name="password_hint">Введите пароль от аккаунта Xiaomi:</string>
     <string name="password_error">Введите пароль от Вашего аккаунта</string>
     <string name="progress_creating">Получаю информацию о заказе…</string>
-    <string name="progress_loading">Обрабатываю, пожалуйста подождите…</string>
+    <string name="progress_loading">Обрабатываю, подождите…</string>
     <string name="progress_connecting">Соединение…</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_retry">Повтор</string>
@@ -158,19 +158,19 @@
 	<string name="my_mili_record">Мой MiCredit</string>
     <string name="error_mili_title">Недостаточно средств</string>
     <string name="error_network_title">Ошибка сети</string>
-    <string name="error_network_summary">Невозможно подключиться. Пожалуйста, проверьте соединение</string>
+    <string name="error_network_summary">Невозможно подключиться. Проверьте соединение</string>
     <string name="error_auth_title">Ошибка аккаунта</string>
-    <string name="error_auth_summary">Ошибка входа в аккаунт. Пожалуйста, войдите заново</string>
+    <string name="error_auth_summary">Ошибка входа в аккаунт. Войдите заново</string>
     <string name="error_has_bought_title">Повторить покупку</string>
     <string name="error_has_bought_summary">Вы уже приобрели этот продукт</string>
     <string name="error_server_title">Ошибка сервера</string>
-    <string name="error_server_summary">Ошибка сервера. Пожалуйста, попробуйте позже</string>
+    <string name="error_server_summary">Ошибка сервера. Попробуйте позже</string>
     <string name="error_common_title">Системная ошибка</string>
-    <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуйте позже</string>
+    <string name="error_common_summary">Системная ошибка. Попробуйте позже</string>
     <string name="error_user_id_mismatch_title">Ошибка аккаунта</string>
     <string name="error_user_id_mismatch_summary">Проверьте данные и войдите в аккаунт снова</string>
     <string name="error_illegal_order_title">Ошибка заказа</string>
-    <string name="error_illegal_order_summary">Ошибка заказа. Пожалуйста, попробуйте позже</string>
+    <string name="error_illegal_order_summary">Ошибка заказа. Попробуйте позже</string>
     <string name="error_verify_summary">У вашего приложения не хватает прав для доступа к службе</string>
     <string name="error_expired_summary">Время ожидания вышло</string>
     <string name="error_frozen_title">Аккаунт заблокирован!</string>
@@ -206,7 +206,7 @@
     <string name="recharge_grid_picker_hint">Укажите сумму Mi Credit для зачисления</string>
     <string name="recharge_grid_edit_hint">Сумма зачисления (RMB)</string>
     <string name="recharge_grid_edit_limit">Меньше %1$s</string>
-	<string name="recharge_grid_error_denomination">Пожалуйста, введите корректную сумму для зачисления</string>
+	<string name="recharge_grid_error_denomination">Введите корректную сумму для зачисления</string>
     <string name="paytool_error_install">Не удалось завершить установку плагина безопасности Alipay</string>
     <string name="paytool_error_msp">Не удалось пополнить счёт с помощью Alipay</string>
     <string name="paytool_msp_not_installed">Не установлен плагин безопасности Alipay, установить сейчас?</string>
@@ -270,7 +270,7 @@
     <string name="progress_error_recharge_title">Не удалось пополнить счёт</string>
     <string name="progress_error_pay_title">Оплата не выполнена</string> 
     <string name="progress_warning_waiting">Все еще не отображается. Повторите позже.</string>
-    <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
+    <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
 	<string name="progress_warning_check">Платеж все еще не подтвержден \nМы проверим ваш запрос в течение двух рабочих дней</string>
     <string name="btn_back">Назад</string>
     <string name="btn_recharge_other">Пополнить</string>
@@ -301,8 +301,8 @@
     <string name="update_contacts_description">Синхронизация информации о Ваших друзьях в микроблоге Sina WeiBo, например аватара, дня рождения и др., с контактами в телефоне. Для синхронизации будет использован Ваш аккаунт Xiaomi</string>
     <string name="updated_contacts">Обновлено контактов: %s</string>
     <string name="process_result">Результат процесса:</string>
-    <string name="access_token_expired_warning">Время подключения аккаунта Weibo истекло, пожалуйста перезайдите.</string>
-    <string name="access_token_invalid_warning">Ошибка подключения аккаунта Weibo, пожалуйста перезайдите</string>
+    <string name="access_token_expired_warning">Время подключения аккаунта Weibo истекло, перезайдите.</string>
+    <string name="access_token_invalid_warning">Ошибка подключения аккаунта Weibo, перезайдите</string>
     <string name="service_error">Ошибка сервиса</string>
     <string name="enable_micloud">Включить облачные сервисы</string>
     <string name="micloud_summary">Подключиться к аккаунту Xiaomi для синхронизации контактов, фотографий и других функций.</string>

@@ -163,7 +163,7 @@
     <string name="headset_mode_volume">Регулировка громкости - вверх/вниз</string>
     <string name="headset_mode_music">Воспроизведение музыки - предыдущий/следующий</string>
     <string name="headset_calibrate">Калибровка кнопок</string>
-    <string name="headset_calibrate_hint">"Пожалуйста, нажмите верхнюю кнопку"</string>
+    <string name="headset_calibrate_hint">"Нажмите верхнюю кнопку"</string>
     <string name="headset_calibrate_success">"Настройки установлены"</string>
     <string name="headset_calibrate_apply">"Использовать"</string>
     <string name="headset_calibrate_volume_up">"Прибавить громкость"</string>
@@ -1876,7 +1876,7 @@
     <string name="perm_su_disabled">Права ROOT отключены</string>
     <string name="perm_su_disabled_desc">Предоставление прав ROOT сторонним приложениям может привести к нестабильности системы, потере личных данных и повреждению устройства. Убедитесь, что вы знаете про ROOT разрешения.</string>
     <string name="perm_su_disabled_in_stable">Права ROOT недоступны в MIUI Stable</string>
-    <string name="perm_su_disabled_in_stable_desc">Предоставление прав ROOT сторонним приложениям может привести к нестабильности системы, потере личных данных и повреждению устройства.\n\nПожалуйста включите версию MIUI для разработчиков для получения прав ROOT.</string>
+    <string name="perm_su_disabled_in_stable_desc">Предоставление прав ROOT сторонним приложениям может привести к нестабильности системы, потере личных данных и повреждению устройства.\n\nВключите версию MIUI для разработчиков для получения прав ROOT.</string>
     <string name="perm_su_disabled_in_stable_download">Скачать MIUI</string>
     <string name="perm_hips_switch">Контроль разрешений</string>
     <string name="perm_hips">Управление разрешениями приложений</string>
@@ -1891,7 +1891,7 @@
     <string name="perm_hips_disable_title">Контроль разрешений</string>
     <string name="perm_hips_disable_content">При отключении этой функции MIUI прекратит контролировать запросы приложений и сохранять вашу безопасность и конфиденциальность.\nОтключить ее?</string>
     <string name="perm_su_enable_title">Права ROOT</string>
-    <string name="perm_su_enable_content">Включение этой функции позволит приложениям запрашивать права ROOT.\nВнимание: Приложения с правами ROOT могут привести к нестабильности системы, потере личных данных и повреждению устройства, пожалуйста будьте осторожны. Включить ее?</string>
+    <string name="perm_su_enable_content">Включение этой функции позволит приложениям запрашивать права ROOT.\nВнимание: Приложения с правами ROOT могут привести к нестабильности системы, потере личных данных и повреждению устройства, будьте осторожны. Включить ее?</string>
     <string name="perm_log_clear_title">Очистить журнал</string>
     <string name="perm_log_clear_content">Очистить журанал?</string>
     <string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
@@ -2085,7 +2085,7 @@
     <string name="vibrate_category_title">Вибрация</string>
     <string name="vibrate_in_normal_title">В обычном режиме</string>
     <string name="wifi_wapi_fail_to_init">Невозможно открыть WAPI сертификаты\nВозможно хранилища учетных данных не активированы.</string>
-    <string name="wifi_wapi_fail_to_auth">Ошибка аутентификации WAPI\nПожалуйста, проверьте сертификаты.</string>
+    <string name="wifi_wapi_fail_to_auth">Ошибка аутентификации WAPI\nПроверьте сертификаты.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
@@ -2292,7 +2292,7 @@
     <string name="msd_install_next">Далее</string>
     <string name="msd_install">Переустановка драйвера</string>
     <string name="msd_install_finish">OK</string>
-    <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, \nпожалуйста, следуйте его указаниям до окончания установки</string>
+    <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, \nследуйте его указаниям до окончания установки</string>
     <string name="msd_install_retry_windows_xp">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
     <string name="msd_install_retry_windows_vista">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
     <string name="msd_install_retry_mac">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nПроизведите поиск на ПК по словам\nAndroid File Transfer,\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
@@ -2371,12 +2371,12 @@
     <string name="brightness_auto_adjust_on">Эффект \"Автояркость\" можно регулировать перемещая ползунок. Яркость экрана будет меняться в зависимости от вашей настройки и внешних условий.</string>
     <string name="mdb_restore_label">Mdb восстановление</string>
     <string name="mdb_restore_info1">Будут всстановлены данные вашего телефона</string>
-    <string name="mdb_restore_info2">Пожалуйста не отключайте USB</string>
+    <string name="mdb_restore_info2">Не отключайте USB</string>
     <string name="mdb_restore_cancel">Отмена</string>
     <string name="mdb_usb_disconnection_exit">USB отключен, восстановление прервано</string>
     <string name="mdb_restore_mode">Режим восстановления</string>
     <string name="mdb_entering">Вход</string>
-    <string name="private_sms_need_to_unlock">Пожалуйста, введите личный пароль из SMS</string>
+    <string name="private_sms_need_to_unlock">Введите личный пароль из SMS</string>
     <string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для сброса SMS пароля</string>
     <string name="private_sms_recording_intro_header">Нарисуйте узор для создания графического пароля</string>
     <string name="dirac_control">Управление Dirac</string>
