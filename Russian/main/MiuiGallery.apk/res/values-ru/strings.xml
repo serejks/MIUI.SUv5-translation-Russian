@@ -247,7 +247,7 @@
     <string name="album_share_subtitle_not_ready">Информация об альбоме не загружена. Нажмите для загрузки.</string>
     <string name="album_share_subtitle_requesting">Загрузка информации об альбоме...</string>
     <string name="album_share_subtitle_invited">Автор: %1$s, Принять или игнорировать?</string>
-    <string name="album_share_subtitle_normal">Автор :%1$s</xliff:g></string>
+    <string name="album_share_subtitle_normal">Автор :%1$s</string>
     <string name="album_share_subtitle_accepting">Принимается приглашение от %1$s...</string>
     <string name="album_share_subtitle_denying">Отменяется приглашение от %1$s...</string>
     <string name="album_share_subtitle_quitting">Удаляется приглашение от %1$s...</string>
