@@ -492,7 +492,7 @@
     <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">[Создать новую группу]</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
-    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? Обратите внимание: при удалении группы контакты удалены не будут.</string>
+    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (При удалении группы контакты удалены не будут.)</string>
     <string name="toast_join_with_empty_contact">Введите имя контакта перед тем, как объединять его с другим.</string>
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>

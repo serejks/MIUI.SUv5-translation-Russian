@@ -405,7 +405,7 @@
     <string name="bluetooth_search_for_devices">Поиск устройств</string>
     <string name="bluetooth_searching_for_devices">Поиск…</string>
     <string name="bluetooth_preference_device_settings">Настройки устройства</string>
-    <string name="bluetooth_preference_paired_devices">Подключенные устройства</string>
+    <string name="bluetooth_preference_paired_devices">Сопряженные устройства</string>
     <string name="bluetooth_preference_found_devices">Список</string>
     <string name="bluetooth_device_context_connect">Подключить</string>
     <string name="bluetooth_device_context_disconnect">Отключить</string>

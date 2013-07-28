@@ -1070,8 +1070,8 @@
     <string name="ime_action_done">Готово</string>
     <string name="ime_action_previous">Пред.</string>
     <string name="ime_action_default">Выполнить</string>
-    <string name="managed_roaming_title">Managed Roaming</string>
-    <string name="managed_roaming_dialog_content">Найдена сеть с ограниченной служба. Вы хотите, чтобы начать поиск сети?</string>
+    <string name="managed_roaming_title">Управление сетью</string>
+    <string name="managed_roaming_dialog_content">Не удалось найти сеть автоматически. Вы хотите выбрать оператора вручную?</string>
     <string name="managed_roaming_dialog_ok_button">Да</string>
     <string name="managed_roaming_dialog_cancel_button">Нет</string>
     <string name="dial_number_using">Набрать номер\n\"%s\"</string>
