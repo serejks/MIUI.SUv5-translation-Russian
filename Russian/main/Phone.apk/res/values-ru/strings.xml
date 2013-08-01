@@ -6,6 +6,7 @@
     <string name="fdnListLabel">Разрешенные номера</string>
     <string name="unknown">Неизвестный абонент</string>
     <string name="private_num">Скрытый номер</string>
+	<string name="proceed">Продолжить</string>
     <string name="payphone">Телефон-автомат</string>
     <string name="onHold">Ждет ответа</string>
     <string name="ongoing">Текущий вызов</string>
@@ -47,6 +48,7 @@
     <string name="call_lost_title">Вызов пропущен</string>
     <string name="ok">ОК</string>
     <string name="mmiStarted">Код MMI запущен</string>
+	<string name="mobile_network_setting">Настройки мобильной сети</string>
     <string name="ussdRunning">Выполняется запрос USSD…</string>
     <string name="mmiCancelled">Код MMI отменен</string>
     <string name="cancel">Отмена</string>
@@ -149,6 +151,8 @@
     <string name="close_dialog">ОК</string>
     <string name="enable">Включить</string>
     <string name="disable">Отключить</string>
+	<string name="enable_antispam_strange_summary">>Не уведомлять о первом входящем вызове от неизвестного номера.</string>
+	<string name="enable_antispam_strange_title">Антиспам вызовов</string>
     <string name="change_num">Обновить</string>
     <string name="vm_save_number">Сохранить номер голосовой почты</string>
     <string name="vm_changed">Номер голосовой почты изменен.</string>
@@ -244,6 +248,12 @@
     <string name="regional_disable">Региональные новости отключены</string>
     <string name="enable_disable_national">Национальные</string>
     <string name="national_enable">Национальные новости включены</string>
+	<string name="network_manage_settings">Настройки сети</string>
+	<string name="network_settings_sel_sub">Выбор подписи</string>
+	<string name="nw_subset_unlock_failed">Ошибка разблокировки SIM-карты</string>
+	<string name="nw_subset_unlock_success">SIM-карта успешно разблокирована</string>
+	<string name="nw_unlock_failed">Ошибка разблокировки SIM-карты</string>
+	<string name="nw_unlock_success">SIM-карта успешно разблокирована</string>
     <string name="national_disable">Национальные новости отключены</string>
     <string name="enable_disable_international">Международные</string>
     <string name="international_enable">Международные новости включены</string>
@@ -380,6 +390,8 @@
     <string name="pin_changed">PIN SIM-карты успешно изменен</string>
     <string name="pin2_unblocked">PIN2 разюлокирован!</string>
     <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2.</string>
+	<string name="puk_unlock_failed">Ошибка разблокировки</string>
+	<string name="puk_unlock_success">PUK-код разблокирован</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="oldPin2Label">Прежний PIN2</string>
     <string name="newPin2Label">Новый PIN2</string>
@@ -503,7 +515,6 @@
     <string name="phone_numbers">Введите телефонные номера</string>
     <string name="sub1LineNumber">Sub1 Number :</string>
     <string name="sub2LineNumber">Sub2 Number :</string>
-    <string name="proceed">Proceed</string>
     <string name="xdivert_button">Настройки X-Divert</string>
     <string name="xdivert_setting">Настройки X-Divert</string>
     <string name="sum_xdivert_enabled">X-Divert вкл.</string>
@@ -886,6 +897,8 @@
     <string name="connect_disconnect_vibrate_title_miui">Вибрация при приеме/окончании вызова</string>
     <string name="connect_disconnect_vibrate_weak_miui">Слабая вибрация</string>
     <string name="contacts_icon_label_miui">Контакты</string>
+	<string name="corporate_unlock_failed">Ошибка разблокировки корпоративной SIM-карты</string>
+	<string name="corporate_unlock_success">Копоративная SIM-карта успешно разблокирована</string>
     <string name="count_of_persons_in_conference_miui">Всего %d человек</string>
     <string name="countrycode_alert_message_warning_miui">Введенный код страны может быть неверный, вы уверены?</string>
     <string name="countrycode_alert_message_wrong_miui">Введенный код страны неверный, введите заново</string>
@@ -1151,7 +1164,7 @@
     <string name="rnw2_unlock_failed">Ошибка разблокировки сети2 UIM.</string>
     <string name="rhrpd_unlock_failed">Ошибка разблокировки UIM hrpd.</string>
     <string name="rsp_unlock_failed">Ошибка разблокировки служб UIM.</string>
-    <string name="rc_unlock_failed">Ошибка разблокировки корпоративной RUIM.</string>
+    <string name="rc_unlock_failed">Ошибка разблокировки корпоративной RUIM.</string>	
     <string name="ruim_unlock_failed">Ошибка разблокировки UIM.</string>
     <string name="puk_unlock_failed">Разблокировка PUK прошла успешно!</string>
     <string name="nw_unlock_success">Разблокировка сети прошла успешно!</string>

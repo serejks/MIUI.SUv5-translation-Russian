@@ -70,6 +70,9 @@
     <string name="confirm_delete">Удалить выбранное (%s шт.)?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить фото (%s шт.) в альбомах (%s шт.)?</string>
     <string name="delete_fail_too_many_items">Ошибка удаления. Возможно отмечено слишком много.</string>
+	<string name="delete_file">Удалить выбранные файлы? \n\nФайлов: %1$d</string>
+	<string name="delete_files_and_folders">Удалить выбранные файлы и папки? \n\nФайлов: %1$d \nПапок: %2$d</string>
+	<string name="delete_folder">Удалить выбранные папки? \n\nПапок: %1$d</string>
     <string name="action_fail_unknown_error">Завершение операции невозможно из-за неизвестной ошибки.</string>
     <string name="add_to_cloud_fail_too_many_items">Ошибка. Возможно выбрано слишком много пунктов.</string>
 	<string name="add_to_cloud_failed_message_with_count">Фото не могут быть добавлены в облачные альбомы: %s</string>
@@ -86,6 +89,7 @@
     <string name="slideshow">Слайдшоу</string>
     <string name="details">Детали</string>
     <string name="details_title">%1$d из %2$d:</string>
+	<string name="directory_info_divider">"  |  "</string>
     <string name="close">Закрыть</string>
     <string name="show_on_map">Показать на карте</string>
     <string name="no_map_app">Нет приложения для карт</string>
@@ -182,12 +186,14 @@
     <string name="sync_album">Синхронизировать альбом</string>
     <string name="sync_album_summary">Загрузить фотографии и скриншоты в онлайн альбом</string>
     <string name="open_sync_title">Запустите синхронизацию</string>
+	<string name="operation_delete_confirm_message_folder">Папка будет удалена со всеми файлами.</string>
     <string name="alert_message_open_sync">Сначала Вы должны запустить синхронизацию. Запустить её сейчас?</string>
     <string name="open">Открыть</string>
     <string name="alert_message_initial_cloud">Фотографии и скриншоты будут автоматически загружаться в онлайн хранилище только при включенном Wi-Fi.</string>
     <string name="cloud_gallery_no_pictures">Нет изображений в онлайн альбоме</string>
     <string name="no_network_connected">Отсутствует сетевое подключение</string>
-    <string name="initial_cloud_text">В любое время и в любом месте · Управляйте и смотрите фотографии</string>
+    <string name="initial_cloud_text">Управление и просмотр фотографий в любое время и в любом месте</string>
+	<string name="initializing_cloud">Загрузка облачного альбома…</string>
     <string name="initial_cloud_button_text">Начните использовать облачный альбом</string>
     <string name="storage_no_space">Недостаточно места в хранилище</string>
     <string name="add_to_cloud_album">Добавить в</string>

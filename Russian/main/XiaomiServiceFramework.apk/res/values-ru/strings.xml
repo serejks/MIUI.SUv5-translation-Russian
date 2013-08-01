@@ -65,6 +65,7 @@
     <string name="error_sim_not_ready">SIM карта не готова</string>
     <string name="error_unknown">Неизвестная ошибка: %1$s</string>
     <string name="quick_login_title">Требуется проверка. Введите ваш пароль</string>
+	<string name="recharge_bankcall_title">Банковская карта</string>
     <string name="account_name">Аккаунт: %1$s</string>
     <string name="input_password_hint">Введите пароль</string>
     <string name="confirm">Подтвердить</string>
@@ -79,6 +80,7 @@
     <string name="sync_sub_int_dspt">Для активации может потребоваться отправка дополнительного SMS сообщения</string>
     <string name="send_sms_for_sync_title">Синхронизация не активирована</string>
     <string name="send_sms_for_sync_notice">Для активации необходимо отправить SMS. Продолжить?</string>
+	<string name="title">Название</string>
     <string name="send_int_sms_for_sync_notice">Отправка SMS, которая будет оплачиваться в связи с тарифами вашего оператора, необходима для активации аккаунта. Вы хотите продолжить?</string>
     <string name="failed_to_send_activate_email">Сбой при отправке активационного письма</string>
     <string name="access_denied">Доступ запрещен</string>
@@ -129,6 +131,8 @@
     <string name="skip_login">Пропустить вход</string>
     <string name="removing_account">Удаление аккаунта…</string>
     <string name="checking_account">Проверка аккаунта…</string>
+	<string name="cmcc_data_sync_notice">Используйте аккаунт Xiaomi для синхронизации сообщений, контактов и других данных. Кроме того пользуйтесь огромными возможностями облачных сервисов.</string>
+	<string name="cmcc_micloud_dspt">Облачные сервисы позволяют синхронизировать данные, следить за местоположением телефона, управлять данными с компьютера в любое время.</string>
     <string name="label_order_name">Наименование:</string>
     <string name="label_order_price">Цена:</string>
     <string name="order_price">%1$s Mi Credits</string>
@@ -154,6 +158,18 @@
     <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
     <string name="header_data_and_synchronization">Данные и синхронизация</string>
     <string name="mili_center">Кошелёк Xiaomi</string>
+	<string name="msg_send_no_net_error">Ошибка отправки сообщения: не удается подключиться к мобильной сети.</string>
+	<string name="msg_send_no_sim_error">Ошибка отправки сообщения, попробуйте еще раз.</string>
+	<string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
+	<string name="msg_telecom_order_denom">%1syuan не читает данные мобильной сети</string>
+	<string name="msg_telecom_order_denom_label">Сумма:</string>
+	<string name="msg_telecom_order_goods">%1sMi-Кредит</string>
+	<string name="msg_telecom_order_goods_label">Описание:</string>
+	<string name="msg_telecom_picker_hint_1_1">После подтверждения покупки, ваш телефон будет</string>
+	<string name="msg_telecom_picker_hint_1_2">автоматически подключен к провайдеру</string>
+	<string name="msg_telecom_picker_hint_2_1">Мобильный провайдер подключен!</string>
+	<string name="msg_telecom_picker_hint_2_2">Вы получите текст с подтверждением.</string>
+	<string name="msg_telecom_sending">Подключение к сети…</string>
     <string name="memu_refresh">Обновить</string>
 	<string name="my_mili_record">Мой MiCredit</string>
     <string name="error_mili_title">Недостаточно средств</string>
@@ -233,6 +249,7 @@
     <string name="progress_prepaid_creating">Создаю платёжное поручение…</string>
     <string name="voucher_input">Пополнение</string>
 	<string name="voucher_input_password_prompt">Введите пароль</string>
+	<string name="value">Значение</string>
     <string name="voucher_exchange">Обмен</string>
     <string name="voucher_exchange_count">Обмен (%1$s)</string>
     <string name="voucher_edit_hint">Пароль</string>
@@ -263,6 +280,7 @@
     <string name="btn_count_down_auto">Запрос через %1$s сек.</string>
     <string name="btn_count_down_wait">Ожидание %1$s сек.</string>
     <string name="btn_query">Запросить сейчас</string>
+	<string name="btn_recharge_confirm">Подтвердить покупку</string>
     <string name="progress_querying">Обрабатываю запрос подтверждения платежа…</string>
     <string name="progress_success_recharge_title">Операция платежа выполнена успешно.</string>
     <string name="progress_success_pay_title">Оплата завершена</string>
@@ -282,7 +300,11 @@
     <string name="recharge_record">Отчёты по зачислениям</string>
     <string name="pay_record">Отчёты по платежам</string>
     <string name="btn_mili_center_recharge">Пополнить счёт</string>
-    <string name="btn_voucher">Mi Credit card (%1$s)</string>
+    <string name="btn_voucher">Карта Mi Credit (%1$s)</string>
+	<string name="btn_wait_call">Ожидание</string>
+	<string name="btn_wait_call_count">Ожидание (%1$s)</string>
+	<string name="btn_wait_confirm">Ожидание</string>
+	<string name="btn_wait_confirm_count">Ожидание: %1$s）</string>
     <string name="fee">%1$s Mi Credits</string>
     <string name="recharge_record_empty">Нет информации о зачислениях</string>
     <string name="pay_record_empty">Нет информации о платежах</string>

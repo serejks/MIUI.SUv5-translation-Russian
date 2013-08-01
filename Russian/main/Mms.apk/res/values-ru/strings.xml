@@ -81,6 +81,7 @@
     <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s).</string>
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка.</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
+	<string name="restore_blocked_message">Восстановить заблокированные сообщения</string>
     <string name="forward_prefix">Fwd: </string>
     <string name="discard_message">Отменить</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель.</string>
@@ -121,6 +122,7 @@
     <string name="hidden_sender_address">Адрес отправителя скрыт</string>
     <string name="yes">ОК</string>
     <string name="no">Отмена</string>
+	<string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
     <string name="set">Сохранить</string>
     <string name="play">Воспроизвести</string>
     <string name="edit">Изменить</string>
@@ -511,7 +513,11 @@
     <string name="importing_progress_private_message">Импортирую сообщения в приватный ящик</string>
     <string name="exporting_progress_private_message">Экспортирую сообщения из приватного ящика</string>
     <string name="confirm_export_dialog_title">Удалить приватные контакты</string>
+	<string name="confirm_no_block_positive">Отменить блокирование</string>
+	<string name="confirm_no_block_title">Отменить блокирование и восстановить в сообщения?</string>
     <string name="confirm_export_dialog_description">Удалить 1 выбранный приватный контакт и перевести диалог в обычный режим?</string>
+	<string name="confirm_restore_positive">Восстановить</string>
+	<string name="confirm_restore_title">Восстановить выбранные сообщения?</string>
     <string name="number_add_hint">Введите номер для добавления в Приватные Контакты</string>
     <string name="menu_new_manual">Ввести номер вручную</string>
     <string name="menu_pick_from_contact">Выбрать из контактов</string>

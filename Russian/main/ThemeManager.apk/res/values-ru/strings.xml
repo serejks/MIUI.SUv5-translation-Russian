@@ -53,6 +53,7 @@
 	<string name="lockscreen_wallpaper">Экран блокировки</string>
 	<string name="change_wallpaper">Обои</string>
 	<string name="component_settings_title">Настройка тем</string>
+	<string name="deleting">Удаление…</string>
 	<string name="component_select_title">Выбрано %1$s компонентов</string>
 	<string name="component_include_title">Содержит %1$s компонентов</string>
 	<string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
@@ -167,7 +168,9 @@
 	<string name="loading">Загрузка…</string>
 	<string name="download_failed">Сбой загрузки!</string>
 	<string name="download_preview_failed">Ошибка загрузки предпросмотра</string>
-	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
+	<string name="resource_delete_confirm">Удалить ресурсы?</string>
+	<string name="resource_delta_update_failed">Ошибка обновления.</string>
+	<string name="resource_delta_update_successful">Обновление сохранено %1$s.</string>
 	<string name="all_resources">Все</string>
 	<string name="resource_default_name">Ресурсы</string>
 	<string name="resource_detail">Свойства</string>
@@ -180,6 +183,7 @@
 	<string name="resource_list_title">Последние выбранные</string>
 	<string name="resource_get_auth_checking">Авторизация…</string>
 	<string name="resource_get_auth_retrieving">Восстановление авторизации…</string>
+	<string name="resource_import_successful">Загрузка завершена</string>
 	<string name="resource_get_auth_missing">Тема была загружена не из официального магазина, пожалуйста загрузите тему из официального магазина.</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Достигнут лимит авторизаций!</string>
 	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может быть запущена на этом устройстве с вашим аккаунтом. Пожалуйста используйте другой аккаунт Xiaomi.</string>
