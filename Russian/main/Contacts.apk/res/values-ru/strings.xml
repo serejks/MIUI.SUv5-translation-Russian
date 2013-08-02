@@ -969,7 +969,6 @@
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="resource_delta_update_failed">Ошибка обновления Delta</string>
 	<string name="resource_delta_update_successful">Обновление Delta сохранено %1$s.</string>
-	<string name="resource_waiting_download">Ожидание</string>
     <string name="all_resources">Все</string>
     <string name="antispam_mark_my_contribution">Мои отметки в антиспаме</string>
     <string name="antispam_provider_format">Техническая поддержка: %s</string>

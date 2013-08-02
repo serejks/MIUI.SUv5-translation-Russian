@@ -89,7 +89,6 @@
 	<string name="history">История</string>
 	<string name="menu_view_download">Загрузки</string>
 	<string name="copy_page_url">Скопировать URL страницы</string>
-	<string name="share_page">Отправить страницу</string>
 	<string name="menu_save_snapshot">Сохранить страницу</string>
 	<string name="saving_snapshot">Сохранение…</string>
 	<string name="snapshot_failed">Не удалось сохранить страницу.</string>

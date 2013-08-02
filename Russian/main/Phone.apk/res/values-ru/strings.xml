@@ -204,7 +204,6 @@
 	<string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга.</string>
 	<string name="gsm_umts_options">Параметры GSM/UMTS</string>
 	<string name="cdma_options">Параметры CDMA</string>
-	<string name="mobile_network_setting">Настройки мобильной сети</string>
 	<string name="network_settings_sel_sub">Выбрать оператора</string>
 	<string name="network_manage_settings">Настройка сети</string>
 	<string name="title_data_settings">Настройка данных</string>
@@ -248,8 +247,6 @@
 	<string name="regional_disable">Региональные новости отключены</string>
 	<string name="enable_disable_national">Национальные</string>
 	<string name="national_enable">Национальные новости включены</string>
-	<string name="network_manage_settings">Настройки сети</string>
-	<string name="network_settings_sel_sub">Выбор подписи</string>
 	<string name="nw_subset_unlock_failed">Ошибка разблокировки SIM-карты</string>
 	<string name="nw_subset_unlock_success">SIM-карта успешно разблокирована</string>
 	<string name="nw_unlock_failed">Ошибка разблокировки SIM-карты</string>
@@ -1155,10 +1152,7 @@
 	<string name="requesting_rc_unlock">Запрашиваю разблокировку корпоративной UIM…</string>
 	<string name="requesting_ruim_unlock">Запрашиваю разблокировку UIM…</string>
 	<string name="requesting_puk_unlock">Запрашиваю разблокировку PUK…</string>
-	<string name="nw_unlock_failed">Не удалось разблокировать сеть.</string>
-	<string name="nw_subset_unlock_failed">Не удалось разблокировать сети СИМ.</string>
 	<string name="sp_unlock_failed">Не удалось разблокировать провайдер настройки SIM.</string>
-	<string name="corporate_unlock_failed">Не удалось разблокировать корпоративную связь.</string>
 	<string name="sim_unlock_failed">Не удался запрос разблокировки СИМ.</string>
 	<string name="rnw1_unlock_failed">Ошибка разблокировки сети1 UIM.</string>
 	<string name="rnw2_unlock_failed">Ошибка разблокировки сети2 UIM.</string>
@@ -1166,11 +1160,7 @@
 	<string name="rsp_unlock_failed">Ошибка разблокировки служб UIM.</string>
 	<string name="rc_unlock_failed">Ошибка разблокировки корпоративной RUIM.</string>	
 	<string name="ruim_unlock_failed">Ошибка разблокировки UIM.</string>
-	<string name="puk_unlock_failed">Разблокировка PUK прошла успешно!</string>
-	<string name="nw_unlock_success">Разблокировка сети прошла успешно!</string>
-	<string name="nw_subset_unlock_success">Разблокировка сетей прошла успешно!</string>
 	<string name="sp_unlock_success">Разблокировка провайдера поддержки СИМ прошла успешно.</string>
-	<string name="corporate_unlock_success">SIM Корпоративная связь успешно разблокирована.</string>
 	<string name="sim_unlock_success">SIM успешно разблокирована.</string>
 	<string name="rnw1_unlock_success">RUIM Сеть 1 успешно разблокирована!</string>
 	<string name="rnw2_unlock_success">RUIM Сеть 2 успешно разблокирована!</string>
@@ -1178,7 +1168,6 @@
 	<string name="rsp_unlock_success">RUIM Провайдер поддержки успешно разблокирован.</string>
 	<string name="rc_unlock_success">RUIM Корпоративная связь успешно разблокирована.</string>
 	<string name="ruim_unlock_success">RUIM разблокирован!</string>
-	<string name="puk_unlock_success">Разблокировка PUK прошла успешно!</string>
 	<string name="description_direction_right">Вправо для %s.</string>
 	<string name="description_direction_left">Влево для %s.</string>
 	<string name="description_direction_up">Вверх для %s.</string>
