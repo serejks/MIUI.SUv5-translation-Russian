@@ -387,6 +387,7 @@
 	<string name="pref_privacy_clear_history_by_group_dlg">Подтвердите удаление всей истории браузера</string>
 	<string name="edit">Редактировать</string>
 	<string name="delete">Удалить</string>
+    <string name="save_bookmark">В закладки</string>
 	<string name="delete_bookmark">Из закладок</string>
 	<string name="multi_select_title">Выбрано пунктов: %1$s</string>
 	<string name="delete_multi_bookmarks_alert_title">Удалить выбранные закладки (%1$s шт.)?</string>
