@@ -749,7 +749,7 @@
     <string name="pref_key_rebuild_t9_index_title">Перестроить индексы Т9</string>
     <string name="pref_key_rebuild_t9_index_message">Исправление ошибок при поиске контактов с помощью Т9</string>
     <string name="pref_key_photo">Фото</string>
-    <string name="pref_key_photo_word_title">Автовыбор фото контактов</string>
+    <string name="pref_key_photo_word_title">Иконка контакта без фото</string>
     <string name="pref_key_photo_word_summary">Создание иконки для контактов без фото</string>
     <string name="remove_duplicate">MIUI поможет Вам найти и объединить дублирующиеся контакты. Контакты не могут объединяться автоматически, поэтому их можно объединить вручную.\n\nНажмите \"Оъединить\", и подождите некоторое время для автоматического завершения.</string>
     <string name="ic_menu_back">Назад</string>
@@ -764,7 +764,7 @@
     <string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
     <string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
     <string name="preference_telocation_summary_countrycode_on">Автодобавление кода страны</string>
-    <string name="preference_telocation_summary_countrycode_off">Отменить автодобавление кода страны</string>
+    <string name="preference_telocation_summary_countrycode_off">отменить автодобавление кода страны</string>
     <string name="preference_phone">Телефон</string>
     <string name="preference_dial_pad_touch_tone_title">Звук клавиш</string>
     <string name="preference_auto_ip_title">Автоматически IP</string>

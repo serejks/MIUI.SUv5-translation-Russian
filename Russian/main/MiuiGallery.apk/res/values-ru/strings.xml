@@ -208,7 +208,7 @@
     <string name="cannot_send_message">Не удается отправить сообщение</string>
 	<string name="has_invalid_recipient">Недопустимых получателей: &lt;%1$s></string>
     <string name="cannot_send_message_reason">Ваше сообщение не имеет допустимых получателей.</string>
-    <string name="show_hidden_albums">Показывать скрытые альбомы</string>
+    <string name="show_hidden_albums">Отобр. скрытые альбомы</string>
     <string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Не удалось загрузить изображение!</string>
@@ -268,7 +268,7 @@
     <string name="input_cloudfolder_name">Имя нового облачного альбома</string>
     <string name="cloudfolder_already_exists">такая облачная папка уже существует</string>
     <string name="other_category">Другие настройки</string>
-    <string name="show_hidden_album">Показывать скрытые альбомы</string>
+    <string name="show_hidden_album">Отобр. скрытые альбомы</string>
     <string name="auto_create_recent_album">Автосоздание избранных альбомов</string>
 	<string name="landscape_mode">Включить альбомный режим</string>
     <string name="auto_create_recent_album_over_ten_times">Автоматическое создание избранного альбома, если он открыт более 10 раз</string>
@@ -280,7 +280,7 @@
     <string name="slideshow_interval_invalid">Неправильне настройки времени показа, значение должно быть в интервале 1~3600 секунд. Время показа останется стандартным.</string>
     <string name="slideshow_repeat_mode">Повторение</string>
     <string name="clear_thumbnail_cache">Очистить кэш эскизов</string>
-    <string name="clear_thumbnail_cache_summary">При просмотре будут сгенерированы эскизы. Очистка кэша освободит пространство.</string>
+    <string name="clear_thumbnail_cache_summary">При просмотре изображений создаются эскизы. Очистка кэша освободит пространство.</string>
     <string name="clear_thumbnail_cache_confirm">Все эскизы вашей галереи будут удалены. Галерея будет вновь просканирована во время просмотра для создания эскизов. Это отразится на скорости просмотра.</string>
     <string name="cleaning_cache">Очистка кэша…</string>
     <string name="seconds">сек.</string>
