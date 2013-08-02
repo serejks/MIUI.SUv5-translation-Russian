@@ -409,8 +409,8 @@
 	<string name="share_link">Поделиться ссылкой</string>
 	<string name="open_all_bookmarks">Отвкрыть все</string>
 	<string name="move_to_up_folder">Назад на одну папку</string>
-	<string name="tab_yellowpage">Желтые страницы</string>
-	<string name="tab_quicklinks">Быстрые закладки</string>
+	<string name="tab_yellowpage">Категории</string>
+	<string name="tab_quicklinks">Экспресс</string>
 	<string name="pref_content_night_read_mode">Включить ночной режим</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закр.посл.вкладки</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузера, при закрытии последней вкладки. Выключите, чтобы показывалась домашней страницы</string>
