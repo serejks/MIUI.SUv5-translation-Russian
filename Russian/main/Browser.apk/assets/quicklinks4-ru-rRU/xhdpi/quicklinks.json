@@ -4,78 +4,78 @@
             "title":"Google",
             "url":"http://www.google.com/",
             "thumbnail":"thumb_google.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
             "title":"MIUI.su",
             "url":"http://miui.su/",
             "thumbnail":"thumb_miuisu.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg15.9.png",
             "favicon":""
         },
         {
             "title":"4PDA",
             "url":"http://www.4pda.ru/",
             "thumbnail":"thumb_4pda.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
             "title":"VK",
             "url":"http://www.vk.com/",
             "thumbnail":"thumb_vk.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg14.9.png",
             "favicon":""
         },
         {
-            "title":"Twitter",
-            "url":"http://twitter.com/",
-            "thumbnail":"thumb_twitter.png",
-            "logobg":"bg01.9.png",
+            "title":"Odnoklassniki",
+            "url":"http://odnoklassniki.com/",
+            "thumbnail":"thumb_odnoklassniki.png",
+            "logobg":"bg07.9.png",
             "favicon":""
         },
         {
             "title":"Facebook",
             "url":"http://www.facebook.com/",
             "thumbnail":"thumb_facebook.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg14.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "logobg":"bg03.9.png",
             "favicon":""
         },
         {
             "title":"Wikipedia",
-            "url":"http://www.ru.wikipedia.org/",
+            "url":"http://www.ru.m,wikipedia.org/",
             "thumbnail":"thumb_wikipedia.png",
-            "logobg":"bg01.9.png",
-            "favicon":""
-        },
-        {
-            "title":"eBay",
-            "url":"http://www.ebay.com/",
-            "thumbnail":"thumb_ebay.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg12.9.png",
             "favicon":""
         },
 
         {
-            "title":"CNN",
-            "url":"http://www.cnn.com/",
-            "thumbnail":"thumb_cnn.png",
-            "logobg":"bg01.9.png",
+            "title":"BurgerZ",
+            "url":"http://www.burgerz.pro/",
+            "thumbnail":"thumb_bz.png",
+            "logobg":"bg03.9.png",
             "favicon":""
         },
         {
-            "title":"MIUI BBS",
+            "title":"MIUI",
             "url":"http://en.miui.com",
-            "thumbnail":"thumb_miui.png",
-            "logobg":"bg01.9.png",
+            "thumbnail":"thumb_en_miui.png",
+            "logobg":"bg02.9.png",
             "favicon":""
         },
         {
-            "title":"ESPN",
-            "url":"http://espn.com/",
-            "thumbnail":"thumb_espn.png",
-            "logobg":"bg01.9.png",
+            "title":"YouTube",
+            "url":"http://youtube.com/",
+            "thumbnail":"thumb_youtube.png",
+            "logobg":"bg05.9.png",
             "favicon":""
         },
         {
@@ -88,10 +88,10 @@
         },
 
         {
-            "title":"Weather Channel",
-            "url":"http://www.weather.com/",
-            "thumbnail":"thumb_weatherchannel.png",
-            "logobg":"bg01.9.png",
+            "title":"MIUI Android",
+            "url":"http://miuiandroid.com/",
+            "thumbnail":"thumb_miui_android.png",
+            "logobg":"bg02.9.png",
             "favicon":""
         },
         {

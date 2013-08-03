@@ -2282,6 +2282,11 @@
     <string name="eq_delete">Удалить</string>
     <string name="eq_delete_success">Успешно удалено</string>
     <string name="eq_auto">Пользовательский</string>
+    <string name="eq_preset_create">Создать</string>
+    <string name="eq_preset_rename">Переименовать</string>
+    <string name="eq_preset_format">Кастомизировано %d</string>
+    <string name="eq_preset_hint">Имя пресета</string>
+    <string name="eq_preset_select">Выберите пресет</string>
     <string name="preset_create">Создать</string>
     <string name="preset_rename">Переименовать</string>
     <string name="preset_format">Настроить %d</string>
