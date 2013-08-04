@@ -304,13 +304,13 @@
     <string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
     <string name="ext_media_checking_notification_message">Проверка на ошибки.</string>
     <string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
-    <string name="ext_media_nofs_notification_message">USB-накопитель пуст или его файловая система не поддерживается.</string>
-    <string name="ext_media_unmountable_notification_title">Повреждённый USB-накопитель</string>
-    <string name="ext_media_unmountable_notification_message">USB-накопитель повреждён. Возможно придётся отформатировать его.</string>
-    <string name="ext_media_badremoval_notification_title">USB-накопитель неожиданно отсоединён</string>
+    <string name="ext_media_nofs_notification_message">USB пуст или файловая система не поддерживается.</string>
+    <string name="ext_media_unmountable_notification_title">USB-накопитель поврежден</string>
+    <string name="ext_media_unmountable_notification_message">Возможно придётся отформатировать его.</string>
+    <string name="ext_media_badremoval_notification_title">USB неожиданно отсоединён</string>
     <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отсоединением.</string>
-    <string name="ext_media_safe_unmount_notification_title">USB-накопитель можно отсоединить</string>
-    <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно отсоединить USB-накопитель.</string>
+    <string name="ext_media_safe_unmount_notification_title">USB можно отсоединить</string>
+    <string name="ext_media_safe_unmount_notification_message">Отсоедините USB-накопитель.</string>
     <string name="ext_media_nomedia_notification_title">USB-накопитель отсоединён</string>
     <string name="ext_media_nomedia_notification_message">USB-накопитель отсоединён.</string>
     <string name="screen_button_custom">Настроить положение экранных клавиш</string>
@@ -327,7 +327,7 @@
     <string name="drive_mode_tip">Вы за рулем автомобиля. Будьте осторожны!</string>
     <string name="recording_tip">Нажмите, для возврата к записи</string>
     <string name="no_notification_tips">Нет уведомлений</string>
-    <string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>
-    <string name="ext_media_mountable_notification_message">Нажмите, для запуска файлового менеджера</string>
-    <string name="ext_media_safe_remove">Безопасное извлечение</string>
+    <string name="ext_media_mountable_notification_title">USB подключено</string>
+    <string name="ext_media_mountable_notification_message">Запуск файл менеджера</string>
+    <string name="ext_media_safe_remove">Извлечь</string>
 </resources>
