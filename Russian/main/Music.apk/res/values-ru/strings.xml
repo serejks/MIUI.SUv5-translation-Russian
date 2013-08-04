@@ -155,8 +155,8 @@
     <string name="lrc_searching">Поиск текстов песен…</string>
     <string name="lyric_open_other_connect">Загрузить тексты песен, используя мобильную сеть</string>
     <string name="impunity_declaration_title">Заявление</string>
-    <string name="impunity_declaration">Для прослушивания онлайновой музыки используется сервис Baidu Online Music. Нажмите \"OK\", чтобы принять. Нажмите \"Отмена\", чтобы выйти.</string>
-    <string name="music_filter_helper">Чтобы спрятать файлы, которые не являются музыкой, был применён фильтр по размеру 800Кб. Настройки фильтра могут быть изменены в меню Настройки / Фильтр файлов.</string>
+    <string name="impunity_declaration">Для прослушивания онлайн музыки используется сервис Baidu Online Music. Нажмите \"OK\", чтобы принять или  \"Отмена\", чтобы выйти.</string>
+    <string name="music_filter_helper">Чтобы спрятать файлы, которые не являются музыкой, был применён фильтр по размеру 800 Кб. Настройки фильтра могут быть изменены в меню Настройки / Фильтр файлов.</string>
     <string name="music_open_other_connect">Загрузка музыки через мобильную сеть</string>
     <string name="modify_meta">Изменить информацию о песне</string>
     <string name="id3_edit">Изменить ID3 теги</string>
