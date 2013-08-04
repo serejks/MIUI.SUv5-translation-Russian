@@ -2419,4 +2419,6 @@
     <string name="sim_management_title">SIM менеджер</string>
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Информация об IMEI</string>
+    <string name="wifi_share_uploading">Загрузка</string>
+    <string name="wifi_share_list_empty">Нет доступных Wi-Fi для передачи</string>
 </resources>
