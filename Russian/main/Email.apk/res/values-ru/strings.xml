@@ -76,7 +76,7 @@
     <string name="account_folder_list_summary_drafts">Черновики</string>
     <string name="account_folder_list_summary_outbox">Исходящие</string>
     <string name="mailbox_list_account_selector_combined_view">Комбинированный режим просмотра</string>
-    <string name="mailbox_list_account_selector_show_all_folders">Показать все почтовые ящики</string>
+    <string name="mailbox_list_account_selector_show_all_folders">Показать все папки</string>
     <string name="mailbox_list_account_selector_account_header">Аккаунты</string>
     <string name="mailbox_list_account_selector_mailbox_header_fmt">Последние папки (%s)</string>
     <string name="mailbox_list_user_mailboxes">Все папки</string>

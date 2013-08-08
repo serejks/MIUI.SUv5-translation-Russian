@@ -2,7 +2,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 	
-    <string name="sina_share_pendding">Отправка...</string>
+    <string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправка завершена!</string>
     <string name="sina_share_fail">Ошибка отправки!</string>
     <string name="sina_token_expired_warning">Время ожидания ответа от сервера истекло, попробуйте ещё раз.</string>

@@ -223,7 +223,7 @@
 	<string name="st_bl_setting_group">Настройки черного списка</string>
 	<string name="st_block_all">Блокировать вызовы и сообщения</string>
 	<string name="st_block_mute">Блокировать вызовы и не уведомлять о сообщениях</string>
-	<string name="st_block_private_call_button">Блокировать вызовы от неизвестных номеров</string>
+	<string name="st_block_private_call_button">Блокировать неопределённые</string>
 	<string name="st_block_title">Блокировать</string>
 	<string name="st_call_group">Вызовы</string>
 	<string name="st_common_setting_group">Быстрый просмотр</string>
