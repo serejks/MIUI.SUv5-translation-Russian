@@ -505,6 +505,7 @@
     <string name="wifi_setup_wps">Автонастройка (WPS)</string>
 	<string name="wifi_share">Поделиться сетью</string>
 	<string name="wifi_share_action_turn_off">Остановить доступ к сети</string>
+    <string name="wifi_share_list_empty">Невохможно найти публичный Wi-Fi</string>
 	<string name="wifi_share_action_turn_on">Поделиться доступом Wi-Fi</string>
 	<string name="wifi_share_action_turn_on_summary">Войдите, используя ваш логин и пароль Xiaomi.</string>
 	<string name="wifi_share_add">Добавить публичную сеть Wi-Fi</string>
@@ -529,6 +530,7 @@
 	<string name="wifi_share_turn_off">отключено</string>
 	<string name="wifi_share_turn_on">включено</string>
 	<string name="wifi_share_upload">Поделиться</string>
+	<string name="wifi_share_uploading">Загрузка…</string>
 	<string name="wifi_share_upload_finish">Загрузка завершена</string>
     <string name="wifi_show_advanced">Дополнительно</string>
     <string name="wifi_network_setup">WPS</string>

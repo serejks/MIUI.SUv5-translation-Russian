@@ -178,6 +178,8 @@
     <string name="miui_menu_create_event">Новое</string>
     <string name="preferences_category_general_title">Основной</string>
     <string name="preferences_category_account_title">Аккаунт</string>
+	<string name="work_day_indication">:(</string>
+	<string name="rest_day_indication">:)</string>
     <string name="more_string">%1$s больше…</string>
     <string name="copy_email">Скопировать адрес e-mail</string>
     <string name="copy_number">Скопировать телефонный номер</string>

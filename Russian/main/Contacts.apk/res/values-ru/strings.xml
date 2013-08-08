@@ -62,8 +62,8 @@
     <string name="menu_set_ring_tone">Задать рингтон</string>
     <string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
     <string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
-    <string name="redirect_calls_to_vm_confirm_message">Убедитесь, что ваш оператор поддерживает данную функцию. Возможно, вы не сможете получать вызовы от этого контакта.</string>
-    <string name="redirect_calls_to_vm_confirm_text">Включить</string>
+    <string name="redirect_calls_to_vm_confirm_message">Перед настройкой почтового ящика, убедитесь, что ваш оператор поддерживает данную функцию.</string>
+    <string name="redirect_calls_to_vm_confirm_text">Ок</string>
     <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако можно скрыть их в списках контактов.</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
     <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов.</string>
@@ -88,7 +88,6 @@
     <string name="customLabelPickerTitle">Название ярлыка</string>
     <string name="send_to_voicemail_checkbox">Перенаправлять звонки на голосовую почту</string>
     <string name="removePhoto">Удалить фото</string>
-	<string name="remove_blacklist">Удалить из черного списка</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noGroups">Нет групп</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
@@ -125,7 +124,7 @@
     <string name="clearCallLogConfirmation">Действительно очистить список вызовов?</string>
     <string name="clearCallLogProgress_title">Очистка списка вызовов</string>
     <string name="clearFrequentsConfirmation_title">Очистить список часто используемых?</string>
-    <string name="clearFrequentsConfirmation">Вы очистите список часто использыумых в приложениях \"Контакты\" и \"Телефон\", и заставите приложение электронной почты создать список часто используемых с нуля.</string>
+    <string name="clearFrequentsConfirmation">Очиститить список часто использыумых в приложениях \"Контакты\" и \"Телефон\", и заставите приложение электронной почты создать список часто используемых с нуля.</string>
     <string name="clearFrequentsProgress_title">Очистка списка часто используемых…</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
@@ -329,8 +328,8 @@
     <string name="display_ungrouped">Остальные контакты</string>
     <string name="display_all_contacts">Все контакты</string>
     <string name="display_warn_remove_ungrouped">Удаление группы \"%s\" из синхронизации приведет к удалению любых несгруппированных контактов из синхронизации.</string>
-	<string name="dlg_add_blacklist">Добавить номер в черный список?</string>
-	<string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
+	<string name="dlg_add_blacklist">Заблокировать номер?</string>
+	<string name="dlg_remove_blacklist">Разблокировать номер?</string>
     <string name="account_phone">Телефон, без синхронизации</string>
     <string name="call_custom">Позвонить (%s)</string>
     <string name="call_home">Домашний тел.</string>
@@ -565,7 +564,8 @@
     <string name="dialog_voicemail_not_ready_message">Для настройки голосовой почты перейдите в Меню > Настройки.</string>
     <string name="dialog_voicemail_airplane_mode_message">Выключите режим "В самолёте", чтобы вызвать голосовую почту.</string>
     <string name="action_menu_overflow_description">Больше настроек</string>
-    <string name="add_blacklist">" В черный список"</string>
+    <string name="add_blacklist">Заблокировать</string>
+	<string name="remove_blacklist">Разблокировать</string>
     <string name="unknown_contact_name">MIUI Home</string>
     <string name="primary_indicator">Основной</string>
     <string name="contactDetailCalllog">История звонков</string>
@@ -590,9 +590,9 @@
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="use_photo_as_primary2">Использовать фото контакта %s</string>
     <string name="label_custom_type">По выбору</string>
-    <string name="select_photo_from_photo_package">Выбрать фото из набора</string>
-    <string name="select_new_photo_from_photo_package">Выбрать новое фото из набора</string>
-    <string name="photo_package_activity_title">Набор фото</string>
+    <string name="select_photo_from_photo_package">Выбрать фото из пакета</string>
+    <string name="select_new_photo_from_photo_package">Выбрать новое фото из пакета</string>
+    <string name="photo_package_activity_title">Фото из пакета</string>
     <string name="lunarBirthdayLabelsGroup">Лунный календарь</string>
     <string name="callrecordview_menu_show_title">Выберите варианты отображения</string>
     <string name="callrecordview_menu_show_all">Все звонки</string>
@@ -646,7 +646,7 @@
     <string name="auto_nickname">Авто</string>
     <string name="auto_set_nickname">Авто</string>
     <string name="restore_nickname">Восстановление</string>
-    <string name="custom_nickname_hint">Напишите имя, например \"Механик\" или \"Вася\"</string>
+    <string name="custom_nickname_hint">Введите имя</string>
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Удалить все</string>
     <string name="select_none">Ничего не выбрано, операция невозможна</string>

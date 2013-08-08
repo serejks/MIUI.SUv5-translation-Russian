@@ -930,7 +930,7 @@
 	<string name="dtmf_tones_title_miui">Тоны DTMF</string>
 	<string name="edit_custom_location_title_miui">Изменить региональные настройки, настройки номера, маски # поддерживаются</string>
 	<string name="emergency_call_area_code_edit_dialog_button_miui">Вызов</string>
-	<string name="emergency_call_area_code_edit_dialog_hint_miui">Например: 112</string>
+	<string name="emergency_call_area_code_edit_dialog_hint_miui">Введите код</string>
 	<string name="enable_miui">Вкл.</string>
 	<string name="enable_proximity_summary_miui">Включить датчик приближения для отключения экрана во время вызовов</string>
 	<string name="enable_proximity_title_miui">Включить датчик приближения</string>
