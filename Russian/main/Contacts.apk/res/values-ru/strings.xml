@@ -705,14 +705,14 @@
     <string name="remind_btn_ignore">Игнорировать</string>
     <string name="display_only_phones">Только контакты с номерами</string>
     <string name="display_sim_contacts">Показывать контакты SIM</string>
-    <string name="preference_remove_duplicate">Объединить повторяющиеся</string>
+    <string name="preference_remove_duplicate">Объединить дубликаты</string>
     <string name="scan_duplicate">Поиск одинаковых данных, подождите</string>
     <string name="scan_merge">Поиск возможных одинаковых контактов, подождите</string>
     <string name="scan_duplicate_message">Контактов с одинаковыми данными: %1$d</string>
     <string name="merge_contact_message">Контактов с одинаковыми данными: %1$d, объединено: %2$d</string>
     <string name="delete_duplicate">Объединить</string>
     <string name="delete_duplicate_message">Объединение…</string>
-    <string name="label_no_duplicate_contacts">Нет повторяющихся контактов</string>
+    <string name="label_no_duplicate_contacts">Нет дубликатов</string>
     <string name="quit_dialog_confirm_title">Выйти?</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Импорт/Экспорт</string>
@@ -755,7 +755,7 @@
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">Дисплей</string>
     <string name="preference_simple_mode_title">Простой режим</string>
-    <string name="preference_simple_mode_description">В списке не будут отображаться аватарки, заметки и компания</string>
+    <string name="preference_simple_mode_description">В списке звонков и контактов не будут отображаться аватарки, длительность вызовов и другие данные</string>
     <string name="preference_contacts">Контакты</string>
     <string name="preference_contacts_display">Список контактов</string>
     <string name="preference_contacts_more">Расширенные настройки контактов</string>
@@ -877,8 +877,8 @@
     <string name="next">следующий</string>
     <string name="previous">предыдущий</string>
     <string name="scan">поиск устройств</string>
-    <string name="device_bluetooth_title">подготовка</string>
-    <string name="device_version_header_no_bluetooth">Импорт контактов с SIM карты</string>
+    <string name="device_bluetooth_title">Подготовка</string>
+    <string name="device_version_header_no_bluetooth">Импорт контактов через Bluetooth</string>
     <string name="device_version_header_bluetooth">Включение Bluetooth</string>
     <string name="scanning">поиск устройств…</string>
     <string name="select_device">выбор устройства для соединения</string>

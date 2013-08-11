@@ -132,7 +132,7 @@
 	<string name="auto_backup_time">Запланировать бэкап</string>
 	<string name="auto_backup_choose_title">Выбрать данные</string>
 	<string name="auto_backup_choose">Бэкап выбранных</string>
-	<string name="auto_backup_choose_empty">Нет бэкапов</string>
+	<string name="auto_backup_choose_empty">Ничего не выбрано</string>
 	<string name="auto_backup_all_user_apps">Все приложения</string>
 	<string name="auto_backup_selected_user_apps">Выбранные приложения</string>
 	<string name="auto_backup_select_user_apps">Выбрать приложения</string>

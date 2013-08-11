@@ -165,14 +165,14 @@
 	<string name="pref_privacy_security_title">Личные данные</string>
 	<string name="pref_privacy_clear_cache">Очистить кэш</string>
 	<string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
-	<string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
+	<string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных?</string>
 	<string name="pref_privacy_cookies_title">Файлы cookie</string>
 	<string name="pref_privacy_clear_cookies">Удалить cookie</string>
 	<string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>
 	<string name="pref_privacy_clear_cookies_dlg">Удалить все файлы cookie?</string>
 	<string name="pref_privacy_clear_history">Очистить историю</string>
 	<string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
-	<string name="pref_privacy_clear_history_dlg">Удалить историю браузера?</string>
+	<string name="pref_privacy_clear_history_dlg">Очистить историю браузера?</string>
 	<string name="pref_privacy_formdata_title">Данные форм</string>
 	<string name="pref_privacy_clear_form_data">Очистить данные формы</string>
 	<string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
@@ -243,16 +243,22 @@
 	<string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
-	<string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоне.</string>
-	<string name="pref_data_preload_value_never_summary">Запретить браузеру предварительно загружать результаты поиска в фоне.</string>
+	<string name="pref_data_preload_summary">"
+Разрешить браузеру предварительно загружать результаты поиска в фоне."</string>
+	<string name="pref_data_preload_value_never_summary">"
+Запретить браузеру предварительно загружать результаты поиска в фоне."</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
 	<string name="pref_link_prefetch_title">Предзагрузка страниц</string>
-	<string name="pref_link_prefetch_summary">"Разрешить предзагрузку связанных страниц в фоне"</string>
-	<string name="pref_link_prefetch_value_never_summary">"Запретить предзагрузку связанных страниц в фоне"</string>
+	<string name="pref_link_prefetch_summary">"
+Разрешить предзагрузку связанных страниц в фоне"</string>
+	<string name="pref_link_prefetch_value_never_summary">"
+Запретить предзагрузку связанных страниц в фоне"</string>
 	<string name="pref_link_prefetch_dialogtitle">Предзагрузка страниц</string>
 	<string name="pref_video_preload_title">Предзагрузка видео</string>
-	<string name="pref_video_preload_summary">"Разрешить предзагрузку видео."</string>
-	<string name="pref_video_preload_value_never_summary">"Запретить предзагрузку видео"</string>
+	<string name="pref_video_preload_summary">"
+Разрешить предзагрузку видео в фоне."</string>
+	<string name="pref_video_preload_value_never_summary">"
+Запретить предзагрузку видео в фоне."</string>
 	<string name="pref_images_preload_summary">"Разрешить предзагрузку изображений."</string>
 	<string name="pref_images_preload_title">Предзагрузка изображений</string>
 	<string name="pref_content_preload_title">Предзагрузка содержания</string>
@@ -428,8 +434,8 @@
 	<string name="export_bookmark">Экспорт закладок</string>
 	<string name="accessibility_button_goto">Вперед</string>
 	<string name="contextmenu_download_image_as">Сохранить изображение как</string>
-	<string name="pref_ua_title">Управление пользователями</string>
-	<string name="pref_ua_string">Строка агента пользователя</string>
+	<string name="pref_ua_title">Дополнительно</string>
+	<string name="pref_ua_string">Агент пользователя</string>
 	<string name="dump_counters">Сбросить счетчики V8</string>
 	<string name="dump_dom_tree">Дамп дерева рендеринга в файл</string>
 	<string name="dump_render_tree">Сделать дамп дерева рендеринга в файл</string>

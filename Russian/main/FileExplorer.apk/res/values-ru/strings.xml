@@ -79,11 +79,11 @@
     <string name="notif_server_starting">FTP сервер запущен</string>
     <string name="notif_title">FTP сервер работает</string>
     <string name="storage_warning">Внешний носитель недоступен</string>
-    <string name="wifi_state">Настройки Wi-Fi</string>
+    <string name="wifi_state">Статус Wi-Fi</string>
     <string name="instruction_pre">Нажмите \"Старт\" для включения FTP сервера</string>
     <string name="instruction">Введите адрес: </string>
     <string name="no_wifi">Wi-Fi отключен</string>
-    <string name="no_wifi_hint">Wi-Fi не найден. Нажмите для подключения</string>
+    <string name="no_wifi_hint">Сеть Wi-Fi не найдена</string>
     <string name="search_title">Поиск</string>
     <string name="search_hint">Введите часть или всё имя файла</string>
     <string name="dialog_select_type">Выберите тип</string>

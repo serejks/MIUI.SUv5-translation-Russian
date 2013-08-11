@@ -240,7 +240,7 @@
 	<string name="st_settings_name">Настройки</string>
 	<string name="st_sms_group">Сообщения</string>
 	<string name="tab_blacklist">Черный список</string>
-	<string name="tab_block_log">Блокирования</string>
+	<string name="tab_block_log">Заблокированные</string>
 	<string name="tab_call">Вызовы</string>
 	<string name="tab_sms">Сообщения</string>
 	<string name="tab_title">Антиспам</string>

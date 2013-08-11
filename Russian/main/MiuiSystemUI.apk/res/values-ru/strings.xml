@@ -210,8 +210,8 @@
     <string name="settings_toggle_layout_style_applying">Меняю стиль переключателей…</string>
     <string name="settings_toggle">Переключатели</string>
     <string name="settings_toggle_position">Расположение переключателей</string>
-    <string name="settings_toggle_position_divider_page">%1$d переключателей над строкой активны</string>
-    <string name="settings_toggle_position_divider_list">Переключатели над строкой активны</string>
+    <string name="settings_toggle_position_divider_page">%1$d переключателей выше отображаются</string>
+    <string name="settings_toggle_position_divider_list">Переключатели выше отображаются</string>
     <string name="settings_toggle_position_reset">Упорядочить по умолчанию</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="settings_notification_icon">Уведомления в строке состояния</string>
