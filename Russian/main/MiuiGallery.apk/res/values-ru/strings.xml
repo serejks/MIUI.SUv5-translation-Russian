@@ -284,6 +284,16 @@
     <string name="clear_thumbnail_cache_confirm">Все эскизы вашей галереи будут удалены. Галерея будет вновь просканирована во время просмотра для создания эскизов. Это отразится на скорости просмотра.</string>
     <string name="cleaning_cache">Очистка кэша…</string>
     <string name="seconds">сек.</string>
+	<string name="screensaver_category">Заставка</string>
+    <string name="screensaver_activate_mode">Слайдшоу</string>
+    <string name="screensaver_activate_only_charging">Активировать заставку только на зарядке</string>
+    <string name="screensaver_path">Альбом: </string>
+    <string name="screensaver_path_not_set">Не установлено</string>
+    <string name="set_screensaver_path_title">Слайдшоу на заставке</string>
+    <string name="set_screensaver_path_message">Фотографии в этом альбоме будут показана через 5 секунд после выключения экрана. Это сообщение не будет показано снова.</string>
+    <string name="screensaver_no_data">Нет изображений.</string>
+    <string name="slideshow_time_select_title">Выберите время слайдшоу</string>
+    <string name="slideshow_time_title">Время слайдшоу</string>
     <string name="rename_failed">Не удалось переименовать</string>
     <string name="rename_failed_duplicated_name">Такое имя уже существует, не удалось переименовать</string>
     <string name="warn">Предупреждение</string>
@@ -304,6 +314,8 @@
     <string name="menu_item_sort_date_desc">Дата по убыванию</string>
     <string name="operation_rename">Переименовать</string>
     <string name="operation_refresh">Обновить</string>
+	<string name="operation_set_as_screensaver">Изспользовать как заставку</string>
+    <string name="operation_unset_as_screensaver">Отмена</string>
     <string name="how_many_videos">Видео: %d</string>
     <string name="how_many_sub_folders">Папок: %d</string>
     <string name="how_many_pics">Фото: %d</string>
@@ -328,7 +340,7 @@
     <string name="cloud_tab_albums">Альбомы</string>
     <string name="cloud_tab_locations">Расположение</string>
     <string name="cloud_album_set_create">Новый</string>
-    <string name="big_screen_alertdialog_title">Xiaomi Box</string>
+    <string name="big_screen_alertdialog_title">Список устройств</string>
 	<string name="email_picker_title">Добавить общий E-mail</string>
 	<string name="enter_email_hint">"Введите адрес E-mail "</string>
 	<string name="exit_share">Закрыть альбом</string>

@@ -147,4 +147,14 @@
     <string name="next">Далее</string>
     <string name="previous">Назад</string>
     <string name="finish">Готово</string>
+	<string name="comment_publish">Подтвердить</string>
+	<string name="edit_comment_title">Редактировать</string>
+	<string name="edit_comment">Добавить комментарий</string>
+	<string name="edit_text_default">Написать</string>
+	<string name="comment_sending">Идёт отправка…</string>
+	<string name="comment_upload_failed">Ошибка отправки!</string>
+	<string name="comment_upload_hint">Спасибо за ваш отзыв.</string>
+	<string name="comment_upload_success">Комментарий отправлен!</string>
+	<string name="comment_invalid">Нажмите на звезду чтобы оставить оценку</string>
+	<string name="comment_upload_not_logined">Необходимо войти в аккаунт</string>
 </resources>

@@ -330,6 +330,11 @@
     <string name="display_warn_remove_ungrouped">Удаление группы \"%s\" из синхронизации приведет к удалению любых несгруппированных контактов из синхронизации.</string>
 	<string name="dlg_add_blacklist">Заблокировать номер?</string>
 	<string name="dlg_remove_blacklist">Разблокировать номер?</string>
+	<string name="close_dial_pad">закрыть номеронабиратель</string>
+    <string name="dial">номеронабиратель</string>
+    <string name="delete_dial_input">удалить</string>
+    <string name="clear_digits">очистить номер</string>
+    <string name="call_record_setting_miui">Настройки записи звонков</string>
     <string name="account_phone">Телефон, без синхронизации</string>
     <string name="call_custom">Позвонить (%s)</string>
     <string name="call_home">Домашний тел.</string>

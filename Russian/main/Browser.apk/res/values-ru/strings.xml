@@ -524,6 +524,7 @@
 	<string name="download_complete">"Загрузка завершена"</string>
 	<string name="download_dialog_file_length_hint_txt">Размер файла</string>
 	<string name="download_dialog_file_length_lessthan1kb">Менее 1 Кб</string>
+	<string name="download_dialog_default_path_invalid">"Недопустимый путь загрузки, будет использоваться путь по-умолчанию"</string>
 	<string name="download_dialog_file_length_nolength_error_txt">Не удалось получить данные</string>
 	<string name="download_dialog_file_length_nolength_txt">Загрузка…</string>
 	<string name="app_update_install">"Новая версия загружена и готова к установке"</string>

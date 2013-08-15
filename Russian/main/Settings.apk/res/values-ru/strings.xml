@@ -2421,4 +2421,8 @@
     <string name="sim_management_title">SIM менеджер</string>
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Информация об IMEI</string>
+	<string name="xiaomi_cloud_service">MiCloud</string>
+    <string name="xiaomi_money_service">MiCredit</string>
+	<string name="noise_suppression">Подавление шумов</string>
+    <string name="phone_call_noise_suppression">Подавление лишних шумов при разговоре</string>
 </resources>
