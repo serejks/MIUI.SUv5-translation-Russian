@@ -30,7 +30,7 @@
         <item>Нет</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Стартовая страница</item>
+        <item>Популярные сайты</item>
         <item>Часто посещаемые веб-сайты</item>
         <item>Другая</item>
     </string-array>

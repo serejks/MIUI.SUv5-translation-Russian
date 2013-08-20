@@ -514,7 +514,7 @@
     <string name="importing_progress_private_message">Импортирую сообщения в приватный ящик</string>
     <string name="exporting_progress_private_message">Экспортирую сообщения из приватного ящика</string>
     <string name="confirm_export_dialog_title">Удалить приватные контакты</string>
-	<string name="confirm_no_block_positive">Отменить блокирование</string>
+	<string name="confirm_no_block_positive">ОК</string>
 	<string name="confirm_no_block_title">Отменить блокирование и восстановить в сообщения?</string>
     <string name="confirm_export_dialog_description">Удалить 1 выбранный приватный контакт и перевести диалог в обычный режим?</string>
 	<string name="confirm_restore_positive">Восстановить</string>

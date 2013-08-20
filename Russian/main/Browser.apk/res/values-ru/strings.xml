@@ -572,6 +572,6 @@
 	<string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить стандартные настройки для сохранения файлов?</string>
 	<string name="pref_file_download_save_modify_default_path">Изменить место хранения</string>
 	<string name="geolocation_permissions_prompt_toast_disallowed">Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки&gt; Конфиденциальность и безопасность&gt; Очистить доступ к местоположению.</string>
-	<string name="pref_content_homepage">Сделать стартовой страницей</string>
+	<string name="pref_content_homepage">Стартовая страница</string>
 	<string name="search">Поиск</string>
 </resources>
