@@ -1249,10 +1249,10 @@
     <string name="accessibility_system_title">Система</string>
     <string name="accessibility_toggle_large_text_title">Большой текст</string>
     <string name="accessibility_power_button_ends_call_title">Кнопка питания заверш. вызов</string>
-    <string name="accessibility_speak_password_title">Произнести пароль</string>
+    <string name="accessibility_speak_password_title">Произносить пароль</string>
     <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string>
     <string name="accessibility_touch_exploration_summary">Когда \"подсказки при нажатии\" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.\n\nЭта функция предназначена для людей с нарушением зрения.</string>
-    <string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
+    <string name="accessibility_long_press_timeout_title">Задержка нажатия и удержания</string>
     <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
     <string name="accessibility_menu_item_tutorial">Обучение</string>

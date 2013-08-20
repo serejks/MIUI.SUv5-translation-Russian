@@ -148,8 +148,8 @@
     <string name="pref_video_hdr_title">Съемка в HDR</string>
     <string name="pref_video_hdr_entry_on">Включить</string>
     <string name="pref_video_hdr_entry_off">Выключить</string>
-    <string name="my_image">Camera</string>
-    <string name="my_record">Camera</string>
+    <string name="my_image">DCIM</string>
+    <string name="my_record">DCIM</string>
     <string name="front_facing_camera_error">Фронтальная камера недоступна!</string>
     <string name="burst_shot_not_available_for_panorama">Непрерывная съека не работает в режиме панорамы</string>
     <string name="burst_shot_not_available_for_hdr">Непрерывная съека не работает в режиме HDR</string>
@@ -328,7 +328,7 @@
     <string name="group_by">Сортировать по</string>
     <string name="settings">Настройки</string>
     <string name="add_account">Добавить аккаунт</string>
-    <string name="folder_camera">Camera</string>
+    <string name="folder_camera">DCIM</string>
     <string name="folder_download">Загруженные</string>
     <string name="folder_imported">Импортированные</string>
     <string name="folder_screenshot">Скриншоты</string>
@@ -346,7 +346,7 @@
     <string name="confirm_delete">Подтвердить удаление</string>
     <string name="local_albums">Галерея</string>
     <string name="cloud_albums">Альбомы в облаке</string>
-    <string name="my_img">Camera</string>
+    <string name="my_img">DCIM</string>
     <string name="upload_picture">Добавить изображение</string>
     <string name="download_picture">Загрузить изображение</string>
     <string name="notification_up_start">Вы можете контролировать процесс отправки файлов с помощью менеджера передачи файлов</string>

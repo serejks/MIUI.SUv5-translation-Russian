@@ -313,7 +313,7 @@
     <string name="cleanup_complete">Готово</string>
     <string name="garbage_size_metric">"%s
 Мусор"</string>
-    <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+    <string name="garbage_item_name_format" formatted="false">%s (%s)</string>
     <string name="garbage_item_path_format" formatted="false">%s %s</string>
     <string name="account_bind_prompt">Перемещение пользовательских данных\nэто может занять несколько минут,\nваш аккаунт будет временно заблокирован, пожалуйста подождите…</string>
     <string name="migrate_announcement_title">MiDriver был перенесен на KuaiPan</string>

@@ -298,7 +298,7 @@
 	<string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
 	<string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
 	<string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\".</string>
-	<string name="download_pending">Начинается загрузка…</string>
+	<string name="download_pending">Загрузка запущена…</string>
 	<string name="dump_nav">Сбросить кэш навигации</string>
 	<string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
 	<string name="picasa">Picasa</string>
@@ -311,7 +311,7 @@
 	<string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
 	<string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
 	<string name="loading_video">Загрузка видео…</string>
-	<string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
+	<string name="geolocation_permissions_prompt_message">%s - запрос местоположени</string>
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
 	<string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
@@ -551,6 +551,8 @@
 	<string name="not_enough_disk_space_alert">Нет свободного места</string>
 	<string name="download_video_alert_title">Предупреждение</string>
 	<string name="download_video_alert_message">Загрузка видео через мобильный интернет может повлечь за собой большие затраты трафика, продолжить?</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.ru</string>
+    <string name="common_use_phrase_bottom_bar_paste_txt">Вставить</string>
 	<string name="download_video_start_down_toast">"Загрузить видео: %1$s"</string>
     <string name="menu_download_video">"Загруженные видео"</string>
     <string name="download_video_unseleted_all">"Снять всё"</string>
