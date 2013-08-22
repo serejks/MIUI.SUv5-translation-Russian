@@ -311,7 +311,7 @@
 	<string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
 	<string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
 	<string name="loading_video">Загрузка видео…</string>
-	<string name="geolocation_permissions_prompt_message">%s - запрос местоположени</string>
+	<string name="geolocation_permissions_prompt_message">%s - запрос местоположения</string>
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
 	<string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
