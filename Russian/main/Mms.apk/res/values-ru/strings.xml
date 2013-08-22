@@ -83,6 +83,9 @@
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
 	<string name="restore_blocked_message">Восстановить заблокированные сообщения</string>
 	<string name="overwrite_edited_content">Будет перезаписано содержимое, продолжить?</string>
+	<string name="back_to_message_list">Назад к списку сообщений</string>
+    <string name="select_recipient">Выбор получателя</string>
+    <string name="send_sms">Отправить</string>
     <string name="forward_prefix">Fwd: </string>
     <string name="discard_message">Отменить</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель.</string>

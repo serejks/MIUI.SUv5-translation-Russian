@@ -252,4 +252,7 @@
     <string name="free_style_drawer_title">Все приложения</string>
     <string name="guide_install_app_title">Установить приложение</string>
     <string name="guide_install_app_msg">Приложение не установлено. Найти его в Маркете и загрузить?</string>
+	<string name="menu_customize">Настройки</string>
+    <string name="menu_picktheme">Выбрать тему</string>
+    <string name="scroll_tip_format_when_announce_accessibility">На странице %1$d, приложений: %2$d</string>
 </resources>
