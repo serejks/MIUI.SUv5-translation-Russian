@@ -403,4 +403,8 @@
         <item>1.5 сек.</item>
         <item>2 сек.</item>
   </string-array>
+  <string-array name="phone_call_noise_suppression_title">
+        <item>Один микрофон</item>
+        <item>Двойной микрофон</item>
+  </string-array>
 </resources>
