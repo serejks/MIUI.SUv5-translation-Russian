@@ -655,7 +655,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Удалить все</string>
     <string name="select_none">Ничего не выбрано, операция невозможна</string>
-    <string name="toast_finish_delete_call_log">История сообщений удалена</string>
+    <string name="toast_finish_delete_call_log">История удалена</string>
     <string name="confirm_delete_contact_all_call_logs">Удалить все журналы вызовов контакта %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Удалить все журналы вызовов контакта?</string>
     <string name="confirm_delete_selected_call_log">Удалить выбранное из журнала?</string>

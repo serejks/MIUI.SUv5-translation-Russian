@@ -208,7 +208,7 @@
     <string name="cannot_send_message">Не удается отправить сообщение</string>
 	<string name="has_invalid_recipient">Недопустимых получателей: &lt;%1$s></string>
     <string name="cannot_send_message_reason">Ваше сообщение не имеет допустимых получателей.</string>
-    <string name="show_hidden_albums">Отобр. скрытые альбомы</string>
+    <string name="show_hidden_albums">Скрытые альбомы</string>
     <string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Не удалось загрузить изображение!</string>
@@ -271,7 +271,7 @@
     <string name="show_hidden_album">Отобр. скрытые альбомы</string>
     <string name="auto_create_recent_album">Автосоздание избранных альбомов</string>
 	<string name="landscape_mode">Включить альбомный режим</string>
-	<string name="photo_page_always_rotate">Автоповорот изображений</string>
+	<string name="photo_page_always_rotate">Автоповорот</string>
     <string name="auto_create_recent_album_over_ten_times">Автоматическое создание избранного альбома, если он открыт более 10 раз</string>
     <string name="not_auto_create_recent_album">Отменить автоматическое создание Избранных альбомов</string>
     <string name="auto_create_recent_album_confirm">После отключения этой функции, Галерея очистит накопленные данные. Избранные альбомы назначенные пользователем затронуты не будут. Вы можете добавить в альбом в Избранное нажав и удерживая палец на нем.</string>
