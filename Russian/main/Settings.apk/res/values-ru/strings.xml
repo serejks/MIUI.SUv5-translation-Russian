@@ -2423,6 +2423,7 @@
     <string name="slot_status_title">Информация об IMEI</string>
 	<string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
-	<string name="noise_suppression">Подавление шумов</string>
+	<string name="noise_suppression">Шумоподавление</string>
     <string name="phone_call_noise_suppression">Подавление лишних шумов при разговоре</string>
+	<string name="sync_wifi_only">Только по Wi-Fi</string>
 </resources>
