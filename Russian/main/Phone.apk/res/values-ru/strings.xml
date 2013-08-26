@@ -936,7 +936,7 @@
 	<string name="enable_proximity_title_miui">Включить датчик приближения</string>
 	<string name="enable_sim_pin_miui">Включить SIM PIN</string>
 	<string name="enable_telocation_title_miui">Показать местоположение</string>
-	<string name="enforce_proximity_summary_miui">Предотвращает пробуждения телефона, когда им не пользуются</string>
+	<string name="enforce_proximity_summary_miui">Автоблокировка телефона, при помещении в карман</string>
 	<string name="enforce_proximity_title_miui">Датчик приближения</string>
 	<string name="enter_pin2_text_miui">PIN2</string>
 	<string name="fdn_change_pin_sum_miui">Изменить PIN для доступа к FDN</string>
@@ -950,8 +950,8 @@
 	<string name="go_private_miui">Включить приватный режим</string>
 	<string name="hac_mode_summary_miui">Включить усиление звука</string>
 	<string name="hac_mode_title_miui">Усиление звука</string>
-	<string name="handon_ringer_summary_miui">Затихание при входящем звонке</string>
-	<string name="handon_ringer_title_miui">Телефон в руках</string>
+	<string name="handon_ringer_summary_miui">Телефон не будет вибрировать во время разговора</string>
+	<string name="handon_ringer_title_miui">Не вибрировать</string>
 	<string name="hangup_sms_miui">Отклонить с SMS</string>
 	<string name="ignore_miui">Игнорировать</string>
 	<string name="importing_sim_contacts_miui">Импортирование контактов SIM…</string>

@@ -26,7 +26,7 @@
 	<string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности.</string>
 	<string name="ssl_continue">Продолжить</string>
 	<string name="security_warning">Угроза безопасности</string>
-	<string name="view_certificate">Просмотреть сертификат</string>
+	<string name="view_certificate">Просмотр серт.</string>
 	<string name="ssl_go_back">Назад</string>
 	<string name="ssl_untrusted">Этот сертификат получен из ненадежных источников.</string>
 	<string name="ssl_mismatch">Название сайта не соответствует названию в сертификате.</string>
