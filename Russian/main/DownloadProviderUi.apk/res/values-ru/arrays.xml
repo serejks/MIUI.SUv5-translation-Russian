@@ -8,4 +8,13 @@
         <item>Музыка</item>
         <item>Прочее</item>
     </string-array>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>20 Мб</item>
+        <item>10 Мб</item>
+        <item>5 Мб</item>
+        <item>2 Мб</item>
+        <item>1 Мб</item>
+        <item>512 Кб</item>
+        <item>Только по Wi-Fi</item>
+    </string-array>
 </resources>

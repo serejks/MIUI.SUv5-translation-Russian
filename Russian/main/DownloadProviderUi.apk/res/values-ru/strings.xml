@@ -65,7 +65,7 @@
     <string name="pref_summary_enable_max_bytes_popup">Уведомление о превышении лимита на размер файла</string>
     <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="pref_summary_max_bytes_limit_format">Уведомление появится, если размер превысит %s</string>
-    <string name="pref_summary_any_bytes_popup">Always queue for Wi-Fi network</string>
+    <string name="pref_summary_any_bytes_popup">Всегда только по Wi-Fi</string>
     <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="might_lead_to_mobile_charge">Отключение уведомлений может привести к дополнительным расходам!</string>
     <string name="cancel_download_notice">Не уведомлять о загрузках</string>
