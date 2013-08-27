@@ -52,7 +52,7 @@
     <string name="screenshot_saving_title">Сохранение снимка экрана…</string>
     <string name="screenshot_saving_text">Сохранение снимка экрана</string>
     <string name="screenshot_saved_title">Снимок экрана сохранен</string>
-    <string name="screenshot_saved_text">Нажмите, чтобы просмотреть снимок экрана.</string>
+    <string name="screenshot_saved_text">Нажмите, для просмотра снимка.</string>
     <string name="screenshot_failed_title">Невозможно сделать снимок экрана</string>
     <string name="screenshot_failed_text">Невозможно сохранить снимок экрана. Накопитель уже используется.</string>
     <string name="usb_preference_title">Настройки передачи файлов по USB</string>
@@ -262,8 +262,8 @@
     <string name="mdb_entering">Вход</string>
     <string name="status_bar_recording_back">Нажмите, для возврата в Диктофон</string>
     <string name="status_bar_recording_pause">Запись на паузе. Нажмите, для возврата в Диктофон</string>
-    <string name="headset_settings">Наушники подключены</string>
-    <string name="headset_info">Настроить функции кнопок</string>
+    <string name="headset_settings">Наушники подключ.</string>
+    <string name="headset_info">Настроить кнопоки</string>
     <string name="headset_custom">Настроить</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Входящий вызов</string>

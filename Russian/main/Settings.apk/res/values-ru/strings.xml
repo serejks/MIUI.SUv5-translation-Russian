@@ -161,7 +161,7 @@
     <string name="headset_settings">Гарнитура</string>
     <string name="headset_function">Назначение кнопок</string>
     <string name="headset_mode_volume">Регулировка громкости - вверх/вниз</string>
-    <string name="headset_mode_music">Воспроизведение музыки - предыдущий/следующий</string>
+    <string name="headset_mode_music">Воспроизведение - пред/след трек</string>
     <string name="headset_calibrate">Калибровка кнопок</string>
     <string name="headset_calibrate_hint">"Нажмите верхнюю кнопку"</string>
     <string name="headset_calibrate_success">"Настройки установлены"</string>
