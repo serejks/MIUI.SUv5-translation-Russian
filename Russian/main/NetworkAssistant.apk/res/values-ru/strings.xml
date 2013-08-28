@@ -21,7 +21,7 @@
     <string name="pref_traffic_daily_limit_settings">Настройки дневного лимита</string>
     <string name="pref_connect_settings_title">Настройки приложения Монитор</string>
     <string name="pref_connect_settings_notify_in_statusbar">Иконка в панели уведомлений</string>
-    <string name="pref_connect_settings_exceed_limit">Выкл.интернет при дост.порога</string>
+    <string name="pref_connect_settings_exceed_limit">Выкл.интернет по дост.порога</string>
     <string name="pref_connect_settings_exceed_limit_hint">Уведомить и отключить передачу данных при достижении порога</string>
     <string name="pref_connect_settings_enable_backgroung">Включить фоновые службы</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Разрешить подключение к сети приложениям в фоне</string>
@@ -118,7 +118,7 @@
     <string name="app_traffic_detail">" трафик(%s)"</string>
     <string name="sms_match_fail">ошибка SMS</string>
     <string name="pref_network_status_bar">Панель уведомлений</string>
-    <string name="pref_network_speed_settings">Скорость сети в панели уведомлений</string>
+    <string name="pref_network_speed_settings">Показывать скорость сети</string>
     <string name="pref_network_speed_internal_title">Интервал опроса</string>
     <string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
     <string name="force_stop_dlg_title">Завершить?</string>
