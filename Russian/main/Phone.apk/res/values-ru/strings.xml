@@ -843,12 +843,15 @@
 	<string name="call_recording_notification_summary_miui">Показывать уведомление в строке состояния когда запись окончена</string>
 	<string name="call_recording_notification_title_miui">Уведомление записи</string>
 	<string name="call_recording_prompt_miui">Открыть запись звонка</string>
+	<string name="call_record_button_label">Запись %s</string>
+	<string name="call_record_unknown_error">Ошибка записи</string>
 	<string name="call_record_notification_message_low_space_miui">Запись остановлена из-за нехватки памяти, показать %s.</string>
 	<string name="call_record_notification_message_miui">Показать %s.</string>
 	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена. SD карта недоступна</string>
 	<string name="call_record_notification_title_error_miui">Ошибка записи</string>
 	<string name="call_record_notification_title_miui">Запись завершена</string>
 	<string name="call_record_sample_prefix_miui">Запись вызовов</string>
+	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением.</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD карте!</string>
 	<string name="call_record_sd_space_low_miui">На SD карте мало места. Удалите несколько файлов и попробуйте еще.</string>
 	<string name="call_record_path_name_of_sdcard_miui">SD карта</string>

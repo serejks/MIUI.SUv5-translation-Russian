@@ -80,7 +80,9 @@
     <string name="preference_silent_mode">Выключить звук во время записи</string>
     <string name="preference_silent_mode_summary">Нажмите для включения режима без звука во время записи</string>
 	<string name="preference_record_type_title">Тип записи</string>
+	<string name="preference_scenes">Режим записи</string>
 	<string name="preference_record_type_dialog_title">Выберите тип записи</string>
+	<string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
 	<string name="duration_format_hour">%s ч.</string>
 	<string name="duration_format_minute">%s мин.</string>

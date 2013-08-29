@@ -301,6 +301,7 @@
     <string name="send_multiple_files_hint_format">Отправка файлов (%s)</string>
     <string name="send">Отправить</string>
     <string name="sd_not_available">Устройство хранения отключено или недоступно</string>
+	<string name="select_too_much_to_send_tips">Выбранных фотографий для отправки слишком много. Максимум: %d.</string>
     <string name="internal_sd_card">Внутренняя память</string>
     <string name="external_sd_card">SD карта</string>
     <string name="external_usb_device">USB устройство</string>

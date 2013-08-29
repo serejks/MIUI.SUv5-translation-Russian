@@ -6,7 +6,9 @@
     <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
     <string name="confirm_delete_all_SIM_messages">С SIM-карты будут удалены все сообщения.</string>
     <string name="confirm_delete_SIM_message">Сообщение будет удалено с SIM-карты.</string>
+	<string name="confirm_restore_all_title">Восстановить все сообщения от этого контакта?</string>
     <string name="sim_manage_messages_title">Текстовые сообщения на SIM-карте</string>
+	<string name="restore_all_button_msg">Восстановить все сообщения от этого контакта</string>
     <string name="sim_empty">На SIM-карте нет сообщений.</string>
     <string name="sim_full_title">SIM-карта заполнена</string>
     <string name="save_to_sim">Сохранено на SIM-карту</string>
@@ -527,5 +529,5 @@
     <string name="menu_pick_from_contact">Выбрать из контактов</string>
     <string name="select_local_audio">Выбор локального аудио…</string>
     <string name="select_local_video">Выбор локального видео…</string>
-    <string name="mx_recommend_msg">Включите Облачные сообщения. Нажмите для включения и отправки сообщений бесплатно (Только для Китая!)</string>
+    <string name="mx_recommend_msg">Включите Облачные сообщения. Нажмите для включения и отправки сообщений бесплатно.</string>
 </resources>

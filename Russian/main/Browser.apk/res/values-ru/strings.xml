@@ -242,7 +242,16 @@
 	<string name="pref_lab_fullscreen">Во весь экран</string>
 	<string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
 	<string name="pref_data_title">Настройки контента</string>
+	<string name="pref_save_bandwidth_mode_title">Мобильный трафик</string>
+	<string name="pref_save_bandwidth_mode_summary">Запретить загрузку изображений при использовании мобильного интернета.</string>
+	<string name="menu_enable_save_bandwidth_mode">Включить мобильный трафик</string>
+	<string name="menu_disable_save_bandwidth_mode">Отключить мобильный трафик</string>
+	<string name="menu_save_bandwidth_mode_first_clicked_txt">Не загружать изображения при использовании мобильного интернета</string>
+	<string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ОК</string>
+	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено</string>
+	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено</string>
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg">SD-карта отключена</string>
 	<string name="pref_data_preload_summary">"
 Разрешить браузеру предварительно загружать результаты поиска в фоне."</string>
 	<string name="pref_data_preload_value_never_summary">"
@@ -407,6 +416,7 @@
 	<string name="same_folder_name_warning">Папка с таким именем уже существует</string>
 	<string name="same_bookmarks_warning">Закладка с таким именем уже существует</string>
 	<string name="have_sent_bookmark_to_home_screen">Отправлена на рабочий стол</string>
+	<string name="folder_name_too_long">Имя папки слишком длинное</string>
 	<string name="bookmark_this_page_to_readmodelist">Добавить страницу с список чтения</string>
 	<string name="readmodelist_bookmarks_to_show">Список чтения</string>
 	<string name="bookmark_to_readmodelist_saved">Сохранено в список чтения и закладки</string>

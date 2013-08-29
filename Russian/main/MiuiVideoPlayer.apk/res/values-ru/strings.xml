@@ -47,7 +47,7 @@
     <string name="top_status_online_media">Онлайн медиа</string>
     <string name="loading_video_netplay_label_v5">Загрузка видео. Подождите…</string>
     <string name="buffering_video_netplay_label_v5">Буферизация</string>
-    <string name="to_be_play_label_v5">Новые видео</string>
+    <string name="to_be_play_label_v5">"Загружаемое видео "</string>
     <string name="about_version_label">Версия</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">XiaoMi digit</string>

@@ -60,6 +60,10 @@
         <item quantity="other">треков добавлено в плейлист: %d.</item>
         <item quantity="one">1 трек добавлен в плейлист.</item>
     </plurals>
+	<plurals name="Nsearch_results">
+		<item quantity="other">Результатов: %d</item>
+		<item quantity="one">Результатов: %d</item>
+	</plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" категорий"</item>
         <item quantity="one">" категория"</item>
