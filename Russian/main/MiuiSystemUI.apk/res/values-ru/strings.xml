@@ -328,7 +328,7 @@
     <string name="recording_tip">Нажмите, для возврата к записи</string>
     <string name="no_notification_tips">Нет уведомлений</string>
     <string name="ext_media_mountable_notification_title">USB подключено</string>
-    <string name="ext_media_mountable_notification_message">Запуск файл менеджера</string>
+    <string name="ext_media_mountable_notification_message">Запустить файл менеджер</string>
     <string name="ext_media_safe_remove">Извлечь</string>
 	<string name="status_bar_toggle_wifi_ap">Точка доступа Wi-Fi</string>
     <string name="status_bar_toggle_quiet_mode">Тихий режим</string>
@@ -337,7 +337,7 @@
 	<string name="settings_custom_notification">Настройка уведомлений</string>
     <string name="settings_all_app_display_loading">Загрузка…</string>
     <string name="settings_show_notificationBar_notification">Отображать уведомления</string>
-    <string name="settings_show_statusBar_notification">Скрыть в статусбаре</string>
+    <string name="settings_show_statusBar_notification">Уведомления в строке сост.</string>
     <string name="filter_item_preview_image">предпросмотр</string>
 	<string name="filter_item_description">Вы можете задать пользовательские настройки отображения уведомлений для каждого приложения.</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Обновление</string>
-    <string name="apply_now_button_text">Обновить сейчас</string>
+    <string name="apply_now_button_text">Обновить</string>
     <string name="download_whole_rom">Загрузить (%s)</string>
     <string name="download_ota_rom">Загрузить (%s)</string>
     <string name="apply_later_button_text">Применить позже</string>
@@ -42,8 +42,8 @@
     <string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает</string>
     <string name="file_not_found_error_message">Запрошенный файл не найден</string>
     <string name="apply_upload_info_message_manually">После перезагрузки, вы можете вручную зайти в Recovery для применения обновления %s с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
-    <string name="apply_upload_info_message">Нажатие \"Обновить сейчас\" автоматичеки перезагружает аппарат после применения обновления</string>
-    <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить сейчас\", для отмены нажмите \"Применить позже\".</string>
+    <string name="apply_upload_info_message">Нажатие \"Обновить\" автоматичеки перезагружает аппарат после применения обновления</string>
+    <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить\", для отмены нажмите \"Применить позже\".</string>
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
     <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
     <string name="system_backup_ok_text">Бэкап</string>
