@@ -70,7 +70,7 @@
     <string name="pref_title_silent_install">Тихая установка</string>
 	<string name="pref_summary_auto_update_via_wifi">Автообновление через Wi-Fi при выключенном экране.</string>
     <string name="app_comments_title">" Комментариев: %1$s"</string>
-    <string name="edit_comment_title">Комментарий: %1$s</string>
+    <string name="edit_comment_title">Комментариев: %1$s</string>
     <string name="app_comments">Комментарии к приложению</string>
 	<string name="app_comments_footer">Пустые комментарии не отображаются</string>
     <string name="edit_comment">Добавить комментарий</string>
