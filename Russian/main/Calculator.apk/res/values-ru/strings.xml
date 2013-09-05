@@ -38,4 +38,6 @@
     <string name="eDesc">число Эйлера</string>
     <string name="piDesc">число \"пи\"</string>
     <string name="equalDesc">равно</string>
+	<string name="switch_to_scientific_pad">Научный режим</string>
+	<string name="switch_to_standard_pad">Базовый режим</string>
 </resources>

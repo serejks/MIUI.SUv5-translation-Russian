@@ -180,6 +180,7 @@
     <string name="unstick_conversation">Снять закрепление диалога</string>
     <string name="sticked_conversation">Диалог закреплен</string>
     <string name="unsticked_conversation">Закрепление диалога снято</string>
+	<string name="invalid_conversation">Неверный диалог</string>
     <string name="select_conversations">Выбрать цепочки</string>
     <string name="no_conversations">Пока ничего нет</string>
     <string name="loading_conversations">Загрузка обсуждений…</string>
