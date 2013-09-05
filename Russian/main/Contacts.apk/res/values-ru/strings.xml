@@ -106,8 +106,8 @@
     <string name="contactsAllLabel">Контакты</string>
     <string name="contactsGroupsLabel">Группы</string>
     <string name="contactsFavoritesLabel">Избранные</string>
-    <string name="dialerIconLabel">Последние</string>
-    <string name="recentCallsIconLabel">Вызовы</string>
+    <string name="dialerIconLabel">Вызовы</string>
+    <string name="recentCallsIconLabel">Журнал вызовов</string>
     <string name="menu_sendTextMessage">Отправить сообщение</string>
     <string name="recentCalls_callNumber">Вызвать %s</string>
     <string name="liveFolderAll">Все контакты</string>
