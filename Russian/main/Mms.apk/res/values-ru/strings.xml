@@ -46,6 +46,7 @@
     <string name="drm_protected_text">* Текст защищен средствами DRM *</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно.</string>
     <string name="copy_message_text">Скопировать текст</string>
+	<string name="copy_message_text_success">Текст скопирован</string>
     <string name="message_options">Параметры сообщения</string>
     <string name="done">Готово</string>
     <string name="move_up">Переместить вверх</string>
