@@ -21,7 +21,7 @@
     <string name="sim_card_detection_status_absent">SIM-карта не обнаружена!</string>
     <string name="setup_complete_label">Спасибо</string>
     <string name="setup_complete_info">После реализации услуга будет активирована один раз и вы сможете использовать ваш телефон</string>
-    <string name="setup_complete_start">Ваш телефон готов к использованию!</string>
+    <string name="setup_complete_start">Телефон готов к использованию!</string>
     <string name="setup_complete_summary">Настройка завершена! Наслаждайтесь MIUI!</string>
     <string name="traffic_protection_label">Регулировка трафика</string>
     <string name="traffic_protection_summary">Регулировка трафика напомнит Вам когда закончится трафик на вашем тарифном плане во избежание превышения расходов.</string>

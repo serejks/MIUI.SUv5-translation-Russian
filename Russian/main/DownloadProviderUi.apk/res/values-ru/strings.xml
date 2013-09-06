@@ -75,5 +75,5 @@
     <string name="editmode_menu_share">Поделиться</string>
     <string name="editmode_menu_delete">Удалить</string>
     <string name="all_downloads">Все загрузки</string>
-    <string name="app_downloads">Загрузок: %s</string>
+    <string name="app_downloads">Загрузки: %s</string>
 </resources>
