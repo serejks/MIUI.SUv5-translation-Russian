@@ -323,8 +323,8 @@
     <string name="permgroupdesc_developmentTools">Функции, необходимые только для разработчиков приложений.</string>
     <string name="permgrouplab_storage">Память</string>
     <string name="permgroupdesc_storage">Доступ к USB-хранилищу.</string>
-    <string name="permlab_IMS">Use IMS feature</string>
-    <string name="permdesc_IMS">Allows the application to access the IMS features of the device.</string>
+    <string name="permlab_IMS">Использование функции IMS</string>
+    <string name="permdesc_IMS">Позволяет приложению получать доступ к функциям IMS.</string>
     <string name="permlab_statusBar">Отключение/изменение строки состояния</string>
     <string name="permdesc_statusBar">Позволяет отключить/изменить строку состояния или добавить/удалить системные значки.</string>
     <string name="permlab_statusBarService">Строка состояния</string>
@@ -541,8 +541,8 @@
     <string name="permdesc_accessMtp">Дает доступ к ядру MTP драйвера, для выполнения MTP USB протокола.</string>
     <string name="permlab_hardware_test">Тест оборудования</string>
     <string name="permdesc_hardware_test">Позволяет приложениям контролировать периферию для тестирования устройства.</string>
-    <string name="permlab_hdmi_suspend">Suspend HDMI mirroring</string>
-    <string name="permdesc_hdmi_suspend">HDMI mirroring suspended when app is at foreground.</string>
+    <string name="permlab_hdmi_suspend">Приостановление отображения HDMI</string>
+    <string name="permdesc_hdmi_suspend">Позволяет приложению приостанавливать зеркальное отображение HDMI.</string>
     <string name="permlab_callPhone">Непосредственный доступ к вызовам</string>
     <string name="permdesc_callPhone">Позволяет приложениям совершать звонки без вашего вмешательства. Вредоносное ПО может совершать звонки на платные номера без вашего ведома. Эта функция не дает возможности приложениям набирать экстренные номера.</string>
     <string name="permlab_callPrivileged">Полный доступ ко всем вызовам</string>
@@ -593,8 +593,8 @@
     <string name="permdesc_writeApnSettings">Позволяет приложениям изменять настройки сети, следить за трафиком и перехватиывать его, например, изменение проксли и порта любого APN. Вредоносное ПО может мониторить, перенаправлять или изменять пакеты данных без вашего ведома.</string>
     <string name="permlab_changeNetworkState">Изменять подключения</string>
     <string name="permdesc_changeNetworkState">Позволяет приложениям изменять состояние подключения.</string>
-    <string name="permlab_changeTetherState">Изменять shared-подключение</string>
-    <string name="permdesc_changeTetherState">Позволяет приложениям изменять состояние подключенного сетевого канала.</string>
+    <string name="permlab_changeTetherState">Подключение к компьютеру</string>
+    <string name="permdesc_changeTetherState">Позволяет приложеню изменять настройки подключения к компьютеру.</string>
     <string name="permlab_changeBackgroundDataSetting">Фоновое использование передачи данных</string>
     <string name="permdesc_changeBackgroundDataSetting">Позволяет приложениям изменять настройки фоновой передачи данных.</string>
     <string name="permlab_accessWifiState">Данные о состоянии Wi-Fi</string>
