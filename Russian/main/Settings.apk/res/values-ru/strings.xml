@@ -264,7 +264,7 @@
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
     <string name="airplane_mode">В самолёте</string>
-    <string name="radio_controls_title">Ещё</string>
+    <string name="radio_controls_title">Дополнительно</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
     <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим \"В самолёте\", мобильные сети и VPN</string>
     <string name="roaming">Интернет-роуминг</string>
@@ -501,7 +501,7 @@
     <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Поиск сетей Wi-Fi…</string>
     <string name="wifi_other_network">Прочие сети…</string>
-    <string name="wifi_more">Ещё</string>
+    <string name="wifi_more">Дополнительно</string>
     <string name="wifi_setup_wps">Автонастройка (WPS)</string>
 	<string name="wifi_share">Поделиться сетью</string>
 	<string name="wifi_share_action_turn_off">Остановить доступ к сети</string>

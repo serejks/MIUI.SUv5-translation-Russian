@@ -213,7 +213,7 @@
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ссылка на параметры</string>
     <string name="airplane_mode">Автономный режим</string>
-    <string name="radio_controls_title">Дополнительно…</string>
+    <string name="radio_controls_title">Дополнительно</string>
     <string name="wireless_networks_settings_title">Сеть</string>
     <string name="radio_controls_summary">Управление Wi-Fi, Bluetooth, автономным режимом, мобильными сетями и VPN</string>
     <string name="roaming">Данные в роуминге</string>
@@ -488,7 +488,7 @@
     <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Поиск сетей Wi-Fi…</string>
     <string name="wifi_other_network">Другие сети</string>
-    <string name="wifi_more">Опции</string>
+    <string name="wifi_more">Дополнительно</string>
     <string name="wifi_setup_wps">Автоматическая настройка (WPS)</string>
     <string name="wifi_show_advanced">Показать дополнительные параметры</string>
     <string name="wifi_wps_pin">Введите PIN-код точки доступа</string>
