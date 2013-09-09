@@ -24,8 +24,8 @@
     <string name="quicksearchbox_description">Поиск приложений</string>
 	<string name="data_save_mode_tip">Изображение отключены в настройках</string>
     <string name="more_app">Что топового</string>
-	<string name="delete_confirm">Вы уверены, что хотите удалить выбранные приложения: %1$s?</string>
-	<string name="delete_confirm_system_app">Вы уверены, что хотите удалить %1$s приложений? %2$s в системном разделе.</string>
+	<string name="delete_confirm">Удалить выбранные приложения: %1$s?</string>
+	<string name="delete_confirm_system_app">Удалить %1$s приложений? %2$s в системном разделе.</string>
 	<string name="delete_selected_apps">Удалить</string>
 	<string name="deleting">Удаление</string>
 	<string name="install_earlier">Ранее</string>
@@ -56,7 +56,7 @@
 	<string name="pref_list_use_online_server">Использовать сервер продукта</string>
 	<string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
     <string name="pref_list_data_network">Только данные</string>
-	<string name="size_interval">%1$d~%2$dM</string>
+	<string name="size_interval">%1$d~%2$d Мб</string>
 	<string name="size_more_than_one_hundred">Более 100 МБ</string>
     <string name="pref_list_disable">Никогда</string>
     <string name="pref_list_per_week">Еженедельно</string>
@@ -76,6 +76,7 @@
     <string name="edit_comment">Добавить комментарий</string>
     <string name="edit_text_default">Введите комментарий</string>
     <string name="comment_publish">Подтвердить</string>
+    <string name="comment_date">%1$02d.%2$02d</string>
     <string name="comment_description">%1$s%2$1s</string>
     <string name="comment_count">Всего комментариев: %1$s</string>
     <string name="comment_average_score">Средняя оценка</string>
@@ -123,7 +124,7 @@
     <string name="permissions_title">%1$s данные разрешений</string>
     <string name="permissions_expand_title">Все разрешения</string>
     <string name="version_name">Версия %1$s</string>
-    <string name="search_other_market">Показать еще</string>
+    <string name="search_other_market">Похожие</string>
     <string name="result_notice">Результаты предоставляемые Baidu App Center</string>
     <string name="search_not_found">\"%1$s\" не найдено</string>
     <string name="show_all_local_app">Показать все установленные</string>
@@ -210,7 +211,7 @@
     <string name="install_sign_not_same_message">%1$s обновлений не соответствуют подписям установленных приложений. Удалите локальные приложения и повторите. Продолжить?</string>
     <string name="install_sign_not_same_btn_remove">Удалить и обновить</string>
     <string name="install_google_base_title">Установить Google Service Framework</string>
-    <string name="install_google_base_message">“%1$s” для работы запрашивает Google Service Framework</string>
+    <string name="install_google_base_message">\"%1$s\" для работы запрашивает Google Service Framework</string>
     <string name="install_google_base_button">Установить сейчас</string>
 	<string name="upgrade_all_title">Обновит все приложения</string>
     <string name="upgrade_all_description">Обновить %1$s и %2$s?</string>

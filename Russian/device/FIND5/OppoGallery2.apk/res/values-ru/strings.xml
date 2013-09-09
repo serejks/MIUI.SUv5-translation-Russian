@@ -328,10 +328,10 @@
     <string name="group_by">Сортировать по</string>
     <string name="settings">Настройки</string>
     <string name="add_account">Добавить аккаунт</string>
-    <string name="folder_camera">DCIM</string>
-    <string name="folder_download">Загруженные</string>
-    <string name="folder_imported">Импортированные</string>
-    <string name="folder_screenshot">Скриншоты</string>
+    <string name="folder_camera">"DCIM/Camera"</string>
+    <string name="folder_download">"DCIM/Download"</string>
+    <string name="folder_imported">"DCIM/Imported"</string>
+    <string name="folder_screenshot">"DCIM/Screenshots"</string>
     <string name="help">Справка</string>
     <string name="rename_picture">Переименовать</string>
     <string name="invalid_character">Имя файла не может содержать неверные символы</string>
