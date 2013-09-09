@@ -32,11 +32,11 @@
     <string name="menu_reset_scene">По умолчанию</string>
     <string name="menu_exit_scene">Выход</string>
     <string name="permlab_install_shortcut">Установка ярлыков</string>
-    <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без вмешательства пользователя</string>
+    <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя.</string>
     <string name="permlab_uninstall_shortcut">Удалить ярлыки</string>
-    <string name="permdesc_uninstall_shortcut">Позволяет приложению удалять ярлыки без участия пользователя</string>
+    <string name="permdesc_uninstall_shortcut">Позволяет приложению удалять ярлыки без участия пользователя.</string>
     <string name="permlab_install_widget">Установить виджеты</string>
-    <string name="permdesc_install_widget">Разрешить приложению добавлять виджеты</string>
+    <string name="permdesc_install_widget">Разрешить приложению добавлять виджеты.</string>
     <string name="permlab_read_settings">Считывать настройки и ярлыки главного экрана</string>
     <string name="permdesc_read_settings">Позволяет приложению считывать настройки и ярлыки на главном экране.</string>
     <string name="permlab_write_settings">Записать настройки и ярлыки главного экрана</string>
@@ -94,7 +94,7 @@
     <string name="widget_favorite_contacts_label">Избранные контакты</string>
     <string name="widget_favorite_contacts_edit">Редактор</string>
     <string name="widget_favorite_contacts_style">Вид</string>
-    <string name="edit_folder_title">Изменение</string>
+    <string name="edit_folder_title">Переименовать</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Отмена</string>
     <string name="sort_by_not_defined">По порядку</string>
@@ -207,8 +207,8 @@
     <string name="select_photo">Фото</string>
     <string name="select_frame">Рамка</string>
     <string name="photo_confirm">Готово</string>
-    <string name="photo_load_failed">Ошибка загрузки фото!</string>
-    <string name="frame_load_failed">Ошибка загрузки рамки!</string>
+    <string name="photo_load_failed">Ошибка загрузки фото.</string>
+    <string name="frame_load_failed">Ошибка загрузки рамки.</string>
     <string name="gadget_weather_loading">Нет данных о погоде</string>
     <string name="gadget_weather_title_24">Погода 4x2</string>
     <string name="gadget_weather_title_14">Погода 4x1</string>
