@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Отмена</string>
-    <string name="copy">"Копировать "</string>
-    <string name="copyUrl">"Копировать URL "</string>
-    <string name="cut">"Вырезать "</string>
+    <string name="copy">" Копировать "</string>
+    <string name="copyUrl">" Копировать URL "</string>
+    <string name="cut">" Вырезать "</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
     <string name="emptyPhoneNumber">(Нет номера телефона)</string>
     <string name="httpErrorBadUrl">Не могу открыть страницу, неверная ссылка.</string>
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
     <string name="no">Отмена</string>
     <string name="ok">OK</string>
-    <string name="paste">"Вставить "</string>
+    <string name="paste">" Вставить "</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">"Выбрать все "</string>
+    <string name="selectAll">" Выбрать все "</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;без имени&gt;</string>
     <string name="VideoView_error_button">ОК</string>
