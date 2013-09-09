@@ -2062,7 +2062,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="user_remove_user_menu">Удалить</string>
     <string name="user_new_user_name">Надоеда</string>
     <string name="user_confirm_remove_title">Удалить аккаунт?</string>
-    <string name="user_confirm_remove_message">Действительно удалить с устройства аккаунт пользователя и все его данные?</string>
+    <string name="user_confirm_remove_message">Удалить с устройства аккаунт пользователя и все его данные?</string>
     <string name="app_notifications_switch_label">Выводить уведомления</string>
     <string name="help_label">Справка</string>
     <string name="cell_broadcast_settings">Сообщения сети (CB)</string>

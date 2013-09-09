@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Анти-спам</string>
+	<string name="app_name">Антиспам</string>
 	<string name="firewall_settings_tab_title">Правила</string>
 	<string name="black_white_list_tab_title">Фильтры</string>
 	<string name="call_log_tab_title">Звонки</string>
@@ -90,7 +90,7 @@
 	<string name="clear_all_calllog">Очистить журнал вызовов</string>
 	<string name="clear_all_mslog">Очистить журнал сообщений</string>
 	<string name="calllog">Журнал вызовов</string>
-	<string name="firewall_log">Журнал анти-спама</string>
+	<string name="firewall_log">Журнал антиспама</string>
 	<string name="fw_on">Режим \"Не беспокоить\" включен</string>
 	<string name="firewall_settings">Настройки режима \"Не беспокоить\"</string>
 	<string name="remove">Удалить</string>
@@ -137,7 +137,7 @@
 	<string name="turn_on_smart_antispam_title">Определение неизвестных номеров</string>
 	<string name="turn_on_smart_antispam_summary_on">Только по Wi-Fi и 3G</string>
 	<string name="turn_on_smart_antispam_summary_off">Только с токальной базой</string>
-	<string name="bl_block_info" formatted="false">Заблокировано: %d, Информация: %d</string>
+	<string name="bl_block_info" formatted="false">Заблокировано: %d, данные: %d</string>
 	<string name="bl_no_blacklist">Черный список отсутствует</string>
 	<string name="bl_no_block_call">Все заблокированные вызовы будут храниться в этом журнале</string>
 	<string name="bl_no_block_sms">Все заблокированные сообщения будут храниться в этом журнале</string>

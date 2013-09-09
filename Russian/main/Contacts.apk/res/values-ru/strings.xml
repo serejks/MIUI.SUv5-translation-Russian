@@ -51,7 +51,7 @@
     <string name="menu_new_contact_action_bar">Добавить</string>
     <string name="menu_new_group_action_bar">Новая группа</string>
     <string name="splitConfirmation_title">Разделение данных</string>
-    <string name="splitConfirmation">Действительно разделить этот контакт?</string>
+    <string name="splitConfirmation">Разделить этот контакт?</string>
     <string name="menu_joinAggregate">Объединить</string>
     <string name="titleJoinContactDataWith">Объединить контакты</string>
     <string name="blurbJoinContactDataWith">Выберите контакт, который нужно объединить с этим адресатом: %s.</string>
@@ -121,7 +121,7 @@
     <string name="recentCalls_shareVoicemail">Поделиться голосовой почтой</string>
     <string name="recentCalls_empty">Список вызовов пуст.</string>
     <string name="clearCallLogConfirmation_title">Очистить список вызовов</string>
-    <string name="clearCallLogConfirmation">Действительно очистить список вызовов?</string>
+    <string name="clearCallLogConfirmation">Очистить список вызовов?</string>
     <string name="clearCallLogProgress_title">Очистка списка вызовов</string>
     <string name="clearFrequentsConfirmation_title">Очистить список часто используемых?</string>
     <string name="clearFrequentsConfirmation">Очиститить список часто использыумых в приложениях \"Контакты\" и \"Телефон\", и заставите приложение электронной почты создать список часто используемых с нуля.</string>
@@ -896,7 +896,7 @@
     <string name="no_contacts_dialog_title">Контакты не найдены</string>
     <string name="no_contacts_dialog_message">Не найдены соответствия в ваших контактах. Возможно контакты находятся на SIM карте, импортируйте их в телефон.</string>
     <string name="cancel_import_dialog_title">Остановить импортирование</string>
-    <string name="cancel_import_dialog_message">Действительно остановить импорт контактов?</string>
+    <string name="cancel_import_dialog_message">Остановить импорт контактов?</string>
     <string name="title_paired_devices">Соединенные устройства</string>
     <string name="title_other_devices">Доступные устройства</string>
     <string name="button_scan">Сканировать еще раз</string>
