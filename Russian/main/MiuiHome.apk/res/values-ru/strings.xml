@@ -61,6 +61,8 @@
     <string name="status_bar_toggle_data">Данные</string>
     <string name="status_bar_toggle_divider">Еще</string>
     <string name="status_bar_toggle_drive_mode">За рулем</string>
+    <string name="status_bar_toggle_wifi_ap">Точка Wi-Fi</string>
+    <string name="status_bar_toggle_quiet_mode">Тихий режим</string>
     <string name="status_bar_toggle_flight_mode">В самолете</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Блокировка</string>
