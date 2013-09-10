@@ -6,7 +6,7 @@
     <string name="menu_send">Отправить отчет</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_attach_screenshot">Прикрепить скришнот</string>
-    <string name="menu_discard">Сброс</string>
+    <string name="menu_discard">Отменить</string>
     <string name="description">Описание на английском (обязательно)</string>
     <string name="btn_send">Отправить</string>
     <string name="err_type">Тип отчета</string>

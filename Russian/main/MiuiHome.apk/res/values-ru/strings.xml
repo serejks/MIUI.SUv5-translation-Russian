@@ -121,7 +121,7 @@
     <string name="resource_app_name">Обзор ресурсов</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_buy">Купить</string>
-    <string name="resource_can_not_selected">%1$s не может быть выбрано!</string>
+    <string name="resource_can_not_selected">Невозможно выбрать: %1$s!</string>
     <string name="resource_default">Стандартный рингтон</string>
     <string name="resource_default_name">Ресурсы</string>
     <string name="resource_delete_all">Выбрано ресурсов: %1$d. Удалить?</string>

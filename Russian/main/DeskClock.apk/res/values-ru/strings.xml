@@ -183,7 +183,7 @@
 	<string name="resource_default_name">Ресурсы</string>
 	<string name="resource_detail">Свойства</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d шт.)?</string>
-	<string name="resource_can_not_selected">%1$s не может быть выбрано!</string>
+	<string name="resource_can_not_selected">Невозможно выбрать: %1$s!</string>
 	<string name="resource_system_title">Системные ресурсы</string>
 	<string name="resource_downloaded_title">Загруженные ресурсы</string>
 	<string name="resource_see_more">Еще</string>

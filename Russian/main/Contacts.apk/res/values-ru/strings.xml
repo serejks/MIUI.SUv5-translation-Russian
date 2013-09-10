@@ -939,7 +939,7 @@
     <string name="cloud_antispam_summary">Сетевые запросы только при Wi-Fi или 3G</string>
     <string name="resource_app_name">Диспетчер ресурсов</string>
     <string name="resource_price_free">Бесплатно</string>
-    <string name="resource_price_unit">MI Кредиты</string>
+    <string name="resource_price_unit">MI Деньги</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">Изменен статус SD-карты</string>
     <string name="sdcard_status_changed_dialog_message">Приложение будет выключено.\nЗапустите снова это приложение, чтобы обновить ресурсы.</string>
