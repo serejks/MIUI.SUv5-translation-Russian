@@ -216,7 +216,7 @@
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="settings_notification_icon">Уведомления в строке состояния</string>
     <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
-    <string name="settings_show_network_speed">Отобр. скорость соединения</string>
+    <string name="settings_show_network_speed">Скорость соединения</string>
     <string name="settings_expanded_view">Панель уведомлений</string>
     <string name="settings_expandable_under_keyguard">На экране блокировки</string>
     <string name="settings_expandable_under_keyguard_summary">Работает, если для разблокировки не установлен пароль</string>

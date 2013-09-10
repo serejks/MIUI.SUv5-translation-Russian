@@ -2035,7 +2035,7 @@
     <string name="back_long_press_timeout">Время задержки</string>
     <string name="enable_snapshot_screenlock">Фото на экране блокировки</string>
     <string name="power_key">Клавиша питания</string>
-    <string name="disable_power_key_long_press_under_keyguard">Выкл. на экране блокировки</string>
+    <string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
     <string name="media_button">Клавиша медиа</string>
     <string name="preferred_media_app_summary">Выберите музыкальный плеер</string>
     <string name="no_media_button_receiver">Нет</string>
@@ -2121,7 +2121,7 @@
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
-    <string name="silent_mode_title">Режим без звука</string>
+    <string name="silent_mode_title">Без звука</string>
     <string name="wifi_wapi_certification_dont_exist">Введён неверный пароль. Попробуйте ещё раз</string>
     <string name="please_type_passphrase">Пароль сети</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -2351,7 +2351,7 @@
     <string name="bluetooth_enable">Включение Bluetooth</string>
     <string name="sync_enable">Синхронизация</string>
     <string name="accessibility_enable">Вкл. доступность</string>
-    <string name="development_enable">Вкл. разработку</string>
+    <string name="development_enable">Режим разработчика</string>
     <string name="device_name">Имя устройства</string>
     <string name="device_edit_title">Изменить имя устройства</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
@@ -2427,6 +2427,6 @@
 	<string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
 	<string name="noise_suppression">Шумоподавление</string>
-    <string name="phone_call_noise_suppression">Подавление лишних шумов при разговоре</string>
+    <string name="phone_call_noise_suppression">Подавление шумов при разговоре</string>
 	<string name="sync_wifi_only">Только по Wi-Fi</string>
 </resources>
