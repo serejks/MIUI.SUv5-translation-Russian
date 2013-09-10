@@ -170,7 +170,7 @@
     <string name="pref_enable_drawing_cache_title">Кеш графики</string>
     <string name="pref_enable_drawing_cache_summary">Отключение освобождает память. Вызывает некоторое подтормаживания</string>
     <string name="pref_icon_shadow_title">Тени значков</string>
-    <string name="pref_icon_shadow_summary">Вкл/выкл тени значков рабочего стола</string>
+    <string name="pref_icon_shadow_summary">Тени значков рабочего стола</string>
     <string name="pref_screen_transformation_type_title">Эффекты перехода</string>
     <string name="transformation_type_classic">Классический</string>
     <string name="transformation_type_classic_no_overshoot">Классический (Без прокрутки)</string>

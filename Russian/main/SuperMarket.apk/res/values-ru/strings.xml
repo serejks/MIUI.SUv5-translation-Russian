@@ -120,7 +120,7 @@
     <string name="megabytes_unit">%1$s Мб</string>
     <string name="rank_app_name">%1$s. %2$s</string>
     <string name="category_header">Все %1$s</string>
-    <string name="publish_info">%3$s Дата: %1$s.%2$s</string>
+    <string name="publish_info">Версия: %3$s Дата: %1$s.%2$s</string>
     <string name="permissions_title">%1$s данные разрешений</string>
     <string name="permissions_expand_title">Все разрешения</string>
     <string name="version_name">Версия %1$s</string>
