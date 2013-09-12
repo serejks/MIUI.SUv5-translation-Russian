@@ -89,8 +89,8 @@
 	<string name="back_to_message_list">Назад к списку сообщений</string>
     <string name="select_recipient">Выбор получателя</string>
     <string name="send_sms">Отправить</string>
-	<string name="file_share_message_description">Я поделился с тобой файлами</string>
-    <string name="addBlackList">Добавить в чёрный список</string>
+	<string name="file_share_message_description">Я поделился с вами файлами</string>
+    <string name="addBlackList">В черный список</string>
     <string name="confirm_add_blacklist_dialog_dspt">Заблокировать номер?</string>
     <string name="batch_adding_progress_message">Добавление…</string>
     <string name="forward_prefix">Fwd: </string>
