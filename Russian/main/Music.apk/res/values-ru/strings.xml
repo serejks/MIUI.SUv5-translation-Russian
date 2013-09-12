@@ -121,6 +121,7 @@
     <string name="sort_by_album">Альбомы</string>
     <string name="sort_by_artist">Исполнители</string>
     <string name="music_picker_title">Музыка</string>
+	<string name="empty_track_list">Нет треков</string>
     <string name="search_settings_description">Исполнители, Альбомы и Треки</string>
     <string name="search_hint">Поиск музыки</string>
     <string name="all_tracks">Все песни</string>

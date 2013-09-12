@@ -890,6 +890,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="audio_record_proc_title">Подавление шумов</string>
     <string name="volume_media_description">Музыка, видео, игры и другие файлы мультимедиа</string>
     <string name="volume_ring_description">Мелодия и уведомления</string>
+	<string name="login_website_in_case_forget_password">Посетите i.xiaomi.com для сброса пароля в случае, если вы его забудете.</string>
     <string name="volume_notification_description">Уведомления</string>
     <string name="volume_alarm_description">Будильник</string>
     <string name="volume_ring_mute">Отключить звук мелодии и уведомлений</string>

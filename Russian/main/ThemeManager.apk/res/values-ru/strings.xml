@@ -44,7 +44,7 @@
 	<string name="theme_import_from_sdcard">Импорт с SD-карты</string>
 	<string name="theme_select_others">Другие</string>
 	<string name="third_party_pickers_activity_title">Установить %1$s</string>
-	<string name="lockstyle_personal_settings">Изменение</string>
+	<string name="lockstyle_personal_settings">Персонализация</string>
 	<string name="component_lockstyle_personal_title">Настройки</string>
 	<string name="wallpaper_settings">Настройки обоев</string>
 	<string name="desktop_wallpaper">Рабочий стол</string>

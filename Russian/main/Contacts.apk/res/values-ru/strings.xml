@@ -335,6 +335,7 @@
     <string name="delete_dial_input">удалить</string>
     <string name="clear_digits">очистить номер</string>
     <string name="call_record_setting_miui">Настройки записи звонков</string>
+	<string name="save">Сохранить</string>
     <string name="account_phone">Телефон, без синхронизации</string>
     <string name="call_custom">Позвонить (%s)</string>
     <string name="call_home">Домашний тел.</string>
