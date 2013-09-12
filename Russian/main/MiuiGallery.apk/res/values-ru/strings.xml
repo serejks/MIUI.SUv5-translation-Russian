@@ -249,7 +249,7 @@
     <string name="adding_recipients">Добавление получателей…</string>
     <string name="album_name">Имя альбома</string>
     <string name="album_share_stat_content">Новые приглашения для альбома</string>
-	<string name="album_share_kicked">Вы были удалены из альбома: %1$s</string>
+	<string name="album_share_kicked">Вас удалили из альбома: %1$s</string>
     <string name="album_share_title_new_album">Новый альбом</string>
     <string name="album_share_subtitle_not_ready">Информация об альбоме не загружена. Нажмите для загрузки.</string>
     <string name="album_share_subtitle_requesting">Загрузка информации об альбоме...</string>
@@ -288,7 +288,7 @@
     <string name="seconds">сек.</string>
 	<string name="screensaver_category">Заставка</string>
     <string name="screensaver_activate_mode">Слайдшоу</string>
-    <string name="screensaver_activate_only_charging">Активировать заставку только на зарядке</string>
+    <string name="screensaver_activate_only_charging">Заставка только на зарядке</string>
     <string name="screensaver_path">Альбом: </string>
     <string name="screensaver_path_not_set">Не установлено</string>
     <string name="set_screensaver_path_title">Слайдшоу на заставке</string>
@@ -367,7 +367,7 @@
 	<string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
 	<string name="request_sms_url_title">Совет</string>
 	<string name="scan_qr_code">Потребуется сканировать QR-код, чтобы получить ссылку на общий альбом.</string>
-	<string name="share_album">Отправить альбом</string>
+	<string name="share_album">Поделиться альбомом</string>
 	<string name="share_album_owner">Владелец</string>
 	<string name="share_album_qr_code">QR-код</string>
 	<string name="share_album_share_to">Поделиться с</string>
