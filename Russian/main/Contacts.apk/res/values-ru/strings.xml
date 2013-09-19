@@ -230,13 +230,20 @@
     <string name="description_image_button_star">пометить</string>
     <string name="description_image_button_zero">нуль</string>
     <string name="description_image_button_pound">решетка</string>
+    <string name="description_voicemail_button">голосовая почта</string>
+    <string name="description_search_button">поиск</string>
+    <string name="description_dial_button">набор</string>
+    <string name="description_delete_button">удалить</string>
+    <string name="description_digits_edittext">номер для набора</string>
     <string name="description_contact_photo">фотография контакта</string>
     <string name="description_minus_button">минус</string>
+    <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Данные контакта</string>
     <string name="no_sdcard_title">Нет SD-карты</string>
     <string name="no_sdcard_message">SD-карта не обнаружена</string>
     <string name="searching_vcard_title">Поиск vCard</string>
-    <string name="import_from_sim">Импортировать с SIM-карты</string>
+    <string name="import_from_sim">Импортировать с SIM-карты 1</string>
+    <string name="import_from_sim2">Импортировать с SIM-карты 2</string>
     <string name="import_from_sdcard">Импорт из накопителя</string>
     <string name="export_to_sdcard">Экспорт на накопитель</string>
     <string name="share_visible_contacts">Передать видимые контакты</string>
@@ -604,6 +611,7 @@
     <string name="callrecordview_menu_show_all">Все звонки</string>
     <string name="callrecordview_menu_show_missed">Пропущенные</string>
 	<string name="callrecordview_menu_show_new">Новые контакты</string>
+    <string name="callrecordview_menu_show_sim">Вызовов: %s</string>
     <string name="callrecordview_menu_show_called">Исходящие</string>
     <string name="callrecordview_menu_show_accepted">Принятые</string>
     <string name="callrecordview_menu_show_stranger">Неизвестные</string>
@@ -611,6 +619,7 @@
     <string name="callrecordview_menu_delete_all">Очистить журнал вызовов</string>
     <string name="callrecordview_menu_delete_missed">Очистить пропущенные</string>
 	<string name="callrecordview_menu_delete_new">Очистить новые контакты</string>
+    <string name="callrecordview_menu_delete_sim">Очистить журнал вызовов %s</string>
     <string name="callrecordview_menu_delete_called">Очистить исходящие</string>
     <string name="callrecordview_menu_delete_accepted">Очистить принятые</string>
     <string name="callrecordview_menu_delete_stranger">Очистить неизвестные</string>
@@ -664,6 +673,7 @@
     <string name="calllog_menu_edit_before_call">Редактировать перед звонком</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="menu_call_ip_number">IP телефония (набрать %s)</string>
+    <string name="menu_dial_ip_number">Звонов IP телефонии</string>
     <string name="delete_contact_calllog_title">Удалить историю звонков контакта?</string>
     <string name="delete_unknown_contact_calllog_title">Удалить историю звонков неизвестных контактов?</string>
     <string name="account_default">Телефон</string>
@@ -737,7 +747,8 @@
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
     <string name="import_weibo_progress_hint">Импортирование…</string>
     <string name="export_vcard_description">Экспорт vCard на SD карту</string>
-    <string name="export_to_sim">Экспорт на SIM карту</string>
+    <string name="export_to_sim">Экспорт на SIM карту 1</string>
+    <string name="export_to_sim2">Экспорт на SIM карту 2</string>
     <string name="export_to_sim_title">Экспортирование на SIM карту…</string>
     <string name="sim_card_no_free_space_title">SIM карта заполнена</string>
     <string name="sim_card_no_free_space_message">Ваша SIM карта переполнена, невозможно импортировать новые контакты. Освободите место на SIM карте и попробуйте снова</string>
@@ -927,6 +938,7 @@
     <string name="device_import_done_toast">%1$d контактов импортировано</string>
     <string name="device_import_progress_toast">%1$d контактов импортировано только что</string>
     <string name="no_contact_in_other_phone">В вашем телефоне нет контактов</string>
+    <string name="no_connection_dialog_title">Ошибка подключения Bluetooth</string>
     <string name="add_xiaomi_account_dialog_title">Выберите аккаунт для контактов</string>
     <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять ваши контакты в аккаунте Xiaomi. Аккаунт Xiaomi позволяет синхронизировать контакты и получать к ним доступ с вашего компьютера.</string>
     <string name="add_xiaomi_account_dialog_btn">Использовать аккаунт Xiaomi</string>
@@ -1020,7 +1032,29 @@
 	<string name="delete_sim_entries_finish">Контакты с SIM-карты удалены</string>
 	<string name="delete_sim_entry_miui">Удалить</string>
 	<string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
+    <string name="imei_invalid">Недействительный IMEI</string>
 	<string name="deleting">Удаление…</string>
 	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? \nКонтактов: %d</string>
 	<string name="activity_not_found_uri">Приложения для открытия файлов данного формата не найдено</string>
+    <string name="sim_capacity">View SIM Card Capacity</string>
+    <string name="sim_capacity_content" formatted="false">phone number book Storage Capacity %d，has been used %d。</string>
+    <string name="has_double_phone_number">Cannot save same type number twice, please check it.</string>
+    <string name="phone_book_busy">Phone book is busy now,please try later.</string>
+    <string name="sim_invalid">Cannot save contact when SIM card is invalid.</string>
+    <string name="cannot_insert_null_number">Cannot save contact whose name and number are empty.</string>
+    <string name="AirPlane_mode_on">Cannot save contact when Airplane mode is on.</string>
+    <string name="FDNEnabled">Cannot save contact when FDN Enabled.</string>
+    <string name="sim_invalid_number">Cannot save invalid number.</string>
+    <string name="email_invalid">Cannot save invalid email.</string>
+    <string name="email_2g_invalid">Cannot save email to 2G SIM, please select 3G SIM to save.</string>
+    <string name="sim_invalid_fix_number">Cannot save invalid fix number.</string>
+    <string name="AirPlane_mode_on_edit">Cannot edit contact when Airplane mode is on.</string>
+    <string name="msg_loading_sim_contacts_toast">Loading SIM contacts in the background, please wait for a mement.</string>
+    <string name="fix_number_too_long">Fix number is too long.</string>
+    <string name="name_too_long">Имя слишком длинное.</string>
+    <string name="storage_full">Storage is full.</string>
+    <string name="number_too_long">Number is too long.</string>
+    <string name="generic_failure">Generic Failure.</string>
+    <string name="email_too_long">E-mail слишком длинный.</string>
+    <string name="error_save_usim_contact_email_lost">Failed to save Email address because the USIM storage for Email is full.</string>
 </resources>

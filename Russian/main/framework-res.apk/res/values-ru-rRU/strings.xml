@@ -307,10 +307,44 @@
     <string name="permgroupdesc_messages">Позволяет читать и создавать sms, e-mail, и другие сообщения.</string>
     <string name="permgrouplab_personalInfo">Персональная информация</string>
     <string name="permgroupdesc_personalInfo">Доступ к списку контактов и календарю, сохранённым в смартфоне.</string>
+    <string name="permgrouplab_socialInfo">Your social information</string>
+    <string name="permgroupdesc_socialInfo">Direct access to information about your contacts and social connections.</string>
     <string name="permgrouplab_location">Местоположение</string>
     <string name="permgroupdesc_location">Позволяет отслеживать Ваше местоположение</string>
     <string name="permgrouplab_network">Взаимодействие с сетью</string>
     <string name="permgroupdesc_network">Доступ к различным функциям сети.</string>
+    <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
+    <string name="permgroupdesc_bluetoothNetwork">Access devices and networks through Bluetooth.</string>
+    <string name="permgrouplab_audioSettings">Audio Settings</string>
+    <string name="permgroupdesc_audioSettings">Change audio settings.</string>
+    <string name="permgrouplab_affectsBattery">Affects Battery</string>
+    <string name="permgroupdesc_affectsBattery">Use features that can quickly drain battery.</string>
+    <string name="permgrouplab_calendar">Calendar</string>
+    <string name="permgroupdesc_calendar">Direct access to calendar and events.</string>
+    <string name="permgrouplab_dictionary">Read User Dictionary</string>
+    <string name="permgroupdesc_dictionary">Read words in user dictionary.</string>
+    <string name="permgrouplab_writeDictionary">Write User Dictionary</string>
+    <string name="permgroupdesc_writeDictionary">Add words to the user dictionary.</string>
+    <string name="permgrouplab_bookmarks">Bookmarks and History</string>
+    <string name="permgroupdesc_bookmarks">Direct access to bookmarks and browser history.</string>
+    <string name="permgrouplab_deviceAlarms">Alarm</string>
+    <string name="permgroupdesc_deviceAlarms">Set the alarm clock.</string>
+    <string name="permgrouplab_voicemail">Voicemail</string>
+    <string name="permgroupdesc_voicemail">Direct access to voicemail.</string>
+    <string name="permgrouplab_microphone">Microphone</string>
+    <string name="permgroupdesc_microphone">Direct access to the microphone to record audio.</string>
+    <string name="permgrouplab_camera">Camera</string>
+    <string name="permgroupdesc_camera">Direct access to camera for image or video capture.</string>
+    <string name="permgrouplab_appInfo">Your applications information</string>
+    <string name="permgroupdesc_appInfo">Ability to affect behavior of other applications on your device.</string>
+    <string name="permgrouplab_wallpaper">Wallpaper</string>
+    <string name="permgroupdesc_wallpaper">Change the device wallpaper settings.</string>
+    <string name="permgrouplab_systemClock">Clock</string>
+    <string name="permgroupdesc_systemClock">Change the device time or timezone.</string>
+    <string name="permgrouplab_statusBar">Status Bar</string>
+    <string name="permgroupdesc_statusBar">Change the device status bar settings.</string>
+    <string name="permgrouplab_syncSettings">Sync Settings</string>
+    <string name="permgroupdesc_syncSettings">Access to the sync settings.</string>
     <string name="permgrouplab_accounts">Ваши аккаунты</string>
     <string name="permgroupdesc_accounts">Доступ к имеющимся аккаунтам.</string>
     <string name="permgrouplab_hardwareControls">Управление аппаратным обеспечением</string>
@@ -321,6 +355,8 @@
     <string name="permgroupdesc_systemTools">Низкоуровневый доступ и управление системой.</string>
     <string name="permgrouplab_developmentTools">Средства разработки</string>
     <string name="permgroupdesc_developmentTools">Функции, необходимые только для разработчиков приложений.</string>
+    <string name="permgrouplab_display">Other Application UI</string>
+    <string name="permgroupdesc_display">Effect the UI of other applications.</string>
     <string name="permgrouplab_storage">Память</string>
     <string name="permgroupdesc_storage">Доступ к USB-хранилищу.</string>
     <string name="permlab_IMS">Использование функции IMS</string>
@@ -353,6 +389,12 @@
     <string name="permdesc_receiveWapPush">Позволяет получать и обрабатывать WAP-сообщения. Вредоносные приложения отслеживать Ваши сообщения или удалять их, не показывая Вам.</string>
     <string name="permlab_getTasks">Получение списка запущенных приложений</string>
     <string name="permdesc_getTasks">Позволяет получать информацию о текущих или недавно запущенных задачах. Вредоносные приложения могут получить доступ к закрытой информации о других приложениях.</string>
+    <string name="permlab_interactAcrossUsers">interact across users</string>
+    <string name="permdesc_interactAcrossUsers">Allows the app to perform actions across different users on the device. Malicious apps may use this to violate the protection between users.</string>
+    <string name="permlab_interactAcrossUsersFull">full license to interact across users</string>
+    <string name="permdesc_interactAcrossUsersFull">Allows all possible interactions across users.</string>
+    <string name="permlab_manageUsers">manage users</string>
+    <string name="permdesc_manageUsers">Allows apps to manage users on the device, including query, creation and deletion.</string>
     <string name="permlab_getDetailedTasks">Получать детали работающих приложений</string>
     <string name="permdesc_getDetailedTasks">Позволяет приложению получать информацию о запущенных приложениях. Вредоносные приложения могут получить доступ к конфиденциальной информации.</string>
     <string name="permlab_reorderTasks">Изменение порядка запущенных приложений</string>
@@ -379,6 +421,14 @@
     <string name="permdesc_dump">Позволяет получить внутреннее состояние системы. Вредоносные приложения могут получить доступ к разнообразной конфиденциальной информации. Никогда не требуется для обычных приложений.</string>
     <string name="permlab_retrieve_window_content">Доступ к содержимому экрана</string>
     <string name="permdesc_retrieve_window_content">Позволяет получить содержимое активного окна. Вредоносные приложения могут извлечь содержимое активного окна и изучить текст, кроме паролей.</string>
+    <string name="permlab_temporary_enable_accessibility">temporary enable accessibility</string>
+    <string name="permdesc_temporary_enable_accessibility">Allows an application to temporarily enable accessibility on the device. Malicious apps may enable accessibility without user consent.</string>
+    <string name="permlab_retrieve_window_info">retrieve window info</string>
+    <string name="permdesc_retrieve_window_info">Allows an application to retrieve information about the the windows from the window manager. Malicious apps may retrieve information that is intended for internal system usage.</string>
+    <string name="permlab_filter_events">filter events</string>
+    <string name="permdesc_filter_events">Allows an application to register an input filter which filters the stream of all user events before they are dispatched. Malicious app may control the system UI whtout user intervention.</string>
+    <string name="permlab_magnify_display">magnify display</string>
+    <string name="permdesc_magnify_display">Allows an application to magnify the content of a display. Malicious apps may transform the display content in a way that renders the device unusable.</string>
     <string name="permlab_shutdown">Частичное выключение</string>
     <string name="permdesc_shutdown">Завершает работу диспетчера активности. Не выполняет полное завершение работы</string>
     <string name="permlab_stopAppSwitches">Запрет переключения между приложениями</string>
@@ -397,6 +447,8 @@
     <string name="permdesc_setAlwaysFinish">Позволяет закрывать приложения как только они начинают работать в фоновом режиме. Не требуется для обычных приложений.</string>
     <string name="permlab_batteryStats">Изменение статистики батареи</string>
     <string name="permdesc_batteryStats">Позволяет изменять собранную статистику батареи. Обычные приложения не должны использовать.</string>
+    <string name="permlab_updateBatteryStats">modify battery statistics</string>
+    <string name="permdesc_updateBatteryStats">Allows the app to modify collected battery statistics. Not for use by normal apps.</string>
     <string name="permlab_backup">Управление резервным копированием и восстановлением</string>
     <string name="permdesc_backup">Позволяет управлять механизмом резервного копирования и восстановления. Обычные приложения не должны использовать.</string>
     <string name="permlab_confirm_full_backup">Подтверждение операции полного резервного копирования или восстановления</string>
@@ -409,6 +461,8 @@
     <string name="permdesc_setAnimationScale">Позволяет в любое время изменять общую скорость анимации.</string>
     <string name="permlab_manageAppTokens">Управление признаками приложений</string>
     <string name="permdesc_manageAppTokens">Позволяет создавать и управлять своими собственными признаками, минуя их нормальную Z-последовательность. Никогда не должно использоваться нормальными приложениями.</string>
+    <string name="permlab_freezeScreen">freeze screen</string>
+    <string name="permdesc_freezeScreen">Allows the application to temporarily freeze the screen for a full-screen transition.</string>
     <string name="permlab_injectEvents">Нажатие клавиш и кнопок управления</string>
     <string name="permdesc_injectEvents">Позволяет предоставлять свои собственные события ввода (нажания клавиш и т.п.) другим приложениям. Вредоносные приложения смогут контролировать весь телефон.</string>
     <string name="permlab_readInputState">Запись введённого Вами текста и совершённых действий</string>
@@ -507,6 +561,10 @@
     <string name="permdesc_accessSurfaceFlinger">Позволяет приложениям использовать функции SurfaceFlinger.</string>
     <string name="permlab_readFrameBuffer">Чтение данных буфера</string>
     <string name="permdesc_readFrameBuffer">Дает доступ приложений к содержанию буфера.</string>
+    <string name="permlab_configureWifiDisplay">configure Wifi displays</string>
+    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
+    <string name="permlab_controlWifiDisplay">control Wifi displays</string>
+    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wifi displays.</string>
     <string name="permlab_modifyAudioSettings">Изменение настроек аудио</string>
     <string name="permdesc_modifyAudioSettings">Позволяет приложениям изменять глобальные настройки аудио, такие как громкость и роутинг.</string>
     <string name="permlab_recordAudio">Запись звука</string>
@@ -635,6 +693,8 @@
     <string name="permdesc_sdcardWrite">Дает приложениям возможность записи на USB-накопитель.</string>
     <string name="permlab_mediaStorageWrite">Изменять, удалять содержимое внутренней памяти.</string>
     <string name="permdesc_mediaStorageWrite">Приложение сможет изменять содержание внутренней памяти устройства.</string>
+    <string name="permlab_sdcardAccessAll">access external storage of all users</string>
+    <string name="permdesc_sdcardAccessAll">Allows the app to access external storage for all users.</string>
     <string name="permlab_cache_filesystem">Доступ к кэшу файловой системы</string>
     <string name="permdesc_cache_filesystem">Дает приложениям возможность чтения, записи кэша файловой системы.</string>
     <string name="permlab_use_sip">Совершать и принимать интернет звонки</string>
@@ -663,6 +723,8 @@
     <string name="policydesc_encryptedStorage">Шифрование данных приложения</string>
     <string name="policylab_disableCamera">Отключить камеры</string>
     <string name="policydesc_disableCamera">Запретить использование камер</string>
+    <string name="policylab_disableKeyguardFeatures">Disable features in keyguard</string>
+    <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
     <string name="phoneTypeCustom">Создать свой</string>
     <string name="phoneTypeHome">Домашний</string>
     <string name="phoneTypeMobile">Мобильный</string>
@@ -800,9 +862,33 @@
     <string name="lockscreen_access_pattern_cleared">Графический ключ удалён</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
     <string name="lockscreen_access_pattern_detected">Графический ключ установлен</string>
+    <string name="keyguard_accessibility_add_widget">Добавить виджет</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
+    <string name="keyguard_accessibility_widget">%1$s виджет.</string>
+    <string name="keyguard_accessibility_user_selector">User selector</string>
+    <string name="keyguard_accessibility_status">Статус</string>
+    <string name="keyguard_accessibility_camera">Камера</string>
+    <string name="keygaurd_accessibility_media_controls">Media controls</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
+    <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Pattern unlock.</string>
+    <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
+    <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
+    <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
+    <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
+    <string name="keyguard_accessibility_slide_area">Slide area.</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">АБВ</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="granularity_label_character">character</string>
+    <string name="granularity_label_word">word</string>
+    <string name="granularity_label_link">link</string>
+    <string name="granularity_label_line">line</string>
     <string name="hour_ampm" formatted="false">%-l%P</string>
     <string name="hour_cap_ampm" formatted="false">%-l%p</string>
     <string name="factorytest_failed">Не является заводским приложением</string>
@@ -811,6 +897,9 @@
     <string name="factorytest_reboot">Перезагрузка</string>
 	<string name="global_action_power_off">Выключение</string>
 	<string name="global_action_restart">Перезагрузка</string>
+    <string name="global_action_bug_report">Отчет</string>
+    <string name="bugreport_title">Take bug report</string>
+    <string name="bugreport_message">This will collect information about your current device state, to send as an e-mail message. It will take a little time from starting the bug report until it is ready to be sent; please be patient.</string>
     <string name="js_dialog_title">Страница \"%s\" сообщает:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Уйти со страницы?\n\n%s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.</string>
@@ -967,6 +1056,7 @@
     <string name="ringtone_picker_title">Рингтоны</string>
     <string name="ringtone_unknown">Неизвестный рингтон</string>
     <string name="wifi_available_sign_in">Регистрации в сети Wi-Fi</string>
+    <string name="network_available_sign_in">Регистрации в сети</string>
     <string name="wifi_available_sign_in_detailed">%1$s</string>
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
@@ -984,12 +1074,22 @@
     <string name="wifi_p2p_to_message">Кому:</string>
     <string name="wifi_p2p_enter_pin_message">Введите PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
+    <string name="wifi_p2p_frequency_conflict_message">Телефон будет временно отключиться от Wi-Fi пока он подключен к %1$s</string>
     <string name="select_character">Введите символ</string>
     <string name="sms_control_default_app_name">Неизвестное приложение</string>
     <string name="sms_control_title">Отправка SMS сообщений</string>
-    <string name="sms_control_message">Отправляется большое количество SMS сообщений. Нажмите \"ОК\" для продолжения или \"Отмена\" для прекращения отправки.</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> отправляет большое количество SMS сообщений. Нажмите \"ОК\" для продолжения или \"Отмена\" для прекращения отправки.</string>
     <string name="sms_control_yes">ОК</string>
     <string name="sms_control_no">Отмена</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хочет отправить сообщение &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к расходам</font> на вашем счету.</string>
+    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Это приведет к расходам на вашем счету.</font></string>
+    <string name="sms_short_code_confirm_allow">ОГтправить</string>
+    <string name="sms_short_code_confirm_deny">Отмена</string>
+    <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
+    <string name="sms_short_code_remember_undo_instruction">Вы сможете изменить это позже в Настройки > Приложения</string>
+    <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
+    <string name="sms_short_code_confirm_never_allow">Запретить всегда</string>
     <string name="sim_removed_title">SIM карта удалена</string>
     <string name="sim_removed_message">Пока вы не вставите действующую SIM карту, мобильная сеть будет недоступна.</string>
     <string name="sim_done_button">Готово</string>
@@ -1003,6 +1103,7 @@
     <string name="default_permission_group">По умолчанию</string>
     <string name="permissions_format">%1$s, %2$s</string>
     <string name="no_permissions">Не требуется разрешений</string>
+    <string name="perm_costs_money">это может потребовать расходов</string>
     <string name="perms_description_app">Предоставлено %1$s</string>
     <string name="perms_hide">Скрыть</string>
     <string name="perms_show_all">Показать все</string>
@@ -1093,6 +1194,10 @@
     <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
     <string name="vpn_text">Нажмите, чтобы изменить настройки сети.</string>
     <string name="vpn_text_long">Подключено к \"%s\". Нажмите, чтобы изменить настройки сети.</string>
+    <string name="vpn_lockdown_connecting">Always-on VPN connecting…</string>
+    <string name="vpn_lockdown_connected">Always-on VPN connected</string>
+    <string name="vpn_lockdown_error">Always-on VPN error</string>
+    <string name="vpn_lockdown_reset">Touch to reset connection</string>
     <string name="upload_file">Выбрать файл</string>
     <string name="no_file_chosen">Файл не выбран</string>
     <string name="reset">Сброс</string>
@@ -1124,6 +1229,8 @@
     <string name="share">Отправить</string>
     <string name="find">Найти</string>
     <string name="websearch">Веб поиск</string>
+    <string name="find_next">Найти далее</string>
+    <string name="find_previous">Найти ранее</string>
     <string name="gpsNotifTicker">Пользователь \"%s\" запрашивает ваше местоположение</string>
     <string name="gpsNotifTitle">Запрос местоположения</string>
     <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
@@ -1292,4 +1399,73 @@
     <string name="RestrictedWaitTitle">Пожалуйста, подождите некоторое время.</string>
     <string name="RestrictedWaitTitlePacket">Пожалуйста, подождите некоторое время(пакет)</string>
     <string name="sp_usb_massstorage_notification_title_NORMAL">Подключено как USB-накопитель.</string>
+    <string name="media_route_button_content_description">Медиа выход</string>
+    <string name="media_route_status_scanning">Сканирование…</string>
+    <string name="media_route_status_connecting">Соединение…</string>
+    <string name="media_route_status_available">Доступно</string>
+    <string name="media_route_status_not_available">Не доступно</string>
+    <string name="display_manager_built_in_display_name">Built-in Screen</string>
+    <string name="display_manager_hdmi_display_name">HDMI Screen</string>
+    <string name="display_manager_overlay_display_name">Overlay #%1$d</string>
+    <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
+    <string name="wifi_display_notification_title">Wireless display is connected</string>
+    <string name="wifi_display_notification_message">This screen is showing on another device</string>
+    <string name="wifi_display_notification_disconnect">Disconnect</string>
+    <string name="kg_emergency_call_label">Экстренный вызов</string>
+    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
+    <string name="kg_wrong_pattern">Wrong Pattern</string>
+    <string name="kg_wrong_password">Wrong Password</string>
+    <string name="kg_wrong_pin">Wrong PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
+    <string name="kg_pattern_instructions">Draw your pattern</string>
+    <string name="kg_sim_pin_instructions">Введите SIM PIN</string>
+    <string name="kg_pin_instructions">Введите PIN</string>
+    <string name="kg_password_instructions">Enter Password</string>
+    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
+    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
+    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="kg_password_wrong_pin_code">Incorrect PIN code.</string>
+    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
+    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
+    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
+    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
+    <string name="kg_login_username_hint">Логин (E-mail)</string>
+    <string name="kg_login_password_hint">Пароль</string>
+    <string name="kg_login_submit_button">Sign in</string>
+    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="kg_login_account_recovery_hint">"Forgot your username or password?
+Visit "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+
+Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+
+Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+
+Try again in %d seconds."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+
+ Try again in %d seconds."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="safe_media_volume_warning">"Raise volume above safe level?
+Listening at high volume for long periods may damage your hearing."</string>
+    <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
+    <string name="accessibility_enabled">Accessibility enabled.</string>
+    <string name="enable_accessibility_canceled">Accessibility canceled.</string>
+    <string name="user_switched">Текущий пользователь: %1$s.</string>
+    <string name="owner_name">Owner</string>
+    <string name="storage_phone">Внутренняя память</string>
+    <string name="storage_external_usb">Внешний USB накопитель</string>
+    <string name="zz_keyguard_accessibility_voice_unlock">Voice unlock.</string>
+    <string name="reboot_title">Перезагрузить телефон?</string>
+    <string name="reboot_confirm">Restarting your phone will clear temporary files out of memory.Would you like to restart your phone now?</string>
+    <string name="global_action_reboot_summary">Close all apps and restart phone</string>
 </resources>

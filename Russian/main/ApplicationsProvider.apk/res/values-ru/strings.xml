@@ -4,4 +4,5 @@
     <string name="search_label">Приложения</string>
     <string name="application_desc">Приложение</string>
     <string name="settings_description">Названия установленных приложений</string>
+    <string name="search_empty">Нет совпадений</string>
 </resources>

@@ -22,8 +22,8 @@
     <string name="widget_loading">Нет данных о погоде</string>
     <string name="act_find_city_hot_title">Популярные города</string>
     <string name="act_find_city_title">Добавить город</string>
-    <string name="act_find_city_null_data">Данный город отсутствует</string>
-    <string name="act_find_city_hint">Поиск по 2,400 городам Китая</string>
+    <string name="act_find_city_null_data">данный город отсутствует</string>
+    <string name="act_find_city_hint">Поиск по городам Китая</string>
     <string name="act_set_city_find_side_on">Открыть определение местонахождения</string>
     <string name="act_set_city_find_side">Обнаружение местонахождения…</string>
     <string name="local_city">Местные города</string>
