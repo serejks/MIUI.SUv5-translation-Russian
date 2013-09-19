@@ -1036,25 +1036,25 @@
 	<string name="deleting">Удаление…</string>
 	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? \nКонтактов: %d</string>
 	<string name="activity_not_found_uri">Приложения для открытия файлов данного формата не найдено</string>
-    <string name="sim_capacity">View SIM Card Capacity</string>
-    <string name="sim_capacity_content" formatted="false">phone number book Storage Capacity %d，has been used %d。</string>
-    <string name="has_double_phone_number">Cannot save same type number twice, please check it.</string>
-    <string name="phone_book_busy">Phone book is busy now,please try later.</string>
-    <string name="sim_invalid">Cannot save contact when SIM card is invalid.</string>
-    <string name="cannot_insert_null_number">Cannot save contact whose name and number are empty.</string>
-    <string name="AirPlane_mode_on">Cannot save contact when Airplane mode is on.</string>
-    <string name="FDNEnabled">Cannot save contact when FDN Enabled.</string>
-    <string name="sim_invalid_number">Cannot save invalid number.</string>
-    <string name="email_invalid">Cannot save invalid email.</string>
-    <string name="email_2g_invalid">Cannot save email to 2G SIM, please select 3G SIM to save.</string>
-    <string name="sim_invalid_fix_number">Cannot save invalid fix number.</string>
-    <string name="AirPlane_mode_on_edit">Cannot edit contact when Airplane mode is on.</string>
-    <string name="msg_loading_sim_contacts_toast">Loading SIM contacts in the background, please wait for a mement.</string>
-    <string name="fix_number_too_long">Fix number is too long.</string>
+    <string name="sim_capacity">Посмотреть Емкость SIM-карты</string>
+    <string name="sim_capacity_content" formatted="false">Всего доступно: %d. Занято: %d。</string>
+    <string name="has_double_phone_number">Не удается сохранить тот же тип номера дважды, проверьте правильность введенных данных.</string>
+    <string name="phone_book_busy">Телефонная книга сейчас занята, попробуйте позже.</string>
+    <string name="sim_invalid">Невозможно сохранить контакт, SIM-карта недействительна.</string>
+    <string name="cannot_insert_null_number">Невозможно сохранить контакт, имя и номер пусты.</string>
+    <string name="AirPlane_mode_on">Невозможно сохранить контакт когда активен режим полета.</string>
+    <string name="FDNEnabled">Невозможно сохранить контакт когда FDN активен.</string>
+    <string name="sim_invalid_number">Невозможно сохранить неправильный номер.</string>
+    <string name="email_invalid">Невозможно сохранить неправильный Email.</string>
+    <string name="email_2g_invalid">Невозможно сохранить Email на 2G SIM, выберите 3G SIM для сохранения.</string>
+    <string name="sim_invalid_fix_number">Невозможно сохранить, недопустимое число исправлений.</string>
+    <string name="AirPlane_mode_on_edit">Невозможно отредактировать контакт когда активен режим полета.</string>
+    <string name="msg_loading_sim_contacts_toast">Загрузка SIM контактов в фоновом режиме, подождите минутку.</string>
+    <string name="fix_number_too_long">Слишком длинный номер.</string>
     <string name="name_too_long">Имя слишком длинное.</string>
-    <string name="storage_full">Storage is full.</string>
-    <string name="number_too_long">Number is too long.</string>
-    <string name="generic_failure">Generic Failure.</string>
+    <string name="storage_full">Память заполнена.</string>
+    <string name="number_too_long">Номер слишком длинный.</string>
+    <string name="generic_failure">Общая ошибка.</string>
     <string name="email_too_long">E-mail слишком длинный.</string>
-    <string name="error_save_usim_contact_email_lost">Failed to save Email address because the USIM storage for Email is full.</string>
+    <string name="error_save_usim_contact_email_lost">Не удалось сохранить адрес электронной почты, память USIM для хранения электронной почты заполена.</string>
 </resources>
