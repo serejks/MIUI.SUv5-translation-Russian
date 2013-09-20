@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_chip_eco">
+        <item>UNKNOWN</item>
+        <item>E1</item>
+        <item>E2</item>
+        <item>E3</item>
+        <item>E4</item>
+        <item>E5</item>
+        <item>E6</item>
+        <item>E7</item>
+    </string-array>
+    <string-array name="tx_channels">
+        <item>Single Frequency</item>
+        <item>79 Channel</item>
+    </string-array>
+    <string-array name="working_mode_audio_channels">
+        <item>No Change</item>
+        <item>AL2 WithSeqNum</item>
+        <item>AL2 WithoutSeqNum</item>
+        <item>AL3 ControlFieldSize0</item>
+        <item>AL3 ControlFieldSize1</item>
+        <item>AL3 ControlFieldSize2</item>
+    </string-array>
+    <string-array name="working_mode_audio_channels_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="working_mode_video_channels_reverse">
+        <item>No Change</item>
+        <item>Reverse Data</item>
+        <item>Reverse NULL</item>
+    </string-array>
+    <string-array name="working_mode_multiplex_level">
+        <item>No Change</item>
+        <item>MuxLevel 0</item>
+        <item>MuxLevel 1</item>
+        <item>MuxLevel 1 With Double Flag</item>
+        <item>MuxLevel 2</item>
+        <item>MuxLevel 2 With Optional Header</item>
+        <item>MuxLevel 3</item>
+        <item>MuxLevel 3 With Optional Header</item>
+    </string-array>
+    <string-array name="working_mode_video_codec_preference">
+        <item>No Change</item>
+        <item>MPEG4_H263</item>
+        <item>H263_MPEG4</item>
+    </string-array>
+    <string-array name="working_mode_use_wnsrp">
+        <item>No Change</item>
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="working_mode_terminal_type">
+        <item>No Change</item>
+        <item>Normal</item>
+        <item>Master</item>
+        <item>Slave</item>
+    </string-array>
+    <string-array name="modem_test_cta_options">
+        <item>Integrity Check</item>
+        <item>RLC TL1</item>
+        <item>K1297</item>
+        <item>SN Conflict</item>
+        <item>CF query</item>
+        <item>DLMN lock</item>
+        <item>Measurement open</item>
+        <item>Disable DPA</item>
+        <item>Intra CMR</item>
+    </string-array>
+    <string-array name="modem_test_iot_options">
+        <item>Fast Dormancy</item>
+    </string-array>
+    <string-array name="device_mgr_entries">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="audio_functions">
+        <item>Normal Mode</item>
+        <item>Headset Mode</item>
+        <item>LoudSpeaker Mode</item>
+        <item>Headset_LoudSpeaker Mode</item>
+        <item>Speech Enhancement</item>
+        <item>Debug Info</item>
+        <item>Speech Logger</item>
+        <item>Audio Logger</item>
+    </string-array>
+    <string-array name="mode_level">
+        <item>Уровень 0</item>
+        <item>Уровень 1</item>
+        <item>Уровень 2</item>
+        <item>Уровень 3</item>
+        <item>Уровень 4</item>
+        <item>Уровень 5</item>
+        <item>Уровень 6</item>
+    </string-array>
+    <string-array name="speech_enhance_mode">
+        <item>Common Parameter</item>
+        <item>Normal Mode</item>
+        <item>Headset Mode</item>
+        <item>LoudSpeaker Mode</item>
+        <item>BT Earphone Mode</item>
+        <item>BT Cordless Mode</item>
+        <item>BT Karkit Mode</item>
+        <item>AUX1 Mode</item>
+        <item>AUX2 Mode</item>
+    </string-array>
+    <string-array name="camera_items">
+        <item>AF EM</item>
+        <item>Raw Capture Mode</item>
+        <item>Raw Type</item>
+        <item>Flicker</item>
+        <item>ISO</item>
+        <item>Start Preview</item>
+        <item>Help</item>
+    </string-array>
+    <string-array name="af_mode_dialog">
+        <item>Normal AF</item>
+        <item>AF Bracket</item>
+        <item>Full Scan</item>
+        <item>Full Scan Repeat</item>
+        <item>AF Repeat</item>
+        <item>AF and Full Repeat</item>
+    </string-array>
+    <string-array name="capture_mode_dialog">
+        <item>Preview Mode</item>
+        <item>Capture Mode</item>
+        <item>JPEG Only</item>
+    </string-array>
+    <string-array name="raw_type_dialog">
+        <item>Processed Raw</item>
+        <item>Pure Raw</item>
+    </string-array>
+    <string-array name="anti_flicker_dialog">
+        <item>50HZ</item>
+        <item>60HZ</item>
+    </string-array>
+    <string-array name="iso_dialog">
+        <item>AUTO</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1600</item>
+    </string-array>
+    <string-array name="mPreferredNetworkLabels">
+        <item>GSM/WCDMA (auto)</item>
+        <item>GSM/WCDMA (WCDMA preferred)</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>Not Specified</item>
+    </string-array>
+    <string-array name="mTddPreferredNetworkLabels">
+        <item>GSM/TD-SCDMA(auto)</item>
+        <item>TD-SCDMA preferred</item>
+        <item>TD-SCDMA only</item>
+        <item>GSM only</item>
+        <item>Not Specified</item>
+    </string-array>
+    <string-array name="mTddNetworkLabels">
+        <item>TD-SCDMA preferred</item>
+        <item>GSM only</item>
+        <item>TD-SCDMA only</item>
+        <item>GSM/TD-SCDMA(auto)</item>
+    </string-array>
+    <string-array name="mWcdmaNetworkLabels">
+        <item>GSM/WCDMA (WCDMA preferred)</item>
+        <item>GSM only</item>
+        <item>WCDMA only</item>
+        <item>GSM/WCDMA (auto)</item>
+    </string-array>
+    <string-array name="host_type">
+        <item>Host Number 0</item>
+        <item>Host Number 1</item>
+        <item>Host Number 2</item>
+        <item>Host Number 3</item>
+        <item>Host Number 4</item>
+    </string-array>
+    <string-array name="host_data">
+        <item>4 mA</item>
+        <item>8 mA</item>
+        <item>12 mA</item>
+        <item>16 mA</item>
+    </string-array>
+    <string-array name="hopping_bit">
+        <item>None</item>
+        <item>2.26MHZ</item>
+        <item>4.52MHZ</item>
+        <item>9.04MHZ</item>
+    </string-array>
+    <string-array name="hopping_time">
+        <item>30.5us</item>
+        <item>61.0us</item>
+        <item>122.1us</item>
+        <item>244.1us</item>
+        <item>488.3us</item>
+    </string-array>
+    <string-array name="msdc_select">
+        <item>Driving SET</item>
+        <item>Hopping SET</item>
+        <item>SD3.0 TEST</item>
+    </string-array>
+    <string-array name="auto_calib_capture_mode1">
+        <item>Capture size</item>
+        <item>Capture type</item>
+    </string-array>
+    <string-array name="auto_calib_capture_size">
+        <item>Preview size</item>
+        <item>Capture size</item>
+        <item>Video size</item>
+    </string-array>
+    <string-array name="auto_calib_capture_type">
+        <item>Processed Raw</item>
+        <item>Pure Raw</item>
+        <item>Jpeg Only</item>
+    </string-array>
+    <string-array name="auto_calib_capture_type1">
+        <item>Processed Raw</item>
+        <item>Pure Raw</item>
+    </string-array>
+    <string-array name="auto_calib_capture_mode2">
+        <item>Capture number</item>
+        <item>Multiple Frame Raw Dump</item>
+        <item>Video Clip Raw Dump</item>
+    </string-array>
+    <string-array name="auto_calib_capture_number">
+        <item>Single</item>
+        <item>Double</item>
+        <item>Triple</item>
+    </string-array>
+    <string-array name="auto_calib_multi_frame">
+        <item>4 frames</item>
+        <item>8 frames</item>
+        <item>12 frames</item>
+    </string-array>
+    <string-array name="auto_calib_video_clip">
+        <item>Keep resolution</item>
+        <item>Crop resolution</item>
+    </string-array>
+    <string-array name="auto_calib_iso">
+        <item>Select None</item>
+        <item>Select All</item>
+        <item>Auto</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1200</item>
+        <item>ISO1600</item>
+        <item>ISO2400</item>
+        <item>ISO3200</item>
+    </string-array>
+    <string-array name="auto_calib_special_iso">
+        <item>Auto</item>
+        <item>ISO100</item>
+        <item>ISO150</item>
+        <item>ISO200</item>
+        <item>ISO300</item>
+        <item>ISO400</item>
+        <item>ISO600</item>
+        <item>ISO800</item>
+        <item>ISO1200</item>
+        <item>ISO1600</item>
+        <item>ISO2400</item>
+        <item>ISO3200</item>
+    </string-array>
+    <string-array name="auto_calib_flicker_type">
+        <item>50Hz</item>
+        <item>60Hz</item>
+    </string-array>
+    <string-array name="auto_calib_led_flash">
+        <item>AUTO</item>
+        <item>ON</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="auto_calib_af_mode">
+        <item>Auto</item>
+        <item>AF Bracket</item>
+        <item>Full Scan</item>
+        <item>Through focus</item>
+    </string-array>
+    <string-array name="auto_calib_af_through_direct">
+        <item>Macro to Inf.</item>
+        <item>Inf. to Macro</item>
+        <item>Manual configure</item>
+    </string-array>
+    <string-array name="auto_calib_capture">
+        <item>Start Preview</item>
+    </string-array>
+    <string-array name="auto_calib_hdr_debug_value">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="desense_camera_items">
+        <item>2 mA</item>
+        <item>4 mA</item>
+        <item>6 mA</item>
+        <item>8 mA</item>
+        <item>Clear setting file</item>
+    </string-array>
+    <string-array name="matv_frame_rate_entries">
+        <item>Frame Rate 30</item>
+        <item>Frame Rate 20</item>
+        <item>Frame Rate 15</item>
+    </string-array>
+    <string-array name="matv_nr_level_entries">
+        <item>NR Level 0x31</item>
+        <item>NR Level 0x32</item>
+        <item>NR Level 0x33</item>
+        <item>NR Level 0x34</item>
+        <item>NR Level 0x35</item>
+    </string-array>
+    <string-array name="always_on_module">
+        <item>Type A</item>
+        <item>Type B</item>
+        <item>Type F</item>
+        <item>No modulation</item>
+    </string-array>
+    <string-array name="always_on_bitrate">
+        <item>106 kbps</item>
+        <item>212 kbps</item>
+        <item>424 kbps</item>
+    </string-array>
+</resources>
