@@ -30,7 +30,7 @@
         },
         {
             "title":"Odnoklassniki",
-            "url":"http://odnoklassniki.com/",
+            "url":"http://m.odnoklassniki.ru/",
             "thumbnail":"thumb_odnoklassniki.png",
             "logobg":"bg07.9.png",
             "favicon":""
@@ -51,7 +51,7 @@
         },
         {
             "title":"Wikipedia",
-            "url":"http://www.ru.m.wikipedia.org/",
+            "url":"http://ru.m.wikipedia.org/",
             "thumbnail":"thumb_wikipedia.png",
             "logobg":"bg12.9.png",
             "favicon":""
