@@ -231,7 +231,10 @@
 	<string name="pref_development_error_console">Показать консоль JavaScript</string>
 	<string name="pref_development_reset_prelogin">Сброс</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
+	<string name="pref_default_text_encoding_choices"></string>
 	<string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
+	<string name="pref_default_text_encoding_values"></string>
+	<string name="pref_default_text_encoding_default">UTF-8</string>
 	<string name="pref_accessibility_title">Специальные возможности</string>
 	<string name="pref_font_size_category">Размер текста</string>
 	<string name="pref_lab_title">Лаборатория Google</string>
@@ -279,7 +282,6 @@
 	<string name="pref_video_preload_dialogtitle">Предзагрузка видео</string>
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
 	<string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-	<string name="browserFrameFormResubmitLabel" />
 	<string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
 	<string name="loadSuspendedTitle">Нет подключения</string>
 	<string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>
@@ -343,6 +345,8 @@
 	<string name="defaultBookmarksUpButton">Закладки</string>
 	<string name="empty_bookmarks_folder">Нет закладок</string>
 	<string name="other_bookmarks">Прочие закладки</string>
+	<string name="rlz_access_point">Y1</string>
+    <string name="browserFrameFormResubmitLabel"></string>
 	<string name="account_chooser_dialog_title">Выберите аккаунт</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
 	<string name="import_bookmarks_dialog_description">Закладки на устройстве пока не связаны с аккаунтом Google. Чтобы сохранить и синхронизировать закладки, добавьте их в аккаунт. В противном случае просто удалите их.</string>
@@ -447,6 +451,9 @@
 	<string name="contextmenu_download_image_as">Сохранить изображение как</string>
 	<string name="pref_ua_title">Дополнительно</string>
 	<string name="pref_ua_string">Агент пользователя</string>
+	<string name="pref_ua_mione_entry">MiOne</string>
+	<string name="pref_ua_mione_value">4</string>
+	<string name="readmode_battery">Батарея</string>
 	<string name="dump_counters">Сбросить счетчики V8</string>
 	<string name="dump_dom_tree">Дамп дерева рендеринга в файл</string>
 	<string name="dump_render_tree">Сделать дамп дерева рендеринга в файл</string>
@@ -486,6 +493,7 @@
 	<string name="recover_from_crash">Восстановить последнюю сессию</string>
 	<string name="recover">Восстановить</string>
 	<string name="crash_recovcery_message">Браузер был экстренно закрыт. Восстановить последние вкладки?</string>
+	<string name="pref_autologin_progress_in_background">Подписка на сайты Google с использованием %s в фоновом режиме</string>
 	<string name="menu_enable_night_mode">Включить ночной режим</string>
 	<string name="menu_disable_night_mode">Выключить ночной режим</string>
 	<string name="tab_opened_background">Вкладка открыта в фоне</string>
