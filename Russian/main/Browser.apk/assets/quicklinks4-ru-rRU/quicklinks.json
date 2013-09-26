@@ -5,6 +5,7 @@
             "url":"http://www.google.com/",
             "thumbnail":"thumb_google.png",
             "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -12,6 +13,7 @@
             "url":"http://miui.su/",
             "thumbnail":"thumb_miuisu.png",
             "logobg":"bg15.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -19,6 +21,7 @@
             "url":"http://www.4pda.ru/",
             "thumbnail":"thumb_4pda.png",
             "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -26,6 +29,7 @@
             "url":"http://www.vk.com/",
             "thumbnail":"thumb_vk.png",
             "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -33,6 +37,7 @@
             "url":"http://m.odnoklassniki.ru/",
             "thumbnail":"thumb_odnoklassniki.png",
             "logobg":"bg07.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -40,6 +45,7 @@
             "url":"http://www.facebook.com/",
             "thumbnail":"thumb_facebook.png",
             "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -47,6 +53,7 @@
             "url":"http://twitter.com/",
             "thumbnail":"thumb_twitter.png",
             "logobg":"bg03.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -54,6 +61,7 @@
             "url":"http://ru.m.wikipedia.org/",
             "thumbnail":"thumb_wikipedia.png",
             "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
 
@@ -62,6 +70,7 @@
             "url":"http://burgerz.pro/",
             "thumbnail":"thumb_bz.png",
             "logobg":"bg03.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -69,6 +78,7 @@
             "url":"http://en.miui.com",
             "thumbnail":"thumb_en_miui.png",
             "logobg":"bg02.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -76,6 +86,7 @@
             "url":"http://youtube.com/",
             "thumbnail":"thumb_youtube.png",
             "logobg":"bg05.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -83,6 +94,7 @@
             "url":"http://www.amazon.com/",
             "thumbnail":"thumb_amazon.png",
             "logobg":"bg01.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":"",
             "hidden":"true"
         },
@@ -92,6 +104,7 @@
             "url":"http://miuiandroid.com/",
             "thumbnail":"thumb_miui_android.png",
             "logobg":"bg02.9.png",
+			"nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -100,6 +113,7 @@
             "thumbnail":"thumb_bbc.png",
             "logobg":"bg01.9.png",
             "favicon":"",
+			"nightModeMask": "night.9.png",
             "hidden":"true"
         }
     ]
