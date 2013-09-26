@@ -912,6 +912,9 @@
 	<string name="custom_location_location_hint_miui">Имя</string>
 	<string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
 	<string name="cw_title_miui">Ожидание вызова</string>
+	<string name="data_connected_change">Отключить активную сеть и переключиться на другую?</string>
+	<string name="duringcall">Операция невозможна во время вызова</string>
+	<string name="information">Информация</string>
 	<string name="dial_related_setting_catory_miui">Набор</string>
 	<string name="default_contacts_countrycode_hint_miui">Например: 86</string>
 	<string name="default_contacts_countrycode_miui">Код страны по умолчанию</string>

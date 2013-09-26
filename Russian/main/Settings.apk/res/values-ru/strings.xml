@@ -2354,7 +2354,9 @@
     <string name="wfd_disconnect_diag_title">Разъединить сессию?</string>
     <string name="wfd_disconnect_diag_msg">Если вы выключите Дисплей Wi-Fi, ваше соединение с %1$s будет потеряно.</string>
     <string name="wfd_disconnect_multiple_diag_message">Если вы разъедините сессию Дисплея Wi-Fi, ваше соединение с %1$s и %2$s другими устройствами будет потеряно.</string>
-    <string name="wfd_wps_keypad">Предпочтение нажатию кнопки</string>
+    <string name="wfd_wps_keypad">Настройки кнопки</string>
+	<string name="wfd_enable_wifi_diag_title">Вы можете использовать только Wi-Fi, когда Wi-Fi дисплей включен. Включить сейчас?</string>
+	<string name="wfd_enabler_title">Включить Wi-Fi дисплей</string>
     <string name="wfd_wps_pbc">Предпочтение вводу PIN</string>
     <string name="power_mode">Режим питания</string>
     <string name="skip_step">Пропустить этот шаг</string>

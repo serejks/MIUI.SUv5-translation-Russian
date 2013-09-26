@@ -231,9 +231,7 @@
 	<string name="pref_development_error_console">Показать консоль JavaScript</string>
 	<string name="pref_development_reset_prelogin">Сброс</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
-	<string name="pref_default_text_encoding_choices"></string>
 	<string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
-	<string name="pref_default_text_encoding_values"></string>
 	<string name="pref_default_text_encoding_default">UTF-8</string>
 	<string name="pref_accessibility_title">Специальные возможности</string>
 	<string name="pref_font_size_category">Размер текста</string>
@@ -346,7 +344,6 @@
 	<string name="empty_bookmarks_folder">Нет закладок</string>
 	<string name="other_bookmarks">Прочие закладки</string>
 	<string name="rlz_access_point">Y1</string>
-    <string name="browserFrameFormResubmitLabel"></string>
 	<string name="account_chooser_dialog_title">Выберите аккаунт</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
 	<string name="import_bookmarks_dialog_description">Закладки на устройстве пока не связаны с аккаунтом Google. Чтобы сохранить и синхронизировать закладки, добавьте их в аккаунт. В противном случае просто удалите их.</string>

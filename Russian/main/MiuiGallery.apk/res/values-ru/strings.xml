@@ -277,6 +277,7 @@
     <string name="cloudfolder_cannot_start_with">Имя папки не может начинаться с \"%s\"</string>
     <string name="cloudfolder_name_cannot_empty">Введите имя папки</string>
     <string name="add_to_cloud_folder">Добавить в облачный альбом</string>
+	<string name="add_to_cloud_local_space_full_message">Память заполнена</string>
     <string name="adding_recipients">Добавление получателей…</string>
     <string name="album_name">Имя альбома</string>
     <string name="album_share_stat_content">Новые приглашения для альбома</string>
@@ -356,6 +357,7 @@
     <string name="how_many_sub_folders">Папок: %d</string>
     <string name="how_many_pics">Фото: %d</string>
     <string name="global_setting">Настройки</string>
+	<string name="get_album_info_in_process">Загрузка информации облачного альбома…</string>
 	<string name="error_unknown_host">Сеть не обнаружена</string>
 	<string name="error_album_not_exist">Альбом не существует</string>
 	<string name="error_cloud_not_active">Облачный альбом не используется</string>
