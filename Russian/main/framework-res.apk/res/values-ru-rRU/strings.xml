@@ -561,10 +561,10 @@
     <string name="permdesc_accessSurfaceFlinger">Позволяет приложениям использовать функции SurfaceFlinger.</string>
     <string name="permlab_readFrameBuffer">Чтение данных буфера</string>
     <string name="permdesc_readFrameBuffer">Дает доступ приложений к содержанию буфера.</string>
-    <string name="permlab_configureWifiDisplay">configure Wifi displays</string>
-    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
-    <string name="permlab_controlWifiDisplay">control Wifi displays</string>
-    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wifi displays.</string>
+    <string name="permlab_configureWifiDisplay">configure Wi-Fi displays</string>
+    <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wi-Fi displays.</string>
+    <string name="permlab_controlWifiDisplay">control Wi-Fi displays</string>
+    <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wi-Fi displays.</string>
     <string name="permlab_modifyAudioSettings">Изменение настроек аудио</string>
     <string name="permdesc_modifyAudioSettings">Позволяет приложениям изменять глобальные настройки аудио, такие как громкость и роутинг.</string>
     <string name="permlab_recordAudio">Запись звука</string>
@@ -1364,8 +1364,8 @@
     <string name="fro_ena_to_ask_popup">Всегда спрашивать разрешение на использование мобильного соединения. За передачу данных может взиматься плата. Продолжить?</string>
     <string name="always_allow_popup">Использование сети передачи данных</string>
     <string name="roaming_notallow_bt">Настройки</string>
-    <string name="always_ask_on_cancel">Подключение невозможно. Настройте мобильную сеть или WiFi для загрузки</string>
-    <string name="always_not_allow_popup">Подключение невозможно.\nНастройте мобильную сеть или\nWiFi для загрузки</string>
+    <string name="always_ask_on_cancel">Подключение невозможно. Настройте мобильную сеть или Wi-Fi для загрузки</string>
+    <string name="always_not_allow_popup">Подключение невозможно.\nНастройте мобильную сеть или\nWi-Fi для загрузки</string>
     <string name="always_not_allow_popup_3gonly">Подключение невозможно.\nНастройте мобильную сеть\nдля загрузки</string>
     <string name="roaming_not_allow_popup">Подключение невозможно в роуминге</string>
     <string name="roaming_not_allow_popup_in_menu">Подключение невозможно в роуминге. Настройте \"разрешить передачу данных в роуминге\" в Передача данных в роуминге</string>
@@ -1373,7 +1373,7 @@
     <string name="roamBlock_noti_title">Передача данных в роуминге</string>
     <string name="roamBlock_noti_ticker">Подключение невозможно в роуминге</string>
     <string name="block_inmms">подключение блокировано для MMS</string>
-    <string name="dataBlock_noti_text">Подключение невозможно. Настройте мобильную сеть или WiFi для загрузки.</string>
+    <string name="dataBlock_noti_text">Подключение невозможно. Настройте мобильную сеть или Wi-Fi для загрузки.</string>
     <string name="dataBlock_noti_title">Мобильная сеть</string>
     <string name="dataBlock_noti_ticker">Мобильная сеть недоступна</string>
     <string name="data_setup_toast">Сейчас подключено 3G/4G соединение.</string>

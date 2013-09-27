@@ -2114,7 +2114,7 @@
     <string name="no_nearby_wifi">Не найдено доступных сетей Wi-Fi. Просканируйте заново или добавьте вручную</string>
     <string name="manually_add_network">Добавить сеть вручную</string>
     <string name="network_detail">Детали сети %s</string>
-    <string name="connected_wifi">Подключенные WiFi сети</string>
+    <string name="connected_wifi">Подключенные сети Wi-Fi</string>
     <string name="incoming_call_vibrate_abbreviation">Вызовы</string>
     <string name="notification_vibrate_abbreviation">Уведомления</string>
     <string name="mms_vibrate_abbreviation">Сообщения</string>
