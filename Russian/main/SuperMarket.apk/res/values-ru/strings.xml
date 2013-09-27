@@ -152,7 +152,7 @@
 	<string name="install_this_week">На этой неделе</string>
 	<string name="install_time">Установлено: %1$s</string>
 	<string name="install_today">Сегодня</string>
-    <string name="install_patch_fail">Ошибка дельта обновления. Скачайте заново пакет обновления.</string>
+    <string name="install_patch_fail">Ошибка дельта обновления.</string>
     <string name="install_fail">Ошибка установки %1$s</string>
 	<string name="package_size">Размер: %1$s МБ</string>
 	<string name="package_size_calculating">Вычисление размера…</string>
@@ -185,7 +185,7 @@
     <string name="notif_installing">Установка %1$s…</string>
     <string name="notif_install_successful">Установлено: %1$s</string>
     <string name="notif_install_successful_default">%1$s установлено</string>
-    <string name="notif_delta_update_successful">Дельта обновление завершено, сохранение %1$s. Нажмите для запуска.</string>
+    <string name="notif_delta_update_successful">Дельта обновление %1$s завершено.</string>
     <string name="notif_install_failed">%1$s ошибка установки</string>
 	<string name="notif_auto_update_via_wifi">Обновлено: %1$s</string>
     <string name="notif_auto_update_successfull">Выполняется втоматическое обновление приложения: %1$s.</string>
