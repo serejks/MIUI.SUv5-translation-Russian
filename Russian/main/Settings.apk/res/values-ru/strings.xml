@@ -2367,7 +2367,7 @@
     <string name="msd_install">Переустановка драйвера</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, \nследуйте его указаниям до окончания установки</string>
-    <string name="msd_install_retry_windows_xp">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
+    <string name="msd_install_retry_windows_xp">Если компьютер обнаружит Mi2 некорректно, попробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\n Переустановите драйвера.</string>
     <string name="msd_install_retry_windows_vista">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
     <string name="msd_install_retry_mac">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\nПроизведите поиск на ПК по словам\nAndroid File Transfer,\nОтключите кабель USB от Mi2 и подключите заново.\nПереустановите драйвера.</string>
     <string name="msd_install_retry_linux">Если компьютер обнаружит Mi2 некорректно,\nПопробуйте следующее:\n1) используйте программу "aptitude": sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Создайте директорию mkdir /media/mtp\n3) Подтвердите права доступа для пользовательской группы в текущей fuse user group\n4) Перелогинтесь\n5) Доступ к смонтированному устройству mtpfs /media/mtp Через файлменеджер; так же как к локальным папкам\n6) Отключение устройства fusermount -u /media/mtp\nПримечание: Для ubuntu 8.04 </string>
