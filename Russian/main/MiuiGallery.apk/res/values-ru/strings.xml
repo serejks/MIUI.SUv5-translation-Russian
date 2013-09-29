@@ -176,8 +176,8 @@
     <string name="set_hidden_album">Скрыть альбом</string>
     <string name="remove_hidden_album">Отображать альбом</string>
     <string name="photos">" фото"</string>
-    <string name="tab_lockscreen_text">Обои экрана блокировки</string>
-    <string name="tab_wallpaper_text">Обои рабочего стола</string>
+    <string name="tab_lockscreen_text">Экрана блок-ки</string>
+    <string name="tab_wallpaper_text">Рабочий стол</string>
     <string name="tab_all_text">Установить все</string>
     <string name="cloud_gallery_space_full">Не удалось загрузить. Онлайн альбом переполнен.</string>
 	<string name="share_album_space_full">Этот альбом полон. Удалите некоторые ненужные фотографии.</string>
@@ -235,7 +235,7 @@
     <string name="cloud_share_guide_title">Теперь можно обмениваться албомами!</string>
     <string name="cloud_share_guide_message">Вы можете делиться своими альбомами, просматривать альбомы друзей, а также добавлять фото в альбом вместе!</string>
     <string name="cloud_be_shared_guide_title">Этот альбом отправлен от друга</string>
-    <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии ваших друзей и добавить фотографии в их альбом.</string>
+    <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии ваших друзей и добавлять фотографии в их альбом.</string>
     <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
     <string name="view_sharers">Пользователи</string>
     <string name="camera_path">/DCIM/Camera</string>

@@ -282,7 +282,7 @@
     <string name="error_dup_email">E-mail адрес уже используется</string>
     <string name="error_dup_phone">Телефон зарегистрирован</string>
     <string name="error_server">Ошибка сервера</string>
-    <string name="error_unknown">Неизвестная ошибка:%1$s</string>
+    <string name="error_unknown">Неизвестная ошибка: %1$s</string>
     <string name="account_name">Аккаунт: %1$s</string>
     <string name="input_password_hint">Введите пароль</string>
     <string name="confirm">Подтвердить</string>
