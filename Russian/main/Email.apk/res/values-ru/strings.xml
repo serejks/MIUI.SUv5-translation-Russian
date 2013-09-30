@@ -403,8 +403,8 @@
     <string name="widget_no_mailboxes">Этот аккаунт не синхронизирован. Повторите позже.</string>
     <string name="more_than_999">999+</string>
     <string name="search_hint">Искать в электронной почте</string>
-    <string name="search_mailbox_hint">Искать в папке \"%1$s\"</string>
-    <string name="search_header_text_fmt">Результаты поиска для \"%1$s\"</string>
+    <string name="search_mailbox_hint">Поиск \"%1$s\"</string>
+    <string name="search_header_text_fmt">Результаты поиска</string>
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
