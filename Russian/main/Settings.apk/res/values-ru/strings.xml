@@ -870,7 +870,7 @@
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
-    <string name="menu_restore">Восстановить настройки по умолчанию</string>
+    <string name="menu_restore">Сброс настроек</string>
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
     <string name="master_clear_title">Сброс настроек</string>
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
@@ -2041,7 +2041,7 @@
     <string name="access_control_app_entry_single">Открыть выбранное приложение</string>
     <string name="access_control_app_entry_multiple">Открыть %s</string>
     <string name="apn_mms">MMS</string>
-    <string name="apn_general">Главный</string>
+    <string name="apn_general">Основные</string>
     <string name="launcher_settings_title">Лаунчер</string>
     <string name="screen_timeout_title">Экран в спящий режим</string>
 	<string name="screen_never_timeout_title">Никогда</string>
@@ -2136,7 +2136,7 @@
     <string name="screen_button_custom">Настройка расположения кнопок</string>
     <string name="sim_pin_enabled">PIN1 включен!</string>
     <string name="sim_pin_disabled">PIN1 выключен!</string>
-    <string name="apn_new">Новая точка доступа</string>
+    <string name="apn_new">Добавить</string>
     <string name="apn_save">Сохранить?</string>
     <string name="apn_save_msg">Настройки APN изменены. Сохранить?</string>
     <string name="activating">Активация…</string>

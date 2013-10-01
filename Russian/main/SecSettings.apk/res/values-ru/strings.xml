@@ -1069,7 +1069,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="error_mcc_not3">Поле MCC должно включать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно включать 2 или 3 цифры.</string>
     <string name="restore_default_apn">Восстановление настроек по умолчанию для точки доступа</string>
-    <string name="menu_restore">Сбросить</string>
+    <string name="menu_restore">Сброс настроек</string>
     <string name="restore_default_apn_completed">Восстановлены параметры точек доступа по умолчанию</string>
     <string name="master_clear_title">Сброс данных</string>
     <string name="master_clear_summary">Сброс всех параметров и удаление всех данных на устройстве</string>
