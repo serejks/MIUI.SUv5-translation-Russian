@@ -195,6 +195,10 @@
     <string name="needPuk">SIM-карта заблокирована PUK-кодом. Для разблокировки введите PUK-код.</string>
     <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
     <string name="enablePin">Неудачно. Снимите SIM/RUIM блокировку.</string>
+    <string name="pinpuk_attempts">"
+Осталось попыток:"</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
     <string name="ClipMmi">Идентификатор входящего вызова</string>
     <string name="ClirMmi">Идентификатор исходящего вызова</string>
     <string name="CfMmi">Перенаправление вызовов</string>

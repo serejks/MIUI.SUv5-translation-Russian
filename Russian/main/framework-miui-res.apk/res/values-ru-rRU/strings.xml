@@ -383,6 +383,8 @@
 	<string name="v5_edit_mode_title_empty">Отметить</string>
 	<string name="v5_icon_menu_bar_more_item_label">Еще</string>
 	<string name="v5_select_all">Отметить все</string>
+    <string name="v5_time_picker_label_hour">Ч/string>
+    <string name="v5_time_picker_label_minute">М</string>
 	<string name="valentines_day">День Святого Валентина</string>
 	<string name="vernal_equinox">Весеннее равноденствие</string>
 	<string name="volume_alarm">Будильник</string>
@@ -440,6 +442,9 @@
     <string name="provider_sougou">Поддеоржка Sogou</string>
     <string name="device_xiaomi">Телефон Xiaomi</string>
 	<string name="device_hongmi">Телефон Hongmi</string>
+    <string formatted="false" name="lockscreen_failed_attempts_almost_glogin">"Вы ввели неверный пароль %d раз. После %d неудачных попыток, Вам будет предложено разблокировать телефон через системный аккаунт.
+
+ Повторите через %d сек."</string>
     <string name="miui_device_name">Телефон MIUI</string>
     <string name="sim_unavailable">SIM-карта недоступна</string>
     <string name="sim_locked">SIM-карта заблокирована</string>
