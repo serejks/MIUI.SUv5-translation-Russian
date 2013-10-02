@@ -150,7 +150,7 @@
     <string name="status_bar_toggle_ringtone">Рингтон</string>
     <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
     <string name="status_bar_toggle_sync_manual">Синхр.</string>
-    <string name="status_bar_toggle_syncing">Синхр...</string>
+    <string name="status_bar_toggle_syncing">Синхр…</string>
     <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
     <string name="status_bar_time_format_12_simple">H:mm</string>
     <string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>

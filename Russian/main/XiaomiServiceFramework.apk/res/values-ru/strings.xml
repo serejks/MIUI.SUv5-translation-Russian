@@ -35,7 +35,7 @@
     <string name="micloud_activing_account_delayed">"Активация может занять некоторое время
 Пожалуйста подождите…"</string>
     <string name="micloud_activing_account_failed">Ошибка активации</string>
-    <string name="micloud_activating_account_notify_title">Активация аккаунта...</string>
+    <string name="micloud_activating_account_notify_title">Активация аккаунта…</string>
     <string name="micloud_activate_account_success_notify_title">Активация завершена</string>
     <string name="micloud_activate_account_fail_notify_title">Не удалось активировать аккаунт Xiaomi</string>
     <string name="micloud_activating_account_notify_info">Аккаунт Xiaomi успешно активирован</string>
