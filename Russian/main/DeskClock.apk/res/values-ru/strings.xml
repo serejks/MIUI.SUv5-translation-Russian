@@ -141,7 +141,7 @@
     <string name="holiday_data_already_newest">Информация о рабочих днях актуальна</string>
     <string name="holiday_data_no_network">Нет сети, повторите позже</string>
     <string name="default_alarm_alert">Установить мелодию по умолчанию</string>
-    <string name="default_alarm_screen">Установить свой мелодию по умолчанию</string>
+    <string name="default_alarm_screen">Установить свою мелодию по умолчанию</string>
     <string name="default_alarm_title">Мелодия по умолчанию</string>
     <string name="alarm_alert">Установить мелодию</string>
     <string name="alarm_screen">Стиль будильника</string>
