@@ -59,7 +59,7 @@
     <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
     <string name="separatorJoinAggregateAll">Все контакты</string>
     <string name="contactsJoinedMessage">Контакты присоединились</string>
-    <string name="menu_set_ring_tone">Задать рингтон</string>
+    <string name="menu_set_ring_tone">Задать мелодию</string>
     <string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
     <string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
     <string name="redirect_calls_to_vm_confirm_message">Перед настройкой почтового ящика, убедитесь, что ваш оператор поддерживает данную функцию.</string>
@@ -582,8 +582,8 @@
     <string name="unknown_contact_name">MIUI Home</string>
     <string name="primary_indicator">Основной</string>
     <string name="contactDetailCalllog">История звонков</string>
-    <string name="ringLabelsGroup">Рингтон</string>
-    <string name="default_ringtone">Рингтон по умолчанию</string>
+    <string name="ringLabelsGroup">Мелодия</string>
+    <string name="default_ringtone">Мелодия по умолчанию</string>
     <string name="callNoAnswerTimeFormat">Вызов: %s гудков</string>
     <string name="menu_send_to_desktop">Отправить на домашний экран</string>
     <string name="send_contact_shortcut_todesktop_success">Контакт(ы) добавлен(ы) на рабочий стол</string>
@@ -683,7 +683,7 @@
     <string name="import_contact_card_button">Импорт</string>
     <string name="success_message_import_from_account">Импорт завершен</string>
     <string name="menu_group_sms">SMS группе</string>
-    <string name="menu_group_ringtone">Рингтон группы</string>
+    <string name="menu_group_ringtone">Мелодия группы</string>
     <string name="recent_contacts_label">Послед.</string>
     <string name="recent_number">Послед.</string>
     <string name="cloud_antispam_mark">Отметить</string>
@@ -808,8 +808,8 @@
     <string name="phone_info_divider">"  |  "</string>
     <string name="menu_bar_group_add">Добавить</string>
     <string name="menu_bar_group_sms">Отправить SMS группе</string>
-    <string name="menu_bar_group_ringtone">Рингтон группы</string>
-    <string name="menu_bar_group_ringtone_largeui">Рингтон</string>
+    <string name="menu_bar_group_ringtone">Мелодия группы</string>
+    <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
     <string name="menu_bar_group_rename">Переименовать</string>
     <string name="menu_bar_group_delete">Удалить</string>
     <string name="group_rename_dialog_title">Переименовать группу</string>
@@ -957,8 +957,8 @@
     <string name="sdcard_status_changed_dialog_title">Изменен статус SD-карты</string>
     <string name="sdcard_status_changed_dialog_message">Приложение будет выключено.\nЗапустите снова это приложение, чтобы обновить ресурсы.</string>
     <string name="resource_mute">Ничего</string>
-    <string name="resource_default">Рингтон по умолчанию</string>
-    <string name="resource_ringtone_default">Рингтоны</string>
+    <string name="resource_default">Мелодия по умолчанию</string>
+    <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>
     <string name="description_designer">Дизайн:</string>
@@ -1008,8 +1008,8 @@
     <string name="resource_server_out_of_service">Сервер недоступен, попробуйте позже.</string>
     <string name="resource_switch_account">Переключение</string>
     <string name="processing">Обработка…</string>
-    <string name="resource_title_select_ringtone">Выбор рингтона</string>
-    <string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
+    <string name="resource_title_select_ringtone">Выбор мелодии</string>
+    <string name="resource_tip_select_ringtone">Мелодия не была выбрана</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
 	<string name="loading_resource_detail_fail">Сбой загрузки ресурса!</string>
     <string name="account_abnormal_state">Ошибка в данных аккаунта, выполните вход снова!</string>

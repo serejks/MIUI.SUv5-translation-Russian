@@ -345,7 +345,7 @@
     <string name="account_settings_vibrate_when_silent">Только в режиме без звука</string>
     <string name="account_settings_vibrate_when_never">Никогда</string>
     <string name="account_settings_vibrate_when_dlg_title">Вибросигнал</string>
-    <string name="account_settings_ringtone">Выбрать рингтон</string>
+    <string name="account_settings_ringtone">Выбрать мелодию</string>
     <string name="account_settings_servers">Настройки сервера</string>
     <string name="account_delete_dlg_title">Удалить аккаунт</string>
     <string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален.</string>

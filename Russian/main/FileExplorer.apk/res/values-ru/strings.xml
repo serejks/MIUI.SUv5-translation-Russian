@@ -94,7 +94,7 @@
     <string name="favorite_photo">Фото</string>
     <string name="favorite_screen_cap">Скриншоты</string>
     <string name="file_cleanup">Очистка файлов</string>
-    <string name="favorite_ringtone">Рингтоны</string>
+    <string name="favorite_ringtone">Мелодии</string>
     <string name="file_loading">Загрузка…</string>
     <string name="remote_management">FTP</string>
     <string name="multi_select_title">%1$s выбрано</string>

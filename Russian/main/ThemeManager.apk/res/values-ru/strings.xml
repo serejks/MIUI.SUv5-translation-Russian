@@ -26,7 +26,7 @@
 	<string name="theme_component_title_boot_animation">Анимация загрузки</string>
 	<string name="theme_component_title_boot_audio">Звук загрузки</string>
 	<string name="theme_component_title_font">Шрифт</string>
-	<string name="theme_component_title_ringtone">Рингтон</string>
+	<string name="theme_component_title_ringtone">Мелодия</string>
 	<string name="theme_component_title_notification">Уведомл.</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_contact">Кнопки</string>
@@ -141,8 +141,8 @@
 	<string name="sdcard_status_changed_dialog_title">Статус SD карты изменён</string>
 	<string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>
 	<string name="resource_mute">Без звука</string>
-	<string name="resource_default">Стандартный рингтон</string>
-	<string name="resource_ringtone_default">Рингтоны</string>
+	<string name="resource_default">Стандартная мелодия</string>
+	<string name="resource_ringtone_default">Мелодии</string>
 	<string name="resource_notification_default">Уведомления</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="description_designer">Дизайн:</string>
@@ -190,8 +190,8 @@
 	<string name="resource_server_out_of_service">Сервер недоступен, пожалуйста попробуйте позже.</string>
 	<string name="resource_switch_account">Переключить</string>
 	<string name="processing">Обработка…</string>
-	<string name="resource_title_select_ringtone">Выбор рингтона</string>
-	<string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
+	<string name="resource_title_select_ringtone">Выбор мелодий</string>
+	<string name="resource_tip_select_ringtone">Мелодия не была выбрана</string>
 	<string name="loading_resource_detail_info">Загрузка…</string>
 	<string name="loading_resource_detail_fail">Ошибка загрузки ресурса</string>
 	<string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>

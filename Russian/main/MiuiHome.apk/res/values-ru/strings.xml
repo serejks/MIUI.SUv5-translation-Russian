@@ -75,7 +75,7 @@
     <string name="status_bar_toggle_privacy_mode">Гость</string>
     <string name="status_bar_toggle_reboot">Перезагрузка</string>
     <string name="status_bar_toggle_ring">Звонок</string>
-    <string name="status_bar_toggle_ringtone">Рингтон</string>
+    <string name="status_bar_toggle_ringtone">Мелодия</string>
     <string name="status_bar_toggle_rotate">Поворот</string>
     <string name="status_bar_toggle_screen_button">Кнопки</string>
     <string name="status_bar_toggle_screenshot">Скриншот</string>
@@ -123,7 +123,7 @@
     <string name="resource_apply">Применить</string>
     <string name="resource_buy">Купить</string>
     <string name="resource_can_not_selected">Невозможно выбрать: %1$s!</string>
-    <string name="resource_default">Стандартный рингтон</string>
+    <string name="resource_default">Стандартная мелодия</string>
     <string name="resource_default_name">Ресурсы</string>
     <string name="resource_delete_all">Выбрано ресурсов: %1$d. Удалить?</string>
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
@@ -146,15 +146,15 @@
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit">MI Деньги</string>
-    <string name="resource_ringtone_default">Рингтоны</string>
+    <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_see_more">Еще</string>
     <string name="resource_select">Выбрать</string>
     <string name="resource_server_out_of_service">Сервер недоступен, пожалуйста попробуйте позже.</string>
     <string name="resource_switch_account">Переключить</string>
     <string name="resource_system_title">Системные ресурсы</string>
-    <string name="resource_tip_select_ringtone">Рингтон не был выбран</string>
+    <string name="resource_tip_select_ringtone">Мелодия не была выбрана</string>
     <string name="resource_title">Свойства ресурса</string>
-    <string name="resource_title_select_ringtone">Выбор рингтона</string>
+    <string name="resource_title_select_ringtone">Выбор мелодии</string>
     <string name="resource_update">Обновление</string>
     <string name="screen_button_disabled_message">Кнопки на нижней части экрана отключены. Вы можете включить их, нажав на \"Домой\" и \"Питание\"</string>
     <string name="screen_button_enabled_message">Кнопки на нижней части экрана отключены</string>

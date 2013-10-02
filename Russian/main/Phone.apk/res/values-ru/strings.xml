@@ -705,12 +705,12 @@
 	<string name="description_target_decline">Отклонить</string>
 	<string name="voicemail_notification_vibrate_when_title">Вибросигнал</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
-	<string name="voicemail_notification_ringtone_title">Рингтон</string>
+	<string name="voicemail_notification_ringtone_title">Мелодия</string>
 	<string name="voicemail_notification_vibrate_when_default">never</string>
-	<string name="ringtone_title">Рингтон телефона</string>
+	<string name="ringtone_title">Мелодия телефона</string>
 	<string name="vibrate_on_ring_title">Вибро во время вызова</string>
 	<string name="dtmf_tone_enable_title">Звук нажатия на экран</string>
-	<string name="preference_category_ringtone">Рингтон</string>
+	<string name="preference_category_ringtone">Мелодия</string>
 	<string name="set_subscription">Выбор подписки</string>
 	<string name="card_01">Карта 1</string>
 	<string name="card_02">Карта 2</string>

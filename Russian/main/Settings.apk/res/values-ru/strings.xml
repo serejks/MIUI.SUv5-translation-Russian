@@ -666,7 +666,7 @@
     <string name="config_list_label">Настроенные сети</string>
     <string name="display_settings_title">Экран</string>
     <string name="sound_settings">Звук</string>
-    <string name="ringtone_title">Рингтон</string>
+    <string name="ringtone_title">Мелодия</string>
     <string name="all_volume_title">Громкость</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Громкость звонка</string>
@@ -688,7 +688,7 @@
     <string name="haptic_feedback_enable_title">Виброотклик</string>
     <string name="audio_record_proc_title">Подавление шума</string>
     <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
-    <string name="volume_ring_description">Рингтон и уведомления</string>
+    <string name="volume_ring_description">Мелодия и уведомления</string>
     <string name="volume_notification_description">Оповещения</string>
     <string name="volume_alarm_description">Будильник</string>
     <string name="volume_ring_mute">Выключить звонок и уведомления</string>
@@ -805,7 +805,7 @@
     <string name="memory_media_usage">Мультимедиа</string>
     <string name="memory_downloads_usage">Загрузки</string>
     <string name="memory_dcim_usage">Изображения и видео</string>
-    <string name="memory_music_usage">Аудио (Музыка, рингтоны, подкасты и т. п.)</string>
+    <string name="memory_music_usage">Аудио (Музыка, мелодии, подкасты и т. п.)</string>
     <string name="memory_media_misc_usage">Прочее</string>
     <string name="sd_eject">Извлечь SD-карту</string>
     <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
@@ -1446,7 +1446,7 @@
     <string name="sound_category_sound_title">Общие</string>
     <string name="sound_category_notification_title">Оповещения</string>
     <string name="sound_category_feedback_title">Система</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Настройка рингтонов</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Настройка мелодий</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Настройки Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
@@ -1990,7 +1990,7 @@
     <string name="search_accelerometer">Акселерометр</string>
     <string name="search_screen_timeout">Выкл. экрана</string>
     <string name="search_ring_volume">Громкость звонка</string>
-    <string name="search_ringtone">Рингтон</string>
+    <string name="search_ringtone">Мелодия</string>
     <string name="search_sms_received">Получение SMS</string>
     <string name="search_silent">Без звука</string>
     <string name="search_unlock_set">Разблокировка</string>
@@ -2225,7 +2225,7 @@
     <string name="volume_bluetooth_description">Громкость Bluetooth</string>
     <string name="volume_restore">Восстановить громкость</string>
     <string name="volume_restore_alert">Все настройки будут установлены на стандартные, вы уверены?</string>
-    <string name="sound_category_calls_and_notification_title">Рингтон и уведомления</string>
+    <string name="sound_category_calls_and_notification_title">Мелодия и уведомления</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">Настройка размера шрифта для таких приложений, как \"Телефон\", \"Сообщения\", \"Контакты\" и прочее, для улучшения удобства пользования и читабельности.</string>
     <string name="font_size_small">1</string>

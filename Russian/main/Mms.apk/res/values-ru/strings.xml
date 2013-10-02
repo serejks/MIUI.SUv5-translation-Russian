@@ -159,7 +159,7 @@
     <string name="pref_summary_notification_enabled">Отображать уведомления о сообщениях в строке состояния</string>
     <string name="pref_title_notification_vibrateWhen">Вибросигнал</string>
     <string name="pref_summary_notification_vibrateWhen">Вибросигнал при получении уведомления</string>
-    <string name="pref_title_notification_ringtone">Выбрать рингтон</string>
+    <string name="pref_title_notification_ringtone">Выбрать мелодию</string>
     <string name="pref_messages_to_save">Установить макс. кол-во сообщений в цепочке для хранения</string>
     <string name="prefDefault_vibrateWhen">никогда</string>
     <string name="prefDefault_vibrate_true">всегда</string>
@@ -267,8 +267,8 @@
     <string name="copy_to_sdcard_success">Файл сохранен.</string>
     <string name="copy_to_sdcard_fail">Файл не сохранен.</string>
     <string name="save_ringtone">Сохранить как мелодию звонка</string>
-    <string name="saved_ringtone">Рингтон сохранен.</string>
-    <string name="saved_ringtone_fail">Рингтон не сохранен.</string>
+    <string name="saved_ringtone">Мелодия сохранена.</string>
+    <string name="saved_ringtone_fail">Мелодия не сохранена.</string>
     <string name="menu_insert_smiley">Вставить смайлик</string>
     <string name="select_link_title">Выбор действия</string>
     <string name="slide_number">Слайд %s</string>
@@ -390,7 +390,7 @@
     <string name="pref_other_title">Прочее</string>
     <string name="pref_system_title">Система</string>
     <string name="pref_advanced_settings_title">Расширенные настройки</string>
-    <string name="pref_title_delivery_ringtone">Рингтон для доставки сообщений</string>
+    <string name="pref_title_delivery_ringtone">Мелодия доставки сообщений</string>
     <string name="pref_title_allow_3rd_mms">Разрешить сторонние</string>
     <string name="pref_summary_allow_3rd_mms">Разрешить доступ к сообщениям другими приложениями</string>
     <string name="pref_edit_smsc_address">Номер SMS центра</string>

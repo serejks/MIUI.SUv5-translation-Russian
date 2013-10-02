@@ -1684,7 +1684,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="sound_category_calls_and_notification_title">Мелодия и уведомления</string>
     <string name="sound_category_notification_title">Уведомления</string>
     <string name="sound_category_feedback_title">Система</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Вибросигнал и рингтон</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Вибросигнал и мелодия</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Настройка Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Подключить к сети Wi-Fi %s</string>

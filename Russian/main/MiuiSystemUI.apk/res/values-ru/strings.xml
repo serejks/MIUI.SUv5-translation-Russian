@@ -25,7 +25,7 @@
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">В самолете</string>
     <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
-    <string name="status_bar_settings_mute_label">Беззвучный</string>
+    <string name="status_bar_settings_mute_label">Без звука</string>
     <string name="status_bar_settings_auto_brightness_label">Авто</string>
     <string name="status_bar_settings_notifications">Уведомления</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
@@ -111,7 +111,7 @@
     <string name="accessibility_gps_acquiring">GPS запрашивается.</string>
     <string name="accessibility_tty_enabled">Телетайп включён.</string>
     <string name="accessibility_ringer_vibrate">Вибрация.</string>
-    <string name="accessibility_ringer_silent">Беззвучный.</string>
+    <string name="accessibility_ringer_silent">Без звука.</string>
     <string name="accessibility_recents_item_dismissed">%s отклонён.</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G передача данных отключена</string>
     <string name="data_usage_disabled_dialog_4g_title">4G передача данных отключена</string>
@@ -147,7 +147,7 @@
     <string name="status_bar_toggle_power_low">Экономия энергии</string>
     <string name="status_bar_toggle_power_mid">Нормально</string>
     <string name="status_bar_toggle_ring">Звонок</string>
-    <string name="status_bar_toggle_ringtone">Рингтон</string>
+    <string name="status_bar_toggle_ringtone">Мелодия</string>
     <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
     <string name="status_bar_toggle_sync_manual">Синхр.</string>
     <string name="status_bar_toggle_syncing">Синхр…</string>
@@ -185,7 +185,7 @@
     <string name="status_bar_toggle_flight_mode">В самолете</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Заблокир.</string>
-    <string name="status_bar_toggle_mute">Беззвучный</string>
+    <string name="status_bar_toggle_mute">Без звука</string>
     <string name="status_bar_toggle_network_type">Тип сети</string>
     <string name="status_bar_toggle_privacy_mode">Гость</string>
     <string name="status_bar_toggle_reboot">Перезагр.</string>
