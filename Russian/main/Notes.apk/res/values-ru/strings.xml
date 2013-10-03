@@ -73,6 +73,7 @@
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="time_picker_dialog_title">Время напоминания</string>
 	<string name="toast_message_add_image_fail">Ошибка при вставке изображения</string>
+    <string name="toast_privacy_mode">Нельзя редактировать заметку в режиме защиты.</string>
 	<string name="toast_note_privacy_mode">Нельзя редактировать заметку в режиме защиты.</string>
 	<string name="toast_folder_privacy_mode">Нельзя редактировать папку в режиме защиты.</string>
 	<string name="toast_reach_text_limit_attachment">Невозможно прикрепить файл. Нет свободного места в заметке.</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Add_More_Ringtones">Больше мелодий…</string>
     <string name="uid_label">Медиа</string>
     <string name="app_label">Хранилище медиа</string>
     <string name="upgrade_msg">Обновить БД медиа</string>
