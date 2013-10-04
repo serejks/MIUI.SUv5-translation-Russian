@@ -236,7 +236,7 @@
     <string name="rename_description">Переименование…</string>
     <string name="share_link_failed">Не удалось создать ссылку для папки</string>
     <string name="choose_send_type">Выберите метод отправки</string>
-    <string name="download_link_completed">Я открыл доступ к %1$s через KuaiPan. Перейдите по ссылке ниже, чтобы посмотреть:</string>
+    <string name="download_link_completed">"Я открыл доступ к %1$s через KuaiPan. Для просмотра перейдите по ссылке: "</string>
     <string name="transing">Передача</string>
     <string name="finished">Заверешено</string>
     <string name="uploading">Загрузка</string>

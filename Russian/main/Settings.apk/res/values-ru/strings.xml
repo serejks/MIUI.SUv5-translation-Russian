@@ -772,7 +772,6 @@ Phone setup can require significant network activity."</string>
     <string name="screensaver_settings_summary_either_short">Either</string>
     <string name="screensaver_settings_summary_sleep">While charging</string>
     <string name="screensaver_settings_summary_dock">While docked</string>
-    <string name="screensaver_settings_summary_off">Выключено</string>
     <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
     <string name="screensaver_settings_when_to_dream">When to daydream</string>
     <string name="screensaver_settings_dream_start">Start now</string>
@@ -1333,10 +1332,8 @@ Phone setup can require significant network activity."</string>
     <string name="launch_count_label">Подсчет</string>
     <string name="usage_time_label">Время использования</string>
     <string name="accessibility_settings">Спец. возможности</string>
-    <string name="accessibility_settings_title">Настройки специальных возможностей</string>
     <string name="accessibility_services_title">Службы</string>
     <string name="accessibility_system_title">Система</string>
-    <string name="accessibility_system_title">System</string>
     <string name="accessibility_screen_magnification_title">Magnification gestures</string>
     <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
