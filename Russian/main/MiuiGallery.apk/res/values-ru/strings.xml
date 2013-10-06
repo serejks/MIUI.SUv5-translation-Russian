@@ -88,7 +88,7 @@
     <string name="cancel">Отмена</string>
     <string name="select_all">Выбрать все</string>
     <string name="slideshow">Слайдшоу</string>
-    <string name="details">Детали</string>
+    <string name="details">Свойства</string>
     <string name="details_title">%1$d из %2$d:</string>
 	<string name="directory_info_divider">"  |  "</string>
     <string name="close">Закрыть</string>
@@ -386,10 +386,10 @@
     <string name="big_screen_alertdialog_title">Список устройств</string>
 	<string name="email_picker_title">Добавить общий E-mail</string>
 	<string name="enter_email_hint">"Введите адрес E-mail "</string>
-	<string name="exit_share">Закрыть альбом</string>
-	<string name="exit_share_failed">Закрытие альбома %1$s не удалось</string>
-	<string name="exit_share_in_process">Попытка закрытия альбома, пожалуйста подождите</string>
-	<string name="exit_share_successfully">Альбом %1$s закрыт</string>
+	<string name="exit_share">Выйти из альбома</string>
+	<string name="exit_share_failed">Выход из альбома \"%1$s\" не удался</string>
+	<string name="exit_share_in_process">Попытка выхода из альбома…</string>
+	<string name="exit_share_successfully">Вы вышли из альбома \"%1$s\"</string>
 	<string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
 	<string name="invalid_recipient_message">Исправьте получатей</string>
 	<string name="kick_sharer">Удалить получателя</string>
