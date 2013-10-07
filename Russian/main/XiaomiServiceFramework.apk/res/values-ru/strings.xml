@@ -177,7 +177,7 @@
     <string name="bankcall_call_hint">"You will receive Union pay‘s call (020-96585). 
 Follow prompts to complete instruction."</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
-    <string name="giftcard_hint">Вам будут переведены MiCredit'ы на подарочную карту.</string>
+    <string name="giftcard_hint">Вам будут переведены MiCredits на подарочную карту.</string>
     <string name="giftcard_record">Мои подарочные карты</string>
     <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
     <string name="header_data_and_synchronization">Данные и синхронизация</string>
