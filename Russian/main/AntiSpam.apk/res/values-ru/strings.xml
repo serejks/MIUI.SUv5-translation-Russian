@@ -168,7 +168,7 @@
 	<string name="dlg_retore_ok">ОК</string>
 	<string name="fw_blocked">Антиспам</string>
 	<string name="fw_blocked_count" formatted="false">Звонки: %d, SMS: %d</string>
-	<string name="marked_by_others">%d пользователей отметили как</string>
+	<string name="marked_by_others">Пользователи (%d чел.) отметили как</string>
 	<string name="marked_by_user">вы отметили как</string>
 	<string name="menu_add">Добавить</string>
 	<string name="menu_add_into_contact">Добавить к существующему контакту</string>
