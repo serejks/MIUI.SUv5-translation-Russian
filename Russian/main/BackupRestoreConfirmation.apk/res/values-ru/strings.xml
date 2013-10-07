@@ -11,7 +11,7 @@
     <string name="current_password_text">Введите ваш текущий пароль:</string>
     <string name="device_encryption_restore_text">Введите ваш пароль шифрования.</string>
     <string name="device_encryption_backup_text">Введите ваш пароль для шифрования. Он будет использоваться по умолчанию.</string>
-    <string name="backup_enc_password_text">Пожалуйста, введите пароль, используемый для шифрования полного резервного копирования данных. Если оставить пустым, будет использоваться ваш текущий пароль резервного копирования:</string>
+    <string name="backup_enc_password_text">Введите пароль, используемый для шифрования полного резервного копирования данных. Если оставить пустым, будет использоваться ваш текущий пароль резервного копирования:</string>
     <string name="backup_enc_password_optional">Если вы хотите зашифровать данные, введите пароль:</string>
     <string name="restore_enc_password_text">Если данные зашифрованы, введите пароль:</string>
     <string name="toast_backup_started">Создание бэкапа…</string>

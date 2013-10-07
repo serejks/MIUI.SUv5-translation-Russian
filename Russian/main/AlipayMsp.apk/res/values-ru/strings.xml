@@ -44,7 +44,7 @@
     <string name="cert_storage_size">Недостаточно места, удалять некоторые файлы, чтобы освободить место и повторите установку сертификата</string>
     <string name="cert_install_success">Установка завершена</string>
     <string name="cert_install_fail">Установка не удалась</string>
-    <string name="cert_checking">Обнаружение цифрового сертификата, пожалуйста, подождите…</string>
+    <string name="cert_checking">Обнаружение цифрового сертификата, подождите…</string>
     <string name="cert_checked">Система обнаружила цифровой сертификат</string>
     <string name="cert_not_exist">Цифровой сертификат не найден, повторите установку</string>
     <string name="cert_verify_fail_tips">Проверка сертификата не удалась</string>

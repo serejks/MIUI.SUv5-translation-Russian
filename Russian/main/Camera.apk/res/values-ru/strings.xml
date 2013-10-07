@@ -13,9 +13,9 @@
     <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
     <string name="not_enough_space">Ваша SD-карта заполнена.</string>
     <string name="preparing_sd">Подготовка внутреннего хранилища…</string>
-    <string name="access_sd_fail">Нет доступа к SD карте</string>
-    <string name="access_phone_fail_no_product">Нет доступа к USB хранилищу</string>
-    <string name="access_sd_fail_no_product">Нет доступа к SD карте</string>
+    <string name="access_sd_fail">Нет доступа к SD-карте</string>
+    <string name="access_phone_fail_no_product">Нет доступа к USB-хранилищу</string>
+    <string name="access_sd_fail_no_product">Нет доступа к SD-карте</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_change_mode_title">Переключить режим</string>
@@ -657,7 +657,7 @@
     <string name="pref_video_captrue_ability_title">Фото при съемке</string>
     <string name="find_mecard_qrcode">Поиск визитки по QR коду</string>
     <string name="find_weixin_qrcode">Поиск в WeiXin по QR коду</string>
-    <string name="find_market_qrcode">Поиск в маркете по QR коду</string>
+    <string name="find_market_qrcode">Поиск в Маркете по QR коду</string>
     <string name="find_web_qrcode">Поиск сайта по QR коду</string>
     <string name="find_other_qrcode">Поиск по QR коду</string>
     <string name="find_qq_qrcode">Поиск по QQ QR коду</string>
@@ -672,7 +672,7 @@
     <string name="import_contact">Импорт контакта</string>
     <string name="secure_access_web_url">Открыть в браузере</string>
     <string name="download_by_browser">Скачать</string>
-    <string name="launch_market">Открыть СуперМаркет</string>
+    <string name="launch_market">Открыть Маркет</string>
     <string name="see_app_details">Информация о приложении</string>
     <string name="copy_text">Копировать текст</string>
     <string name="copy_text_success">Скопировано</string>
@@ -688,7 +688,7 @@
     <string name="contact_note">Заметка</string>
     <string name="success_message_import_from_account">Импорт завершен</string>
     <string name="web_url_warning">Сайт QR кода может содержать вредоносные файлы. Для безопасной загрузки сайта используйте MIUI браузер.</string>
-    <string name="web_url_apk_warning">Приложение QR кода может содержать вредоносные ресурсы. Для безопасной загрузки приложения используйте СуперМаркет или Google Play.</string>
+    <string name="web_url_apk_warning">Приложение QR кода может содержать вредоносные ресурсы. Для безопасной загрузки приложения используйте Mi-Маркет или Google Play.</string>
     <string name="find_wechat_qrcode">Поиск в WeChat по QR коду</string>
     <string name="wechat_details">Информация WeChat:</string>
     <string name="launch_wechat">Запустить WeChat</string>

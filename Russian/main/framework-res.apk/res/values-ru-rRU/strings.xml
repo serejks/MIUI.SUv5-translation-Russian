@@ -581,7 +581,7 @@
     <string name="permdesc_reboot">Позволяет приложениям перезагружать телефон.</string>
     <string name="permlab_mount_unmount_filesystems">Доступ к файловым системам</string>
     <string name="permdesc_mount_unmount_filesystems">Позволяет приложениям монтировать или отмонтировать файловые системы съемных носителей.</string>
-    <string name="permlab_mount_format_filesystems">Форматировать карту памяти</string>
+    <string name="permlab_mount_format_filesystems">Форматировать SD-карту</string>
     <string name="permdesc_mount_format_filesystems">Позволяет приложениям форматировать съемный носитель.</string>
     <string name="permlab_asec_access">Получение информации о внутренней памяти телефона</string>
     <string name="permdesc_asec_access">Дает доступ приложениям к информации о внутренней памяти телефона.</string>
@@ -1467,7 +1467,7 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="user_switched">Текущий пользователь: %1$s.</string>
     <string name="owner_name">Owner</string>
     <string name="storage_phone">Внутренняя память</string>
-    <string name="storage_external_usb">Внешний USB накопитель</string>
+    <string name="storage_external_usb">Внешний USB-накопитель</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Voice unlock.</string>
     <string name="reboot_title">Перезагрузить телефон?</string>
     <string name="reboot_confirm">Restarting your phone will clear temporary files out of memory.Would you like to restart your phone now?</string>

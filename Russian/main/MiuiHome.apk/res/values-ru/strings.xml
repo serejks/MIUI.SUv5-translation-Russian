@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_abnormal_state">Ошибка в данных аккаунта, пожалуйста, выполните вход снова!</string>
+    <string name="account_abnormal_state">Ошибка в данных аккаунта, выполните вход снова!</string>
     <string name="all_resources">Все</string>
     <string name="aqi_quality_index_dangerous">Опасно</string>
     <string name="aqi_quality_index_good">Хорошо</string>
@@ -132,9 +132,9 @@
     <string name="resource_downloaded_title">Загруженные ресурсы…</string>
     <string name="resource_downloading">Загрузка…</string>
     <string name="resource_get_auth_checking">Авторизация…</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Тема не может быть запущена на этом устройстве с вашим аккаунтом. Пожалуйста используйте другой аккаунт Xiaomi.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Невозможно использовать тему на текущем устройстве с Вашим аккаунтом, на котором регистрируется до 10 устройств каждый год. Попробуйте использовать другие аккаунты Xiaomi..</string>
     <string name="resource_get_auth_exceed_max_limit_title">Достигнут лимит авторизаций!</string>
-    <string name="resource_get_auth_missing">Тема была загружена не из официального магазина, пожалуйста загрузите тему из офф. магазина.</string>
+    <string name="resource_get_auth_missing">Тема загружена не из официального Маркета, загрузите тему из официального Маркета</string>
     <string name="resource_get_auth_retrieving">Восстановление авторизации…</string>
     <string name="resource_importing">Импорт</string>
     <string name="resource_list_title">Последние выбранные</string>
@@ -149,7 +149,7 @@
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_see_more">Еще</string>
     <string name="resource_select">Выбрать</string>
-    <string name="resource_server_out_of_service">Сервер недоступен, пожалуйста попробуйте позже.</string>
+    <string name="resource_server_out_of_service">Сервер недоступен, попробуйте позже.</string>
     <string name="resource_switch_account">Переключить</string>
     <string name="resource_system_title">Системные ресурсы</string>
     <string name="resource_tip_select_ringtone">Мелодия не была выбрана</string>
@@ -160,7 +160,7 @@
     <string name="screen_button_enabled_message">Кнопки на нижней части экрана отключены</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в горизонтальном положении.</string>
     <string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>
-    <string name="sdcard_status_changed_dialog_title">Статус SD карты изменён</string>
+    <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменён</string>
     <string name="preferences_title">Настройки лаунчера</string>
     <string name="processing">Обработка…</string>
     <string name="preferences_general_title">Общие параметры</string>

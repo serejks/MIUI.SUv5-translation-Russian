@@ -807,7 +807,7 @@
 	<string name="auto_ip_exception_summary_miui">%d всего</string>
 	<string name="auto_ip_exception_summary_more_miui">,… %d всего</string>
 	<string name="auto_ip_support_local_numbers">Поддержка локальных номеров</string>
-	<string name="auto_record_call_summary_miui">Звонки записываются и сохраняются в папку на SD карте: MIUI/sound_recorder/call_rec</string>
+	<string name="auto_record_call_summary_miui">Звонки записываются и сохраняются в папку на SD-карте: MIUI/sound_recorder/call_rec</string>
 	<string name="auto_record_call_title_miui">Записывать автоматически</string>
 	<string name="auto_record_scenario_title_miui">Автозапись</string>
 	<string name="auto_record_scenario_enteries_always_miui">Все номера</string>
@@ -848,14 +848,14 @@
 	<string name="call_record_unknown_error">Ошибка записи</string>
 	<string name="call_record_notification_message_low_space_miui">Запись остановлена из-за нехватки памяти, показать %s.</string>
 	<string name="call_record_notification_message_miui">Показать %s.</string>
-	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена. SD карта недоступна</string>
+	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена. SD-карта недоступна</string>
 	<string name="call_record_notification_title_error_miui">Ошибка записи</string>
 	<string name="call_record_notification_title_miui">Запись завершена</string>
 	<string name="call_record_sample_prefix_miui">Запись вызовов</string>
 	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением.</string>
-	<string name="call_record_sd_error_miui">Ошибка доступа к SD карте!</string>
-	<string name="call_record_sd_space_low_miui">На SD карте мало места. Удалите несколько файлов и попробуйте еще.</string>
-	<string name="call_record_path_name_of_sdcard_miui">SD карта</string>
+	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
+	<string name="call_record_sd_space_low_miui">На SD-карте мало места. Удалите несколько файлов и попробуйте еще.</string>
+	<string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
 	<string name="call_settings_category_miui">Настройки вызовов</string>
 	<string name="call_settings_miui">Настройки вызовов</string>
 	<string name="call_title_redialing_with_times_miui">Набран %d раз</string>
@@ -1198,9 +1198,9 @@
     <string name="stop_record">Stop recording</string>
     <string name="str_db_playlist_name">My recordings</string>
     <string name="alert_device_error">Error occurred on audio device</string>
-    <string name="ext_media_badremoval_notification_title">SD card unexpectedly removed</string>
-    <string name="error_sdcard_access">Unable to access SD card</string>
-    <string name="confirm_device_info_full">SD card is out of space, the recording has been saved.</string>
+    <string name="ext_media_badremoval_notification_title">SD-card unexpectedly removed</string>
+    <string name="error_sdcard_access">Unable to access SD-card</string>
+    <string name="confirm_device_info_full">SD-card is out of space, the recording has been saved.</string>
     <string name="confirm_save_info_saved">The recording has been saved</string>
     <string name="sim_toolkit">SIM Toolkit</string>
     <string name="activity_not_found">Application is not installed on your phone.</string>
@@ -1239,9 +1239,9 @@
     <string name="vt_pic_replace_local_freezeme">Freeze me</string>
     <string name="vt_pic_replace_local_mypic">My picture</string>
     <string name="vt_local_video_display">Local video display</string>
-    <string name="vt_sd_null">"SD card is
+    <string name="vt_sd_null">"SD-card is
 unavailable"</string>
-    <string name="vt_sd_not_enough">"SD card is running
+    <string name="vt_sd_not_enough">"SD-card is running
 out of space"</string>
     <string name="vt_peer_video_quality_normal">Normal</string>
     <string name="vt_peer_video_quality_sharp">Sharp</string>
@@ -1249,7 +1249,7 @@ out of space"</string>
     <string name="vt_ask_show_local_yes">Yes</string>
     <string name="vt_ask_show_local_no">No</string>
     <string name="vt_change_my_pic">Change</string>
-    <string name="vt_pic_saved_to_sd">Snapshot saved to SD card</string>
+    <string name="vt_pic_saved_to_sd">Snapshot saved to SD-card</string>
     <string name="vt_pic_saved_to_sd_fail">Failed to save snapshot</string>
     <string name="vt_error_network">Network unreachable.The video call will disconnect.</string>
     <string name="vt_error_media">Video cannot be displayed properly.The video call will disconnect.</string>
@@ -1300,7 +1300,7 @@ out of space"</string>
     <string name="vt_recorder_only_voice">Only voice</string>
     <string name="vt_recorder_only_peer_video">Only peer video</string>
     <string name="vt_recording_saved">The recording has been saved.</string>
-    <string name="vt_recording_saved_sd_full">SD card is out of space, the recording has been saved.</string>
+    <string name="vt_recording_saved_sd_full">SD-card is out of space, the recording has been saved.</string>
     <string name="vt_recording_saved_fail">The recording was saved unsuccessfully.</string>
     <string name="vt_recording_error">The recording error.</string>
     <string name="start_record_vt">Start recording</string>

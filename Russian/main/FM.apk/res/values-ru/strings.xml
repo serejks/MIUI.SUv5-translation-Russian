@@ -55,10 +55,10 @@
     <string name="factory_reset_dialog_message">Это приведет к удалению всех настроек, включая предустановок</string>
     <string name="station_move">Переместить</string>
     <string name="station_edit">Редактировать</string>
-    <string name="no_storage">Перед началом записи вставьте карту памяти</string>
+    <string name="no_storage">Перед началом записи вставьте SD-карту</string>
     <string name="preparing_sd">Подготовка карты памяти</string>
-    <string name="access_sd_fail">Нет доступа к карте памяти.</string>
-    <string name="spaceIsLow_content">На карте памяти мало места. Измените настройки качества или удалите ненужные файлы.</string>
+    <string name="access_sd_fail">Нет доступа к SD-карте.</string>
+    <string name="spaceIsLow_content">На SD-карте мало места. Измените настройки качества или удалите ненужные файлы.</string>
     <string name="FMRecording_reach_storage_threshold">Запись остановлена. Карта памяти заполнена.</string>
     <string name="delete_station_title">Удалить</string>
     <string name="find_af_station">Найти</string>
@@ -188,10 +188,10 @@
     <string name="toast_in_call">You can not launch FM Radio when you are in call.</string>
     <string name="empty_list">No stations</string>
     <string name="fm_recorder_name">FM Recorder</string>
-    <string name="toast_recording_lost_warning">Your recording will be lost due to SD removal!</string>
+    <string name="toast_recording_lost_warning">Your recording will be lost due to SD-removal!</string>
     <string name="toast_start_recording">Start recording…</string>
-    <string name="toast_sdcard_missing">Your SD card is missing!</string>
-    <string name="toast_sdcard_insufficient_space">Insufficient SD card space!</string>
+    <string name="toast_sdcard_missing">Your SD-card is missing!</string>
+    <string name="toast_sdcard_insufficient_space">Insufficient SD-card space!</string>
     <string name="toast_recorder_internal_error">An internal error occured in recorder!</string>
     <string name="toast_player_internal_error">An internal error occured in player!</string>
     <string name="toast_powerup_before_record_warning">Please power up FM first!</string>

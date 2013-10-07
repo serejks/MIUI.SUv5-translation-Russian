@@ -95,7 +95,7 @@
     <string name="check_update">Проверка обновлений</string>
     <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Не хватает места, чтобы перенести %d Мб</string>
-    <string name="moving_data_to_sdcard_message">Перенос данных. Не вынимайте SD карту и не переключайтесь в режим USB накопителя</string>
+    <string name="moving_data_to_sdcard_message">Перенос данных. Не вынимайте SD карту и не переключайтесь в режим USB-накопителя</string>
     <string name="moving_data_to_sdcard_progress_format">Завершено %1$dKб из %2$dKб</string>
     <string name="finish_download">Загрузка завершена</string>
     <string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>

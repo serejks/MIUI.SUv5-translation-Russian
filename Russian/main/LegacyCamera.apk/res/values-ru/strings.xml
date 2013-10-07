@@ -81,7 +81,7 @@
     <string name="pref_exposure_title">Экспозиция</string>
     <string name="pref_exposure_default">0</string>
     <string name="dialog_ok">Да</string>
-    <string name="spaceIsLow_content">Осталось мало места на USB накопителе. Измените качество снимков или удалите снимки/другие файлы с накопителя.</string>
+    <string name="spaceIsLow_content">Осталось мало места на USB-накопителе. Измените качество снимков или удалите снимки/другие файлы с накопителя.</string>
     <string name="video_reach_size_limit">Достигнуто ограничение размера.</string>
     <string name="switch_to_camera_label">Переключить в режим фото</string>
     <string name="switch_to_video_label">Переключить в режим видео</string>

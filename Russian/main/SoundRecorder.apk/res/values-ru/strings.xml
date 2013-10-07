@@ -35,7 +35,7 @@
     <string name="notification_warning">Мало памяти (осталось менее %d минут)…</string>
     <string name="record_list">Список записей</string>
     <string name="record_loading">Загрузка записи, подождите.</string>
-    <string name="sd_card_not_available">SD карта недоступна</string>
+    <string name="sd_card_not_available">SD-карта недоступна</string>
     <string name="call_record">Записи звонков(%d)</string>
     <string name="fm_record">Записи FM радио(%d)</string>
     <string name="open_file_explorer">Открыть файл-менеджер</string>

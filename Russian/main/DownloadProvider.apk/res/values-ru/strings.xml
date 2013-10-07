@@ -8,7 +8,7 @@
     <string name="permlab_downloadCompletedIntent">Отправить оповещение о загрузке</string>
     <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы могут использовать эту функцию, чтобы запутать других приложений, которые скачивают файлы.</string>
     <string name="permlab_seeAllExternal">Показать все загрузки на USB-накопитель</string>
-    <string name="permdesc_seeAllExternal">Разрешить приложению доступ к загрузкам на SD карте, независимо от того, какие приложения сделали их</string>
+    <string name="permdesc_seeAllExternal">Разрешить приложению доступ к загрузкам на SD-карте, независимо от того, какие приложения сделали их</string>
     <string name="permlab_downloadCacheNonPurgeable">Резервировать место для кэша</string>
     <string name="permdesc_downloadCacheNonPurgeable">"Разрешает приложению загружать файлы в кэш, который не может быть автоматически очищен, если менеджеру загрузки потребуется больше места"</string>
     <string name="permlab_downloadWithoutNotification">Загрузка файлов без уведомления</string>

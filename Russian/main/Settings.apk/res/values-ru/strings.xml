@@ -956,7 +956,7 @@ Phone setup can require significant network activity."</string>
 "<li>Прочее</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить "<b>USB накопитель</b>.</string>
+Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить "<b>USB-накопитель</b>.</string>
     <string name="erase_external_storage">Очистить SD-карту</string>
     <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
     <string name="master_clear_button_text">Сбросить настройки телефона</string>
@@ -2193,7 +2193,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="device_cpu">Процессор:</string>
     <string name="device_memory">Операт. память:</string>
     <string name="device_internal_memory">Накопитель:</string>
-    <string name="device_sd_memory">SD карта:</string>
+    <string name="device_sd_memory">SD-карта:</string>
     <string name="device_cpu2_info">"Два ядра "</string>
     <string name="device_cpu4_info">"Четыре ядра "</string>
     <string name="available_size">%s (Доступно)</string>

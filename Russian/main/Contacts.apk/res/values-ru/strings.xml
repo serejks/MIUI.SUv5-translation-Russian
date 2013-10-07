@@ -159,7 +159,7 @@
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания контакта с нуля
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/Экспорт импортирует контакты с вашей SIM или SD карты
+"<b><font fgcolor="#ffffffff"><li>"Импорт/Экспорт импортирует контакты с вашей SIM или SD-карты
 "</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Отсутствуют контакты для отображения
@@ -733,7 +733,7 @@
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Импорт/Экспорт</string>
     <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
-    <string name="import_vcard_description">Импорт контактов с SD карты</string>
+    <string name="import_vcard_description">Импорт контактов с SD-карты</string>
     <string name="import_weibo_dialog_title">Импорт контактов Sina Weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Нет совпадающих контактов</string>
     <string name="import_weibo_error_no_network">Ошибка сети</string>
@@ -746,7 +746,7 @@
     <string name="import_weibo_notification_title">Импортирование контактов Sina Weibo…</string>
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
     <string name="import_weibo_progress_hint">Импортирование…</string>
-    <string name="export_vcard_description">Экспорт vCard на SD карту</string>
+    <string name="export_vcard_description">Экспорт vCard на SD-карту</string>
     <string name="export_to_sim">Экспорт на SIM карту 1</string>
     <string name="export_to_sim2">Экспорт на SIM карту 2</string>
     <string name="export_to_sim_title">Экспортирование на SIM карту…</string>
@@ -1002,8 +1002,8 @@
     <string name="resource_get_auth_checking">Проверка авторизации…</string>
     <string name="resource_get_auth_retrieving">Повтор авторизации…</string>
 	<string name="resource_import_successful">Загрузка завершена.</string>
-    <string name="resource_get_auth_missing">Тема скачана не из официального Маркета, скачайте аналогичную из официального Маркета.</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Превышен лимит авторизаций</string>
+    <string name="resource_get_auth_missing">Тема загружена не из официального Маркета, загрузите тему из официального Маркета.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Достигнут лимит авторизаций!</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Невозможно использовать тему на текущем устройстве с Вашим аккаунтом, на котором регистрируется до 10 устройств каждый год. Попробуйте использовать другие аккаунты Xiaomi.</string>
     <string name="resource_server_out_of_service">Сервер недоступен, попробуйте позже.</string>
     <string name="resource_switch_account">Переключение</string>
