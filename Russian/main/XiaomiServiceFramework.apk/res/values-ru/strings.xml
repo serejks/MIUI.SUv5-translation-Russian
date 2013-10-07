@@ -146,7 +146,7 @@
     <string name="button_retry">Повтор</string>
     <string name="button_pay">Подтвердить</string>
     <string name="button_recharge">Пополнить</string>
-    <string name="balance">Баланс: %1$s Mi-долларов</string>
+    <string name="balance">Баланс: %1$s MiCredits</string>
     <string name="frozen">(Заморожен)</string>
     <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
     <string name="giftcard_denom">MiCredit</string>
@@ -177,7 +177,7 @@
     <string name="bankcall_call_hint">"You will receive Union pay‘s call (020-96585). 
 Follow prompts to complete instruction."</string>
     <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
-    <string name="giftcard_hint">"Вам будут переведены MiCredit'ы на подарочную карту.</string>
+    <string name="giftcard_hint">Вам будут переведены MiCredit'ы на подарочную карту.</string>
     <string name="giftcard_record">Мои подарочные карты</string>
     <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
     <string name="header_data_and_synchronization">Данные и синхронизация</string>
@@ -185,9 +185,9 @@ Follow prompts to complete instruction."</string>
 	<string name="msg_send_no_net_error">Ошибка отправки сообщения: не удается подключиться к мобильной сети.</string>
 	<string name="msg_send_no_sim_error">Ошибка отправки сообщения, попробуйте еще раз.</string>
 	<string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
-	<string name="msg_telecom_order_denom">%1syuan не читает данные мобильной сети</string>
+	<string name="msg_telecom_order_denom">%1s юань (не включает в себя плату за передачу данных)</string>
 	<string name="msg_telecom_order_denom_label">Сумма:</string>
-	<string name="msg_telecom_order_goods">%1sMi-Кредит</string>
+	<string name="msg_telecom_order_goods">%1s MiCredit</string>
 	<string name="msg_telecom_order_goods_label">Описание:</string>
 	<string name="msg_telecom_picker_hint_1_1">После подтверждения покупки, ваш телефон будет</string>
 	<string name="msg_telecom_picker_hint_1_2">автоматически подключен к провайдеру</string>
@@ -333,7 +333,7 @@ Please try again after five minutes"</string>
     <string name="btn_back">Назад</string>
     <string name="btn_recharge_other">Пополнить</string>
     <string name="btn_call">Позвонить</string>
-    <string name="recharge_notification">Зачисляю %1$s Mi-долларов</string>
+    <string name="recharge_notification">Пополнение %1$s MiCredits</string>
     <string name="title_mili_center">MiCredits</string>
     <string name="title_recharge_record">Зачисления</string>
     <string name="title_pay_record">%1$s: платежи</string>
