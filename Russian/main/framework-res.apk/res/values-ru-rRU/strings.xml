@@ -1088,7 +1088,7 @@
     <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хочет отправить сообщение &lt;b>%2$s&lt;/b>.</string>
     <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к расходам</font> на вашем счету.</string>
     <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Это приведет к расходам на вашем счету.</font></string>
-    <string name="sms_short_code_confirm_allow">ОГтправить</string>
+    <string name="sms_short_code_confirm_allow">Отправить</string>
     <string name="sms_short_code_confirm_deny">Отмена</string>
     <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
     <string name="sms_short_code_remember_undo_instruction">Вы сможете изменить это позже в Настройки > Приложения</string>
