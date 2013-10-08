@@ -3235,8 +3235,8 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="smart_switch_widget_title">Интеллектуальное переключение</string>
     <string name="audio_balance">Баланс звука</string>
     <string name="sound_balance_summary">Регулировать баланс звука медиаплеера при использовании наушников</string>
-    <string name="left">Влево</string>
-    <string name="right">Правое</string>
+    <string name="left">Лево</string>
+    <string name="right">Право</string>
     <string name="notification_panel_title">Панель уведомлений</string>
     <string name="availablebutton_category">Доступные кнопки</string>
     <string name="bright_adjustment_panel_title">Регулировка яркости</string>
@@ -3300,8 +3300,8 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="scloud_disable_wifi_only_title">Отключение \"Только Wi-Fi\"</string>
     <string name="scloud_disable_wifi_only_body">За подключение по мобильной сети может взиматься дополнительная плата (в зависимости от вашего тарифного плана)</string>
     <string name="description_play_button">Воспроизвести</string>
-    <string name="set_up_simuim">Set SIM/UIM card lock</string>
-    <string name="simuim_card_lock">SIM/UIM card lock</string>
+    <string name="set_up_simuim">Установить блокировку SIM/UIM</string>
+    <string name="simuim_card_lock">SIM/UIM блокировка</string>
     <string name="insert_uim_card">Вставьте карту UIM</string>
     <string name="lockpattern_settings_enable_hold_button_instantly_locks">Мгновенно блокировать с помощью клавиши удержания</string>
     <string name="ringtone_add">Добавить</string>
@@ -3394,7 +3394,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="lockfinger_unlock_fingerprint_shortcut_summary">Если вы зарегистрировали свои отпечатки пальцев, можно использовать разблокировку с помощью отпечатков. Чтобы использовать ярлыки для отпечатков пальцев, назначьте приложение каждому отпечатку</string>
     <string name="second_lock_text_finger">Если вы не можете использовать палец, для разблокировки введите дополнительный PIN-код</string>
     <string name="favorite_notification_title">Уведомления</string>
-    <string name="download">Downloading…</string>
+    <string name="download">Загрузка…</string>
     <string name="download_cancel">Загрузка отменена</string>
     <string name="download_success">Сведения о стране роуминга обновлены</string>
     <string name="download_fail">Загрузка невозможна</string>
@@ -3406,7 +3406,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
     <string name="airplane_mode_desc">Airplane mode allows you to turn off calling, messaging, and data network features. In addition, it turns off connectivity features such as Wi-Fi and Bluetooth. To use Wi-Fi and Bluetooth, please turn them on in the Settings or Notification panel.</string>
     <string name="airplane_mode_status">Текущее состояние</string>
-    <string name="airplane_mode_on">Airplane mode ON</string>
-    <string name="airplane_mode_off">Airplane mode OFF</string>
+    <string name="airplane_mode_on">Режим \"В самолете\" включен</string>
+    <string name="airplane_mode_off">Режим \"В самолете\" выключен</string>
     <string name="notification_panel_multiwindows">Несколько окон</string>
 </resources>
