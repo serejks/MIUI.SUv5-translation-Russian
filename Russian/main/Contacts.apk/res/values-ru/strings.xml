@@ -747,7 +747,7 @@
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
     <string name="import_weibo_progress_hint">Импортирование…</string>
     <string name="export_vcard_description">Экспорт vCard на SD-карту</string>
-    <string name="export_to_sim">Экспорт на SIM карту 1</string>
+    <string name="export_to_sim">Экспорт на SIM карту</string>
     <string name="export_to_sim2">Экспорт на SIM карту 2</string>
     <string name="export_to_sim_title">Экспортирование на SIM карту…</string>
     <string name="sim_card_no_free_space_title">SIM карта заполнена</string>
