@@ -226,7 +226,7 @@
 	<string name="has_invalid_recipient">Недопустимых получателей: &lt;%1$s></string>
     <string name="cannot_send_message_reason">Ваше сообщение не имеет допустимых получателей.</string>
     <string name="show_hidden_albums">Скрытые альбомы</string>
-	<string name="operation_share">Поделиться</string>
+	<string name="operation_share">"Поделиться "</string>
     <string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
 	<string name="fail_to_sync_album">Ошибка синхронизации альбома с сервером. Пожалуйста, проверьте интернет соединение.</string>
     <string name="sync_album_in_proecess">Альбом синхронизируется с сервером. Пожалуйста, подождите…</string>

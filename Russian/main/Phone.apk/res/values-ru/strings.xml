@@ -985,7 +985,7 @@
 	<string name="manage_fdn_list_sum_miui">Управление списком номеров</string>
 	<string name="menu_select_title">Выбрано: %d</string>
 	<string name="menu_select_all">Выбрать все</string>
-	<string name="menu_deselect_all">Снять все</string>
+	<string name="menu_deselect_all">Снять выбор</string>
 	<string name="mismatch_pin2_miui">Введенные PIN2 не совпадают. Повторите попытку.</string>
 	<string name="mismatch_pin_miui">Введенные PIN не совпадают. Повторите попытку.</string>
 	<string name="mobile_networks_miui">Настройки мобильной сети</string>

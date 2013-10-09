@@ -456,7 +456,7 @@
     <string name="menu_display_selected">Показать выбранные</string>
     <string name="menu_display_all">Показать все</string>
     <string name="menu_select_all">Выбрать все</string>
-    <string name="menu_select_none">Снять все</string>
+    <string name="menu_select_none">Снять выбор</string>
     <string name="no_contacts_selected">Контакты не выбраны.</string>
     <string name="add_field">Добавить поле</string>
     <string name="add_new_entry_for_section">Добавить</string>
@@ -1025,7 +1025,7 @@
 	<string name="readingSimContacts">Чтение контактов с SIM-карты…</string>
 	<string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
 	<string name="simContacts_empty">Нет контактов на SIM-карте</string>
-	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
+	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять выроб</string>
 	<string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
 	<string name="toast_copy_done">Копирование завершено</string>
 	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
