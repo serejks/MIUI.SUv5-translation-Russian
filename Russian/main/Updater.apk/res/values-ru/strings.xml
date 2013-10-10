@@ -157,7 +157,7 @@
 	<string name="comment_upload_success">Комментарий отправлен!</string>
 	<string name="comment_invalid">Нажмите на звезду чтобы оставить оценку</string>
 	<string name="comment_upload_not_logined">Необходимо войти в аккаунт</string>
-	<string name="fourgrid_hint_text">Уважаемы разработчик. Благодарим вас за использование нашей прошивки. Расскажите, пожалуйста, что вы думаете о прошивке, этим вы поможете нам сделать MIUI лучше.</string>
+	<string name="fourgrid_hint_text">Уважаемый разработчик. Благодарим вас за использование нашей прошивки. Расскажите, пожалуйста, что вы думаете о прошивке, этим вы поможете нам сделать MIUI лучше.</string>
 	<string name="fourgrid_notificaiont">Отображать в статусбаре</string>
 	<string name="fourgrid_no_notificaiont">Не отображать в статусбаре</string>
 </resources>
