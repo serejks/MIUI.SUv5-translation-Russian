@@ -2301,6 +2301,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="notification_vibrate_abbreviation">Уведомления</string>
     <string name="mms_vibrate_abbreviation">Сообщения</string>
     <string name="breathing_light_color_title">" (цвет)"</string>
+	<string name="breathing_light_color_menu_title">Цвет подсветки</string>
     <string name="breathing_light_color_summary">Цвет индикатора для уведомлений</string>
     <string name="breathing_light_freq_title"> (частота)</string>
     <string name="breathing_light_freq_summary">Частота миганий индикатора для уведомлений</string>

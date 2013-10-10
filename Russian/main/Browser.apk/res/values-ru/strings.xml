@@ -430,6 +430,10 @@
 	<string name="tab_yellowpage">Категории</string>
 	<string name="tab_quicklinks">Популярные</string>
 	<string name="pref_content_night_read_mode">Включить ночной режим</string>
+	<string name="general_set_default_browser_title">Сделать браузером по-умолчанию</string>
+    <string name="general_set_default_browser_dialog_summary">Используйте MIUI приложения для быстрой производительности</string>
+    <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
+    <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закр.посл.вкладки</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузера, при закрытии последней вкладки. Выключите, чтобы показывалась домашней страницы</string>
 	<string name="url_hint">Поиск/Ввод URL</string>
@@ -592,4 +596,8 @@
 	<string name="geolocation_permissions_prompt_toast_disallowed">Этот сайт не может получить доступ к вашему местоположению. Включить можно в приложении Настройки&gt; Конфиденциальность и безопасность&gt; Очистить доступ к местоположению.</string>
 	<string name="pref_content_homepage">Стартовая страница</string>
 	<string name="search">Поиск</string>
+	<string name="clear_search_history">Очистить историю</string>
+	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте вверх для закрытия</string>
+    <string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиньте вниз для закрытия</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
 </resources>
