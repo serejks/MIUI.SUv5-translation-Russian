@@ -437,7 +437,7 @@
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Вернуться</string>
-    <string name="alert_title_selected">Отметить все</string>
+    <string name="alert_title_selected">Выбрать все</string>
     <string name="alert_selected_all_message">" содержит %d сообщений. Выбираем все, уверены?"</string>
     <string name="account_setup_index_title">Инструкция по настройке</string>
     <string name="account_setup_index_label">Выберите, почтовый сервис:</string>

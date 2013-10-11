@@ -303,7 +303,7 @@
     <string name="cancel_export_confirmation_message">Отменить экспорт %s?</string>
     <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
     <string name="search_settings_description">Имена контактов</string>
-    <string name="add_2sec_pause">Добавить 2-секундную паузу</string>
+    <string name="add_2sec_pause">Добавить 2х сек. паузу</string>
     <string name="add_wait">Добавить ожидание</string>
     <string name="call_disambig_title">Выбор номера</string>
     <string name="call_settings">Настройки</string>
@@ -427,7 +427,7 @@
     <string name="name_phonetic_family">Фамилия (транскрипция)</string>
     <string name="name_phonetic">Транскрипция имени</string>
     <string name="connections">Связи</string>
-    <string name="add_connection_button">Добавить соцсеть</string>
+    <string name="add_connection_button">Добавить соц.сеть</string>
     <string name="recent">Недавние</string>
     <string name="recent_updates">Недавние</string>
     <string name="account_type_format">Контакт %1$s</string>
@@ -687,7 +687,7 @@
     <string name="recent_contacts_label">Послед.</string>
     <string name="recent_number">Послед.</string>
     <string name="cloud_antispam_mark">Отметить</string>
-    <string name="menu_new_favorite_action_bar">Добавить</string>
+    <string name="menu_new_favorite_action_bar">Добавить в избранное</string>
     <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>
     <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
     <string name="noRecentContacts">Нет последних контактов</string>

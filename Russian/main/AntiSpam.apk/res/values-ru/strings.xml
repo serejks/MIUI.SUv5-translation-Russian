@@ -114,8 +114,8 @@
 	<string name="context_ms">Отправить сообщение</string>
 	<string name="context_new_contact">Новый контакт</string>
 	<string name="context_add_contact">Добавить к контакту</string>
-	<string name="check_all">Отметить всё</string>
-	<string name="check_nothing">Снять всё</string>
+	<string name="check_all">Выбрать все</string>
+	<string name="check_nothing">Снять выбор</string>
 	<string name="close_rule">Отключить правила фильтрации</string>
 	<string name="fw_log_inf">Журнал</string>
 	<string name="remove_contact">Удалить контакт?</string>

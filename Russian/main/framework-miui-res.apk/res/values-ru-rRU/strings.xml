@@ -380,7 +380,7 @@
 	<string name="user_agreement4">Политику конфиденциальности</string>
 	<string name="user_agreement5">,нажав \"ОК\", вы соглашаетесь и готовы соблюдать вышесказаное. В случае несогласия нажмите \"Отмена\" для выхода.</string>
 	<string name="v5_deselect_all">Снять выбор</string>
-	<string name="v5_edit_mode_title_empty">Отметить</string>
+	<string name="v5_edit_mode_title_empty">Выбрать</string>
 	<string name="v5_icon_menu_bar_more_item_label">Еще</string>
 	<string name="v5_select_all">Выбрать все</string>
     <string name="v5_time_picker_label_hour">Ч</string>
