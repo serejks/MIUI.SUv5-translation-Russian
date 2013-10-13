@@ -211,6 +211,7 @@ Follow prompts to complete instruction."</string>
     <string name="error_user_id_mismatch_summary">Проверьте данные и войдите в аккаунт снова</string>
     <string name="error_illegal_order_title">Ошибка заказа</string>
     <string name="error_illegal_order_summary">Ошибка заказа. Попробуйте позже</string>
+    <string name="error_verify_title">Нет разрешения</string>
     <string name="error_verify_summary">У вашего приложения не хватает прав для доступа к службе</string>
     <string name="error_expired_summary">Время ожидания вышло</string>
     <string name="error_frozen_title">Аккаунт заблокирован!</string>

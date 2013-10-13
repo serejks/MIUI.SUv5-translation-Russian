@@ -258,4 +258,6 @@
 	<string name="menu_customize">Настройки</string>
     <string name="menu_picktheme">Выбрать тему</string>
     <string name="scroll_tip_format_when_announce_accessibility">На странице %1$d, приложений: %2$d</string>
+    <string name="maml_component_customization_title">Настройки</string>
+    <string name="default_name">По умолчанию</string>
 </resources>

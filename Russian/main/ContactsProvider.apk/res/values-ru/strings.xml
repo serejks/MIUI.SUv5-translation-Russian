@@ -12,6 +12,7 @@
     <string name="read_write_all_voicemail_label">Доступ к голосовым сообщениям</string>
     <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и восстанавливать все голосовые доступные на устройстве сообщения.</string>
     <string name="voicemail_from_column">"Голосовое сообщение от "</string>
+    <string name="third_party_delete_contact_info">\"%s\" удаляет ваши XiaoMi контакты, используйте системные Контакты для обеспечения безопасности ваших контактов.</string>
     <string name="debug_dump_title">Копирование базы контактов</string>
     <string name="debug_dump_database_message">Вы собираетесь создать копию базы данных, которая содержит все данные о контактах, и отправить ее. Не забудьте удалить копию, как только вы успешно скопировали ее с устройства или электронного письма.</string>
     <string name="debug_dump_delete_button">Удалить сейчас</string>

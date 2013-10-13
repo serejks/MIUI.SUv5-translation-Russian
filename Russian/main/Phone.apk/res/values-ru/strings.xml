@@ -409,6 +409,7 @@
 	<string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
 	<string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
 	<string name="fake_phone_activity_placeCall_text">Поддельный вызов</string>
+    <string name="network_setting_all_forbidden_dialog">No available networks. Please try to switch 3G service, or click a forbidden network to register manually.</string>
 	<string name="sim_missing_continueView_text">Продолжить без SIM карты</string>
 	<string name="sim_missing_msg_text">Нет SIM карты. Пожалуйста, вставьте SIM карту.</string>
 	<string name="sim_unlock_dismiss_text">Отклонить</string>
@@ -707,6 +708,7 @@
 	<string name="voicemail_notification_vibrate_when_title">Вибросигнал</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
 	<string name="voicemail_notification_ringtone_title">Мелодия</string>
+    <string name="default_notification_description">Мелодия по умолчанию (%1$s)</string>
 	<string name="voicemail_notification_vibrate_when_default">never</string>
 	<string name="ringtone_title">Мелодия телефона</string>
 	<string name="vibrate_on_ring_title">Вибро во время вызова</string>
@@ -1045,6 +1047,7 @@
 	<string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
 	<string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
 	<string name="preferred_network_type_title_miui">Выбор типа сети</string>
+    <string name="preferred_network_type_group_title_miui">Мобильная сеть (%s)</string>
 	<string name="puk_lock_warning_miui">SIM карта будет заблокирована навсегда при неудачной попытке!</string>
 	<string name="remove_miui">Удалить</string>
 	<string name="reject_via_sms_miui">Отклонить с SMS</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
         <item>Америка</item>
@@ -16,17 +16,17 @@
         <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>
-        <item>Никогда</item>
+        <item>30 миню</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 сек.</item>
-        <item>30 сек.</item>
-        <item>1 мин.</item>
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>10 мин.</item>
-        <item>30 мин.</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минут</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
@@ -52,12 +52,6 @@
         <item>Быстрая</item>
         <item>Очень быстрая</item>
     </string-array>
-    <string-array name="change_security_lock_picker">
-		<item>Фейс-контроль</item>
-		<item>Графический ключ</item>
-		<item>Цифровой пароль</item>
-		<item>Смешанный пароль</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
         <item>Низкий</item>
@@ -74,8 +68,10 @@
         <item>Подключено</item>
         <item>Приостановлено</item>
         <item>Отключение…</item>
-        <item>Нет подключения</item>
-        <item>Сбой</item>
+        <item>Отключено</item>
+        <item>Неудачно</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -86,8 +82,10 @@
         <item>Подключено к %1$s</item>
         <item>Приостановлено</item>
         <item>Отключение от %1$s…</item>
-        <item>Нет подключения</item>
-        <item>Сбой</item>
+        <item>Отключено</item>
+        <item>Неудачно</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push-кнопка</item>
@@ -102,9 +100,9 @@
         <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>1 ч.</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
         <item>Без тайм-аута</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -140,12 +138,6 @@
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
-    <string-array name="wifi_network_setup">
-        <item>Выкл</item>
-        <item>Push-кнопка</item>
-        <item>PIN-код точки доступа</item>
-        <item>PIN-код этого устройства</item>
-    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Пользовательские</item>
@@ -174,11 +166,6 @@
         <item>Внутренняя память устройства</item>
         <item>Съемная SD-карта</item>
         <item>На усмотрение системы</item>
-    </string-array>
-    <string-array name="silent_mode_entries">
-        <item>Выкл</item>
-        <item>Вибросигнал</item>
-        <item>Вкл.</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
@@ -222,6 +209,19 @@
         <item>Анимация (масштаб: 5x)</item>
         <item>Анимация (масштаб: 10x)</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
         <item>Без фоновых процессов</item>
@@ -253,158 +253,110 @@
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Сильный</item>
-        <item>Средний</item>
-        <item>Слабый</item>
+    <string-array name="entries_button_brightness">
+        <item>Открыто</item>
+        <item>На 3 секунды</item>
+        <item>Закрыто</item>
     </string-array>
-    <string-array name="battery_indicator_style_entries">
-        <item>Графический</item>
-        <item>Проценты</item>
-        <item>Линия сверху</item>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Спросить</item>
+        <item>Никогда не разрешено</item>
+        <item>Всегда разрешено</item>
     </string-array>
-    <string-array name="usb_connection_mode_entries">
-        <item>Спросить при подключении</item>
-        <item>Только зарядка</item>
-        <item>Накопитель</item>
-    </string-array>
-    <string-array name="led_freq_entries">
-        <item>2 сек.</item>
-        <item>3 сек.</item>
-        <item>4 сек.</item>
-        <item>5 сек.</item>
-        <item>6 сек.</item>
-        <item>7 сек.</item>
-        <item>8 сек.</item>
-        <item>9 сек.</item>
-    </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Синий</item>
-        <item>Красный</item>
-        <item>Зеленый</item>
-        <item>Розовый</item>
-        <item>Фиолетовый</item>
-        <item>Пурпурный</item>
-    </string-array>
-    <string-array name="led_color_entries">
-        <item>Синий</item>
-        <item>Красный</item>
-        <item>Желтый</item>
-        <item>Зеленый</item>
-        <item>Голубой</item>
-        <item>Белый</item>
-        <item>Фиолетовый</item>
-    </string-array>
-    <string-array name="led_color_entries_for_mione">
-        <item>Синий</item>
-        <item>Красный</item>
-        <item>Зеленый</item>
-        <item>Розовый</item>
-        <item>Фиолетовый</item>
-        <item>Пурпурный</item>
-        <item>Изумрудный</item>
-        <item>Голубой</item>
-        <item>Сапфир</item>
-    </string-array>
-    <string-array name="back_long_press_timeout">
-        <item>0.5 сек.</item>
-        <item>1 сек.</item>
-        <item>1.5 сек.</item>
-        <item>2 сек.</item>
-    </string-array>
-    <string-array name="button_light_timeout_entries">
-        <item>1 сек.</item>
-        <item>2 сек.</item>
-        <item>5 сек.</item>
-        <item>10 сек.</item>
-        <item>20 сек.</item>
+    <string-array name="wifi_sleep_policy_entries_smart">
         <item>Всегда</item>
+        <item>Только при подключении</item>
+        <item>Никогда (Увеличивает использование моб.интернета)</item>
+        <item>Умный режим</item>
     </string-array>
-    <string-array name="entries_dolby_control">
+    <string-array name="entries_smart_rotation">
+        <item>Умный автоповорот(поворот экрана по глазам)</item>
+        <item>Автоповорот</item>
         <item>Нет</item>
-        <item>Музыка</item>
-        <item>Кино</item>
     </string-array>
-    <string-array name="wfd_status">
-        <item>Устройство подключено, создание сессии…</item>
-        <item>Сессия создана</item>
-        <item>Сессия оборвана…</item>
-        <item>Сессия не создана</item>
-        <item>Истекло время ожидания, повтор…</item>
-        <item>Устройство подключено</item>
+    <string-array name="entries_smart_rotation_nocamera">
+        <item>Жест вращения экрана</item>
+        <item>Автоповорот экрана</item>
+        <item>Нет</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Производительность</item>
-        <item>Нормальный</item>
-        <item>Энергосбережение</item>
-    </string-array>  
-    <string-array name="msd_pc_system">
-        <item>Windows XP и ранние версии</item>
-        <item>Windows Vista и версии новее</item>
-        <item>Mac OS</item>
-        <item>Linux</item>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Первые 4 цифры</item>
+        <item>Последние 4 цифры</item>
+        <item>Не отображать</item>
     </string-array>
-    <string-array name="msd_pc_system_install_start_summary">
-        <item>Для Windows XP и ранних версий,\nдрайвер следует установить вручную</item>
-        <item>Для Windows Vista или версий новее,\nмузыкальный проигрыватель Mi2 появится на вашем компьютере автоматически</item>
-        <item>Для Mac OS X,\nдрайвер следует установить вручную</item>
-        <item></item>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Однажды</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
     </string-array>
-    <string-array name="msd_pc_system_install_step_1_summary">
-        <item>(Пожалуйста проигнорируйте всплывающее собщение установщика)\nУстройство хранения Xiaomi появится на ващем компьютере\nОткройте его и выберите для установки Setup.exe</item>
-        <item></item>
-        <item>Устройство хранения Xiaomi появится на ващем компьютере.\nОткройте и выберите для установки AndroidFileTransfer.dmg </item>
-        <item></item>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (Авто режим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
     </string-array>
-    <string-array name="msd_pc_system_install_step_2_summary">
-        <item>2) Память телефона Mi2 автоматически появится на вашем компьютере. Теперь вы можете переносить файлы</item>
-        <item></item>
-        <item>Компьютер автоматически откроет и прочитает данные телефона. Теперь вы можете перемещать файлы</item>
-        <item></item>
+    <string-array name="wifi_ap_channel_width">
+        <item>20 МГц</item>
+        <item>Авто 20/40 МГц</item>
     </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>Если вы установите этот драйвер память телефона Mi2 появится на компьютере</item>
-        <item>В Windows Vista или версях новее, музыкальный проигрыватель Mi2 появится на вашем компьютере автоматически</item>
-        <item>Если вы установите этот драйвер компьютер автоматически откроет и прочитает память телефона</item>
-        <item></item>
+    <string-array name="hdmi_video_resolution_entries">
+        <item>Авто</item>
+        <item>720P</item>
+        <item>480P</item>
     </string-array>
-    <string-array name="msd_install_status">
-        <item>Установка драйвера</item>
-        <item>Драйвер уже установлен</item>
+    <string-array name="auto_time_entries">
+        <item>Use network-provided time</item>
+        <item>Use GPS-provided time</item>
+        <item>Выкл.</item>
     </string-array>
-    <string-array name="screen_color_title">
-        <item>Теплая</item>
-        <item>Натуральная</item>
-        <item>Холодная</item>
+    <string-array name="network_use_entry">
+        <item>Только дома</item>
+        <item>Дом + роуминг</item>
     </string-array>
-    <string-array name="screen_saturation_title">
-        <item>Яркий</item>
-        <item>Стандарт</item>
-        </string-array>
-    <string-array name="perm_hips_action">
-        <item>Разрешить</item>
-        <item>С запросом</item>
-        <item>Запретить</item>
+    <string-array name="sim_slot">
+        <item>(не выбрано)</item>
+        <item>Слот SIM 1</item>
+        <item>Слот SIM 2</item>
     </string-array>
-    <string-array name="startup_hips_action">
-        <item>Разрешить</item>
-        <item>Запретить</item>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Всегда</item>
+        <item>Выключать через 5 минут неактивности</item>
+        <item>Выключать через 10 минут неактивности</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Ничего</item>
-        <item>Запустить очистку памяти</item>
-        <item>Запустить Voice Assistant</item>
-        <item>Запустить Google Now</item>
-        <item>Закрыть текущее приложение</item>
+    <string-array name="profile_title_list">
+        <item>Основной</item>
+        <item>Без звука</item>
+        <item>Вибро</item>
+        <item>На улице</item>
+        <item>За рулем</item>
     </string-array>
-    <string-array name="screen_key_long_press_timeout">
-        <item>0.5 сек.</item>
-        <item>1 сек.</item>
-        <item>1.5 сек.</item>
-        <item>2 сек.</item>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Полный экран</item>
+        <item>Идеально</item>
+        <item>Оригинальный размер</item>
     </string-array>
-    <string-array name="phone_call_noise_suppression_title">
-        <item>Один микрофон</item>
-        <item>Двойной микрофон</item>
+    <string-array name="hdmi_deep_color_entries">
+        <item>8 бит</item>
+        <item>Авто</item>
+        <item>10 бит</item>
+        <item>12 бит</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push кнопка</item>
+        <item>PIN от клиента</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 пользователь</item>
+        <item>2 пользователя</item>
+        <item>3 пользователя</item>
+        <item>4 пользователя</item>
+        <item>5 пользователей</item>
+        <item>6 пользователей</item>
+        <item>7 пользователей</item>
+        <item>8 пользователей</item>
     </string-array>
 </resources>
