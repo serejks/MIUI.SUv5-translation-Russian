@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MTKLogger</string>
-    <string name="notification_title_network">Network log</string>
-    <string name="notification_title_mobile">Mobile log</string>
-    <string name="notification_title_modem">Modem log</string>
-    <string name="notification_title">MTKLogger is running</string>
-    <string name="notification_on_summary_suffix">is on.</string>
-    <string name="notification_on_summary_suffixes">are on.</string>
-    <string name="notification_off_summary_suffix">is off.</string>
-    <string name="notification_off_summary_suffixes">are off.</string>
+    <string name="app_name">MTK-Отчёты</string>
+    <string name="notification_title_network">Логи сети</string>
+    <string name="notification_title_mobile">Логи телефона</string>
+    <string name="notification_title_modem">Логи модема</string>
+    <string name="notification_title">Прилодение MTK-Отчёты запущено</string>
+    <string name="notification_on_summary_suffix">включено.</string>
+    <string name="notification_on_summary_suffixes">включены</string>
+    <string name="notification_off_summary_suffix">выключено.</string>
+    <string name="notification_off_summary_suffixes">выключены.</string>
     <string name="notification_nearly_out_of_storage">Log storage is running out.</string>
-    <string name="notification_out_of_storage_summary">Click to get more information.</string>
+    <string name="notification_out_of_storage_summary">Нажмите для получения подробной информации.</string>
     <string name="network_log_name">NetworkLog</string>
     <string name="mobile_log_name">MobileLog</string>
     <string name="modem_log_name">ModemLog</string>

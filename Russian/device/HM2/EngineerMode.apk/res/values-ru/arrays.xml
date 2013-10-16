@@ -11,16 +11,16 @@
         <item>E7</item>
     </string-array>
     <string-array name="tx_channels">
-        <item>Single Frequency</item>
-        <item>79 Channel</item>
+        <item>Единая частота</item>
+        <item>79 Канал</item>
     </string-array>
     <string-array name="working_mode_audio_channels">
-        <item>No Change</item>
-        <item>AL2 WithSeqNum</item>
-        <item>AL2 WithoutSeqNum</item>
-        <item>AL3 ControlFieldSize0</item>
-        <item>AL3 ControlFieldSize1</item>
-        <item>AL3 ControlFieldSize2</item>
+        <item>Без изменений</item>
+        <item>AL2 с SeqNum</item>
+        <item>AL2 без SeqNum</item>
+        <item>AL3 Размер поля управления 0</item>
+        <item>AL3 Размер поля управления 1</item>
+        <item>AL3 Размер поля управления 2</item>
     </string-array>
     <string-array name="working_mode_audio_channels_values">
         <item>0</item>
@@ -31,35 +31,35 @@
         <item>5</item>
     </string-array>
     <string-array name="working_mode_video_channels_reverse">
-        <item>No Change</item>
-        <item>Reverse Data</item>
-        <item>Reverse NULL</item>
+        <item>Без изменений</item>
+        <item>Обратные данные</item>
+        <item>Обратное обнуление</item>
     </string-array>
     <string-array name="working_mode_multiplex_level">
-        <item>No Change</item>
-        <item>MuxLevel 0</item>
-        <item>MuxLevel 1</item>
-        <item>MuxLevel 1 With Double Flag</item>
-        <item>MuxLevel 2</item>
-        <item>MuxLevel 2 With Optional Header</item>
-        <item>MuxLevel 3</item>
-        <item>MuxLevel 3 With Optional Header</item>
+        <item>Без изменений</item>
+        <item>Уровень Mux 0</item>
+        <item>Уровень Mux 1</item>
+        <item>Уровень Mux 1 С двойным Flag</item>
+        <item>Уровень Mux 2</item>
+        <item>Уровень Mux 2 С опциональным заголовком</item>
+        <item>Уровень Mux 3</item>
+        <item>Уровень Mux 3 С опциональным заголовком</item>
     </string-array>
     <string-array name="working_mode_video_codec_preference">
-        <item>No Change</item>
+        <item>Без изменений</item>
         <item>MPEG4_H263</item>
         <item>H263_MPEG4</item>
     </string-array>
     <string-array name="working_mode_use_wnsrp">
-        <item>No Change</item>
+        <item>Без изменений</item>
         <item>OFF</item>
         <item>ON</item>
     </string-array>
     <string-array name="working_mode_terminal_type">
-        <item>No Change</item>
-        <item>Normal</item>
-        <item>Master</item>
-        <item>Slave</item>
+        <item>Без изменений</item>
+        <item>Нормальный</item>
+        <item>Основной</item>
+        <item>Управляемый</item>
     </string-array>
     <string-array name="modem_test_cta_options">
         <item>Integrity Check</item>
