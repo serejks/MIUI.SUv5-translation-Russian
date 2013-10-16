@@ -2534,7 +2534,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="back_long_press">Клавиша назад</string>
     <string name="enable_back_long_press">Удержание для закр.приложения</string>
     <string name="back_long_press_timeout">Время задержки</string>
-    <string name="enable_snapshot_screenlock">Фото на экране блокировки</string>
+    <string name="enable_snapshot_screenlock">Клавиша \"Назад делает фото\"</string>
     <string name="power_key">Клавиша питания</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
     <string name="media_button">Клавиша медиа</string>
