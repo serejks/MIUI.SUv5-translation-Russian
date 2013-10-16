@@ -20,8 +20,8 @@
 	<string name="theme_component_title_wallpaper">Обои</string>
 	<string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
 	<string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
-	<string name="theme_component_title_lockwallpaper">Обои локскрина</string>
-	<string name="theme_component_title_miwallpaper">Mi обои</string>
+	<string name="theme_component_title_lockwallpaper">Обои экр. блокировки</string>
+	<string name="theme_component_title_miwallpaper">Mi-Обои</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_boot_animation">Анимация загрузки</string>
 	<string name="theme_component_title_boot_audio">Звук загрузки</string>
@@ -30,7 +30,7 @@
 	<string name="theme_component_title_notification">Уведомл.</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_contact">Кнопки</string>
-	<string name="theme_component_title_lockstyle">Локскрин</string>
+	<string name="theme_component_title_lockstyle">Экран блокировки</string>
 	<string name="theme_component_title_statusbar">Строка состояния</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
 	<string name="theme_component_title_audio_effect">Звуковые эффекты</string>
@@ -67,7 +67,7 @@
 	<string name="short_ringtone_resource">Короткие\n(&lt;5сек)</string>
 	<string name="all_ringtone_resource">Все</string>
 	<string name="resource_preview">Просмотр</string>
-	<string name="wallpaper_set_as_both">Применить как обои и локскрин</string>
+	<string name="wallpaper_set_as_both">Применить как обои и экран блокировки</string>
 	<string name="wallpaper_set_as_destop">Применить как обои</string>
 	<string name="wallpaper_set_as_lockscreen">Применить как экран блокировки</string>
 	<string name="wallpaper_crop">Обрезать</string>

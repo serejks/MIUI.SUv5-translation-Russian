@@ -241,11 +241,11 @@
     <string name="upside_londing_text">Расширяю воображение…</string>
     <string name="toggle_select_title">Выбор переключателя</string>
     <string name="toggle_title">Переключатель</string>
-    <string name="mi_wallpaper_title">Mi Обои</string>
+    <string name="mi_wallpaper_title">Mi-Обои</string>
     <string name="mi_wallpaper_summary">Активируйте ваш рабочий стол</string>
-    <string name="mi_wallpaper_preference">Настройка Mi-обоев</string>
-    <string name="preference_pick_mwp_title">Выбор Mi-обоев</string>
-    <string name="no_mi_wallpaper">Невозможно найти Mi-обои по умолчанию</string>
+    <string name="mi_wallpaper_preference">Настройка Mi-Обоев</string>
+    <string name="preference_pick_mwp_title">Выбор Mi-Обоев</string>
+    <string name="no_mi_wallpaper">Невозможно найти Mi-Обои по умолчанию</string>
     <string name="free_style_edit_tab_shortcut">Ярлыки</string>
     <string name="free_style_edit_tab_free_component">Свободные компоненты</string>
     <string name="free_style_edit_tab_widget">Виджеты</string>

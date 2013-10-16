@@ -247,7 +247,7 @@
     <string name="wifi_dialog_title">Обмен фотографиями</string>
     <string name="wifi_dialog_text">Требуется подключение Wi-Fi</string>
     <string name="wifi_direct_dialog_title">Обмен фотографиями</string>
-    <string name="wifi_direct_dialog_text">Функция обмена фотографиями позволяет поделиться фотографиями с другими пользователями с помощью WLAN Direct. Требуется подключение WLAN Direct</string>
+    <string name="wifi_direct_dialog_text">Функция обмена фотографиями позволяет поделиться фотографиями с другими пользователями с помощью Wi-Fi Direct. Требуется подключение Wi-Fi Direct</string>
     <string name="wifi_dialog_yes">OK</string>
     <string name="wifi_dialog_no">Отмена</string>
     <string name="notify_connect_error">Сбой соединения с сетью. Попробуйте ещё раз</string>

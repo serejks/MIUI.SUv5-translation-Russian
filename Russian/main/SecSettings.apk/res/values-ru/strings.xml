@@ -2820,8 +2820,8 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="apn_exception_proxy1">Исключение прокси 1</string>
     <string name="apn_exception_proxy2">Исключение прокси 2</string>
     <string name="apn_exception_proxy3">Исключение прокси 3</string>
-    <string name="wlan_reselection">WLAN reselection</string>
-    <string name="wlan_reselection_summary">Enable notifications when WLAN disconnected</string>
+    <string name="wlan_reselection">Wi-Fi reselection</string>
+    <string name="wlan_reselection_summary">Enable notifications when Wi-Fi disconnected</string>
     <string name="wifi_netmask">Маска сети</string>
     <string name="keyguard_password_attempt_count_pin_code">Осталось попыток: %d</string>
     <string name="keyguard_password_attempts_count_pin_code">Осталось попыток: %d</string>

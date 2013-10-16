@@ -136,7 +136,7 @@
 	<string name="cmcc_micloud_dspt">Облачные сервисы позволяют синхронизировать данные, следить за местоположением телефона, управлять данными с компьютера в любое время.</string>
     <string name="label_order_name">Наименование:</string>
     <string name="label_order_price">Цена:</string>
-    <string name="order_price">%1$s Mi Credits</string>
+    <string name="order_price">%1$s MiCredits</string>
     <string name="password_hint">Введите пароль от аккаунта Xiaomi:</string>
     <string name="password_error">Введите пароль от Вашего аккаунта</string>
     <string name="progress_creating">Получаю информацию о заказе…</string>
@@ -224,11 +224,11 @@ Follow prompts to complete instruction."</string>
     <string name="error_too_frequent_visits_summary">"You operate too often. 
 Please try again after five minutes"</string>
     <string name="title_recharge">Пополнение счёта</string>
-    <string name="title_pay">Оплатить Mi Кошелек</string> 
+    <string name="title_pay">Оплатить MiCredits</string> 
     <string name="recharge_group_favorite">Used recharge methods</string>
     <string name="recharge_group_others">Other recharge methods</string>
-	<string name="recharge_group_1to1">1 юань равен 1 Mi Credit</string>
-	<string name="recharge_group_2to1">2 юаня равны 1 Mi Credit</string>
+	<string name="recharge_group_1to1">1 юань равен 1 MiCredit</string>
+	<string name="recharge_group_2to1">2 юаня равны 1 MiCredit</string>
     <string name="recharge_prepaid_title">Карты предоплаты</string>
     <string name="recharge_prepaid_summary">Поддерживаются карты предоплаты China Mobile, China Unicom и China Telecom</string>
     <string name="recharge_alipay_title">Alipay</string>

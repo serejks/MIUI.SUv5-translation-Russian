@@ -494,7 +494,7 @@ Flicker item used to set camera's Anti-fiicker value.
 ISO item used to set camera's iso value. 
 
 Start Preview item to open the camera and start camera preview, in the preview page, press Capture button will take picture(s) with the previous settings. The picture(s) will be store in the path: SDCard//DCIM//EMCamera."</string>
-    <string name="wifi">WLAN</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_item_tx">Tx</string>
     <string name="wifi_item_rx">Rx</string>
     <string name="wifi_item_mcr">MCR</string>
@@ -502,11 +502,11 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_item_dpd">DPD Calibration</string>
     <string name="wifi_item_tem">Temperature Sensor</string>
     <string name="wifi_dialog_warn">Error</string>
-    <string name="wifi_dialog_warn_message">Please turn off WLAN first</string>
+    <string name="wifi_dialog_warn_message">Please turn off Wi-Fi first</string>
     <string name="wifi_dialog_init">Progress</string>
     <string name="wifi_dialog_init_message">Please wait for device to initialize …</string>
     <string name="wifi_dialog_fail">Error</string>
-    <string name="wifi_dialog_fail_message">Enable WLAN failed</string>
+    <string name="wifi_dialog_fail_message">Enable Wi-Fi failed</string>
     <string name="wifi_dialog_error">Error</string>
     <string name="wifi_dialog_error_message">Wifi is not initialized</string>
     <string name="wifi_dialog_input_file_name">Please input a file name</string>
@@ -586,29 +586,29 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_dpd_info" />
     <string name="wifi_wfa_enabler">Enable WFA test UI</string>
     <string name="wifi_ctia_enabler">Enable CTIA test UI</string>
-    <string name="wifi_ap_wps2_support_enabler">Enable WPS2 test to remove WPA security in WLAN hotspot</string>
-    <string name="wifi_help_msg">"Feature name: WLAN
+    <string name="wifi_ap_wps2_support_enabler">Enable WPS2 test to remove WPA security in Wi-Fi hotspot</string>
+    <string name="wifi_help_msg">"Feature name: Wi-Fi
 
- Used to do WLAN test and check WLAN status by RD.
+ Used to do Wi-Fi test and check Wi-Fi status by RD.
 
  There are 4 test items: Tx, Rx, MCR, NVRAM and some check boxes as a switch.
 
- Tx: Test WLAN send packages at different frequencies, rates, power and so on. It needs special instruments to analyze the results.
+ Tx: Test Wi-Fi send packages at different frequencies, rates, power and so on. It needs special instruments to analyze the results.
 
- Rx: Test WLAN receive packages at different frequencies and bandwidth. It will show the results of received packages.
+ Rx: Test Wi-Fi receive packages at different frequencies and bandwidth. It will show the results of received packages.
 
- MCR: Read and write WLAN control register. Warning: The operation of non-professionals is forbidden.
+ MCR: Read and write Wi-Fi control register. Warning: The operation of non-professionals is forbidden.
 
- NVRAM: Read and write WLAN NVRAM, could accessed in word or byte string.
+ NVRAM: Read and write Wi-Fi NVRAM, could accessed in word or byte string.
 
  Switch: Some switches used by RD.
 
 "</string>
     <string name="wifi_wps_test_mode">Enable WPS test mode</string>
-    <string name="wifi_ctia">WLAN CTIA</string>
+    <string name="wifi_ctia">Wi-Fi CTIA</string>
     <string name="wifi_ctia_test">CTIA Test Mode Setting</string>
     <string name="wifi_ctia_test_summary">CTIA Test Mode configuration</string>
-    <string name="ctia_title">WLAN Test Mode</string>
+    <string name="ctia_title">Wi-Fi Test Mode</string>
     <string name="ctia_checkbox">Enable CTIA Test Mode</string>
     <string name="ctia_dump_checkbox">Enable log for Mgmt Frame</string>
     <string name="ctia_counter_checkbox">Enable log for Tx Rx Counter</string>

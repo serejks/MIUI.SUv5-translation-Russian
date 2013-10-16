@@ -298,7 +298,7 @@
 	<string name="memory_clear_nothing_result">Сейчас нельзя очистить память</string>
 	<string name="memory_clear_result">Очищено: %1$s\nДоступно: %2$s</string>
 	<string name="miui_copyright_title">Авторские права</string>
-	<string name="miui_mibi_license_title">Пользовательское соглашение Mi Credit</string>
+	<string name="miui_mibi_license_title">Пользовательское соглашение MiCredit</string>
 	<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
 	<string name="miui_user_agreement_title">Пользовательское соглашение</string>
 	<string name="miui_user_manual_title">Инструкция</string>

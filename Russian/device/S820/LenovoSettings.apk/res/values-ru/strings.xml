@@ -109,7 +109,7 @@
     <string name="usbsetting_usbmassstorage_open">Open the USB storage device</string>
     <string name="usbsetting_usbmassstorage_close">Close the USB storage device</string>
     <string name="usbsetting_usbmassstorage_wait">Please wait ...</string>
-    <string name="wifi_switch_settings_title">WLAN binding of location</string>
+    <string name="wifi_switch_settings_title">Wi-Fi binding of location</string>
     <string name="wifi_popup_0">"Binding of connected ap.
 Popup prompt when enter this location."</string>
     <string name="wifi_popup_1">"Binding of connected ap.
@@ -783,7 +783,7 @@ Automatically enable when enter this location."</string>
     <string name="wifi_other_network">Прочие сети…</string>
     <string name="wifi_more">Дополнительно</string>
     <string name="wifi_setup_wps">Автонастройка (WPS)</string>
-    <string name="wifi_required_info_text">Для завершения установки планшета необходим доступ к беспроводной сети. После установки, вы можете переключаться между мобильной передачей данных и WLAN.</string>
+    <string name="wifi_required_info_text">Для завершения установки планшета необходим доступ к беспроводной сети. После установки, вы можете переключаться между мобильной передачей данных и Wi-Fi.</string>
 	<string name="wifi_share">Поделиться сетью</string>
 	<string name="wifi_share_action_turn_off">Остановить доступ к сети</string>
     <string name="wifi_share_list_empty">Невозможно найти публичный Wi-Fi</string>
@@ -1798,7 +1798,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="gadget_state_off">off</string>
     <string name="gadget_state_turning_on">turning on</string>
     <string name="gadget_state_turning_off">turning off</string>
-    <string name="gadget_wifi">WLAN</string>
+    <string name="gadget_wifi">Wi-Fi</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_gps">GPS</string>
     <string name="gadget_sync">Sync</string>
@@ -2178,7 +2178,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="user_owner">Владелец</string>
     <string name="user_nickname">Имя пользователя</string>
     <string name="user_add_user_title">Добавить нового пользователя</string>
-    <string name="user_add_user_message_long">"Вы можете поделиться этим устройством с другими людьми путем создания дополнительных пользователей. Каждый пользователь имеет свое собственное пространство, на которое они могут установить свои собственные приложения, обои и так далее. Пользователи могут также регулировать параметры, такие как сети WLAN, которые влияют на всех.
+    <string name="user_add_user_message_long">"Вы можете поделиться этим устройством с другими людьми путем создания дополнительных пользователей. Каждый пользователь имеет свое собственное пространство, на которое они могут установить свои собственные приложения, обои и так далее. Пользователи могут также регулировать параметры, такие как сети Wi-Fi, которые влияют на всех.
 
 После создания нового пользователя, человек должен пройти через процесс установки.
 
@@ -2529,12 +2529,12 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="home_key">Клавиша домой</string>
     <string name="back_key">Клавиша назад</string>
     <string name="screen_key_long_press_timeout">Время удерживания</string>
-    <string name="under_keyguard">На локскрине</string>
+    <string name="under_keyguard">На экране блокировки</string>
     <string name="enable_assist_key_long_press">Удерживайте для открытия голосового помошника</string>
     <string name="back_long_press">Клавиша назад</string>
     <string name="enable_back_long_press">Удержание для закр.приложения</string>
     <string name="back_long_press_timeout">Время задержки</string>
-    <string name="enable_snapshot_screenlock">Клавиша \"Назад делает фото\"</string>
+    <string name="enable_snapshot_screenlock">Клавиша \"Назад\" делает фото</string>
     <string name="power_key">Клавиша питания</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
     <string name="media_button">Клавиша медиа</string>
@@ -2693,7 +2693,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="input_settings">Настройки ввода</string>
     <string name="show_magnifier_when_input">Показывать лупу</string>
     <string name="volume_voice_description">Громкость разговора</string>
-    <string name="volume_system_description">Громкость системы, затвор камеры, локскрин и прочие системные уведомления</string>
+    <string name="volume_system_description">Затвор камеры, экран блокировки и прочие системные уведомления</string>
     <string name="volume_bluetooth_description">Громкость Bluetooth</string>
     <string name="volume_restore">Восстановить громкость</string>
     <string name="volume_restore_alert">Все настройки будут установлены на стандартные, вы уверены?</string>
@@ -3049,7 +3049,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="Network_Only_Local_Summary">Использовать A-GPS только в домашнем регионе</string>
     <string name="MobileNetwork_DataConn_off">Нет подключения к сети</string>
     <string name="MobileNetwork_off_Summary">Для использования A-GPS включите передачу данных</string>
-    <string name="WiFiNetwork_on_title">WLAN активна</string>
+    <string name="WiFiNetwork_on_title">Wi-Fi активна</string>
     <string name="MobileNetwork_on_Summary">A-GPS необходим доступ к сети мобильной связи с помощью передачи данных</string>
     <string name="MobileNetwork_SIM_Active">SIM%1$s активна</string>
     <string name="Network_Roaming_dialog_title">Внимание</string>
@@ -3293,7 +3293,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="wifi_tether_wps_connect_title">WPS подключение</string>
     <string name="wifi_tether_wps_connect_summary">Выбранная беспроводная сеть использует защищенный режим</string>
     <string name="wifi_tether_wps_pin_error">Неверный PIN</string>
-    <string name="wifi_tethering_title">WLAN точка доступа</string>
+    <string name="wifi_tethering_title">Wi-Fi точка доступа</string>
     <string name="wifi_ap_wps_dialog_title">WPS подключение</string>
     <string name="wifi_ap_wps_mode_title">Тип WPS</string>
     <string name="wifi_ap_wps_pin_title">Тип PIN кода от клиента</string>
@@ -3329,7 +3329,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="wifi_advanced_ipv6_address_title">IPv6 адрес</string>
     <string name="wifi_ipv4_address">IPv4 адрес</string>
     <string name="wifi_ipv6_address">IPv6 адрес</string>
-    <string name="mtk_datausage_show_on_lockscreen">Показывать на локсрине</string>
+    <string name="mtk_datausage_show_on_lockscreen">Показывать на экране блокировки</string>
     <string name="mtk_datausage_update">Обновление использованных данных</string>
     <string name="mtk_datausage_update_set">Обновить</string>
     <string name="mtk_datausage_amount_editor_title">Объем используемых данных</string>
@@ -3386,11 +3386,11 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="alarm_command_summary_format">Вы можете сказать %1$s или %2$s для управления сигналом.</string>
     <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s для создания фото.</string>
     <string name="music_command_summary_format">Вы можете сказать %1$s или %2$s для управления воспроизведением музыки.</string>
-    <string name="lock_screen_notifications_title">Уведомления на локскрине</string>
+    <string name="lock_screen_notifications_title">Уведомления на экране блокировки</string>
     <string name="lock_screen_notifications_summary">Отображать уведомления на экане блокировки</string>
-    <string name="lock_screen_style_title">Стиль локскрина</string>
+    <string name="lock_screen_style_title">Стиль экрана блокировки</string>
     <string name="current_suffix">(Текущий)</string>
-    <string name="lockscreen_style_set">Выбрать локскрин</string>
+    <string name="lockscreen_style_set">Выбрать экран блокировки</string>
     <string name="lockscreen_style_default_desc">Быстрый доступ к приложениям на экране блокировки</string>
     <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">Защита отключена</string>
@@ -3399,18 +3399,18 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="wifi_ap_no_blocked">Нет заблокированных пользователей</string>
     <string name="enable_sim">Включить</string>
     <string name="sim_lock">Заблокировано</string>
-    <string name="enable_wifi_tether">Включить WLAN точку доступа</string>
+    <string name="enable_wifi_tether">Включить Wi-Fi точку доступа</string>
     <string name="enable_gps">Включить GPS</string>
     <string name="enable_gps_confirm_message">Требуется беспроводная передача данных для GPS (EPO), которая может вызвать дополнительные расходы за услуги связи. Включить GPS?</string>
-    <string name="gsm_to_wifi_connect_type_title">Сотовые->WLAN</string>
+    <string name="gsm_to_wifi_connect_type_title">Сотовые->Wi-Fi</string>
     <string name="wifi_connect_ap_summary">Укажите тип сетевого соединения</string>
     <string name="wifi_connect_type_title">Тип автоподключения</string>
     <string name="select_ssid_type_title">Тип сетевого соединения</string>
-    <string name="wifi_signal_found_msg">Текущий сигнал связи слабый, ииспользовать другую сеть WLAN?</string>
+    <string name="wifi_signal_found_msg">Текущий сигнал связи слабый, ииспользовать другую сеть Wi-Fi?</string>
     <string name="confirm_title">Подтведить</string>
     <string name="msg_wlan_signal_found">Найдена сеть %s, использовать эту сеть? Использование текущей сети может привести к потере данных.</string>
     <string name="data_connection_dialog_title">Изменить тип соединения</string>
-    <string name="wifi_failover_gprs_content">WLAN недоступна, подключиться к мобильной сети?</string>
+    <string name="wifi_failover_gprs_content">Wi-Fi недоступна, подключиться к мобильной сети?</string>
     <string name="wifi_priority_type_title">Установить AP приоритет вручную</string>
     <string name="wifi_priority_type_summary">Установить приоритет для каждой точки доступа вручную</string>
     <string name="wifi_priority_settings_title">Настройки АP приоритета</string>

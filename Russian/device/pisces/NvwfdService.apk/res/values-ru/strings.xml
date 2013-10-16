@@ -11,5 +11,5 @@
     <string name="miracast_connection_status_warning_conn_failed">"Не удалось найти "</string>
     <string name="miracast_connection_status_warning_conn_lost">"Потеряно соединение с "</string>
     <string name="miracast_connection_status_warning_auth_failed">"Проблема аутентификации с "</string>
-    <string name="miracast_access_settings_title">Access WLAN Display Settings</string>
+    <string name="miracast_access_settings_title">Access Wi-Fi Display Settings</string>
 </resources>
