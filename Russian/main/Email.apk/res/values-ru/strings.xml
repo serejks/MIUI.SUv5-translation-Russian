@@ -179,8 +179,8 @@
     <string name="account_setup_basics_title">Настройка аккаунта</string>
     <string name="account_setup_basics_exchange_title">Добавить аккаунт Exchange</string>
     <string name="account_setup_basics_exchange_title_alternate">Добавить аккаунт Exchange ActiveSync</string>
-    <string name="account_setup_basics_headline">Настройки Email</string>
-    <string name="accounts_welcome">Email поддерживает большинство популярных почтовых служб.</string>
+    <string name="account_setup_basics_headline">Настройки e-mail</string>
+    <string name="accounts_welcome">E-mail поддерживает большинство популярных почтовых служб.</string>
     <string name="accounts_welcome_exchange">Настроить аккаунт Exchange очень просто.</string>
     <string name="accounts_welcome_exchange_alternate">Настроить аккаунт Exchange ActiveSync очень просто.</string>
     <string name="account_setup_basics_email_label">Адрес электронной почты</string>

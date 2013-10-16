@@ -313,8 +313,8 @@
     <string name="add_nickname">Ник</string>
     <string name="add_festival">Поздравления</string>
     <string name="add_nickname_title">Редактировать ник</string>
-    <string name="edit_nickname_for_nocontact">Нет получателей. Добавьте хотя бы одного для добавления ника.</string>
-    <string name="edit_nickname_for_nocontact_by_robot">Добавьте хотя бы одного получателя, для изменения ника</string>
+    <string name="edit_nickname_for_nocontact">Для добавления ника добавьте хотя бы одного получателя.</string>
+    <string name="edit_nickname_for_nocontact_by_robot">Для изменения ника добавьте хотя бы одного получателя.</string>
     <string name="nickname_placeholder">Ник</string>
     <string name="me">Я</string>
     <string name="to_count">Всего: %d</string>
@@ -343,7 +343,7 @@
     <string name="context_menu_call">Вызов</string>
     <string name="context_menu_send_sms">Отправить сообщение</string>
     <string name="context_menu_browse_web">Посмотреть</string>
-    <string name="context_menu_send_mail">Отправить E-mail</string>
+    <string name="context_menu_send_mail">Отправить e-mail</string>
     <string name="context_menu_copy">Копировать</string>
     <string name="context_menu_copy_notice">Текст скопирован</string>
     <string name="context_menu_new_contact">Новый контакт</string>

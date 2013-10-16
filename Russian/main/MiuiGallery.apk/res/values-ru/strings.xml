@@ -384,13 +384,13 @@
 	<string name="cloud_album_set_scan_qr_code">QR-код</string>
     <string name="scan_qr_code_failure">Ошибка сканирования</string>
     <string name="big_screen_alertdialog_title">Список устройств</string>
-	<string name="email_picker_title">Добавить общий E-mail</string>
-	<string name="enter_email_hint">"Введите адрес E-mail "</string>
+	<string name="email_picker_title">Добавить общий e-mail</string>
+	<string name="enter_email_hint">"Введите адрес e-mail "</string>
 	<string name="exit_share">Выйти из альбома</string>
 	<string name="exit_share_failed">Выход из альбома \"%1$s\" не удался</string>
 	<string name="exit_share_in_process">Попытка выхода из альбома…</string>
 	<string name="exit_share_successfully">Вы вышли из альбома \"%1$s\"</string>
-	<string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
+	<string name="fail_to_pick_email">Не выбрано допустимых e-mail</string>
 	<string name="invalid_recipient_message">Исправьте получатей</string>
 	<string name="kick_sharer">Удалить получателя</string>
 	<string name="kick_sharer_failed">Ошибка удаления получателя</string>

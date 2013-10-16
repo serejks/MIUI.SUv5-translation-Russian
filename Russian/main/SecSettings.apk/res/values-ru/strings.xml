@@ -2022,7 +2022,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="incoming_call_notification_summary">Воспроизводить сведения о звонящих при получении входящих вызовов</string>
     <string name="message">Сообщения</string>
     <string name="message_notification_summary">Воспроизводить сведения об отправителях при получении новых сообщений</string>
-    <string name="new_email">Новые сообщения E-mail</string>
+    <string name="new_email">Новые сообщения e-mail</string>
     <string name="new_email_notification_summary">Прочитывать вслух число новых полученных сообщений электронной почты</string>
     <string name="new_voicemail">Новое сообщение голосовой почты</string>
     <string name="new_voicemail_notification_summary">Уведомлять при поступлении новой голосовой почты</string>

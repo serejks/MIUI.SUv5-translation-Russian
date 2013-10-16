@@ -1045,8 +1045,8 @@
     <string name="AirPlane_mode_on">Невозможно сохранить контакт когда активен режим полета.</string>
     <string name="FDNEnabled">Невозможно сохранить контакт когда FDN активен.</string>
     <string name="sim_invalid_number">Невозможно сохранить неправильный номер.</string>
-    <string name="email_invalid">Невозможно сохранить неправильный Email.</string>
-    <string name="email_2g_invalid">Невозможно сохранить Email на 2G SIM, выберите 3G SIM для сохранения.</string>
+    <string name="email_invalid">Невозможно сохранить неправильный e-mail.</string>
+    <string name="email_2g_invalid">Невозможно сохранить e-mail на 2G SIM, выберите 3G SIM для сохранения.</string>
     <string name="sim_invalid_fix_number">Невозможно сохранить, недопустимое число исправлений.</string>
     <string name="AirPlane_mode_on_edit">Невозможно отредактировать контакт когда активен режим полета.</string>
     <string name="msg_loading_sim_contacts_toast">Загрузка SIM контактов в фоновом режиме, подождите минутку.</string>
