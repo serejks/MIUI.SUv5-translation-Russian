@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Normal_Ch">
+        <item>None</item>
+        <item>Low : CH.0</item>
+        <item>Mid : CH.19</item>
+        <item>High : CH.39</item>
+    </string-array>
+    <string-array name="Mod_Ch">
+        <item>None</item>
+        <item>Low : Payload 0x0F</item>
+        <item>Mid : Payload 0x0F</item>
+        <item>High : Payload 0x0F</item>
+        <item>Low : Payload 0xAA</item>
+        <item>Mid : Payload 0xAA</item>
+        <item>High : Payload 0xAA</item>
+    </string-array>
+    <string-array name="InBand_Ch">
+        <item>None</item>
+        <item>Low : CH.2</item>
+        <item>Mid : CH.19</item>
+        <item>High : CH.37</item>
+    </string-array>
+</resources>
