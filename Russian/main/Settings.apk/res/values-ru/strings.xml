@@ -2614,6 +2614,10 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="accessibility_enable">Вкл. доступность</string>
     <string name="development_enable">Режим разработчика</string>
     <string name="device_name">Имя устройства</string>
+	<string name="device_name_input_error">Не удалось сохранить имя устройства. Пожалуйста, введите еще раз.</string>
+	<string name="dirac_mode_general">Общие</string>
+	<string name="open_wifi_connect_summary">Нажмите, чтобы настроить.</string>
+	<string name="open_wifi_connect_title">Подключение к сети %1$s</string>
     <string name="device_edit_title">Изменить имя устройства</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
     <string name="device_name_usage_point">Заданное имя будет отображаться при обмене данными с другими устройствами.</string>

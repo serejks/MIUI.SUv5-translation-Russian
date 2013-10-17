@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sharedUserLabel">Основные приложения Android</string>
+	<string name="third_party_delete_contact_info">Приложение \"%s\" удалит ваши контакты. Пожалуйста, используйте стандартное приложение \"Контакты\" для безопасности.</string>
     <string name="app_label">Хранилище контактов</string>
     <string name="provider_label">Контакты</string>
     <string name="upgrade_msg">Обновление БД контактов.</string>

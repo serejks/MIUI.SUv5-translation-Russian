@@ -208,6 +208,7 @@
 	<string name="network_manage_settings">Настройка сети</string>
 	<string name="title_data_settings">Настройка данных</string>
 	<string name="summary_manage_subscriptions">Управление сетевыми настройками каждого оператора</string>
+	<string name="suspect_info">Не раздавайте пароли от банковских карт</string>
 	<string name="throttle_data_usage">Передача данных</string>
 	<string name="throttle_settings_title">Политика данных владельца</string>
 	<string name="throttle_current_usage">Передача данных в текущем периоде</string>

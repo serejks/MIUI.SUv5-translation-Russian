@@ -270,8 +270,10 @@
     <string name="turn_right">Повернуть вправо</string>
     <string name="more">Еще</string>
     <string name="deleting_files">Файлы удаляются…</string>
-    <string name="bigscrren_slide_exit">Отменить слайд-шоу на ТВ</string>
+    <string name="bigscreen_slide_exit">Выход из слайд-шоу</string>
+	<string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
     <string name="defalt_local_mobile">Мобильный</string>
+	<string name="there_is_no_image">Нет изображений</string>
 	<string name="cloudfolder_name_reserved">Имя папки защищено</string>
     <string name="cloudfolder_contain_invalidate_char">Имя папки не должно содержать \"%s\"</string>
     <string name="cloudfolder_cannot_start_with">Имя папки не может начинаться с \"%s\"</string>
