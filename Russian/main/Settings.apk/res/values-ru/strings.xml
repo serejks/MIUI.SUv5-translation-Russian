@@ -1973,10 +1973,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
     <string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
 	<string name="change_password">Сменить пароль</string>
-	<string name="change_security_lock">Попробуйте другие способы разблокировки.</string>
-    <string name="config_mtp_function_name">mtp</string>
-    <string name="config_ptp_function_name">ptp</string>	
-    <string name="config_mass_storage_function_name">mass_storage</string>
+	<string name="change_security_lock">" Другие способы разблокировки"</string>
     <string name="do_not_disturb_mode">Тихий режим</string>
     <string name="dndm_notification">Тихий режим активен.</string>
     <string name="dndm_open">Тихий режим</string>
