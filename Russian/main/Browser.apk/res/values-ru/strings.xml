@@ -430,8 +430,8 @@
 	<string name="tab_yellowpage">Категории</string>
 	<string name="tab_quicklinks">Популярные</string>
 	<string name="pref_content_night_read_mode">Включить ночной режим</string>
-	<string name="general_set_default_browser_title">Сделать браузером по-умолчанию</string>
-    <string name="general_set_default_browser_dialog_summary">Используйте MIUI приложения для быстрой производительности</string>
+	<string name="general_set_default_browser_title">Браузер по-умолчанию</string>
+    <string name="general_set_default_browser_dialog_summary">Используйте MIUI приложения для большей производительности</string>
     <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
     <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закр.посл.вкладки</string>
