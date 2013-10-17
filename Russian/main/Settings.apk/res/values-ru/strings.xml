@@ -716,11 +716,11 @@
     <string name="wifi_tether_configure_subtext" formatted="false">Точка доступа %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
     <string name="testing_wifi_info">Информация Wi-Fi</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
+    <string name="disableNetwork">Отключить сеть</string>
+    <string name="enableNetwork">Включить сеть</string>
+    <string name="disconnect">Отключить</string>
+    <string name="getConfiguredNetworks">Конфигурация сетей</string>
+    <string name="getConnectionInfo">Информация о подключении</string>
     <string name="wifi_api_test">Wi-Fi API</string>
 	<string name="wifi_auto_connect">Автоподключение</string>
     <string name="nfc_category_title">NFC</string>
@@ -735,7 +735,7 @@
     <string name="ssid_label">"SSID: "</string>
     <string name="hidden_ssid_label">"Скрытый SSID: "</string>
     <string name="ipaddr_label">"IP адрес: "</string>
-    <string name="macaddr_label">"MAC addr: "</string>
+    <string name="macaddr_label">"MAC адрес: "</string>
     <string name="networkid_label">"Network ID: "</string>
     <string name="link_speed_label">"Скорость передачи: "</string>
     <string name="scan_list_label">"Резулльтаты сканирования: "</string>

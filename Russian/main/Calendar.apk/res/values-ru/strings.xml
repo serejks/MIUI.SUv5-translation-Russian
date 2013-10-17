@@ -78,7 +78,7 @@
     <string name="quick_response_settings_edit_title">Быстрый ответ</string>
     <string name="quick_response_dialog_title">Выберите быстрый ответ</string>
     <string name="quick_response_email_failed">Невозможно найти почтовое приложение</string>
-    <string name="quick_response_custom_msg">Custom message…</string>
+    <string name="quick_response_custom_msg">Свое сообщение…</string>
     <string name="event_info_organizer">Организатор:</string>
     <string name="event_info_reminders_label">Напоминания</string>
     <string name="agenda_today">СЕГОДНЯ, %1$s</string>
