@@ -136,7 +136,7 @@
 	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки. зайдите в Темы и загрузите повторно.</string>
 	<string name="resource_app_name">Ресурсы браузера</string>
 	<string name="resource_price_free">Бесплатно</string>
-	<string name="resource_price_unit">MI Деньги</string>
+	<string name="resource_price_unit">MiCredits</string>
 	<string name="resource_price_format">(%1$s)</string>
 	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменён</string>
 	<string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>

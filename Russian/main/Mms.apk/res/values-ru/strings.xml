@@ -93,7 +93,7 @@
     <string name="addBlackList">В черный список</string>
     <string name="confirm_add_blacklist_dialog_dspt">Заблокировать номер?</string>
     <string name="batch_adding_progress_message">Добавление…</string>
-    <string name="forward_prefix">Fwd: </string>
+    <string name="forward_prefix">"Fwd: "</string>
     <string name="discard_message">Отменить</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель.</string>
     <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s&gt;</string>
@@ -169,7 +169,7 @@
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-    <string name="to_label">Кому </string>
+    <string name="to_label">"Кому "</string>
     <string name="confirm_dialog_title">Удалить?</string>
     <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
     <string name="confirm_delete_conversation">Вся цепочка будет удалена.</string>

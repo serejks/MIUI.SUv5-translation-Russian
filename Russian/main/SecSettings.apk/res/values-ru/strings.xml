@@ -1007,7 +1007,6 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="sd_eject_summary">Отключение карты памяти SD для ее безопасного извлечения</string>
     <string name="sd_insert_summary">Вставьте SD-карту</string>
     <string name="sd_mount">Установка SD-карты</string>
-    <string name="sd_mount_summary" />
     <string name="sd_format">Формат. USB-накоп.</string>
     <string name="sd_format_sd">Формат. SD-карту</string>
     <string name="sd_format_summary">Удаление всех данных, например музыки и фотографий, с USB-накопителя</string>
@@ -1015,7 +1014,6 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="read_only">(только для чтения)</string>
     <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
     <string name="dlg_confirm_unmount_text">При отключении SD-карты некоторые из используемых приложений будут остановлены. Они могут быть недоступны до повторного подключения карты памяти SD</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже</string>
     <string name="unmount_inform_text">SD-карта будет отключена</string>
     <string name="sd_ejecting_title">Отключение SD-карты…</string>
@@ -1063,7 +1061,6 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="menu_new">Новая точка доступа</string>
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
-    <string name="error_title" />
     <string name="error_name_empty">Поле «Имя» не может быть пустым</string>
     <string name="error_apn_empty">Должна быть указана точка доступа</string>
     <string name="error_mcc_not3">Поле MCC должно включать 3 цифры.</string>
@@ -1115,7 +1112,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="tether_settings_summary_usb_wifi">Использовать устройство как модем (через USB) или переносную точку доступа Wi-Fi</string>
     <string name="tether_settings_summary_wifi">Использовать устройство в качестве переносной точки доступа Wi-Fi</string>
     <string name="tether_settings_summary_usb">Использовать устройство в качестве модема (через USB)</string>
-    <string name="tether_settings_title_all_tmo">Tethering and Mobile HotSpot</string>
+    <string name="tether_settings_title_all_tmo">Tethering и Mobile HotSpot</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">USB-модем</string>
     <string name="usb_tethering_button_text_vzw">Мобильная Broadband Connect</string>
@@ -1637,7 +1634,6 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="trusted_credentials_summary">Отображать сертификаты доверенных ЦС</string>
     <string name="credentials_install_gesture_prompt">Нарисуйте рисунок разблокировки</string>
     <string name="credentials_install_gesture_explanation">Для подтверждения учетных данных необходимо нарисовать рисунок разблокировки</string>
-    <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Ввод пароля для хранилища учетных данных</string>
     <string name="credentials_old_password">Текущий пароль</string>
     <string name="credentials_reset_hint">Удалить все содержимое?</string>
@@ -1667,7 +1663,6 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="local_backup_password_toast_success">Задан новый пароль резервного копирования</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Новый пароль и его подтверждение не совпадают</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль резервного копирования</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_erase_dialog_message">Прекратить резервное копирование паролей Wi-Fi, закладок и других параметров и данных приложений, а также удалить все копии с серверов Google?</string>
     <string name="device_admin_settings_title">Параметры админист. устройства</string>
     <string name="active_device_admin_msg">Администратор устройства</string>

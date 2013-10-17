@@ -2,7 +2,6 @@
 <resources>
     <string name="wallpapers">Обои Волшебный дым</string>
     <string name="wallpaper_magicsmoke">Волшебный дым</string>
-    <string name="author">Google</string>
     <string name="ok">OK</string>
     <string name="taptochange">Нажмите на экран для изменения</string>
 </resources>

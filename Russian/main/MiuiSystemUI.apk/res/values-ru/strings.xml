@@ -8,7 +8,7 @@
     <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
-    <string name="status_bar_recent_clear_result">Успешно очищено %1$s памяти, сейчас доступно %2$s</string>
+    <string name="status_bar_recent_clear_result">Успешно очищено памяти: %1$s, доступно: %2$s</string>
     <string name="status_bar_recent_clear_nothing_result">Нет памяти, которую можно очистить</string>
     <string name="status_bar_recent_guide_all">Слайд вверх для закрытия, слайд вниз для закрепления</string>
     <string name="status_bar_recent_guide_top">Слайд вверх для закрытия</string>
