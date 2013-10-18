@@ -6,7 +6,11 @@
             "thumbnail":"thumb_google.png",
             "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Google",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 0
         },
         {
             "title":"MIUI.su",
@@ -14,7 +18,11 @@
             "thumbnail":"thumb_miuisu.png",
             "logobg":"bg15.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUI.su",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
         },
         {
             "title":"4PDA",
@@ -22,7 +30,11 @@
             "thumbnail":"thumb_4pda.png",
             "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "4PDA",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 2
         },
         {
             "title":"VK",
@@ -30,7 +42,11 @@
             "thumbnail":"thumb_vk.png",
             "logobg":"bg14.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "VK",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 3
         },
         {
             "title":"Odnoklassniki",
@@ -38,7 +54,11 @@
             "thumbnail":"thumb_odnoklassniki.png",
             "logobg":"bg07.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Odnoklassniki",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
         },
         {
             "title":"Facebook",
@@ -46,7 +66,11 @@
             "thumbnail":"thumb_facebook.png",
             "logobg":"bg14.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Facebook",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
         },
         {
             "title":"Twitter",
@@ -54,7 +78,11 @@
             "thumbnail":"thumb_twitter.png",
             "logobg":"bg03.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Twitter",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
         },
         {
             "title":"Wikipedia",
@@ -62,7 +90,11 @@
             "thumbnail":"thumb_wikipedia.png",
             "logobg":"bg12.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Wikipedia",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 7
         },
 
         {
@@ -71,7 +103,11 @@
             "thumbnail":"thumb_bz.png",
             "logobg":"bg03.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "BurgerZ",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
         },
         {
             "title":"MIUI",
@@ -79,7 +115,11 @@
             "thumbnail":"thumb_en_miui.png",
             "logobg":"bg02.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUI",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 9
         },
         {
             "title":"YouTube",
@@ -87,7 +127,11 @@
             "thumbnail":"thumb_youtube.png",
             "logobg":"bg05.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "YouTube",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 10
         },
         {
             "title":"Amazon",
@@ -96,16 +140,22 @@
             "logobg":"bg01.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-            "hidden":"true"
+	    "displayName": "Amazon",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 11
         },
-
         {
             "title":"MIUI Android",
             "url":"http://miuiandroid.com/",
             "thumbnail":"thumb_miui_android.png",
             "logobg":"bg02.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUI Android",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 12
         },
         {
             "title":"BBC",
@@ -114,7 +164,138 @@
             "logobg":"bg01.9.png",
             "favicon":"",
 			"nightModeMask": "night.9.png",
-            "hidden":"true"
+	    "displayName": "BBC",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 13
+        }
+    ],
+"topquicklinks": [
+	{
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Google"
+        },
+        {
+            "title":"MIUI.su",
+            "url":"http://miui.su/",
+            "thumbnail":"thumb_miuisu.png",
+            "logobg":"bg15.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI.su"
+        },
+        {
+            "title":"4PDA",
+            "url":"http://www.4pda.ru/",
+            "thumbnail":"thumb_4pda.png",
+            "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "4PDA"
+        },
+        {
+            "title":"VK",
+            "url":"http://www.vk.com/",
+            "thumbnail":"thumb_vk.png",
+            "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "VK"
+        },
+        {
+            "title":"Odnoklassniki",
+            "url":"http://m.odnoklassniki.ru/",
+            "thumbnail":"thumb_odnoklassniki.png",
+            "logobg":"bg07.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Odnoklassniki"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Facebook"
+        },
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "logobg":"bg03.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Twitter"
+        },
+        {
+            "title":"Wikipedia",
+            "url":"http://ru.m.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Wikipedia"
+        },
+        {
+            "title":"BurgerZ",
+            "url":"http://burgerz.pro/",
+            "thumbnail":"thumb_bz.png",
+            "logobg":"bg03.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "BurgerZ"
+        },
+        {
+            "title":"MIUI",
+            "url":"http://en.miui.com",
+            "thumbnail":"thumb_en_miui.png",
+            "logobg":"bg02.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI"
+        },
+        {
+            "title":"YouTube",
+            "url":"http://youtube.com/",
+            "thumbnail":"thumb_youtube.png",
+            "logobg":"bg05.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "YouTube"
+        },
+        {
+            "title":"Amazon",
+            "url":"http://www.amazon.com/",
+            "thumbnail":"thumb_amazon.png",
+            "logobg":"bg01.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Amazon"
+        },
+        {
+            "title":"MIUI Android",
+            "url":"http://miuiandroid.com/",
+            "thumbnail":"thumb_miui_android.png",
+            "logobg":"bg02.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI Android"
+        },
+        {
+            "title":"BBC",
+            "url":"http://www.bbc.co.uk/",
+            "thumbnail":"thumb_bbc.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+			"nightModeMask": "night.9.png",
+	    "displayName": "BBC"
         }
     ]
 }
