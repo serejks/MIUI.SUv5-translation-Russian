@@ -12,8 +12,8 @@
     <string name="smart_network_guide_check">Не показывать снова</string>
     <string name="text_empty">Сообщение пусто</string>
     <string name="tap_to_configure">Нажмите для настройки</string>
-    <string name="adv_vpn">Advanced IPsec VPN</string>
-    <string name="basic_vpn_settings">Basic VPN</string>
+    <string name="adv_vpn">Продвинутый IPsec VPN</string>
+    <string name="basic_vpn_settings">Стандартный VPN</string>
     <string name="font_change_popup">Огромный шрифт будет применяться только в некоторых приложениях. В остальных будет использоваться крупный шрифт</string>
     <string name="font_change_popup_title">Информация</string>
     <string name="power_title">Энергосбережение</string>
@@ -460,8 +460,8 @@
     <string name="wifi_error">Ошибка</string>
     <string name="wifi_in_airplane_mode">В автономном режиме</string>
     <string name="wifi_fail_to_scan">Не удается выполнить поиск сетей</string>
-    <string name="wifi_wapi_fail_to_init">Unable to open WAPI certificates. Credential storage not available or not connected</string>
-    <string name="wifi_wapi_fail_to_auth">WAPI authentication failed. Check validity of certificates</string>
+    <string name="wifi_wapi_fail_to_init">Невозможно открыть WAPI сертификаты. Хранилище регистрационных данных отсутствует или не подключено</string>
+    <string name="wifi_wapi_fail_to_auth">WAPI аутентификация не удалась. Проверьте действительность сертификатов</string>
     <string name="wifi_notify_open_networks">Уведомление о сетях</string>
     <string name="wifi_notify_open_networks_summary">Уведомлять при наличии общедоступной сети</string>
     <string name="wifi_enable_watchdog_service">Избегать плохих подключений</string>
@@ -471,7 +471,7 @@
     <string name="wifi_setting_sleep_policy_title">Не отключаться от Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">При изменении параметров произошла ошибка</string>
     <string name="wifi_att_auto_connect">Автоподключение</string>
-    <string name="wifi_att_auto_connect_summary">Automatically connect to AT&amp;T Wi-Fi hotspot when detected</string>
+    <string name="wifi_att_auto_connect_summary">Автоматическое подключение к AT&T Wi-Fi Hotspot, при обнаружении.</string>
     <string name="wifi_add_network">Добавить сеть</string>
     <string name="wifi_add_wifi_network">Добавить сеть Wi-Fi</string>
     <string name="wifi_manage_network">Управление сетями</string>
@@ -532,14 +532,14 @@
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_password">Пароль</string>
     <string name="wifi_show_password">Показать пароль</string>
-    <string name="wifi_wapi_as_certificate">AS certificate</string>
+    <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_user_certificate">Сертификат пользователя</string>
     <string name="wifi_ip_settings">Параметры IP</string>
     <string name="wifi_unchanged">(без изменений)</string>
     <string name="wifi_unspecified">(Не указано)</string>
     <string name="wifi_remembered">Соxранено</string>
     <string name="wifi_disabled_generic">Отключено</string>
-    <string name="wifi_failed_to_obtain_IP">Failed to obtain IP</string>
+    <string name="wifi_failed_to_obtain_IP">Не удалось получить IP</string>
     <string name="wifi_disabled_network_failure">Сеть отключена. Плохое подключение</string>
     <string name="wifi_disabled_help">Сеть не используется из-за плохого подключения. Отключите этот параметр в меню \"Параметры\" > \"Wi-Fi\" > \"Дополнительно\"</string>
     <string name="wifi_disabled_password_failure">Произошла ошибка проверки подлинности</string>
@@ -563,7 +563,7 @@
     <string name="wifi_security_none">Нет</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_cert">Сертификат WAPI</string>
-    <string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK hexadecimal</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">Шестнадцатеричный WAPI PSK</string>
     <string name="wifi_failed_connect_message">Не удалось подключиться к сети</string>
     <string name="wifi_failed_forget_message">Не удалось удалить параметры сети</string>
     <string name="wifi_failed_save_message">Не удалось сохранить сеть</string>
@@ -571,8 +571,8 @@
     <string name="wifi_enable_warning">При включении Wi-Fi переносная точка доступа Wi-Fi будет отключена. Продолжить?</string>
     <string name="wifi_ap_turning_on">Включение переносной точки доступа Wi-Fi…</string>
     <string name="wifi_ap_turning_off">Отключение переносной точки доступа Wi-Fi…</string>
-    <string name="wifi_mobileAP_modemnai_missmath_title">Hotspot Error</string>
-    <string name="wifi_mobileAP_modemnai_missmath_message">Unable to connect to data network, turning off Hotspot. Your plan may not have the Hotspot service, please contact your phone company</string>
+    <string name="wifi_mobileAP_modemnai_missmath_title">Ошибка точки доступа</string>
+    <string name="wifi_mobileAP_modemnai_missmath_message">Не удается подключиться к сети передачи данных, отключение точки доступа. Ваш тариф может не поддерживать передачу данных, свяжитесь с оператором для получения подробностей</string>
     <string name="wificonnected_notificaton_title">Wi-Fi подключена</string>
     <string name="wificonnected_notificaton_detail">Подключено к %1$s</string>
     <string name="wifi_advanced_settings_label">Параметры IP</string>
@@ -597,7 +597,7 @@
     <string name="settings_menu_doNotSave">Отмена</string>
     <string name="wifitimer_startend_warning_message">Время начала и время конца не должны совпадать</string>
     <string name="wifi_ap_hide_ssid">Скрыть устройство</string>
-    <string name="wifi_ap_notification_turnoff_timeout">Mobile Hotspot is turned off due to inactivity</string>
+    <string name="wifi_ap_notification_turnoff_timeout">Точка доступа отключена из-за бездействия</string>
     <string name="wifi_ap_input_mac_address">MAC-адрес</string>
     <string name="wifi_ap_allowed_device_add_button">Добавить</string>
     <string name="wifi_ap_add_allowed_device">Добавить устройство</string>

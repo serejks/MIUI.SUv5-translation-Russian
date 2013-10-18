@@ -410,7 +410,7 @@
 	<string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
 	<string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
 	<string name="fake_phone_activity_placeCall_text">Поддельный вызов</string>
-    <string name="network_setting_all_forbidden_dialog">No available networks. Please try to switch 3G service, or click a forbidden network to register manually.</string>
+    <string name="network_setting_all_forbidden_dialog">Нет доступных сетей. Попробуйте отключить сеть 3G, или нажмите запрещено регистрировать сети вручную.</string>
 	<string name="sim_missing_continueView_text">Продолжить без SIM карты</string>
 	<string name="sim_missing_msg_text">Нет SIM карты. Пожалуйста, вставьте SIM карту.</string>
 	<string name="sim_unlock_dismiss_text">Отклонить</string>
