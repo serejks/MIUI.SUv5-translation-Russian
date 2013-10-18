@@ -134,18 +134,6 @@
 	    "position": 10
         },
         {
-            "title":"Amazon",
-            "url":"http://www.amazon.com/",
-            "thumbnail":"thumb_amazon.png",
-            "logobg":"bg01.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Amazon",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 11
-        },
-        {
             "title":"MIUI Android",
             "url":"http://miuiandroid.com/",
             "thumbnail":"thumb_miui_android.png",
@@ -155,19 +143,7 @@
 	    "displayName": "MIUI Android",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 12
-        },
-        {
-            "title":"BBC",
-            "url":"http://www.bbc.co.uk/",
-            "thumbnail":"thumb_bbc.png",
-            "logobg":"bg01.9.png",
-            "favicon":"",
-			"nightModeMask": "night.9.png",
-	    "displayName": "BBC",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 13
+	    "position": 11
         }
     ],
 "topquicklinks": [
@@ -271,15 +247,6 @@
 	    "displayName": "YouTube"
         },
         {
-            "title":"Amazon",
-            "url":"http://www.amazon.com/",
-            "thumbnail":"thumb_amazon.png",
-            "logobg":"bg01.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Amazon"
-        },
-        {
             "title":"MIUI Android",
             "url":"http://miuiandroid.com/",
             "thumbnail":"thumb_miui_android.png",
@@ -287,15 +254,6 @@
 			"nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "MIUI Android"
-        },
-        {
-            "title":"BBC",
-            "url":"http://www.bbc.co.uk/",
-            "thumbnail":"thumb_bbc.png",
-            "logobg":"bg01.9.png",
-            "favicon":"",
-			"nightModeMask": "night.9.png",
-	    "displayName": "BBC"
         }
     ]
 }
