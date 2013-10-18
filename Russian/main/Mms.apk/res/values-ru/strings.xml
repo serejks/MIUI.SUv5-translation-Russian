@@ -553,5 +553,4 @@
     <string name="sim_card2">SIM-карта 2</string>
     <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
     <string name="add_slide_before">Добавить слайд (впереди)</string>
-    <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
 </resources>
