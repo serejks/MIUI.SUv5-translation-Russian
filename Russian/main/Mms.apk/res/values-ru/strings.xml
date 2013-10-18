@@ -53,7 +53,6 @@
     <string name="move_down">Переместить вниз</string>
     <string name="remove_slide">Удалить слайд</string>
     <string name="add_slide">Добавить слайд</string>
-	<string name="add_slide_before">Добавить слайд перед</string>
 	<string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
 	<string name="pref_forward_title">Вперед</string>
 	<string name="pref_title_card_format">Формат карты</string>
@@ -61,12 +60,8 @@
 	<string name="pref_title_miui_card">Отправить через карту MIUI</string>
 	<string name="pref_title_vcard">Отправить через vCard</string>
 	<string name="restore_to_phone_memory_failed">Ошибка восстановления</string>
-	<string name="restored_to_phone_memory">Восстановление​в память телефона завершено</string>
 	<string name="save_to_sim_failed">Ошибка сохранения</string>
 	<string name="saved_to_sim">Сохранено</string>
-	<string name="set_smsc_address_title_miui">Установить номер SMS-центра</string>
-	<string name="sim_card1">SIM Карта 1</string>
-	<string name="sim_card2">SIM Карта 2</string>
 	<string name="sim_card_cloud">%s (облачное сообщение)</string>
 	<string name="type_vcard">vCard</string>
 	<string name="forward_from">От:</string>
@@ -556,18 +551,7 @@
     <string name="set_smsc_address_title_miui">Номер SMS центра</string>
     <string name="sim_card1">SIM-карта 1</string>
     <string name="sim_card2">SIM-карта 2</string>
-    <string name="sim_card_cloud">%s (Бесплатное Облачное сообщение)</string>
-    <string name="forward_from">Перед:</string>
-    <string name="pref_forward_title">Вперед</string>
-    <string name="pref_title_fwd_sender_info">Перед информацией Отправителя</string>
-    <string name="saved_to_sim">Сохранено</string>
-    <string name="save_to_sim_failed">Ошибка сохранения</string>
-    <string name="restored_to_phone_memory">"Восстановлено ​​в память телефона"</string>
-    <string name="restore_to_phone_memory_failed">Ошибка восстановления</string>
-    <string name="pref_title_card_format">Формат карты</string>
-    <string name="pref_title_miui_card">ОТправить через MIUI карту</string>
-    <string name="pref_title_vcard">Отправить через vCard</string>
-    <string name="type_vcard">vCard</string>
+    <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
     <string name="add_slide_before">Добавить слайд (впереди)</string>
     <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
 </resources>
