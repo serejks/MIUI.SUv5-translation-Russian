@@ -902,8 +902,8 @@
 	<string name="global_action_power_off">Выключение</string>
 	<string name="global_action_restart">Перезагрузка</string>
     <string name="global_action_bug_report">Отчет</string>
-    <string name="bugreport_title">Take bug report</string>
-    <string name="bugreport_message">This will collect information about your current device state, to send as an e-mail message. It will take a little time from starting the bug report until it is ready to be sent; please be patient.</string>
+    <string name="bugreport_title">Создать отчёт</string>
+    <string name="bugreport_message">Собрать информацию о текущем состоянии устройства, для отправки по электронной почте. Это займет немного времени.</string>
     <string name="js_dialog_title">Страница \"%s\" сообщает:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Уйти со страницы?\n\n%s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.</string>

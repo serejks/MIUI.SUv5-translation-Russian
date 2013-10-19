@@ -429,7 +429,7 @@
     <string name="android_beam_disabled_summary">Функция Android Beam недоступна. NFC выключено</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">Если эта функция включена, можно передавать данные приложений на другое устройство, поддерживающее NFC, поднося устройства друг к другу. Например, можно передавать страницы браузера, видео YouTube, контакты и т. д. Просто поднесите устройства друг к другу (обычно задними сторонами) и нажмите на экран. Приложение определит, какие данные нужно передать</string>
-    <string name="android_beam_explained_chn">When this feature is on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam browser pages, contacts, and more. Just bring the devices together (typically back to back) and then tap your screen. The app determines what is beamed</string>
+    <string name="android_beam_explained_chn">Когда эта функция включена, вы можете передавать приложения содержимое на другое NFC-совместимое устройство, поднеся устройства близко друг к другу. Например, вы можете передавать страницы браузера, контакты и многое другое. Просто взять соедените устройства вместе (спина к спине), а затем коснитесь экрана.</string>
     <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
     <string name="nsd_quick_toggle_summary">Разрешить приложениям на других устройствах искать приложения на этом устройстве</string>
     <string name="s_beam_settings_title">S Beam</string>
@@ -653,20 +653,20 @@
 Примечание. При этом будут включены мобильные данные, а заряд батареи будет расходоваться быстрее"</string>
     <string name="wifi_ap_instruction_open_activate_color">1. Включите Wi-Fi на устройстве&lt;br>2. Найдите &lt;font color=%1$s>%2$s&lt;/font>в списке сетей Wi-F&lt;br>3. Подключитесь к &lt;font color=%1$s>%2$s&lt;/font> &lt;br>4. Теперь можно подключаться к Интернету через переносную точку доступа Wi-Fi</string>
     <string name="wifi_ap_instruction_activate_color">1. Включите Wi-Fi на устройстве&lt;br>2. Найдите &lt;font color=%1$s>%2$s&lt;/font>в списке сетей Wi-F&lt;br>3. Подключитесь к &lt;font color=%1$s>%2$s&lt;/font>, указав пароль &lt;font color=%1$s>%3$s&lt;/font> &lt;br>4. Теперь можно подключаться к Интернету через переносную точку доступа Wi-Fi</string>
-    <string name="wifi_ap_instruction_tmo">"Turn your phone into a portable Wi-Fi hotspot so you can share your mobile data connection with other devices.
-To use your phones hotspot capability, you must have the Smartphone Mobile HotSpot service added to your rate plan.
-You can create an allowed device list and set the connection mode for allowed devices."</string>
+    <string name="wifi_ap_instruction_tmo">"Превратите ваш телефон в портативный Wi-Fi роутер, для того чтобы поделиться своей мобильной сетью передачи данных с другими устройствами.
+Для того чтобы использовать функцию точки доступа, на вашем тарифном плане должна быть подключена улуга Smartphone Mobile HotSpot.
+Вы можете создать список разрешенных устройств и установить режим подключения для разрешенных устройств."</string>
     <string name="wifi_ap_instruction_changeable_maxclient">Устройство можно использовать в качестве переносной точки доступа Wi-Fi для подключения к Интернету. При этом другие устройства (до %1$s) могут подключаться к нему через Wi-Fi. Подключенные устройства смогут получать доступ к Интернету через вашу сеть данных</string>
     <string name="wifi_ap_instruction_changeable_maxclient_note">Примечание. При этом будут включены мобильные данные, а заряд батареи будет расходоваться быстрее</string>
-    <string name="wifi_ap_instruction_battery_warning">Mobile Hotspot consumes more battery. Connect the device to an outlet to extend battery life</string>
+    <string name="wifi_ap_instruction_battery_warning">В режиме точки доступа больше расходуется заряд аккумулятора. Подключите устройство к питанию, чтобы продлить срок службы батареи</string>
     <string name="wifi_ap_instruction_changeable_maxclient_mid">Можно создать список разрешенных устройств и настроить для них режим подключения</string>
-    <string name="wifi_ap_change_security">Change Security</string>
-    <string name="wifi_ap_none_security_warning">"Warning: Selecting Open (no security) may allow unauthorised users to access your device's Mobile Hotspot. Consider using WPA2 personal security"</string>
+    <string name="wifi_ap_change_security">Сменить тип защиты</string>
+    <string name="wifi_ap_none_security_warning">"Внимание: Выбор Open (без защиты) может позволить вредоностным программам получить несанкционированный доступ к вашему устройству. Рассмотрите возможность использования WPA2 для личной безопасности"</string>
     <string name="wifi_ap_warn_roaming_msg">Обратите внимание на то, что за передачу и получение данных при использовании этой службы может взиматься до %s $ за Мб. Чтобы узнать, какая плата будет взиматься в регионе, где вы используете службу, просмотрите свой тарифный план</string>
     <string name="wifi_ap_change_policy_warn">Подключенное устройство будет отключено</string>
     <string name="wifi_ap_advanced_title">Дополнительно</string>
     <string name="wifi_ap_advanced">Дополнительно</string>
-    <string name="wifi_ap_maxclient">Maximum connections</string>
+    <string name="wifi_ap_maxclient">Максимум подключенных устройств</string>
     <string name="wifiap_lan_settings">Параметры локальной сети</string>
     <string name="wifiap_local_settings">Локальные параметры</string>
     <string name="wifiap_local_ip_addrs">IP-адрес</string>
@@ -674,8 +674,8 @@ You can create an allowed device list and set the connection mode for allowed de
     <string name="wifiap_local_subnetmask">Маска подсети</string>
     <string name="wifiap_dhcp_settings">Параметры DHCP</string>
     <string name="wifiap_dhcp_enable">DHCP</string>
-    <string name="wifiap_dhcp_start_ip">Starting IP</string>
-    <string name="wifiap_dhcp_end_ip">Ending IP</string>
+    <string name="wifiap_dhcp_start_ip">Запуск IP</string>
+    <string name="wifiap_dhcp_end_ip">Остановка IP</string>
     <string name="wifiap_dhcp_lease_time">Время аренды</string>
     <string name="wifiap_dhcp_enable_summary">Включить DHCP</string>
     <string name="wifiap_leasetime_instruction">Укажите время аренды в минутах. (не менее 2 минут)</string>
@@ -687,42 +687,42 @@ You can create an allowed device list and set the connection mode for allowed de
     <string name="wifiaplan_dlg_convert_otherips">Изменить локальный IP-адрес</string>
     <string name="wifiaplan_dlg_ip_not_compatible">IP-адрес вне диапазона</string>
     <string name="wifiaplan_dlg_ip_not_compatible_message">IP-адрес должен быть в том же диапазоне, что и локальный IP-адрес</string>
-    <string name="wifiaplan_dlg_restart_ap">Restart Sprint Hotspot</string>
-    <string name="wifiaplan_dlg_restart_required">Restart Sprint Hotspot</string>
-    <string name="wifiaplan_dlg_restart_required_message">Restart Sprint Hotspot to activate new configuration</string>
+    <string name="wifiaplan_dlg_restart_ap">Перезагрузка Sprint Hotspot</string>
+    <string name="wifiaplan_dlg_restart_required">Перезагрузка Sprint Hotspot</string>
+    <string name="wifiaplan_dlg_restart_required_message">Перезагрузка Sprint Hotspot для активации новых настроек</string>
     <string name="wifi_ap_instruction_help">Общие сведения о переносной точке доступа Wi-Fi</string>
     <string name="tethering_attention_title">Внимание</string>
     <string name="tethering_attention_message">Если модем включен, все операции передачи данных считаются связью путем подключения к ПК или другому внешнему устройству. В этом случае может взиматься плата за передачу данных, даже если вы не подключены к внешнему устройству. Чтобы избежать дополнительных расходов, отключайте модем, когда вы им не пользуетесь</string>
     <string name="tethering_attention_details">Свойства</string>
     <string name="dialog_battery_data_warning">При использовании переносной точки доступа Wi-Fi быстро расходуется заряд батареи и увеличивается объем передаваемых данных. Продолжить?</string>
     <string name="bluetooth_accept">Принять</string>
-    <string name="wifi_tether_checkbox_text_chameleon">Hotspot</string>
+    <string name="wifi_tether_checkbox_text_chameleon">Точка доступа</string>
     <string name="wifi_ap_mobile_hotspot_settings">Параметры мобильной точки доступа</string>
-    <string name="wifi_ap_broadcast_network_name_title">Your HotSpot is not visible now</string>
-    <string name="wifi_ap_broadcast_network_name_msg">If you switch the Broadcast Network Name (SSID) option off, your phone will not be visible to other devices and will not appear in the list of available Wi-Fi networks. Other devices can still connect to you HotSpot by entering its network name manually</string>
+    <string name="wifi_ap_broadcast_network_name_title">Ваша точка доступа скрыта</string>
+    <string name="wifi_ap_broadcast_network_name_msg">Если вы отключите опцию Broadcast Network Name (SSID), ваш телефон не будет видимым для других устройств и не будет отображаться в списке доступных Wi-Fi сетей. Другие устройства могут подключиться к вам, введя имя сети вручную</string>
     <string name="wifi_ap_close">Закрыть</string>
-    <string name="wifi_ap_dialog_attention_check">Do not show me this message again</string>
+    <string name="wifi_ap_dialog_attention_check">Не показывать снова</string>
     <string name="wifi_ap_not_supported">Мобильная точка доступа Wi-Fi не поддерживается</string>
-    <string name="wifi_ap_dialog_disclaimer"><b>"Introduction Portable Wi-Fi hotspot
+    <string name="wifi_ap_dialog_disclaimer"><b>"Описание функции Портативная точка доступа Wi-Fi
 
-"</b>"Portable Wi-Fi hotspot allows your Android-powered device to be used as a mobile hotspot for up to ten devices using your phone's data connection. If using this service, you should secure the connection to deny unauthorized access. This service consumes battery power and increases your data usage.
-This service requires a subscription to the applicable modem plan. Please ensure you have subscribed to the appropriate data plan prior to use. Call 888-944-9400 if you need assistance.
-Use of service constitutes acceptance of the"<a href="http://www.uscellular.com/uscellular/common/common.jsp?path=/android/modem_feature.html"> Smartphone Modem Terms.</a></string>
+"</b>"Портативная точка доступа Wi-Fi позволяет использовать ваше Android-устройство в качестве мобильной точки доступа для других устройств с помощью подключения для передачи данных вашего телефона. При использовании этой услуги, вы должны защитить подключение во избежание несанкционированного доступа. При использовании переносной точки доступа Wi-Fi быстро расходуется заряд батареи и увеличивается объем передаваемых данных.
+Эта услуга требует подписки с действующим планом модема. Пожалуйста, убедитесь, что вы подписаны на соответствующий тарифный план перед использованием.
+Использование службы означает согласие с "<a href="http://www.uscellular.com/uscellular/common/common.jsp?path=/android/modem_feature.html">.</a></string>
     <string name="wifi_during_usb_tethering">Невозможно включить Wi-Fi во время использования USB-модема</string>
-    <string name="wifi_ap_dialog_disclaimer_spi">While Wireless Hotspot or DUN Tethering is active, all data usage will be billed according to your Wireless Hotspot data plan</string>
+    <string name="wifi_ap_dialog_disclaimer_spi">При использовании переносной точки доступа Wi-Fi увеличивается объем передаваемых данных, что может повлечь за собой расходы за услуги связи в соответствии с тарифами вашего оператора</string>
     <string name="wifi_watchdog_network_disabled_sec">Интернет недоступен</string>
     <string name="wifi_watchdog_network_disabled_detailed_sec">Открыть параметры Wi-Fi</string>
     <string name="wifi_watchdog_connectivity_check">Проверка доступа к Интернету</string>
     <string name="wifi_watchdog_connectivity_check_summary">Проверьте, доступен ли Интернет через Wi-Fi при подключении к точке доступа</string>
     <string name="wifi_watchdog_not_available_service">Интернет недоступен через выбранную точку доступа Wi-Fi. Изменить сеть?</string>
     <string name="wifi_watchdog_recheck">Повторить</string>
-    <string name="mobile_ap_disable">Mobile Hotspot disabled. Wi-Fi turned on</string>
-    <string name="mobile_ap_not_disable">Wi-Fi not turned on. Mobile Hotspot enabled</string>
-    <string name="max_sta_reached_body">Please disconnect one or more devices to enable the new device connection</string>
-    <string name="ok_button">Disable Mobile Hotspot</string>
+    <string name="mobile_ap_disable">Мобильная точка доступа отключена. Wi-Fi включен</string>
+    <string name="mobile_ap_not_disable">Wi-Fi отключена. Мобильная точка доступа включена</string>
+    <string name="max_sta_reached_body">Отключите как минимум одно устройство для подключения нового</string>
+    <string name="ok_button">Отключит мобильную точку доступа</string>
     <string name="cancel_button">Не включать Wi-Fi</string>
-    <string name="wifi_notify_mobileap_is_on">"Mobile Hotspot is currently active.
-Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
+    <string name="wifi_notify_mobileap_is_on">"Мобильная точка доступа активна.
+Wi-Fi и Мобильная точка доступа не могут быть активны одновременно"</string>
     <string name="wifi_connect">Подключиться</string>
     <string name="wifi_forget">Забыть</string>
     <string name="wifi_save">Сохранить</string>
@@ -730,7 +730,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="wifi_scan_ap">Включите Wi-Fi, чтобы найти точки доступа</string>
     <string name="wifi_unknown_secured_ap">Неизвестный тип безопасности. Невозможно подключиться к этой точке доступа</string>
     <string name="wifi_ok">Да</string>
-    <string name="show_message_ap_none">You are connecting to the unsecure network “%1$s”. Information sent is not encrypted and may be visible to others. Do you still want to connect?</string>
+    <string name="show_message_ap_none">Вы подключаетесь к небезопасной сети “%1$s”. Передаваемая информация не шифруется и могжет быть доступна другим пользователям. Подключиться?</string>
     <string name="wifi_network_connection_ap">Подключиться к %1$s</string>
     <string name="wifi_wps_overlap_error">Обнаружен другой безопасный сеанс Wi-Fi. Повторите через несколько минут</string>
     <string name="wifi_advanced_titlebar">Дополнительные параметры Wi-Fi</string>
@@ -1826,8 +1826,8 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="data_usage_label_background">Фон</string>
     <string name="data_usage_app_restricted">Ограниченный</string>
     <string name="data_usage_disclaimer">Измеряется на устройстве. Оператор может учитывать данные об использовании по-другому</string>
-    <string name="btn_tmo">Upgrade data service</string>
-    <string name="data_usage_disclaimer_tmo">Tap on the link below to explore data plan upgrade options for your rate plan</string>
+    <string name="btn_tmo">Обновление службы данных</string>
+    <string name="data_usage_disclaimer_tmo">Нажмите на ссылку ниже, чтобы изучить варианты обновления для вашего тарифного плана</string>
     <string name="data_usage_disable_mobile">Отключить мобильное подключение для передачи данных?</string>
     <string name="data_usage_disable_mobile_limit">Ограничение мобильных данных</string>
     <string name="data_usage_disable_4g_limit">Настроить ограничение данных 4G</string>
@@ -2077,10 +2077,10 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="debugging_dialog_message">Для настройки USB-подключения отключите отладку USB. Нажмите \"ОК\" для продолжения</string>
     <string name="connected_dialog_message">Кабель USB подключен. Отключите кабель</string>
     <string name="usb_settings_title">Настройки USB</string>
-    <string name="ask_on_plug">Ask on plug</string>
-    <string name="ask_on_plug_summary">Select USB mode when you connect your phone to PC</string>
-    <string name="cdrom_device">SUA auto-run</string>
-    <string name="cdrom_device_summary">Allows you to install or run SUA (Software Upgrade Assistant) to help with upgrading your device in windows</string>
+    <string name="ask_on_plug">Спрашивать при подключении</string>
+    <string name="ask_on_plug_summary">Выбирать режим USB при подключении устройства к компьютеру</string>
+    <string name="cdrom_device">SUA авто-запуск</string>
+    <string name="cdrom_device_summary">Позволяет установить или запустить SUA (Software Upgrade Assistant) для помощи в обновлении устройства через Windows</string>
     <string name="find_my_mobile">Найти устройство</string>
     <string name="change_sim_alert">Оповещ. о смене SIM-карты</string>
     <string name="change_sim_alert_summary">Отправлять SMS при смене SIM-карты</string>
@@ -2282,8 +2282,8 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="information_ticker">Тикер</string>
     <string name="information_ticker_summary">Настройка тикера новостей или акций на экране блокировки</string>
     <string name="information_ticker_facebook_summary">Настройка тикера новостей, акций или Facebook на экране блокировки</string>
-    <string name="information_ticker_weibo_summary">Set news, stock, or Weibo information ticker on the lock screen</string>
-    <string name="information_ticker_only_weibo_summary">Set Weibo information ticker on the lock screen</string>
+    <string name="information_ticker_weibo_summary">Отображать новости, акции или Weibo information ticker на экране блокировки</string>
+    <string name="information_ticker_only_weibo_summary">Отображать Weibo information ticker на экране блокировки</string>
     <string name="contents_type">Тип содержимого</string>
     <string name="sliding_speed">Скорость перехода</string>
     <string name="ticker_settings">Настройки</string>
@@ -2296,7 +2296,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="facebook_noti_of_charges">Уведомление об оплате</string>
     <string name="facebook_noti_of_charges_msg">Для обновления данных потребуется подключение к сети. Это может привести к дополнительным затратам. Продолжить?</string>
     <string name="facebook_do_not_show_agagin">Не показывать снова</string>
-    <string name="ticker_weibo_settings">Set Weibo ticker settings</string>
+    <string name="ticker_weibo_settings">Отображать Weibo ticker settings</string>
     <string name="pen_settings_title">S Pen</string>
     <string name="pen_settings_general_section_title">Общие</string>
     <string name="pen_settings_hovering_section_title">Наведение</string>
@@ -2905,9 +2905,9 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="bua_plus_contacts">Контакты</string>
     <string name="bua_plus_media">Медиа</string>
     <string name="location_e911_description">E911 Location cannot be turned off on any mobile cellular phone</string>
-    <string name="location_vzw">VZW location services</string>
-    <string name="location_vzw_description">Use location services provided by Verizon Wireless</string>
-    <string name="location_vzw_dialogtext">By selecting “VZW location services”, you are enabling Verizon Wireless and third party authenticated and validated location services to access certain location information available through this device and/or the network</string>
+    <string name="location_vzw">VZW службы определения местоположения</string>
+    <string name="location_vzw_description">Использовать данные о местоположении, предоставляемые Verizon Wireless</string>
+    <string name="location_vzw_dialogtext">By selecting “VZW службы определения местоположения”, you are enabling Verizon Wireless and third party authenticated and validated location services to access certain location information available through this device and/or the network</string>
     <string name="location_3rdparty_gps">Standalone GPS services</string>
     <string name="location_3rdparty_gps_description">Use location services based on Standalone GPS</string>
     <string name="location_3rdparty_gps_dialogtext">By selecting “Standalone GPS services”, you are allowing access to all location information by any third party through web access or any software or peripheral components you chose to install, download, add/or attach to the device or any other means. Enabling this functionality could pose certain risks to users of this device</string>
