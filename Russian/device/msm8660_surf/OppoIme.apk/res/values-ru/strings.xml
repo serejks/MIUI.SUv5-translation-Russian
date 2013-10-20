@@ -47,9 +47,9 @@
     <string name="summary_of_hand_write_settings_reset">Restore all Handwriting settings to factory settings.</string>
     <string name="summary_of_hand_write_color">Stroke color</string>
     <string name="ok_to_resume_hw_setting">Resume</string>
-    <string name="ok_to_set_color">Ok</string>
+    <string name="ok_to_set_color">ОК</string>
     <string name="cancel_to_set_color">Cancel</string>
-    <string name="blurry_pinyin_keep_cur_settings">Ok</string>
+    <string name="blurry_pinyin_keep_cur_settings">ОК</string>
     <string name="blurry_pinyin_cancel_changes">Cancel</string>
     <string name="add_custom_word_tip">Add custom word</string>
     <string name="menu_label_clear_all_custom_words">Clear all words</string>
@@ -110,7 +110,7 @@
     <string name="sure_to_delete_custom_word_tip">Sure to delete?</string>
     <string name="sure_to_delete_custom_words_tip">Sure to delete these words?</string>
     <string name="delete_custom_word_no_choose">Not item selected!</string>
-    <string name="custom_word_ok_to_delete">Ok</string>
+    <string name="custom_word_ok_to_delete">ОК</string>
     <string name="custom_word_cancel_delete">Cancel</string>
     <string name="title_delete_all_custom_words">Clear all custom words.</string>
     <string name="sure_to_delet_all_custom_words">Operation can not reset, Sure to clear all?</string>
@@ -119,7 +119,7 @@
     <string name="hw_dialog_title_stroke_type">Stroke Type</string>
     <string name="hw_dialog_title_stroke_color">Stroke Color</string>
     <string name="hw_dialog_title_recognize_mode">Hand Writing Multiple Recognize Mode</string>
-    <string name="hw_dialog_stroke_color_ok">Ok</string>
+    <string name="hw_dialog_stroke_color_ok">ОК</string>
     <string name="hw_dialog_stroke_color_cancel">Cancel</string>
     <string name="stanby_input_types_dialog_title">Alternative input methods</string>
     <string name="default_input_type_dialog_title">Default Input Type</string>
@@ -137,7 +137,7 @@
     <string name="begin_to_import">Begin to import</string>
     <string name="contacts_name_import_detail">Detail information:</string>
     <string name="contacts_name_import_item_nums">Total num:</string>
-    <string name="contacts_name_import_ok_num">Ok num:</string>
+    <string name="contacts_name_import_ok_num">ОК num:</string>
     <string name="contacts_name_import_fail_num">Failed num:</string>
     <string name="contacts_name_import_repeat_num">Repeat num:</string>
     <string name="contacts_name_import_ok_item_list">Import ok items list:</string>
@@ -159,7 +159,7 @@
     <string name="btn_backup_ime_dicts">Backup</string>
     <string name="tip_press_to_restore_ime_dicts">Press this button to start restore ime user dictionaries:</string>
     <string name="btn_restore_ime_dicts">Restore</string>
-    <string name="str_ok">Ok</string>
+    <string name="str_ok">ОК</string>
     <string name="str_cancel">Cancel</string>
     <string name="skb_type_change_not_support">In this version, for other skbs not ready, not support skb type change at the moment.</string>
     <string name="tip_input_char_reach_max_num">The number of input chars reach the max num!</string>

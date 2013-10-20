@@ -373,7 +373,7 @@
     <string name="continue_all_tasks">Продолжить все задачи</string>
     <string name="network_not_contected_title">Нет сетевого подключения</string>
     <string name="network_not_contected_msg">Нет подключения к сети, пожалуйста, подождите</string>
-    <string name="network_not_contected_ok">Ок</string>
+    <string name="network_not_contected_ok">ОК</string>
     <string name="wifi_not_contected_title">Не подключен Wi-Fi</string>
     <string name="wifi_not_contected_msg">Не обнаружено Wi-Fi подключение, возможно потребление большого объема GPRS трафика, продолжить?</string>
     <string name="wifi_not_connected_continue">Продолжить</string>

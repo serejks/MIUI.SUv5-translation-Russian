@@ -550,12 +550,12 @@
 	<string name="wifi_share_connected_title">Wi-Fi сеть подключена</string>
 	<string name="wifi_share_count">Wi-Fi сети, которыми вы поделились:%d</string>
 	<string name="wifi_share_current_network">Текущая сеть</string>
-	<string name="wifi_share_know">Ок</string>
+	<string name="wifi_share_know">ОК</string>
 	<string name="wifi_share_login">Поделиться паролем этой Wi-Fi сети</string>
 	<string name="wifi_share_login_summary">Если Wi-Fi сеть публичная, вы можете поделиться ей с другими пользователями MIUI.</string>
 	<string name="wifi_share_notification_summary">MIUI позволит вам подключиться к сети Wi-Fi с паролем.</string>
 	<string name="wifi_share_other_network">Другие сети</string>
-	<string name="wifi_share_qrcode_finish">Ок</string>
+	<string name="wifi_share_qrcode_finish">ОК</string>
     <string name="oldman_mode_entry_title">Расширенный режим</string>
     <string name="oldman_mode_entry_name">Настройки расширенного режима</string>
     <string name="oldman_mode_settings_caption">Настройки расширенного режима</string>
@@ -710,10 +710,10 @@
     <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
     <string name="wifi_tether_starting">Включение точки доступа…</string>
     <string name="wifi_tether_stopping">Отключение точки доступа…</string>
-    <string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
+    <string name="wifi_tether_enabled_subtext">Точка доступа \"%1$s\" активна</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
     <string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
-    <string name="wifi_tether_configure_subtext" formatted="false">Точка доступа %1$s %2$s</string>
+    <string name="wifi_tether_configure_subtext" formatted="false">Точка доступа \"%1$s\" %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
     <string name="testing_wifi_info">Информация Wi-Fi</string>
     <string name="disableNetwork">Отключить сеть</string>
@@ -2707,10 +2707,9 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="bluetooth_ftp_profile_summary_connected">Подключено для передачи данных</string>
     <string name="mtp_transfer_unmount_error_text">SD-карта не может быть удалена во время передачи файлов</string>
     <string name="mtp_transfer_erase_error_text">SD-карта не может быть очищена во время передачи файлов</string>
-    <string name="launch_error">"Не удалось запустить приложение!"</string>
+    <string name="launch_error">Не удалось запустить приложение!</string>
     <string name="dlg_confirm_unmount_usb_title">Отключить USB накопитель?</string>
     <string name="dlg_confirm_unmount_usb_text">Если вы отключите USB накопитель, некоторые приложения, которые его используют остановится и могут быть недоступны, пока вы не подключите USB накопитель вновь.</string>
-    <string name="dlg_error_unmount_usb_title" />
     <string name="dlg_error_unmount_usb_text">"Не удалось отключить USB накопитель. Попробуйте позже."</string>
     <string name="unmount_usb_inform_text">USB накопитель отключен.</string>
     <string name="sd_eject_usbstorage">Отключить USB накопитель</string>
@@ -2727,9 +2726,9 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="agps_str_notify">Уведомления</string>
     <string name="EM_NotifyDialog_title">EM уведомления</string>
     <string name="agps_OK">OK</string>
-    <string name="agps_str_allow">ALLOW</string>
-    <string name="agps_str_deny">DENY</string>
-    <string name="agps_str_error">Error</string>
+    <string name="agps_str_allow">РАЗРЕШИТЬ</string>
+    <string name="agps_str_deny">ЗАПРЕТИТЬ</string>
+    <string name="agps_str_error">Ошибка</string>
     <string name="AGPS_DEFAULT_STRING">A-GPS Строка по умолчанию</string>
     <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Сбой создания сети</string>
     <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Неправильное содержание PUSH</string>
@@ -2816,7 +2815,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="epo_status_starting">Запуск…</string>
     <string name="epo_err_update_failed">Ошибка обновления данных EPO</string>
     <string name="epo_error_dialog_title">Ошибка</string>
-    <string name="epo_ok_btn">Ок</string>
+    <string name="epo_ok_btn">ОК</string>
     <string name="epo_warning_dialog_title">Внимание</string>
     <string name="epo_warning_dialog_message">Загрузка данных EPO в роуминге может привести к дополнительным расходам за услуги связи. Продолжить?</string>
     <string name="ring_summary">Рингтон</string>
@@ -2835,7 +2834,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="audio_profile_message_name_length_wrong">Имя должно содержать как минимум один символ</string>
     <string name="audio_profile_message_delete">Профиль %s удален</string>
     <string name="audio_profile_message_overflow">Вам разрешено добавить только 6 пользовательских профилей</string>
-    <string name="ok">Ок</string>
+    <string name="ok">ОК</string>
     <string name="audio_profile_category_custom_title">Пользовательские профили</string>
     <string name="audio_profile_category_predefine_title">Предустановленные профили</string>
     <string name="general_settings_title">Обычный</string>
@@ -2965,7 +2964,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="gemini_sim_tether_disassociate">Разъединить</string>
     <string name="selected_item_count">Выбрано: %d</string>
     <string name="gemini_sim_tether_unselect_all">Снять выбор</string>
-    <string name="gemini_sim_tether_nocontact_confirm">Ок</string>
+    <string name="gemini_sim_tether_nocontact_confirm">ОК</string>
     <string name="gemini_sim_tether_select_all">Выбрать все</string>
     <string name="gemini_sim_tether_select_ok">Сохранить</string>
     <string name="gemini_sim_tether_select_cancel">Отмена</string>

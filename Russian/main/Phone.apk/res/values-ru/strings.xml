@@ -1311,7 +1311,7 @@
     <string name="stop_record_vt">Закончить запись</string>
     <string name="sim_manage_indicator_3g">3G</string>
     <string name="simlock_name">SIM ME заблокирована</string>
-    <string name="simlock_ok">Ок</string>
+    <string name="simlock_ok">ОК</string>
     <string name="simlock_dismiss">Отклонить</string>
     <string name="simlock_retriesleft">"Остаток: "</string>
     <string name="pin_name">PIN</string>

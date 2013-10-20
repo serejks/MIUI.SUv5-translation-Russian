@@ -67,7 +67,7 @@
     <string name="operation_deleting">Удаление…</string>
     <string name="operation_pasting">Копирование…</string>
     <string name="operation_moving">Перемещение…</string>
-    <string name="confirm_know">Ок</string>
+    <string name="confirm_know">ОК</string>
     <string name="error_info_cant_send_folder">Невозможно передать папку</string>
     <string name="fail_to_create_folder">Невозможно создать: недостаточно места или уже существует</string>
 	<string name="fail_to_create_folder_unknown">Невозможно создать: неизвестная ошибка</string>

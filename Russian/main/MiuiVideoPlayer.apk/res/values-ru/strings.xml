@@ -5,7 +5,7 @@
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Извините, видео не поддерживается</string>
     <string name="vp_VideoView_error_text_unknown">Невозможно воспроизвести видео</string>
     <string name="vp_VideoView_error_title">Невозможно воспроизвести видео</string>
-    <string name="vp_VideoView_error_button">Ок</string>
+    <string name="vp_VideoView_error_button">ОК</string>
     <string name="menu_item_media_info_label">Информация о видео</string>
     <string name="menu_item_hide_media_info_label">Скрыть информацию о видео</string>
     <string name="menu_item_switch_width_height_label">Соотношение сторон</string>

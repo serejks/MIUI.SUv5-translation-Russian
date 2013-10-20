@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CellConnectionService</string>
-    <string name="button_ok">Ок</string>
+    <string name="button_ok">ОК</string>
     <string name="button_cancel">Отмена</string>
     <string name="confirm_radio_title">SIM-карта-карта отключена</string>
     <string name="confirm_radio_msg">%1$s сейчас отключена. Включить SIM-карта-карту?</string>

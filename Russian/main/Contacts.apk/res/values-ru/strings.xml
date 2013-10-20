@@ -63,7 +63,7 @@
     <string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
     <string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
     <string name="redirect_calls_to_vm_confirm_message">Перед настройкой почтового ящика, убедитесь, что ваш оператор поддерживает данную функцию.</string>
-    <string name="redirect_calls_to_vm_confirm_text">Ок</string>
+    <string name="redirect_calls_to_vm_confirm_text">ОК</string>
     <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако можно скрыть их в списках контактов.</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
     <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов.</string>

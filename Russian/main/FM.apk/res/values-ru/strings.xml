@@ -158,7 +158,7 @@
     <string name="dlg_noantenna_title">Подключите гарнитуру</string>
     <string name="btn_yes">Да</string>
     <string name="btn_no">Нет</string>
-    <string name="btn_ok">Ок</string>
+    <string name="btn_ok">ОК</string>
     <string name="btn_cancel">Отмена</string>
     <string name="dlg_progress_title">Поиск</string>
     <string name="dlg_progress_text">Поиск…</string>
