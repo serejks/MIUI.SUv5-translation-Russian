@@ -178,7 +178,7 @@
 	<string name="menu_bl_add_manual">"Добавить вручную "</string>
 	<string name="menu_bl_call_log">Заблокированные вызовы</string>
 	<string name="menu_bl_clear">Очистить черный список</string>
-	<string name="menu_bl_remove">" Удалить из черного списка"</string>
+	<string name="menu_bl_remove">Удалить из черного списка</string>
 	<string name="menu_bl_sms_log">Заблокированные сообщения</string>
 	<string name="menu_call">Вызов</string>
 	<string name="menu_clear_all_call">Удалить все заблокированные вызовы</string>
