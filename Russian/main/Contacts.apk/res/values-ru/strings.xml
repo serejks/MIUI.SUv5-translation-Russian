@@ -58,7 +58,7 @@
     <string name="showAllContactsJoinItem">Показать все контакты</string>
     <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
     <string name="separatorJoinAggregateAll">Все контакты</string>
-    <string name="contactsJoinedMessage">Контакты присоединились</string>
+    <string name="contactsJoinedMessage">Контакты объединены</string>
     <string name="menu_set_ring_tone">Задать мелодию</string>
     <string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
     <string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
