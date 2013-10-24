@@ -317,7 +317,7 @@
     <string name="account_settings_background_attachments_summary">Загружать вложения при подключении к Wi-Fi</string>
     <string name="account_settings_notify_label">Уведомления почты</string>
     <string name="account_settings_summary">Частота синхронизации, уведомления и другие настройки</string>
-    <string name="account_settings_notify_summary">При получении почты показывать оповещение в строке состояния системы</string>
+    <string name="account_settings_notify_summary">При получении почты показывать оповещение в статусбаре</string>
     <string name="account_settings_mail_check_frequency_label">Частота проверки папки Входящие</string>
     <string name="account_settings_incoming_label">Настройки входящих сообщений</string>
     <string name="account_settings_incoming_summary">Имя пользователя, пароль и др. настройки сервера входящей почты</string>

@@ -168,7 +168,7 @@
     <string name="pref_title_sms_delete">Макс. количество SMS</string>
     <string name="pref_title_mms_delete">Макс. количество MMS</string>
     <string name="pref_title_notification_enabled">Уведомления</string>
-    <string name="pref_summary_notification_enabled">Отображать уведомления о сообщениях в строке состояния</string>
+    <string name="pref_summary_notification_enabled">Отображать уведомления о сообщениях в статусбаре</string>
     <string name="pref_title_notification_vibrateWhen">Вибросигнал</string>
     <string name="pref_summary_notification_vibrateWhen">Вибросигнал при получении уведомления</string>
     <string name="pref_title_notification_ringtone">Выбрать мелодию</string>
@@ -388,7 +388,7 @@
     <string name="phrase_from">От %1s</string>
     <string name="phrase_empty">Нет фраз</string>
     <string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
-    <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщений на экране блокировки и в строке состояния.</string>
+    <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщений на экране блокировки и в статусбаре.</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме гостя.</string>
     <string name="pref_title_new_message_popup">Всплывающие окна</string>
     <string name="pref_summary_new_message_popup">Всплывающее окно при получении сообщений</string>

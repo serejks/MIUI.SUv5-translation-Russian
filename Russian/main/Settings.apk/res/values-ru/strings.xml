@@ -2211,7 +2211,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="search_unlock_set">Разблокировка</string>
     <string name="search_access_control">Контроль доступа</string>
     <string name="search_gps">GPS</string>
-    <string name="search_status_bar">Строка состояния</string>
+    <string name="search_status_bar">Статусбар</string>
     <string name="search_sync">Синхронизация</string>
     <string name="search_battery_indicator">Индикатор батареи</string>
     <string name="search_key">key</string>
@@ -2310,7 +2310,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="pref_volume_category_title">Громкость</string>
     <string name="pref_volume_wake_title">Пробуждение клав. громкости</string>
     <string name="pref_volume_wake_summary">Нажатие клавиши громкости пробуждает устройство. Рекомендуется для устройств с проблемной клавишей блокировки.</string>
-    <string name="status_bar_settings">Строка состояния</string>
+    <string name="status_bar_settings">Статусбар</string>
     <string name="complete_settings">Все настройки</string>
     <string name="common_settings">Избранные</string>
     <string name="battery_settings">Батарея</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">MiCredit</string>
-	<string name="balance">Баланс MiCredit: %1$s</string>
+	<string name="balance">Баланс: %1$s MiCredit</string>
 	<string name="bankcall_bank_account">Банковская карта:</string>
 	<string name="bankcall_call_hint">Вам позвонят из Union pay (020-96585). \nСледуйте инструкциям для завершения.</string>
 	<string name="bankcall_card">Банковская карта</string>
@@ -11,14 +11,14 @@
 	<string name="bankcall_city">Город</string>
 	<string name="bankcall_credit_card">Кредитная карта</string>
 	<string name="bankcall_debit_card">Дебитовая карты</string>
-	<string name="bankcall_denom">Платеж:</string>
-	<string name="bankcall_denom_number">%1$sRMB</string>
+	<string name="bankcall_denom">"Платеж: "</string>
+	<string name="bankcall_denom_number">%1$s RMB</string>
 	<string name="bankcall_error_card">Введите корректный номер банковской карты</string>
 	<string name="bankcall_error_card_info">Пожалуйста, введите корректные данные банковского счета.</string>
 	<string name="bankcall_hint">Этот сервис авторизован Unionpay и имеет шифрование для обеспечения вашей финансовой безопасности.</string>
 	<string name="bankcall_id_card">ID карты</string>
 	<string name="bankcall_id_card_hint">ID на банковской карте</string>
-	<string name="bankcall_merchant">Получатель:</string>
+	<string name="bankcall_merchant">"Получатель: "</string>
 	<string name="bankcall_name">Имя</string>
 	<string name="bankcall_name_hint">Имя на банковской карте</string>
 	<string name="bankcall_phone">Телефон</string>
@@ -84,7 +84,7 @@
 	<string name="giftcard_empty">Нет подарочной карты</string>
 	<string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
 	<string name="giftcard_hint">На подарочную карту будут переведены MiCredits. Через определенный срок они будут недействительны.</string>
-	<string name="giftcard_record">Карта MiCredit получена</string>
+	<string name="giftcard_record">Мои подарочные карты</string>
 	<string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
 	<string name="label_order_name">"Продукт: "</string>
 	<string name="label_order_price">"Цена: "</string>
@@ -96,9 +96,9 @@
 	<string name="msg_send_no_net_error">Ошибка отправки сообщения: не удается подключиться к мобильной сети.</string>
 	<string name="msg_send_no_sim_error">Ошибка отправки сообщения, попробуйте еще раз.</string>
 	<string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
-	<string name="msg_telecom_order_denom">%1syuan не читает данные мобильной сети</string>
+	<string name="msg_telecom_order_denom">%1s yuan не читает данные мобильной сети</string>
 	<string name="msg_telecom_order_denom_label">Amout:</string>
-	<string name="msg_telecom_order_goods">%1sMiCredit</string>
+	<string name="msg_telecom_order_goods">%1s MiCredit</string>
 	<string name="msg_telecom_order_goods_label">Описание:</string>
 	<string name="msg_telecom_picker_hint_1_1">После подтверждения покупки, ваш телефон будет</string>
 	<string name="msg_telecom_picker_hint_1_2">автоматически подключен с провайдером.</string>
@@ -184,8 +184,8 @@
 	<string name="recharge_voucher_title">Карты MiCredit</string>
 	<string name="title_mili_center">MiCredit</string>
 	<string name="title_pay">Оплата MiCredit</string>
-	<string name="title_pay_record">%1$s - история пополнений</string>
-	<string name="title_recharge">"Пополнить MiCredit"</string>
+	<string name="title_pay_record">История платежей</string>
+	<string name="title_recharge">Пополнить MiCredit</string>
 	<string name="title_recharge_record">История пополнения</string>
 	<string name="voucher_input_password_prompt">Введите пароль</string>
 	<string name="voucher_edit_hint">Пароль</string>

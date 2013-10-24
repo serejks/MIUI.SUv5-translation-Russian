@@ -241,7 +241,7 @@
 	<string name="pref_use_instant_search">Живой поиск Google</string>
 	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных).</string>
 	<string name="pref_lab_fullscreen">Во весь экран</string>
-	<string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
+	<string name="pref_lab_fullscreen_summary">Чтобы скрыть статусбар, используйте полноэкранный режим</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_save_bandwidth_mode_title">Мобильный трафик</string>
 	<string name="pref_save_bandwidth_mode_summary">Запретить загрузку изображений при использовании мобильного интернета.</string>

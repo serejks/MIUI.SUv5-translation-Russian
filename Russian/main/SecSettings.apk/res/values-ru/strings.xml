@@ -2538,7 +2538,7 @@ Wi-Fi и Мобильная точка доступа не могут быть �
     <string name="glance_view_unread_message">Непрочитанные сообщения</string>
     <string name="glance_view_now_playing_music">Текущая композиция</string>
     <string name="glance_view_battery_charging_info">Батарея</string>
-    <string name="glance_view_status_bar">Строка состояния</string>
+    <string name="glance_view_status_bar">Статусбар/string>
     <string name="glance_view_nearest_alarm">Следующий будильник</string>
     <string name="glance_view_advanced_setting_and_tutorial_title">Дополнительные параметры и справка</string>
     <string name="glance_view_advanced_setting_title">Дополнительные параметры</string>

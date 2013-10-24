@@ -203,7 +203,7 @@
     <string name="screen_button_enabled_message">Функции кнопок на нижнем экране включены</string>
     <string name="screen_button_notification_title">Экранные кнопки отключены</string>
     <string name="screen_button_notification_text">Нажатие \"Домой\"+\"Выключение\" для активации</string>
-    <string name="status_bar_style_settings">Строка состояния</string>
+    <string name="status_bar_style_settings">Статусбар</string>
     <string name="settings_toggle_layout_style">Стиль переключателей</string>
     <string name="settings_toggle_layout_style_compact">Компакт</string>
     <string name="settings_toggle_layout_style_single_page">Страница</string>
@@ -214,7 +214,7 @@
     <string name="settings_toggle_position_divider_list">Переключатели выше отображаются</string>
     <string name="settings_toggle_position_reset">Упорядочить по умолчанию</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
-    <string name="settings_notification_icon">Уведомления в строке состояния</string>
+    <string name="settings_notification_icon">Уведомления в статусбаре</string>
     <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
     <string name="settings_show_network_speed">Скорость соединения</string>
     <string name="settings_expanded_view">Панель уведомлений</string>
@@ -231,12 +231,12 @@
     <string name="notification_icon_filter_mode">Режим контроля</string>
     <string name="notification_icon_filter_mode_black_list">Чёрный список</string>
     <string name="notification_icon_filter_mode_white_list">Белый список</string>
-    <string name="notification_icon_filter_show">Показывать уведомления в строке состояния</string>
-    <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>
+    <string name="notification_icon_filter_show">Показывать уведомления в статусбаре</string>
+    <string name="notification_icon_filter_hide">Не показывать уведомления в статусбаре</string>
     <string name="notification_icon_filter_list_empty_summary">Текущий список пуст</string>
     <string name="notification_icon_filter_other_list">Список приложений</string>
-    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения в строке состояния</string>
-    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения в строке состояния</string>
+    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения в статусбаре</string>
+    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения в статусбаре</string>
     <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
     <string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
     <string name="notification_otg_keyboard_in">Клавиатура подключена</string>
@@ -333,11 +333,11 @@
 	<string name="status_bar_toggle_wifi_ap">Точка доступа Wi-Fi</string>
     <string name="status_bar_toggle_quiet_mode">Тихий режим</string>
     <string name="settings_notification_bar">Панель уведомлений</string>
-    <string name="settings_status_bar">Строка состояния</string>
+    <string name="settings_status_bar">Статусбар</string>
 	<string name="settings_custom_notification">Настройка уведомлений</string>
     <string name="settings_all_app_display_loading">Загрузка…</string>
     <string name="settings_show_notificationBar_notification">Отображать уведомления</string>
-    <string name="settings_show_statusBar_notification">Уведомления в строке сост.</string>
+    <string name="settings_show_statusBar_notification">Уведомления в статусбаре</string>
     <string name="filter_item_preview_image">предпросмотр</string>
 	<string name="filter_item_description">Вы можете задать пользовательские настройки отображения уведомлений для каждого приложения.</string>
 </resources>
