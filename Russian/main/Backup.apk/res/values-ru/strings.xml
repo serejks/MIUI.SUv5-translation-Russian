@@ -198,16 +198,16 @@
     <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные данные пользователя вместе с данными в облаке.</string>
     <string name="cloud_app_remove_prompt">%1$s данные будут удалены. Продолжить?</string>
     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
-    <string name="cloud_app_find_backup_prompt_2">If you abandon it now, it will be overwritten when you restore.</string>
+    <string name="cloud_app_find_backup_prompt_2">Если вы отказаться удаяете сейчас, данные будут перезаписаны при восстановлении.</string>
     <string name="cloud_app_restore_data_title">Восстановить данные пользователя</string>
     <string name="cloud_app_restore_app_and_data">Восстановить приложения данные пользователя</string>
     <string name="cloud_app_restore_summary">Восстановление ранее установленных приложений и связанных с ними данных пользователя</string>
     <string name="cloud_app_restore_data">Восстановление ранее установленных приложений</string>
     <string name="cloud_app_dont_restore">Не восстанавливать</string>
     <string name="cloud_app_restore_wifi_prompt">Вы должны быть подключены к интернету по Wi-Fi для восстановления приложения и данных пользователя.</string>
-    <string name="cloud_app_restore_query_error_prompt">Failed to get data from the cloud. Apps and user data will be restored automatically when your device is able to reach the data that you\'ve stored.</string>
+    <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство будет находиться в сети Wi-Fi.</string>
     <string name="cloud_app_device">Устройство</string>
-    <string name="cloud_app_data_in_other_devices">Not backed up on this device.</string>
+    <string name="cloud_app_data_in_other_devices">Нет резервных копий на данном устройстве.</string>
     <string name="cloud_app_no_data">Здесь нет данных.</string>
     <string name="cloud_app_invalid_op">Вы не можете просматривать облако во время его резервного копирования или восстановления.</string>
     <string name="cloud_app_remove_pending">Ожидание\u2026</string>
@@ -219,11 +219,11 @@
     <string name="cloud_app_remove_error">Не удалось удалить..</string>
     <string name="cloud_app_restore_error">Не удалось восстановить.</string>
     <string name="cloud_app_restore_success">Приложения восстановлены.</string>
-    <string name="just_support_op_with_wifi_connected">Only supported when connected via Wi-Fi</string>
+    <string name="just_support_op_with_wifi_connected">Поддержка только через Wi-Fi</string>
     <string name="button_restore">Восстановить</string>
     <string name="button_abandon">Отказаться</string>
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настроить</u></string>
-    <string name="customization_under_wifi_prompt">Only supported when connected via Wi-Fi</string>
+    <string name="customization_under_wifi_prompt">Поддержка только через Wi-Fi</string>
     <string name="my_phone">Мой телефон</string>
 </resources>
