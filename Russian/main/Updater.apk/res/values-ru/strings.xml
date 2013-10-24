@@ -57,14 +57,14 @@
     <string name="no_updates_found">У вас установлена последняя версия</string>
     <string name="no_updates_warning">На вашем аппарате не найдено обновлений</string>
     <string name="no_updates_warning2">Приложение уведомит вас об обновлении</string>
-    <string name="new_updates_found_title">Доступны обновления</string>
-    <string name="new_update_content_title">Найдена новая версия</string>
+    <string name="new_updates_found_title">Доступно обновление</string>
+    <string name="new_update_content_title">"Найдена новая версия "</string>
     <string name="new_update_downloading_body">Загрузка новой версии:%s</string>
     <string name="new_update_download_complete_body">Новая версия загружена:%s</string>
     <string name="update_success_title">Обновление завершено!</string>
     <string name="update_success_body">Версия %s!</string>
     <string name="exception_while_downloading">Ошибка при загрузке обновления</string>
-    <string name="new_updates_found_notification_title">Найдены обновления системы</string>
+    <string name="new_updates_found_notification_title">Найдено обновление системы</string>
     <string name="network_error">Ошибка подключения, повторите еще раз</string>
     <string name="monthly_build">Ежемесячная сборка</string>
     <string name="weekly_build">Еженедельная сборка</string>
