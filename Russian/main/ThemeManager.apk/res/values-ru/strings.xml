@@ -135,16 +135,12 @@
 	<string name="mi_wallpaper_title">Обои</string>
 	<string name="mi_wallpaper_loading">Загрузка обоев…</string>
 	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки. зайдите в Темы и загрузите повторно.</string>
-    <string name="selected_resource_file_invalid">Selected file is invalid.</string>
     <string name="maml_component_customization_title">Настройки</string>
     <string name="default_name">По умолчанию</string>
 	<string name="resource_app_name">Ресурсы браузера</string>
 	<string name="resource_price_free">Бесплатно</string>
 	<string name="resource_price_unit">MiCredits</string>
 	<string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
-    <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту.
-"</string>
 	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменён</string>
 	<string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>
 	<string name="resource_mute">Без звука</string>
@@ -202,7 +198,6 @@
 	<string name="loading_resource_detail_info">Загрузка…</string>
 	<string name="loading_resource_detail_fail">Ошибка загрузки ресурса</string>
 	<string name="account_abnormal_state">Ошибка в данных аккаунта, выполните вход снова!</string>
-	<string name="theme_batch_update_dlg_content_single">Обновить сейчас?</string>
 	<string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
 	<string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту. \n</string>

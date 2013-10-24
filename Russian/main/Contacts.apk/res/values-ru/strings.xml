@@ -1120,8 +1120,6 @@
     <string name="fail_to_add_account">Не удалось добавить аккаунт</string>
     <string name="menu_refresh">Обновить</string>
     <string name="ringtone_volume_mute">Звук выключен</string>
-    <string name="callrecordview_menu_add_call_note">Добавить заметку</string>
-    <string name="callrecordview_menu_edit_call_note">Редактировать заметку</string>
     <string name="pref_key_sim_manage">Управление SIM</string>
     <string name="accessibility_calllog_detail">Инфо вызовов</string>
     <string name="select_groups">Выбрать группу</string>
