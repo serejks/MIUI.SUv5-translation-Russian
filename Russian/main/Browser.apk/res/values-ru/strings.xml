@@ -62,7 +62,7 @@
 	<string name="bookmark_this_page">Закладка для этой страницы</string>
 	<string name="remove">Удалить</string>
 	<string name="edit_bookmark">Изменить закладку</string>
-	<string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
+	<string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
 	<string name="open_bookmark">Открыть</string>
 	<string name="remove_bookmark">Удалить закладку</string>
 	<string name="remove_from_bookmarks">Удалить из закладок</string>
@@ -389,7 +389,7 @@
 	<string name="accessibility_state_incognito">Страница в режиме инкогнито</string>
 	<string name="accessibility_state_frozen">Сохраненная страница</string>
 	<string name="accessibility_transition_navscreen">Управление вкладками</string>
-	<string name="google_bookmarks">Google</string>
+	<string name="google_bookmarks">"Google "</string>
 	<string name="bookmarks_management">Закладки</string>
 	<string name="bookmarks_root_folder">Корневая папка</string>
 	<string name="bookmarks_content_is_null">Нет закладок.</string>
