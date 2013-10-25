@@ -10,6 +10,6 @@
     <string-array name="general_preference_auto_advance_summary_array">
         <item>Показывать новые сообщения после удаления письма</item>
         <item>Показывать старые сообщения после удаления письма</item>
-        <item>Показывать список список сообщений после удаления письма</item>
+        <item>Показывать список сообщений после удаления письма</item>
     </string-array>
 </resources>
