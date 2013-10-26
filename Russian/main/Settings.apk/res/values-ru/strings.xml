@@ -2490,7 +2490,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="virus_scan_app_scan_finish">Проверка завершена</string>
     <string name="virus_scan_app_no_risk">Угроз не найдено</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
-    <string name="title_dolby_control">Настройки Dobly Digital Plus</string>
+    <string name="title_dolby_control">Настройки Dolby Digital Plus</string>
     <string name="dolby_mode_off">Выкл</string>
     <string name="dolby_mode_music">Музыка</string>
     <string name="dolby_mode_movie">Фильм</string>
