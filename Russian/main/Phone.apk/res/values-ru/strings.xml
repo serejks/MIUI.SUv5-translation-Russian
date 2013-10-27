@@ -773,7 +773,7 @@
 	<string name="answer_miui">Ответ</string>
 	<string name="answer_widget_dialog_title_miui">Выбор жеста для ответа</string>
 	<string name="answer_widget_sliding_horizontal_miui">Горизонтальный слайд</string>
-	<string name="answer_widget_sliding_vertical_miui">Вертикальны слайд</string>
+	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
 	<string name="answer_widget_title_miui">Жест для ответа</string>
 	<string name="answer_state_setting_title">Настройка входящих вызовов</string>
 	<string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
