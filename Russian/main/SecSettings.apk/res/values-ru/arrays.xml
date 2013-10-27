@@ -324,9 +324,9 @@
         <item>Музыка</item>
     </string-array>
     <string-array name="apn_ently_key_includeDUN">
-        <item>Internet + MMS + DUN</item>
+        <item>Интернет + MMS + DUN</item>
         <item>Интернет + MMS</item>
-        <item>Internet + DUN</item>
+        <item>Интернет + DUN</item>
         <item>Интернет</item>
         <item>MMS</item>
         <item>DUN</item>

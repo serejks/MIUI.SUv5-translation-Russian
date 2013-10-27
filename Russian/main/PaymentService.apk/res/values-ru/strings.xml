@@ -33,7 +33,7 @@
 	<string name="btn_delete_record">Удалить запись</string>
 	<string name="btn_mili_center_recharge">Пополнить баланс</string>
 	<string name="btn_net_connection_retry">Повторить</string>
-	<string name="btn_other_bankcard">Другая банковская карта</string>
+	<string name="btn_other_bankcard">Используйте другую банковскую карту</string>
 	<string name="btn_pay_large">Оплатить</string>
 	<string name="btn_prev">Назад</string>
 	<string name="btn_query">Узнать сейчас</string>
