@@ -184,9 +184,9 @@
 	<string name="restore_data">Восстановить данные</string>
 	<string name="backup_data">Копирование данных</string>
     <string name="cloud_app_backup_title">Бэкап в облако</string>
-    <string name="cloud_app_just_show_in_current_device">Показывать только приложения на этом устройстве</string>
+    <string name="cloud_app_just_show_in_current_device">Только приложения на этом устройстве</string>
     <string name="cloud_app_mine">Загруженные приложения</string>
-    <string name="cloud_app_backup_summary">Автоматическое резервное копирование приложений и пользовательских данных, когда телефон заряжается и подключен к Wi-Fi</string>
+    <string name="cloud_app_backup_summary">Автокопирование приложений и пользовательских данных, когда телефон заряжается и подключен к Wi-Fi</string>
     <string name="cloud_app_function_summary">Если Вы создадите бэкап в облаке, то сможете восстановить его на любом устройстве.</string>
     <string name="cloud_app_restore_action_bar_title">%1$s данных были скопированы</string>
     <string name="cloud_app_current_device">Текущее устройство</string>
