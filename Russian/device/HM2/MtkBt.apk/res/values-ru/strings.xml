@@ -12,7 +12,7 @@
     <string name="bt_opp_cancel_task_message">Cancel this transfer?</string>
     <string name="bt_opp_cancel_task_yes">Yes</string>
     <string name="bt_opp_cancel_task_no">No</string>
-    <string name="bt_opp_canceling_task_message">Canceling transfer, please wait...</string>
+    <string name="bt_opp_canceling_task_message">Canceling transfer, please wait…</string>
     <string name="bt_opps_confirm_push_title">Bluetooth - Incoming object</string>
     <string name="bt_opps_confirm_push_message">Incoming file: %1$s (%2$s) from %3$s. Accept?</string>
     <string name="bt_opps_confirm_push_yes">Accept</string>
@@ -83,7 +83,7 @@
     <string name="bluetooth_pbap_server_authorize_alwaysallowed">Always allowed?</string>
     <string name="app_label">Bluetooth</string>
     <string name="app_description">Bluetooth profile package</string>
-    <string name="bt_base_activity_busy_message">Loading. Please wait...</string>
+    <string name="bt_base_activity_busy_message">Loading. Please wait…</string>
     <string name="bt_base_activity_service_disconnected">Service disconnected!</string>
     <string name="bt_base_profile_feature_disabled">Can not use disabled Bluetooth feature.</string>
     <string name="bt_share_mgmt_tab_in_title">Download</string>
