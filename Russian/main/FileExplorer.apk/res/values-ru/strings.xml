@@ -264,7 +264,7 @@
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопитель</string>    
     <string name="bind_account">Привязать к аккаунту KuaiPan</string>
-    <string name="bind_account_summary">Если у Вас уже есть аккаунт kuaipan， тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
+    <string name="bind_account_summary">Если у Вас уже есть аккаунт KuaiPan, тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
     <string name="binded_accout_title">Вы уже привязаны к аккаунту KuaiPan</string>
     <string name="binded_accout_description">Два аккаунта были объединены. Для входа Вы можете использовать аккаунт xiaomi, либо аккаунт KuaiPan - оба имеют досту к Вашим данным</string>
     <string name="scanning_on_going">Сканирование…</string>

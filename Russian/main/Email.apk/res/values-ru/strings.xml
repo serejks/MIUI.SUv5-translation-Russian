@@ -196,8 +196,8 @@
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
     <string name="account_setup_names_title">Настройка аккаунта</string>
     <string name="account_setup_names_headline">Ваш аккаунт настроен, ждите сообщений!</string>
-    <string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (по желанию)</string>
-    <string name="account_setup_names_user_name_label">Ваше имя (показывается в исходящих сообщениях)</string>
+    <string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (По желанию)</string>
+    <string name="account_setup_names_user_name_label">Ваше имя (Отображается в исходящих сообщениях)</string>
     <string name="account_setup_names_user_name_empty_error">Это поле должно быть заполнено.</string>
     <string name="account_setup_account_type_title">Настройка аккаунта</string>
     <string name="account_setup_account_type_headline">Тип аккаунта</string>
@@ -387,7 +387,7 @@
     <string name="general_preference_text_zoom_huge">Огромный</string>
     <string name="general_preference_reply_all_label">Ответить всем</string>
     <string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
-    <string name="general_preferences_clear_trusted_senders_title">Очистка \"Показать изображения\"</string>
+    <string name="general_preferences_clear_trusted_senders_title">Скрыть изображения</string>
     <string name="general_preferences_clear_trusted_senders_summary">Изображения в письмах не будут показываться автоматически</string>
     <string name="trusted_senders_cleared">Показ изображений отключен.</string>
     <string name="position_of_count">%1$d из %2$s</string>
@@ -438,16 +438,16 @@
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Вернуться</string>
     <string name="alert_title_selected">Выбрать все</string>
-    <string name="alert_selected_all_message">" содержит %d сообщений. Выбираем все, уверены?"</string>
+    <string name="alert_selected_all_message">" содержит сообщений: %d. Выбрать все?"</string>
     <string name="account_setup_index_title">Инструкция по настройке</string>
-    <string name="account_setup_index_label">Выберите, почтовый сервис:</string>
+    <string name="account_setup_index_label">Выберите почтовый сервис:</string>
     <string name="account_setup_index_other_mails">Другие почтовые сервисы</string>
     <string name="account_setup_basic_label">Заполните информацию для почтового ящика %s:</string>
     <string name="account_setup_basic_name_label">Ваше имя (не обязательно)</string>
     <string name="account_setup_basic_description_label">Имя аккаунта (не обязательно)</string>
     <string name="add_quick_responses_action">Создать новый</string>
-    <string name="account_security_waiting_policy_key_message">\"%s\" запрашивает настройки безопасности с сервера，пожалуйста, подождите.</string>
-    <string name="cleared_trusted_senders_message">Очистка \"Показывать изображения\", изображения в сообщениях не будут показываться автоматически</string>
+    <string name="account_security_waiting_policy_key_message">\"%s\" запрашивает настройки безопасности с сервера, пожалуйста, подождите.</string>
+    <string name="cleared_trusted_senders_message">Изображения, вложенные в сообщения не будут показаны автоматически.</string>
     <string name="newer_action">Новые</string>
     <string name="older_action">Старые</string>
 </resources>

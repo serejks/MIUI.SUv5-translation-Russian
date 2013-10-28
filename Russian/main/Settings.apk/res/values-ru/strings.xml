@@ -2637,7 +2637,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="drive_mode_auto_sms_reply_content_title">Содержание SMS-ответа</string>
     <string name="clear_activities_summary">Разрешить этой программе некоторые действия поумолчанию</string>
     <string name="permission_detail_info">Просмотреть все разрешения</string>
-    <string name="permission_detail_info_summary">Все разрешения: Безопасности %1$d，Конфиденциальности %2$d，Другие %3$d</string>
+    <string name="permission_detail_info_summary">Все разрешения: Безопасности %1$d, Конфиденциальности %2$d, Другие %3$d</string>
     <string name="permission_manage">Управление разрешениями</string>
     <string name="permission_manage_summary">Управление разрешениями автозапуска, конфиденциальности, безпасности</string>
     <string name="safe_relative">Связанные с безпасностью</string>

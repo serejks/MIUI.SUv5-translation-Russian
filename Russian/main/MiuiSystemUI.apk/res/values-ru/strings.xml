@@ -171,7 +171,7 @@
     <string name="usb_notification_ptp_ticker_text">Подключение по USB (Фото)</string>
     <string name="move_data_to_sdcard_title">Экспорт внутренних данных на SD-карту</string>
     <string name="move_data_to_sdcard_message">Перемещение данных таких как снимки экрана, изображения и т.п. из внутренней памяти на SD-карту. Используйте SD-карту для данной операции.</string>
-    <string name="user_guide_for_notification">Получено новое уведомление，потяните вниз статусную строку для получения деталей</string>
+    <string name="user_guide_for_notification">Получено новое уведомление, потяните вниз статусную строку для получения деталей</string>
     <string name="user_guide_for_toggle">Список переключателей можно прокручивать горизонтально</string>
     <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
     <string name="user_guide_for_call">Для возврата в интерфейс телефона потяните вниз статусную строку и нажмите на уведомление о вызове</string>

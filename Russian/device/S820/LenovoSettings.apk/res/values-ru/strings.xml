@@ -97,18 +97,18 @@
     <string name="privacy_restore_userdata_summary">Choose restore data from SD card</string>
     <string name="backup_data">Backup data before reset phone</string>
     <string name="backup_data_description">Back up Contacts and other important data before reset your phone</string>
-    <string name="usbsetting_help_content">"1，USB mass storage：phone as a U disk for file operation. 
+    <string name="usbsetting_help_content">"1, USB mass storage：phone as a U disk for file operation. 
 
- 2，MTP：Phone as a U disk for file operation，operate file in phone at the same time. When computer OS is XP or below , it needs to install driver. 
+ 2, MTP：Phone as a U disk for file operation, operate file in phone at the same time. When computer OS is XP or below, it needs to install driver. 
 
- 3，PTP：Use camera software to translate photos.When computer OS is XP or below , it needs to install driver. 
+ 3, PTP：Use camera software to translate photos. When computer OS is XP or below, it needs to install driver. 
 
- 4，USB debug：When connected , manage phone in computer with software such as LeHelper , 91 Helper and so on. 
+ 4, USB debug：When connected, manage phone in computer with software such as LeHelper, 91 Helper and so on. 
 
- 5，USB tethering：When connected , the computer can access internet through your phone. the U disk can not be installed when connecting."</string>
+ 5, USB tethering：When connected , the computer can access internet through your phone. the U disk can not be installed when connecting."</string>
     <string name="usbsetting_usbmassstorage_open">Open the USB storage device</string>
     <string name="usbsetting_usbmassstorage_close">Close the USB storage device</string>
-    <string name="usbsetting_usbmassstorage_wait">Please wait ...</string>
+    <string name="usbsetting_usbmassstorage_wait">Please wait …</string>
     <string name="wifi_switch_settings_title">Wi-Fi binding of location</string>
     <string name="wifi_popup_0">"Binding of connected ap.
 Popup prompt when enter this location."</string>
@@ -145,21 +145,21 @@ Automatically enable when enter this location."</string>
     <string name="exit">exit</string>
     <string name="gotolesson">Go Lessons</string>
     <string name="welcome_title">Quick Setting</string>
-    <string name="welcome">Welcome to A789，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_seattle">Welcome to S720，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_arizona">Welcome to S560，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_69wg">Welcome to A750，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_panama">Welcome to P700i，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_albania">Welcome to A800，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_spain">Welcome to S890，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_p770">Welcome to P770，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_amman">Welcome to A630t，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_s720i">Welcome to S720i，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_altai">Welcome to A820，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_seine">Welcome to S920，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_s820">Welcome to S820，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_a830">Welcome to A830，you can start the setting wizard here！Or you can config you phone in Settings.</string>
-    <string name="welcome_p780">Welcome to P780，you can start the setting wizard here！Or you can config you phone in Settings.</string>
+    <string name="welcome">Welcome to A789, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_seattle">Welcome to S720, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_arizona">Welcome to S560, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_69wg">Welcome to A750, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_panama">Welcome to P700i, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_albania">Welcome to A800, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_spain">Welcome to S890, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_p770">Welcome to P770, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_amman">Welcome to A630t, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_s720i">Welcome to S720i, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_altai">Welcome to A820, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_seine">Welcome to S920, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_s820">Welcome to S820, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_a830">Welcome to A830, you can start the setting wizard here! Or you can config you phone in Settings.</string>
+    <string name="welcome_p780">Welcome to P780, you can start the setting wizard here! Or you can config you phone in Settings.</string>
     <string name="wizard_title">Players Tutorial</string>
     <string name="auto_time_on">use network support</string>
     <string name="auto_time_off">close</string>
@@ -187,7 +187,7 @@ Automatically enable when enter this location."</string>
     <string name="all_setings_title">All settings</string>
     <string name="sound_settings_title">Sound</string>
     <string name="lockscreen_face_detection_ctrl">Face detection unlock set</string>
-    <string name="lockscreen_face_detection_ctrl_description">Face detection unlock by camera，the discrimination will be low if not enough light.</string>
+    <string name="lockscreen_face_detection_ctrl_description">Face detection unlock by camera, the discrimination will be low if not enough light.</string>
     <string name="double_click_home_enabled_title">"Double-click the HOME key active voice "</string>
     <string name="headset_play_mms_enabled_title">Headset play mms</string>
     <string name="lockscreen_knock_on_ctrl">Knock light set</string>
@@ -2879,7 +2879,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="drive_mode_auto_sms_reply_content_title">Содержание SMS-ответа</string>
     <string name="clear_activities_summary">Разрешить этой программе некоторые действия поумолчанию</string>
     <string name="permission_detail_info">Просмотреть все разрешения</string>
-    <string name="permission_detail_info_summary">Все разрешения: Безопасности %1$d，Конфиденциальности %2$d，Другие %3$d</string>
+    <string name="permission_detail_info_summary">Все разрешения: Безопасности %1$d, Конфиденциальности %2$d, Другие %3$d</string>
     <string name="permission_manage">Управление разрешениями</string>
     <string name="permission_manage_summary">Управление разрешениями автозапуска, конфиденциальности, безпасности</string>
     <string name="safe_relative">Связанные с безпасностью</string>

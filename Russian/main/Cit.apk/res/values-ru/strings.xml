@@ -101,7 +101,7 @@
     <string name="cit_leds_check_summary">Проверка подсветки, LED индикатора и вспышки</string>
     <string name="cit_leds_check_title">Подсветка</string>
     <string name="cit_light_sensor_check_summary">Датчик освещенности, уровень яркости окружающего пространства</string>
-    <string name="cit_gyroscope_sensor_check_summary">Проверка гироскопа по осям X，Y，Z</string>
+    <string name="cit_gyroscope_sensor_check_summary">Проверка гироскопа по осям X,Y,Z</string>
     <string name="cit_pressure_sensor_check_summary">Значения барометрического давления</string>
     <string name="cit_light_sensor_check_title">Датчик освещенности</string>
     <string name="cit_pressure_sensor_check_title">Датчик давления</string>
