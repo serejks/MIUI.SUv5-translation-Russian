@@ -512,8 +512,8 @@
 	<string name="xdivert_title">X-Divert</string>
 	<string name="xdivert_summary">Настройки CFNRc</string>
 	<string name="phone_numbers">Введите телефонные номера</string>
-	<string name="sub1LineNumber">Sub1 Number :</string>
-	<string name="sub2LineNumber">Sub2 Number :</string>
+	<string name="sub1LineNumber">Sub1 номер:</string>
+	<string name="sub2LineNumber">Sub2 номер:</string>
 	<string name="xdivert_button">Настройки X-Divert</string>
 	<string name="xdivert_setting">Настройки X-Divert</string>
 	<string name="sum_xdivert_enabled">X-Divert вкл.</string>
@@ -543,13 +543,12 @@
 	<string name="ota_progress">Дождитесь завершения программирования телефона.</string>
 	<string name="ota_failure">Сбой при программировании</string>
 	<string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут.</string>
-	<string name="ota_unsuccessful">Телефон не был активирован. \nВозможно, Вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки.</string>
+	<string name="ota_unsuccessful">Телефон не был активирован.\nВозможно, Вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки.</string>
 	<string name="ota_spc_failure">ПРЕВЫШЕНИЕ ЧИСЛА ОШИБОК SPC</string>
 	<string name="ota_call_end">Назад</string>
 	<string name="ota_try_again">Повторите попытку</string>
 	<string name="ota_next">Далее</string>
 	<string name="ota_back">Назад</string>
-	<string name="ecm_exit_dialog">EcmExitDialog</string>
 	<string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
 	<string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
 	<string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
@@ -782,7 +781,7 @@
 	<string name="areacode_required_miui">Необходим код зоны</string>
 	<string name="areacode_required_accept_miui">OK</string>
 	<string name="auto_answer_summary_not_enabled">Не включено</string>
-	<string name="auto_answer_summary_delay">(задержка:%ss)</string>
+	<string name="auto_answer_summary_delay">(задержка:%sс)</string>
 	<string name="auto_answer_delay_entries_delay_10s_miui">10 сек</string>
 	<string name="auto_answer_delay_entries_delay_3s_miui">3 сек</string>
 	<string name="auto_answer_delay_entries_delay_5s_miui">5 сек</string>
@@ -832,7 +831,7 @@
 	<string name="caller_manage_manage_done_text_miui">Назад к вызову</string>
 	<string name="call_forwarding_number_hint_miui">Введите номер для переадресации</string>
 	<string name="call_forwarding_settings_miui">Переадресация вызовов</string>
-		<string name="calling_via_template_miui">"Вызов через ^1
+	<string name="calling_via_template_miui">"Вызов через ^1
 "<b>^2</b></string>
 	<string name="call_log_number_limit_miui">Лимит записей журнала вызовов</string>
 	<string name="call_log_number_limit_summary_miui">Ограничение количества записей вызовов</string>
@@ -1027,7 +1026,7 @@
 	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен! Вы ввели неправильный PIN либо имя слишком длинное.</string>
 	<string name="pin2_locked_message_miui">Неверный PIN2, некоторые функции заблокированы. Пожалуйста, сбросьте PIN2, используя PUK2.</string>
 	<string name="pin2_lock_warning_miui">Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!</string>
-	<string name="pin_attempts_miui">Осталось %d попыток</string>
+	<string name="pin_attempts_miui">Осталось попыток: %d</string>
 	<string name="pin_changed_miui">PIN код SIM изменен успешно</string>
 	<string name="pin_lock_warning_miui">"\nТелефон будет заблокирован при неудачной попытке!"</string>
 	<string name="pin_progress_change_pin2_miui">Изменеие PIN2…</string>
@@ -1100,7 +1099,7 @@
 	<string name="voice_quality_ui_values_normal_miui">Нормальный</string>
 	<string name="sim_contacts_title_miui">Контакты на SIM</string>
 	<string name="delete_sim_entry_miui">Удалить</string>
-	<string name="confirm_delete_sim_entry_miui">Удалить %d выбранных контактов с SIM карты?</string>
+	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты (%d шт.) с SIM карты?</string>
 	<string name="deleting_sim_entry_miui">Удаление контактов на SIM карте</string>
 	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
 	<string name="import_all_sim_entry_miui">Импорт всех</string>
@@ -1112,7 +1111,6 @@
 	<string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Перезвоню позже.</string>
 	<string name="respond_via_sms_canned_response_4_miui">Не могу сейчас говорить. Что случилось?</string>
 	<string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>
-	<string name="call_waiting_tone_stop_summary">(Нажатие клавиш громкости отключит звук)</string>
 	<string name="call_waiting_tone_continuously_miui">Играть непрерывно</string>
 	<string name="call_waiting_tone_twice_only_miui">Играть дважды</string>
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Вибрировать и играть дважды</string>
@@ -1188,7 +1186,7 @@
 	<string name="sms_content">Содержание</string>
 	<string name="readingSimContacts">Чтение информации с SIM карты. Это может занять несколько минут, подождите.</string>
 	<string name="antispam_marked_title">%1$s</string>
-	<string name="antispam_marked_count">Отмечено: %1$d</string>
+	<string name="antispam_marked_count">Сообщило: %1$d MIUI пользователей</string>
 	<string name="antispam_notification_title">Умное определение номеров</string>
     <string name="which_call_to_activate">Какой звонок активировать?</string>
     <string name="onscreenHangupAll">Завершить все</string>
@@ -1361,7 +1359,7 @@
     <string name="fdn_contact_name_number_invalid">Название и номер не могут быть пустыми.</string>
     <string name="fdn_contact_number_invalid">Неправильный номер.</string>
     <string name="fdn_phone_book_busy">Телефонная книга не отвечает, попробуйте позже.</string>
-    <string name="cdma_not_support">"CDMA не поддерживает эту функцию"</string>
+    <string name="cdma_not_support">CDMA не поддерживает эту функцию</string>
     <string name="cdma_cfu_title">China Telecom</string>
     <string name="labelCFC">Отменить все переадресации</string>
     <string name="cdma_cfu_dialog_sum">Всегда использовать этот номер</string>

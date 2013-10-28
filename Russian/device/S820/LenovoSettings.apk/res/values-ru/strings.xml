@@ -69,8 +69,8 @@
     <string name="sms_notification_sound_summary_1">Set your default messaging ringtone slot 1</string>
     <string name="sms_notification_sound_title_2">Messaging ringtone slot 2</string>
     <string name="sms_notification_sound_summary_2">Set your default messaging ringtone slot 2</string>
-    <string name="audio_profile_slot_1">Slot 1</string>
-    <string name="audio_profile_slot_2">Slot 2</string>
+    <string name="audio_profile_slot_1">Слот 1</string>
+    <string name="audio_profile_slot_2">Слот 2</string>
     <string name="smart_roll_title">Smart roll</string>
     <string name="smart_roll_summary">Slide the edge of the screen to roll over buttons</string>
     <string name="wide_touch_title">Wide touch</string>
@@ -97,15 +97,15 @@
     <string name="privacy_restore_userdata_summary">Choose restore data from SD card</string>
     <string name="backup_data">Backup data before reset phone</string>
     <string name="backup_data_description">Back up Contacts and other important data before reset your phone</string>
-    <string name="usbsetting_help_content">"1, USB mass storage：phone as a U disk for file operation. 
+    <string name="usbsetting_help_content">"1, USB mass storage: phone as a U disk for file operation. 
 
- 2, MTP：Phone as a U disk for file operation, operate file in phone at the same time. When computer OS is XP or below, it needs to install driver. 
+ 2, MTP: Phone as a U disk for file operation, operate file in phone at the same time. When computer OS is XP or below, it needs to install driver. 
 
- 3, PTP：Use camera software to translate photos. When computer OS is XP or below, it needs to install driver. 
+ 3, PTP: Use camera software to translate photos. When computer OS is XP or below, it needs to install driver. 
 
- 4, USB debug：When connected, manage phone in computer with software such as LeHelper, 91 Helper and so on. 
+ 4, USB debug: When connected, manage phone in computer with software such as LeHelper, 91 Helper and so on. 
 
- 5, USB tethering：When connected , the computer can access internet through your phone. the U disk can not be installed when connecting."</string>
+ 5, USB tethering: When connected , the computer can access internet through your phone. the U disk can not be installed when connecting."</string>
     <string name="usbsetting_usbmassstorage_open">Open the USB storage device</string>
     <string name="usbsetting_usbmassstorage_close">Close the USB storage device</string>
     <string name="usbsetting_usbmassstorage_wait">Please wait …</string>
