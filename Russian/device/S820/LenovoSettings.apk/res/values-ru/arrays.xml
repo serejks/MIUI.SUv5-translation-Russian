@@ -304,8 +304,8 @@
         <item>480P</item>
     </string-array>
     <string-array name="auto_time_entries">
-        <item>Use network-provided time</item>
-        <item>Use GPS-provided time</item>
+        <item>Использовать время сети</item>
+        <item>Использовать GPS время</item>
         <item>Выкл.</item>
     </string-array>
     <string-array name="network_use_entry">
