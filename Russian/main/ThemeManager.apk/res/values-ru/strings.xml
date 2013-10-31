@@ -154,7 +154,7 @@
 	<string name="description_uploadtime">Обновление:</string>
 	<string name="description_download">Загрузок:</string>
 	<string name="description_version">Версия:</string>
-	<string name="description_summary">Общ.информация:</string>
+	<string name="description_summary">Общая информация:</string>
 	<string name="resource_local">Локальные %1$s</string>
 	<string name="resource_online">Онлайн %1$s</string>
 	<string name="resource_title">Свойства ресурса</string>
