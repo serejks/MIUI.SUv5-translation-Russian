@@ -1608,7 +1608,7 @@ Wi-Fi и Мобильная точка доступа не могут быть �
     <string name="pico_installed">Установлено</string>
     <string name="pico_not_installed">Не установлено</string>
     <string name="pico_voice_summary_female">Женский</string>
-    <string name="pico_voice_summary_male">"Женщина' or 'Мужской'"</string>
+    <string name="pico_voice_summary_male">Женский или мужской</string>
     <string name="tts_notif_engine_install_title">Установлен модуль синтеза речи</string>
     <string name="tts_notif_engine_install_message">Включите модуль перед использ.</string>
     <string name="tts_engine_settings_button">Открыть параметры модуля TTS</string>
