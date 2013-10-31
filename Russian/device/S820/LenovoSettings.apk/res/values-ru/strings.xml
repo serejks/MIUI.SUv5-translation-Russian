@@ -85,18 +85,18 @@
     <string name="theme_victory">Victory</string>
     <string name="theme_drawing">Custom Drawing</string>
     <string name="theme_x">Aurora</string>
-    <string name="gemini_wap_push_open_summary">Message push service is open</string>
-    <string name="gemini_wap_push_close_summary">Message push service is closed</string>
-    <string name="data_usage_more_settings">More settings</string>
-    <string name="show_dev_countdown">You are now %1$d steps away from being a developer.</string>
-    <string name="privacy_backup_userdata_category_title">Backup data</string>
-    <string name="privacy_backup_userdata_title">Backup to SD card</string>
-    <string name="privacy_backup_userdata_summary">Backup you data to SD card</string>
-    <string name="privacy_restore_userdata_category_title">Restore data</string>
-    <string name="privacy_restore_userdata_title">Restore from SD card</string>
-    <string name="privacy_restore_userdata_summary">Choose restore data from SD card</string>
-    <string name="backup_data">Backup data before reset phone</string>
-    <string name="backup_data_description">Back up Contacts and other important data before reset your phone</string>
+    <string name="gemini_wap_push_open_summary">Push-сервис открыт</string>
+    <string name="gemini_wap_push_close_summary">Push-сервис закрыт</string>
+    <string name="data_usage_more_settings">Другие настройки</string>
+    <string name="show_dev_countdown">Вы в %1$d шагах до статуса Разработчик.</string>
+    <string name="privacy_backup_userdata_category_title">Бэкап</string>
+    <string name="privacy_backup_userdata_title">Бэкап на SD-карту</string>
+    <string name="privacy_backup_userdata_summary">Резервное копирование данных вашего устройства на SD-карту</string>
+    <string name="privacy_restore_userdata_category_title">Восстановление</string>
+    <string name="privacy_restore_userdata_title">Восстановление с SD-карты</string>
+    <string name="privacy_restore_userdata_summary">Восстановление данных вашего устройства с SD-карты</string>
+    <string name="backup_data">Бэкап данных перед сбросом настроек</string>
+    <string name="backup_data_description">Резервное копирование контактов и других важных данных перед сбросом настроек телефона</string>
     <string name="usbsetting_help_content">"1, USB mass storage: phone as a U disk for file operation. 
 
  2, MTP: Phone as a U disk for file operation, operate file in phone at the same time. When computer OS is XP or below, it needs to install driver. 
