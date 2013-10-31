@@ -34,7 +34,7 @@
     <string name="view_delivery_report">Просмотреть отчет</string>
     <string name="delete_message">Удалить</string>
     <string name="expire_on">Срок истекает: %s</string>
-    <string name="kilobyte">КБ</string>
+    <string name="kilobyte">Кб</string>
     <string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
     <string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.\nПопыток: %s.</string>
     <string name="undelivered_sms_dialog_body">Не удалось отправить сообщение.</string>
@@ -329,7 +329,7 @@
     <string name="edit_nickname_for_nocontact_by_robot">Для изменения ника добавьте хотя бы одного получателя.</string>
     <string name="nickname_placeholder">Ник</string>
     <string name="me">Я</string>
-    <string name="to_count">Всего: %d</string>
+    <string name="to_count">Получателей: %d</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="new_message_arrived">Получено новое сообщение</string>
     <string name="festival_sms_category_count_format">(%s)</string>
@@ -350,7 +350,7 @@
     <string name="resent_message">Повторить</string>
     <string name="group_resend_message">Повторить(%d)</string>
     <string name="nosend_message">Не отправлено</string>
-    <string name="group_message_failed_title">Ошибка отправки контактам %d повторить?</string>
+    <string name="group_message_failed_title">Ошибка отправки контактам: %d.</string>
     <string name="context_menu_view_mms">Показать MMS</string>
     <string name="context_menu_call">Вызов</string>
     <string name="context_menu_send_sms">Отправить сообщение</string>
@@ -361,7 +361,7 @@
     <string name="context_menu_new_contact">Новый контакт</string>
     <string name="context_menu_add_contact">Добавить к контакту</string>
     <string name="context_menu_view_contact">Показать контакт</string>
-    <string name="context_menu_contact">Контакт:%1$s</string>
+    <string name="context_menu_contact">Контакт: %1$s</string>
     <string name="pref_theme_modify">Редактировать тему</string>
     <string name="pref_sms_theme_title">Настройки темы</string>
     <string name="pref_conversation_show_avatar">Показать аватар</string>
@@ -484,10 +484,10 @@
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Облачные сообщения</string>
     <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
-    <string name="mx_dspt_disabled">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке</string>
-    <string name="mx_dspt">Отправлять сообщения по Интернету через MIUI. Выключите для отправки через оператора или при ошибке.</string>
+    <string name="mx_dspt_disabled">Отправлять бесплатно сообщения по Интернету между MIUI устройствами.</string>
+    <string name="mx_dspt">Отправлять бесплатно сообщения по Интернету между MIUI устройствами.</string>
     <string name="mx_current_status">Текущий статус: В сети</string>
-    <string name="mx_count_dspt">После включения, MIUI отправило %1$d облачных сообщений для %2$s контактов</string>
+    <string name="mx_count_dspt">После включения, MIUI отправило облачных сообщений: %1$d для %2$s контактов</string>
     <string name="mx_auto_resend_sms">Отправить как SMS</string>
     <string name="mx_auto_resend_sms_summary">Отправить как SMS когда облачные сообщения недоступны.</string>
     <string name="mx_auto_resend_mms">Отправить как MMS</string>
@@ -508,9 +508,9 @@
     <string name="mx_activate_int_hint_server">Сервер отказывается принять информацию, возможны проблемы с активацией облачных сообщений. Для повторной активации требуется отправка сообщения. Активировать?</string>
     <string name="need_download">Ожидание синхронизации…</string>
     <string name="found_wild_messages_title">Загрузка сообщений</string>
-    <string name="found_wild_messages">Найдены сообщения с другой SIM-карты в облаке:%s Скачать?</string>
+    <string name="found_wild_messages">Найдены сообщения с другой SIM-карты в облаке: %s Скачать?</string>
     <string name="found_old_messages_title">Загрузка сообщений</string>
-    <string name="found_old_messages">Найдены сообщения предыдущих аккаунтов:%1$s. Загрузить их в аккаунт %2$s?</string>
+    <string name="found_old_messages">Найдены сообщения предыдущих аккаунтов: %1$s. Загрузить их в аккаунт %2$s?</string>
     <string name="show_all_messages">Показать все сообщения</string>
     <string name="loading_all_messages">Загрузка всех сообщений…</string>
     <string name="mx_online">В сети</string>
@@ -539,7 +539,7 @@
     <string name="confirm_export_dialog_title">Удалить приватные контакты</string>
 	<string name="confirm_no_block_positive">ОК</string>
 	<string name="confirm_no_block_title">Отменить блокирование и восстановить в сообщения?</string>
-    <string name="confirm_export_dialog_description">Удалить 1 выбранный приватный контакт и перевести диалог в обычный режим?</string>
+    <string name="confirm_export_dialog_description">Перевести диалог из приватного в обычный режим?</string>
 	<string name="confirm_restore_positive">Восстановить</string>
 	<string name="confirm_restore_title">Восстановить выбранные сообщения?</string>
     <string name="number_add_hint">Введите номер для добавления в Приватные Контакты</string>
