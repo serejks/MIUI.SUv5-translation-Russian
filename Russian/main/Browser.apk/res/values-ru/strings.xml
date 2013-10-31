@@ -604,7 +604,7 @@
 	<string name="pref_content_homepage">Стартовая страница</string>
 	<string name="search">Поиск</string>
 	<string name="clear_search_history">Очистить историю</string>
-	<string name="bottom_bar_tabs_long_click_up_tip_txt">"Слайд вверх для закрытия"</string>
+	<string name="bottom_bar_tabs_long_click_up_tip_txt">" Слайд вверх для закрытия "</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Слайд вниз для закрытия</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
 	<string name="already_in_top_level">Эта закладка уже наверху</string>
