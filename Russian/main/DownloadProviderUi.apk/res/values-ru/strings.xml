@@ -66,6 +66,7 @@
     <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="pref_summary_max_bytes_limit_format">Уведомление появится, если размер превысит %s</string>
     <string name="pref_summary_any_bytes_popup">Всегда только по Wi-Fi</string>
+	<string name="pref_summary_no_limit_popup">Загружать файлы любого размера</string>
     <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="cancel_download_notice">Не уведомлять о загрузках</string>
     <string name="download_in_process">Загрузка</string>
