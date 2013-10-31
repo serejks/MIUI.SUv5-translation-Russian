@@ -2234,7 +2234,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="total_size">%s (Всего)</string>
     <string name="memory_title">"Доступно %1$s из %2$s"</string>
     <string name="xiaomi_account">Xiaomi</string>
-    <string name="sync_settings">Аккаунты и синхронизация</string>
+    <string name="sync_settings">Синхронизация</string>
     <string name="sms_received_sound_title">Входящее SMS</string>
     <string name="sms_delivered_sound_title">Доставленное SMS</string>
     <string name="sms_received_sound_dialog_title">Выберите звук входящего SMS</string>
@@ -2614,7 +2614,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="accessibility_enable">Вкл. доступность</string>
     <string name="development_enable">Режим разработчика</string>
     <string name="device_name">Имя устройства</string>
-	<string name="device_name_input_error">Не удалось сохранить имя устройства. Пожалуйста, введите еще раз.</string>
+	<string name="device_name_input_error">Не удалось сохранить имя устройства. Ввведите еще раз.</string>
 	<string name="dirac_mode_general">Общие</string>
 	<string name="open_wifi_connect_summary">Нажмите, чтобы настроить.</string>
 	<string name="open_wifi_connect_title">Подключение к сети %1$s</string>
@@ -2809,7 +2809,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="Network_Roaming_dialog_title">Внимание</string>
     <string name="Network_Roaming_dialog_content">Если вы находитесь в роуминге, A-GPS трафик данных может привести к дополнительным расходам за услуги связи.</string>
     <string name="epo_download">Загрузить</string>
-    <string name="epo_error_no_activite_network">Пожалуйста, включите передачу данных перед загрузкой данных EPO.</string>
+    <string name="epo_error_no_activite_network">Включите передачу данных перед загрузкой данных EPO.</string>
     <string name="epo_cancel_download">Отмена</string>
     <string name="epo_status_stopping">Остановка…</string>
     <string name="epo_status_starting">Запуск…</string>
@@ -2939,9 +2939,9 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="gemini_sim_info_editor_number_display_format">Отображать номера</string>
     <string name="gemini_no_sim_indicator">Нет SIM-карты</string>
     <string name="gemini_sim_list_default_title">Список SIM-карт</string>
-    <string name="gemini_data_connection_progress_message">Пожалуйста, подождите…</string>
-    <string name="gemini_3g_modem_switching_message">Переключение SIM-карты займет около 10 секунд. Пожалуйста, подождите…</string>
-    <string name="gemini_3g_modem_switch_confirm_message">Сеть 3G будет переключена на эту SIM-карту. Продолжить? Пожалуйста, убедитесь, что выбранная SIM-карта поддерживает сеть 3G.</string>
+    <string name="gemini_data_connection_progress_message">Подождите…</string>
+    <string name="gemini_3g_modem_switching_message">Переключение SIM-карты займет около 10 секунд. Подождите…</string>
+    <string name="gemini_3g_modem_switch_confirm_message">Сеть 3G будет переключена на эту SIM-карту. Продолжить? Убедитесь, что выбранная SIM-карта поддерживает сеть 3G.</string>
     <string name="gemini_3g_disable_warning">3G сеть не доступна для этой SIM-карты. Загрузка данных будет медленнее. Вы можете изменить настройки 3G службы из Настроек > Беспроводные сети > Мобильные сети.</string>
     <string name="gemini_3g_disable_warning_cu">3G сеть не доступна для этой SIM-карты. Загрузка данных будет медленнее. Вы можете изменить настройки 3G службы из Настроек > Управление SIM.</string>
     <string name="gemini_wap_push_permission_head">После включения автоматической Push службы, вы можете получать Push сообщения. Обычно авто-Push включают в себя Push уведомления по электронной почте, управление устройствами, о службах, для загрузки услуг и предоставления Push.</string>

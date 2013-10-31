@@ -446,7 +446,7 @@
     <string name="account_setup_basic_name_label">Ваше имя (не обязательно)</string>
     <string name="account_setup_basic_description_label">Имя аккаунта (не обязательно)</string>
     <string name="add_quick_responses_action">Создать новый</string>
-    <string name="account_security_waiting_policy_key_message">\"%s\" запрашивает настройки безопасности с сервера, пожалуйста, подождите.</string>
+    <string name="account_security_waiting_policy_key_message">\"%s\" запрашивает настройки безопасности с сервера, подождите.</string>
     <string name="cleared_trusted_senders_message">Изображения, вложенные в сообщения не будут показаны автоматически.</string>
     <string name="newer_action">Новые</string>
     <string name="older_action">Старые</string>

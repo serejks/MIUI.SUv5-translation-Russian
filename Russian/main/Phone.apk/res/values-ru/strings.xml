@@ -582,7 +582,7 @@
 	<string name="sip_receive_calls">Принимать входящие</string>
 	<string name="sip_receive_calls_summary">Повышает расход заряда батареи</string>
 	<string name="sip_call_options">Настройки вызовов</string>
-	<string name="sip_call_options_title">Использовать Интернет</string>
+	<string name="sip_call_options_title">Использовать интернет</string>
 	<string name="sip_call_options_wifi_only_title">Использовать интернет-соединение (Wi-Fi)</string>
 	<string name="sip_call_options_entry_1">Для всех вызовов при возможности передачи данных</string>
 	<string name="sip_call_options_entry_2">Только для интернет-вызовов</string>
@@ -896,7 +896,7 @@
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
 	<string name="connect_disconnect_vibrate_normal_miui">Вибрация</string>
 	<string name="connect_disconnect_vibrate_summary_miui">"Вибриовать, когда человек, которому вы звоните отвечает на ваш вызов"</string>
-	<string name="connect_disconnect_vibrate_title_miui">Вибрация при приеме/окончании вызова</string>
+	<string name="connect_disconnect_vibrate_title_miui">Вибрация при вызове</string>
 	<string name="connect_disconnect_vibrate_weak_miui">Слабая вибрация</string>
 	<string name="contacts_icon_label_miui">Контакты</string>
 	<string name="corporate_unlock_failed">Ошибка разблокировки корпоративной SIM-карты</string>

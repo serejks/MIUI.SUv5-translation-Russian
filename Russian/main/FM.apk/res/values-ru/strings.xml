@@ -148,9 +148,9 @@
     <string name="toast_added_to_presets">Добавлено в предустановки</string>
     <string name="toast_added_to_list">Добавлено в список</string>
     <string name="toast_removed_from_presets">Удалено из предустановок</string>
-    <string name="toast_fm_starting">FM запускается, пожалуйста подождите</string>
-    <string name="toast_fm_stoping">FM останавливается, пожалуйста подождите</string>
-    <string name="toast_fm_seeking">Поиск станции, пожалуйста подождите</string>
+    <string name="toast_fm_starting">FM запускается, подождите</string>
+    <string name="toast_fm_stoping">FM останавливается, подождите</string>
+    <string name="toast_fm_seeking">Поиск станции, подождите</string>
     <string name="favorite_manager">Список станций</string>
     <string name="add_to_favorite">Добавить в избранное</string>
     <string name="add_to_favorite1">Добавить в сохранённые радиостанции</string>

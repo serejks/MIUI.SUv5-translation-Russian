@@ -315,10 +315,10 @@
 Мусор"</string>
     <string name="garbage_item_name_format" formatted="false">%s (%s)</string>
     <string name="garbage_item_path_format" formatted="false">%s %s</string>
-    <string name="account_bind_prompt">Перемещение пользовательских данных\nэто может занять несколько минут,\nваш аккаунт будет временно заблокирован, пожалуйста подождите…</string>
+    <string name="account_bind_prompt">Перемещение пользовательских данных\nэто может занять несколько минут,\nваш аккаунт будет временно заблокирован, подождите…</string>
     <string name="migrate_announcement_title">MiDriver был перенесен на KuaiPan</string>
     <string name="migrate_announcement_msg">Если у вас есть аккаунт KuaiPan, вы можете подключиться к нему и получить доступ к данным KuaiPan.</string>
-    <string name="query_bind_state">Ожидание подключения, пожалуйста подождите…</string>
+    <string name="query_bind_state">Ожидание подключения, подождите…</string>
     <string name="operation_deleting_detail">Удаление (%1$d/%2$d)</string>
     <string name="operation_moving_detail">Перемещение (%1$d/%2$d)</string>
     <string name="operation_copying">Копирование…</string>

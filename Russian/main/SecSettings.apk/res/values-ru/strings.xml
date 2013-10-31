@@ -475,7 +475,7 @@
     <string name="wifi_access_points">Сети Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Кнопка WPS</string>
     <string name="wifi_menu_wps_pin">Ввод PIN-кода WPS</string>
-    <string name="wifi_menu_p2p">Wi-Fi Управление</string>
+    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Поиск</string>
     <string name="wifi_menu_advanced">Дополнительно</string>
     <string name="wifi_menu_connect">Подключение к сети</string>

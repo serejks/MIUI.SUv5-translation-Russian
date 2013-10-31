@@ -17,7 +17,7 @@
     <string name="menu_correct_yellow_page">Корректировка</string>
     <string name="remind_another_time">Не вводите этот номер</string>
     <string name="remind_user_confirm">OK</string>
-    <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить. \n\nОрганы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах.</string>
+    <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. В случае сомнений, перезвоните, чтобы проверить. \n\nОрганы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах.</string>
     <string name="remind_user_suspect_number_title">Остерегайтесь мошенничества</string>
     <string name="accessibility_calllog_detail">Журнал</string>
     <string name="pref_key_sim_manage">Управление SIM</string>
@@ -30,7 +30,7 @@
     <string name="sim_error_email_full">Хранилище электронных адресов заполнено</string>
     <string name="sim_error_email_too_long">Адрес почты слишком длинный</string>
     <string name="sim_error_generic_failure">Ошибка</string>
-    <string name="sim_error_not_ready">Загрузка контактов SIM карты. Пожалуйста, подождите…</string>
+    <string name="sim_error_not_ready">Загрузка контактов SIM карты. Подождите…</string>
     <string name="sim_error_number_too_long">Номер слишком длинный</string>
     <string name="sim_error_password_error">Неверный пароль</string>
     <string name="sim_error_storage_full">Хранилище заполнено</string>
@@ -91,7 +91,7 @@
     <string name="recharge_payment_result_ok_title">Добавлено RMB%s.</string>
     <string name="recharge_payment_result_ok_summary">Убедитесь, что эта сумма отражается на счету.</string>
     <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
-    <string name="recharge_payment_result_failed_summary">Пожалуйста, попробуйте снова.</string>
+    <string name="recharge_payment_result_failed_summary">Попробуйте снова.</string>
     <string name="recharge_payment_result_progress_summary">Проверка платежа…</string>
     <string name="recharge_phone_number_error">Неверный номер телефона.</string>
     <string name="recharge_user_confirm_title">Подтвердить</string>

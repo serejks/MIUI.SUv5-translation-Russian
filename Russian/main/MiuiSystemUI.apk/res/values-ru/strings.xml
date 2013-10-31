@@ -224,7 +224,7 @@
     <string name="settings_expandable_under_fullscreen_summary">Потяните вниз от верхней части экрана</string>
     <string name="settings_show_flow_info">Показывать трафик</string>
     <string name="notification_icon_filter_settings">Уведомление</string>
-    <string name="notification_icon_filter_settings_loading">Идёт загрузка, пожалуйста подождите</string>
+    <string name="notification_icon_filter_settings_loading">Идёт загрузка, подождите</string>
     <string name="notification_icon_filter">Настройка уведомлений</string>
     <string name="notification_icon_filter_title">Скрывать уведомления</string>
     <string name="notification_icon_filter_summary">При отключении этой опции уведомления всех приложений будут показываться в верхней левой части строки состояния.</string>

@@ -102,7 +102,7 @@
 	<string name="theme_name">%1$s</string>
 	<string name="theme_import_new_download">Импорт</string>
 	<string name="theme_import_fail">Ошибка импорта %1$s.</string>
-	<string name="theme_import_data">Инициализация. Пожалуйста, подождите…</string>
+	<string name="theme_import_data">Инициализация. Пподождите…</string>
 	<string name="theme_batch_has_update_text">Обновления тем: %1$d</string>
 	<string name="theme_batch_updating_text">Обновлено тем: %1$d</string>
 	<string name="theme_batch_update_all">Обновить все</string>
@@ -113,7 +113,7 @@
 	<string name="resource_comment_upload_failed">Ошибка отправки комментария</string>
 	<string name="resource_comment_upload_success">Комментарий отправлен! Он будет опубликован после проверки</string>
 	<string name="resource_comment_upload_data_invalid">Простите, комментарий неверен</string>
-	<string name="resource_comment_upload_not_logined">Войдите сначала в систему, пожалуйста</string>
+	<string name="resource_comment_upload_not_logined">Войдите сначала в систему</string>
 	<string name="resource_comment_upload_not_bought">Перед тем, как оставлять комментарии к этой теме, используйте ее.</string>
 	<string name="resource_comment_invalid">Нажмите на звезды для оценки</string>
 	<string name="resource_comment_expand_full_text">Развернуть весь текст▼</string>
