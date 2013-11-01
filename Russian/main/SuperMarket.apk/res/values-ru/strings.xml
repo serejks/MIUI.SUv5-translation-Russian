@@ -57,7 +57,7 @@
 	<string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
     <string name="pref_list_data_network">Только данные</string>
 	<string name="size_interval">%1$d~%2$d Мб</string>
-	<string name="size_more_than_one_hundred">Более 100 МБ</string>
+	<string name="size_more_than_one_hundred">Более 100 Мб</string>
     <string name="pref_list_disable">Никогда</string>
     <string name="pref_list_per_week">Еженедельно</string>
     <string name="pref_list_per_day">Ежедневно</string>

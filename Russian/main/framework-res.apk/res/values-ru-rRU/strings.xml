@@ -163,11 +163,11 @@
     <string name="lock_pattern_view_aspect">square</string>
     <string name="time_picker_separator">:</string>
     <string name="byteShort">Б</string>
-    <string name="kilobyteShort">КБ</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="gigabyteShort">ГБ</string>
-    <string name="terabyteShort">ТБ</string>
-    <string name="petabyteShort">ПБ</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="petabyteShort">Пб</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">..</string>

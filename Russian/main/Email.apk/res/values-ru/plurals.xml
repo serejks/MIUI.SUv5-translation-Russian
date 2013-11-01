@@ -34,8 +34,8 @@
         <item quantity="one">Удалить сообщение?</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">Сообщения удалены.</item>
-        <item quantity="one">Сообщение удалено.</item>
+        <item quantity="other">Сообщения удалены</item>
+        <item quantity="one">Сообщение удалено</item>
     </plurals>
     <plurals name="message_moved_toast">
         <item quantity="other">Сообщения (%1$d) перемещены в папку %2$s</item>
@@ -46,16 +46,16 @@
         <item quantity="one">%d Б</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
-        <item quantity="other">%d КБ</item>
-        <item quantity="one">%d КБ</item>
+        <item quantity="other">%d Кб</item>
+        <item quantity="one">%d Кб</item>
     </plurals>
     <plurals name="message_view_attachment_megabytes">
-        <item quantity="other">%d МБ</item>
-        <item quantity="one">%d МБ</item>
+        <item quantity="other">%d Мб</item>
+        <item quantity="one">%d Мб</item>
     </plurals>
     <plurals name="message_view_attachment_gigabytes">
-        <item quantity="other">%d ГБ</item>
-        <item quantity="one">%d ГБ</item>
+        <item quantity="other">%d Гб</item>
+        <item quantity="one">%d Гб</item>
     </plurals>
     <plurals name="gal_completed_fmt">
         <item quantity="other">Кол-во результатов: %1$d с %2$s</item>

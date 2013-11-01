@@ -449,7 +449,7 @@
     <string name="pick_new_photo">Выбрать новое фото из Галереи</string>
     <string name="locale_change_in_progress">Список контактов обновляется после смены языка интерфейса.</string>
     <string name="upgrade_in_progress">Список контактов обновляется…</string>
-    <string name="upgrade_out_of_memory">Список контактов обновляется. \n\nДля обновления требуется около %s МБ встроенной памяти.\n\nВыберите один из следующих вариантов:</string>
+    <string name="upgrade_out_of_memory">Список контактов обновляется. \n\nДля обновления требуется около %s Мб встроенной памяти.\n\nВыберите один из следующих вариантов:</string>
     <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
     <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
     <string name="search_results_searching">Поиск…</string>

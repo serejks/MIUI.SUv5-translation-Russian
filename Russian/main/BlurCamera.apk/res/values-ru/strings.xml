@@ -357,9 +357,9 @@
     <string name="autotimer_10sec">10 сек</string>
     <string name="available">Доступно</string>
     <string name="no_memory">Недостаточно памяти</string>
-    <string name="kilo_bytes">КБ</string>
-    <string name="mega_bytes">МБ</string>
-    <string name="giga_bytes">ГБ</string>
+    <string name="kilo_bytes">Кб</string>
+    <string name="mega_bytes">Мб</string>
+    <string name="giga_bytes">Гб</string>
     <string name="mode_camera_unsupported">Камера не поддерживается в выбранном режиме</string>
     <string name="mode_camcorder_unsupported">Видеозапись не поддерживается в выбранном режиме</string>
     <string name="mic_invalid_video">Невозможно заснять видео во время аудиозаписи</string>

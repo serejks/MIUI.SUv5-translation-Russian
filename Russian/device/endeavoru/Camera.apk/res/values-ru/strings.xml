@@ -89,7 +89,7 @@
   <string name="image_ratio_wideon_5_3">Формат 5:3 (Широкоэкранный)</string>
   <string name="iso">ISO</string>
   <string name="jps_file_format">jps</string>
-  <string name="limit_size_unit">КБ</string>
+  <string name="limit_size_unit">Кб</string>
   <string name="main_bar_flash_description">Вспышка</string>
   <string name="main_bar_flash_on">Вкл.</string>
   <string name="main_bar_quality_description">Качество</string>
@@ -136,10 +136,10 @@
   <string name="pref_quality_fine">Высокое</string>
   <string name="pref_quality_normal">Обычное</string>
   <string name="pref_recording_limit_10s">10 сек.</string>
-  <string name="pref_recording_limit_1mb">1 МБ</string>
+  <string name="pref_recording_limit_1mb">1 Мб</string>
   <string name="pref_recording_limit_1min">1 мин.</string>
   <string name="pref_recording_limit_250kb">250 KB</string>
-  <string name="pref_recording_limit_2mb">2 МБ</string>
+  <string name="pref_recording_limit_2mb">2 Мб</string>
   <string name="pref_recording_limit_30s">30 сек.</string>
   <string name="pref_recording_limit_3min">3 мин.</string>
   <string name="pref_recording_limit_unlimited">Без ограничения</string>

@@ -154,7 +154,7 @@
     <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
     <string name="status_bar_time_format_12_simple">H:mm</string>
     <string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
-    <string name="status_bar_recent_memory_info_format">%d МБ</string>
+    <string name="status_bar_recent_memory_info_format">%d Мб</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="usb_mode_notification">USB-накопитель</string>
     <string name="usb_mode_dont_ask">Больше не спрашивать</string>
