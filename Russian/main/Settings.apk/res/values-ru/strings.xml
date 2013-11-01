@@ -849,8 +849,7 @@
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
     <string name="device_info_settings">Состояние телефона</string>
-    <string name="system_update_settings_list_item_title">Обновления системы</string>
-    <string name="system_update_settings_list_item_summary" />
+    <string name="system_update_settings_list_item_title">Обновление системы</string>
     <string name="firmware_version">Версия Android:</string>
     <string name="model_number">Модель:</string>
     <string name="fcc_equipment_id">ID оборудования</string>
