@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title">Error</string>
-    <string name="app_name">Error</string>
+    <string name="title">Ошибка</string>
+    <string name="app_name">Ошибка</string>
     <string name="ok">OK</string>
-    <string name="sms_fdn_title">Error</string>
-    <string name="sms_fdn_body">Number FDN restricted</string>
-    <string name="sms_fdn_restricted">Number FDN restricted</string>
-    <string name="sim_not_inserted">Insert SIM card</string>
-    <string name="sdcard_copy_err">Failed to copy</string>
-    <string name="data_copy_err">Data copy error</string>
-    <string name="sim_crash_title">Invalid SIM CARD!</string>
-    <string name="sim_crash_text">Check your SIM card or contact customer care</string>
-    <string name="unknown_err">Unknown error</string>
-    <string name="sim_removed_text">SIM card removed. Reboot phone</string>
-    <string name="sim_removed_title">SIM card removed</string>
-    <string name="sim_permernent_title">SIM card failed</string>
-    <string name="sim_permernent_blocked">PUK blocked</string>
-    <string name="perso_blocked_title">Error occurred while unlocking network</string>
-    <string name="perso_blocked_text">Network unlock code blocked</string>
+    <string name="sms_fdn_title">Ошибка</string>
+    <string name="sms_fdn_body">Число FDN ограничено</string>
+    <string name="sms_fdn_restricted">Число FDN ограничено</string>
+    <string name="sim_not_inserted">Вставьте SIM-карту</string>
+    <string name="sdcard_copy_err">Ошибка копирования</string>
+    <string name="data_copy_err">Ошибка копирования данных</string>
+    <string name="sim_crash_title">Некоррект ная SIM-карта!</string>
+    <string name="sim_crash_text">Проверьте Вашу SIM-карту или обратитесь в службу поддержки</string>
+    <string name="unknown_err">Неизвестная ошибка</string>
+    <string name="sim_removed_text">SIM-карта удалена. Перезагрузите устройство</string>
+    <string name="sim_removed_title">SIM-карта удалена</string>
+    <string name="sim_permernent_title">SIM-карта неверная</string>
+    <string name="sim_permernent_blocked">PUK заблокирован</string>
+    <string name="perso_blocked_title">Произошла ошибка во время разблокировки сети</string>
+    <string name="perso_blocked_text">Код сети заблокирован</string>
     <string name="dialog_ok">OK</string>
 </resources>

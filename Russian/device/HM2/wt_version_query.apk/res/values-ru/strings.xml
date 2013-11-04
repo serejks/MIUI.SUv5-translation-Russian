@@ -15,11 +15,11 @@
     <string name="update_warning1">During the upgrade, do not remove the battery,UIM card,and SD card.</string>
     <string name="update_warning2">Make sure that the battery level is sufficient.</string>
     <string name="update_warning3">You are recommended to backup date to SD card before upgrade.</string>
-    <string name="no_sd_card">No SD card</string>
+    <string name="no_sd_card">Нет SD-карты</string>
     <string name="no_update_file">Update file does not exist</string>
     <string name="update_info_tips">"The upgrade takes about 2~5 minutes.
 Do not perform any operations during the upgrade."</string>
-    <string name="ok">ok</string>
-    <string name="cancel">cancel</string>
-    <string name="settings_label">Setting</string>
+    <string name="ok">ок</string>
+    <string name="cancel">отмена</string>
+    <string name="settings_label">Настройка</string>
 </resources>
