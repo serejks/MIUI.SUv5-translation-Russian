@@ -2,6 +2,6 @@
 <resources>
     <string-array name="soundoption">
         <item>Стерео</item>
-        <item>Окружение</item>
+        <item>Объемный звук</item>
     </string-array>
 </resources>
