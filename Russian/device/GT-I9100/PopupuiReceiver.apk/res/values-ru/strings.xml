@@ -9,8 +9,8 @@
     <string name="sound_off_toast">Невозможно настроить громкость, если отключены все звуки. Звук можно включить в меню \"Параметры специальных возможностей\"</string>
     <string name="ear_protect_toast">Чтобы снизить риск ухудшения слуха, не слушайте громкую музыку в течение долгого времени</string>
     <string name="btn_text_Done">Готово</string>
-    <string name="title_customizable_key">Customizable key</string>
-    <string name="description_customizable_key">You can use this key to quickly access a function on your phone that you choose. Would you like to select the function for this key now?</string>
+    <string name="title_customizable_key">Настраиваемые ключи</string>
+    <string name="description_customizable_key">Вы можете использовать это для быстрого доступа к функции на телефоне, который вы выбираете. Выбрать функцию для этого ключа сейчас?</string>
     <string name="btn_text_assign">Назнач.</string>
     <string name="do_not_show">Не показывать снова</string>
     <string name="no_network_connection">Отсутствует подключение к сети</string>
@@ -24,10 +24,10 @@
     <string name="enable_data_roaming">Включить передачу данных в роуминге</string>
     <string name="allow_data_roaming">За передачу данных в роуминге будет взиматься дополнительная плата</string>
     <string name="mobile_data_disabled">Мобильное подключение для передачи данных отключено</string>
-    <string name="network_err_reached_data_limit">"You've reached your specified data usage limit.
+    <string name="network_err_reached_data_limit">"Вы достигли указанного предела использования данных.
 
-If you re-enable data, you may be charged by the operator."</string>
-    <string name="re_enable_data">Re-enable data</string>
+Если Вы повторно включить данные, с Вас может взыматься плата оператором."</string>
+    <string name="re_enable_data">Повторно включить  передачу данных</string>
     <string name="network_err_no_signal">Нет сигнала мобильной сети</string>
     <string name="btn_text_retry">Повтор</string>
     <string name="btn_text_later">Позже</string>
