@@ -265,6 +265,9 @@
     <string name="headset_settings">Наушники подключены</string>
     <string name="headset_info">Настроить кнопоки</string>
     <string name="headset_custom">Настроить</string>
+	<string name="audio_effect_settings">Тип наушников</string>
+    <string name="audio_effect_info">Улучшение звука</string>
+    <string name="audio_effect_custom">Настройки</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Входящий вызов</string>
     <string name="notification_vibrate_hint">Уведомление</string>

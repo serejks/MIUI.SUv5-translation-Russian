@@ -105,6 +105,7 @@
     <string name="addBlackList">В черный список</string>
     <string name="confirm_add_blacklist_dialog_dspt">Заблокировать номер?</string>
     <string name="batch_adding_progress_message">Добавление…</string>
+	<string name="invalid_private_contact">Неверный контакт</string>
     <string name="forward_prefix">"Fwd: "</string>
     <string name="discard_message">Отменить</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель.</string>

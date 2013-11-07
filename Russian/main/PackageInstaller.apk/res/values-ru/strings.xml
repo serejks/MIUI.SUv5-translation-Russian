@@ -83,4 +83,5 @@
     <string name="perm_action_prompt">С запросом</string>
     <string name="perm_action_reject">Запретить</string>
     <string name="unknown_installer">Неопознаный инструмент ПК</string>
+	<string name="install_failed_system_incompatible" product="default">Это приложение не совместимо с системой MIUI.</string>
 </resources>
