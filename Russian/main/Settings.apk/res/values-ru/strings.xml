@@ -2449,7 +2449,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="volume_restore_alert">Все настройки будут установлены на стандартные, вы уверены?</string>
     <string name="sound_category_calls_and_notification_title">Мелодия и уведомления</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">Настройка размера шрифта для таких приложений, как \"Телефон\", \"Сообщения\", \"Контакты\" и прочее, для улучшения удобства пользования и читабельности.</string>
+    <string name="font_size_summary">Настройка размера шрифта системы</string>
     <string name="font_size_small">1</string>
     <string name="font_size_normal">2</string>
     <string name="font_size_medium">3</string>
