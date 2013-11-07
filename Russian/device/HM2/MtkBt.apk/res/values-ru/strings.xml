@@ -2,7 +2,7 @@
 <resources>
     <string name="bt_opp_notification_in_coming_ticker">Входящий файл</string>
     <string name="bt_opp_notification_in_coming_title">Входящий файл от: %1$s</string>
-    <string name="bt_opp_notification_in_coming_message">Нжмите чтобы принять запрос на входящий файл.</string>
+    <string name="bt_opp_notification_in_coming_message">Нажмите чтобы принять запрос на входящий файл.</string>
     <string name="bt_opp_notification_in_ongoing_ticker">Входящий файл</string>
     <string name="bt_opp_notification_in_ongoing_message">Получение: %1$s (%2$s)</string>
     <string name="bt_opp_notification_out_ongoing_ticker">Исходящий файл</string>
@@ -24,7 +24,7 @@
     <string name="bt_opps_toast_storage_unavailable">Недостаточно места для сохранения входящего файла.</string>
     <string name="bt_opps_push_toast_invalid_request">Неверный запрос от удаленного устройства.</string>
     <string name="permlab_bluetoothWhitelist">Белый список Bluetooth.</string>
-    <string name="permdesc_bluetoothWhitelist">Белый список устройств Bluetooth, которым разрешено отправлять файлы на ваше устройство без подтверждения пользователя.</string>
+    <string name="permdesc_bluetoothWhitelist">Список устройств Bluetooth, которым разрешено отправлять файлы на ваше устройство без подтверждения пользователя.</string>
     <string name="permlab_handoverStatus">Получение BT передачи трансляции.</string>
     <string name="permdesc_handoverStatus">Позволяет получать информацию о состоянии передачи от Bluetooth.</string>
     <string name="bluetooth_pan_GN_authorize_confirm_title">Позволить Group Ad-hoc Network авторизировать запрос</string>
