@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="bt_chip_eco">
-        <item>UNKNOWN</item>
+        <item>НЕИЗВЕСТНО</item>
         <item>E1</item>
         <item>E2</item>
         <item>E3</item>
@@ -21,14 +21,6 @@
         <item>AL3 Размер поля управления 0</item>
         <item>AL3 Размер поля управления 1</item>
         <item>AL3 Размер поля управления 2</item>
-    </string-array>
-    <string-array name="working_mode_audio_channels_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </string-array>
     <string-array name="working_mode_video_channels_reverse">
         <item>Без изменений</item>
@@ -52,8 +44,8 @@
     </string-array>
     <string-array name="working_mode_use_wnsrp">
         <item>Без изменений</item>
-        <item>OFF</item>
-        <item>ON</item>
+        <item>ВЫКЛ</item>
+        <item>ВКЛ</item>
     </string-array>
     <string-array name="working_mode_terminal_type">
         <item>Без изменений</item>
@@ -62,32 +54,32 @@
         <item>Управляемый</item>
     </string-array>
     <string-array name="modem_test_cta_options">
-        <item>Integrity Check</item>
+        <item>Проверка целостности</item>
         <item>RLC TL1</item>
         <item>K1297</item>
-        <item>SN Conflict</item>
-        <item>CF query</item>
-        <item>DLMN lock</item>
+        <item>SN конфликт/item>
+        <item>CF запрос</item>
+        <item>DLMN блокировка</item>
         <item>Measurement open</item>
-        <item>Disable DPA</item>
+        <item>Отключить DPA</item>
         <item>Intra CMR</item>
     </string-array>
     <string-array name="modem_test_iot_options">
-        <item>Fast Dormancy</item>
+        <item>Быстрый сон</item>
     </string-array>
     <string-array name="device_mgr_entries">
-        <item>Disable</item>
-        <item>Enable</item>
+        <item>Отключить</item>
+        <item>Включить</item>
     </string-array>
     <string-array name="audio_functions">
-        <item>Normal Mode</item>
-        <item>Headset Mode</item>
-        <item>LoudSpeaker Mode</item>
-        <item>Headset_LoudSpeaker Mode</item>
-        <item>Speech Enhancement</item>
-        <item>Debug Info</item>
-        <item>Speech Logger</item>
-        <item>Audio Logger</item>
+        <item>Нормальный режим</item>
+        <item>Наушники</item>
+        <item>Громкая связь</item>
+        <item>Наушники_Громкая связь</item>
+        <item>Выделение речи</item>
+        <item>Отладочная информация</item>
+        <item>Логгирование речи</item>
+        <item>Логгирование аудио</item>
     </string-array>
     <string-array name="mode_level">
         <item>Уровень 0</item>
@@ -136,11 +128,11 @@
         <item>Pure Raw</item>
     </string-array>
     <string-array name="anti_flicker_dialog">
-        <item>50HZ</item>
-        <item>60HZ</item>
+        <item>50 Гц</item>
+        <item>60 Гц</item>
     </string-array>
     <string-array name="iso_dialog">
-        <item>AUTO</item>
+        <item>АВТО</item>
         <item>ISO100</item>
         <item>ISO150</item>
         <item>ISO200</item>
@@ -151,56 +143,43 @@
         <item>ISO1600</item>
     </string-array>
     <string-array name="mPreferredNetworkLabels">
-        <item>GSM/WCDMA (auto)</item>
-        <item>GSM/WCDMA (WCDMA preferred)</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>Not Specified</item>
+        <item>GSM/WCDMA (Авто)</item>
+        <item>GSM/WCDMA (WCDMA предпочтит.)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>Не указано</item>
     </string-array>
     <string-array name="mTddPreferredNetworkLabels">
-        <item>GSM/TD-SCDMA(auto)</item>
-        <item>TD-SCDMA preferred</item>
-        <item>TD-SCDMA only</item>
-        <item>GSM only</item>
-        <item>Not Specified</item>
+        <item>GSM/TD-SCDMA (Авто)</item>
+        <item>TD-SCDMA предпочтит.</item>
+        <item>Только TD-SCDMA</item>
+        <item>Только GSM</item>
+        <item>Не указано</item>
     </string-array>
     <string-array name="mTddNetworkLabels">
-        <item>TD-SCDMA preferred</item>
-        <item>GSM only</item>
-        <item>TD-SCDMA only</item>
-        <item>GSM/TD-SCDMA(auto)</item>
+        <item>TD-SCDMA предпочтит.</item>
+        <item>Только GSM</item>
+        <item>Только TD-SCDMA</item>
+        <item>GSM/TD-SCDMA (Авто)</item>
     </string-array>
     <string-array name="mWcdmaNetworkLabels">
-        <item>GSM/WCDMA (WCDMA preferred)</item>
-        <item>GSM only</item>
-        <item>WCDMA only</item>
-        <item>GSM/WCDMA (auto)</item>
+        <item>GSM/WCDMA (WCDMA предпочтит.)</item>
+        <item>Только GSM</item>
+        <item>Только WCDMA</item>
+        <item>GSM/WCDMA (Авт о)</item>
     </string-array>
     <string-array name="host_type">
-        <item>Host Number 0</item>
-        <item>Host Number 1</item>
-        <item>Host Number 2</item>
-        <item>Host Number 3</item>
-        <item>Host Number 4</item>
-    </string-array>
-    <string-array name="host_data">
-        <item>4 mA</item>
-        <item>8 mA</item>
-        <item>12 mA</item>
-        <item>16 mA</item>
+        <item>Хост 0</item>
+        <item>Хост 1</item>
+        <item>Хост 2</item>
+        <item>Хост 3</item>
+        <item>Хост 4</item>
     </string-array>
     <string-array name="hopping_bit">
-        <item>None</item>
-        <item>2.26MHZ</item>
-        <item>4.52MHZ</item>
-        <item>9.04MHZ</item>
-    </string-array>
-    <string-array name="hopping_time">
-        <item>30.5us</item>
-        <item>61.0us</item>
-        <item>122.1us</item>
-        <item>244.1us</item>
-        <item>488.3us</item>
+        <item>Ничего</item>
+        <item>2.26 МГц</item>
+        <item>4.52 МГц</item>
+        <item>9.04 МГц</item>
     </string-array>
     <string-array name="msdc_select">
         <item>Driving SET</item>
@@ -236,18 +215,18 @@
         <item>Triple</item>
     </string-array>
     <string-array name="auto_calib_multi_frame">
-        <item>4 frames</item>
-        <item>8 frames</item>
-        <item>12 frames</item>
+        <item>4 кадров</item>
+        <item>8 кадров</item>
+        <item>12 кадров</item>
     </string-array>
     <string-array name="auto_calib_video_clip">
         <item>Keep resolution</item>
         <item>Crop resolution</item>
     </string-array>
     <string-array name="auto_calib_iso">
-        <item>Select None</item>
-        <item>Select All</item>
-        <item>Auto</item>
+        <item>Ничего не выбрано</item>
+        <item>Выбрать все</item>
+        <item>Авто</item>
         <item>ISO100</item>
         <item>ISO150</item>
         <item>ISO200</item>
@@ -261,7 +240,7 @@
         <item>ISO3200</item>
     </string-array>
     <string-array name="auto_calib_special_iso">
-        <item>Auto</item>
+        <item>Авто</item>
         <item>ISO100</item>
         <item>ISO150</item>
         <item>ISO200</item>
@@ -275,13 +254,13 @@
         <item>ISO3200</item>
     </string-array>
     <string-array name="auto_calib_flicker_type">
-        <item>50Hz</item>
-        <item>60Hz</item>
+        <item>50 Гц</item>
+        <item>60 Гц</item>
     </string-array>
     <string-array name="auto_calib_led_flash">
-        <item>AUTO</item>
-        <item>ON</item>
-        <item>OFF</item>
+        <item>АВТО</item>
+        <item>ВКЛ</item>
+        <item>ВЫКЛ</item>
     </string-array>
     <string-array name="auto_calib_af_mode">
         <item>Auto</item>
@@ -292,43 +271,43 @@
     <string-array name="auto_calib_af_through_direct">
         <item>Macro to Inf.</item>
         <item>Inf. to Macro</item>
-        <item>Manual configure</item>
+        <item>Ручная настройка</item>
     </string-array>
     <string-array name="auto_calib_capture">
-        <item>Start Preview</item>
+        <item>Начало просмотра</item>
     </string-array>
     <string-array name="auto_calib_hdr_debug_value">
-        <item>OFF</item>
-        <item>ON</item>
+        <item>ВЫКЛ</item>
+        <item>ВКЛ</item>
     </string-array>
     <string-array name="desense_camera_items">
         <item>2 mA</item>
         <item>4 mA</item>
         <item>6 mA</item>
         <item>8 mA</item>
-        <item>Clear setting file</item>
+        <item>Очистить файл настроек</item>
     </string-array>
     <string-array name="matv_frame_rate_entries">
-        <item>Frame Rate 30</item>
-        <item>Frame Rate 20</item>
-        <item>Frame Rate 15</item>
+        <item>Частота кадров 30</item>
+        <item>Частота кадров 20</item>
+        <item>Частота кадров 15</item>
     </string-array>
     <string-array name="matv_nr_level_entries">
-        <item>NR Level 0x31</item>
-        <item>NR Level 0x32</item>
-        <item>NR Level 0x33</item>
-        <item>NR Level 0x34</item>
-        <item>NR Level 0x35</item>
+        <item>NR уровень 0x31</item>
+        <item>NR уровень 0x32</item>
+        <item>NR уровень 0x33</item>
+        <item>NR уровень 0x34</item>
+        <item>NR уровень 0x35</item>
     </string-array>
     <string-array name="always_on_module">
-        <item>Type A</item>
-        <item>Type B</item>
-        <item>Type F</item>
-        <item>No modulation</item>
+        <item>Тип A</item>
+        <item>Тип B</item>
+        <item>Тип F</item>
+        <item>Нет модуляции</item>
     </string-array>
     <string-array name="always_on_bitrate">
-        <item>106 kbps</item>
-        <item>212 kbps</item>
-        <item>424 kbps</item>
+        <item>106 Кб/с</item>
+        <item>212 Кб/с</item>
+        <item>424 Кб/с</item>
     </string-array>
 </resources>
