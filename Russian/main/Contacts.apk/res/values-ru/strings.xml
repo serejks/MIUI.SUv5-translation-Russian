@@ -807,7 +807,7 @@
     <string name="today">Сегодня</string>
     <string name="click_close">Кликните на экран чтобы закрыть</string>
     <string name="phone_primary">Основной</string>
-    <string name="phone_info_divider">"  |  "</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="menu_bar_group_add">Добавить</string>
     <string name="menu_bar_group_sms">SMS группе</string>
     <string name="menu_bar_group_ringtone">Мелодия группы</string>
