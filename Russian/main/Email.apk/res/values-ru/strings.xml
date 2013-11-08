@@ -173,8 +173,8 @@
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
-    <string name="message_view_move_to_newer">След.</string>
-    <string name="message_view_move_to_older">Пред.</string>
+    <string name="message_view_move_to_newer">Следующее</string>
+    <string name="message_view_move_to_older">Предыдущее</string>
     <string name="message_list_subject_snippet_divider">" – "</string>
     <string name="account_setup_basics_title">Настройка аккаунта</string>
     <string name="account_setup_basics_exchange_title">Добавить аккаунт Exchange</string>
@@ -425,7 +425,7 @@
     <string name="contextmenu_openlink">Открыть в браузере</string>
     <string name="contextmenu_copy">Копировать</string>
     <string name="contextmenu_copylink">Копировать URL-адрес</string>
-    <string name="contextmenu_dial_dot">Набрать…</string>
+    <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_sms_dot">SMS…</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
     <string name="contextmenu_send_mail">Отправить письмо</string>

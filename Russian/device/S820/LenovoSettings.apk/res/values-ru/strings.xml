@@ -1395,7 +1395,7 @@
     <string name="auto_launch_enable_text">Это приложение по умолчанию используется для некоторых действий.</string>
     <string name="always_allow_bind_appwidgets_text">Вы разрешили этому приложению создавать виджеты и получать доступ к данным.</string>
     <string name="auto_launch_disable_text">Значения по умолчанию не установлены.</string>
-    <string name="clear_activities">Удалить настройки по умолчанию</string>
+    <string name="clear_activities">Удалить ассоциации</string>
     <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
     <string name="ask_compatibility">Спрашивать при запуске</string>
     <string name="enable_compatibility">Масштабировать приложения</string>

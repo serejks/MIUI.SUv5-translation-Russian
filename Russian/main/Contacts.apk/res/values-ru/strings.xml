@@ -686,8 +686,8 @@
     <string name="success_message_import_from_account">Импорт завершен</string>
     <string name="menu_group_sms">SMS группе</string>
     <string name="menu_group_ringtone">Мелодия группы</string>
-    <string name="recent_contacts_label">Послед.</string>
-    <string name="recent_number">Послед.</string>
+    <string name="recent_contacts_label">Посл.</string>
+    <string name="recent_number">Посл.</string>
     <string name="cloud_antispam_mark">Отметить</string>
     <string name="menu_new_favorite_action_bar">Добавить в избранное</string>
     <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>

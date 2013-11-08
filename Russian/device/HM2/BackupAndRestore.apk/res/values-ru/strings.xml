@@ -5,7 +5,7 @@
     <string name="restore">Восстановление</string>
     <string name="backuptosd">Бэкап на карту памяти</string>
     <string name="selectall">Выбрать все</string>
-    <string name="unselectall">Снять все</string>
+    <string name="unselectall">Снять выбор</string>
     <string name="contact_module">Контакты</string>
     <string name="message_module">Сообщения</string>
     <string name="picture_module">Фото</string>

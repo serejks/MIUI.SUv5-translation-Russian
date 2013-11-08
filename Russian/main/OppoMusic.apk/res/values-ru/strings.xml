@@ -280,6 +280,6 @@
     <string name="rename_dialog_btn_ok">OK</string>
     <string name="rename_dialog_btn_cancel">Отмена</string>
     <string name="oppo_menu_select_all">Выбрать все</string>
-    <string name="oppo_menu_cancel_all">Снять все</string>
+    <string name="oppo_menu_cancel_all">Снять выбор</string>
     <string name="quickcontact_remember_choice">Запомнить этот выбор</string>
 </resources>

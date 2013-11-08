@@ -148,7 +148,7 @@
     <string name="init_xiaomi_account">Авторизация…</string>
     <string name="send_file_to_friends_by_net">Обмен файлами через KuaiPan</string>
     <string name="select_all">" Выбрать все "</string>
-    <string name="unselect_all">" Снять все "</string>
+    <string name="unselect_all">" Снять выбор "</string>
     <string name="delete">Удалить</string>
     <string name="delete_history_message">Удалить историю?</string>
     <string name="can_not_send_this_file">Ошибка отправки файла</string>
