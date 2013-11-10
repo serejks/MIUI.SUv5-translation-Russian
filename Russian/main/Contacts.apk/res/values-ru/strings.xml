@@ -1006,7 +1006,7 @@
 	<string name="resource_import_successful">Загрузка завершена.</string>
     <string name="resource_get_auth_missing">Тема загружена не из официального Маркета, загрузите тему из официального Маркета.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Достигнут лимит авторизаций!</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Невозможно использовать тему на текущем устройстве с Вашим аккаунтом, на котором регистрируется до 10 устройств каждый год. Попробуйте использовать другие аккаунты Xiaomi.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте</string>
     <string name="resource_server_out_of_service">Сервер недоступен, попробуйте позже.</string>
     <string name="resource_switch_account">Переключение</string>
     <string name="processing">Обработка…</string>
