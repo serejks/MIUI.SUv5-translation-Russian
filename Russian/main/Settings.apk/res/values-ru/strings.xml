@@ -1543,7 +1543,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="tts_engine_settings_button">Настройки синтеза речи</string>
     <string name="tts_engine_preference_section_title">Система по умолчанию</string>
     <string name="tts_general_section_title">Общие</string>
-    <string name="gadget_title">Упр. питанием</string>
+    <string name="gadget_title">Упр.питанием</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Обновление настроек Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
