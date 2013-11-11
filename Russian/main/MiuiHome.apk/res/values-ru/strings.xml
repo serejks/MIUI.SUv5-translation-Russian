@@ -94,7 +94,7 @@
 	<string name="emptyplaylist">Нажмите, для добавления песен</string>
 	<string name="unknown_artist_name">Неизвестный</string>
 	<string name="global_search_hint">Поиск</string>
-	<string name="widget_global_search">Глобальный поиск</string>
+	<string name="widget_global_search">Поиск</string>
 	<string name="gadget_clear_button_label">Очист.пам.</string>
 	<string name="gadget_clock_12_label">Часы 2x1</string>
 	<string name="gadget_clock_22_label">Часы 2x2</string>

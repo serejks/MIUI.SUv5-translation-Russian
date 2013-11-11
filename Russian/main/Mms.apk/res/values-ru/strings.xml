@@ -314,7 +314,7 @@
     <string name="draft_separator">, </string>
     <string name="message_count_format"> %1$s</string>
     <string name="error_state">Данные были изменены</string>
-    <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
+    <string name="error_state_text">Цепочки не соответствуют получателям. Сделайте скриншот и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
     <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
     <string name="conversation">Сообщения</string>
     <string name="bookmark">Избранное</string>
