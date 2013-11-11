@@ -2,10 +2,22 @@
 <resources>
     <string name="app_name">Калькулятор</string>
     <string name="error">Ошибка</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">DEL</string>
+    <string name="clear">C</string>
     <string name="basic">Основная панель</string>
     <string name="advanced">Дополнительная панель</string>
     <string name="clear_history">Очистить историю</string>
-    <string name="text_copied_toast">Текст скопирован.</string>
+    <string name="text_copied_toast">Текст скопирован</string>
     <string name="leftParenDesc">открывающая скобка</string>
     <string name="rightParenDesc">закрывающая скобка</string>
     <string name="factorialDesc">факториал числа</string>
@@ -26,6 +38,6 @@
     <string name="eDesc">число Эйлера</string>
     <string name="piDesc">число \"пи\"</string>
     <string name="equalDesc">равно</string>
-	<string name="switch_to_scientific_pad">научный режим</string>
-	<string name="switch_to_standard_pad">базовый режим</string>
+	<string name="switch_to_scientific_pad">Научный режим</string>
+	<string name="switch_to_standard_pad">Базовый режим</string>
 </resources>

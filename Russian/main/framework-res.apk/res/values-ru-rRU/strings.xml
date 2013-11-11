@@ -6,7 +6,7 @@
     <string name="cut">" Вырезать "</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
     <string name="emptyPhoneNumber">(Нет номера телефона)</string>
-    <string name="httpErrorBadUrl">Невозможно открыть страницу, неверная ссылка.</string>
+    <string name="httpErrorBadUrl">Не могу открыть страницу, неверная ссылка.</string>
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
     <string name="no">Отмена</string>
     <string name="ok">OK</string>
@@ -16,11 +16,11 @@
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;без имени&gt;</string>
     <string name="VideoView_error_button">ОК</string>
-    <string name="VideoView_error_text_unknown">Невозможно воспроизвести видео.</string>
-    <string name="VideoView_error_title">Проблемы с видео</string>
+    <string name="VideoView_error_text_unknown">Извините, невозможно воспроизвести видео.</string>
+    <string name="VideoView_error_title">Невозможно воспроизвести видео</string>
     <string name="yes">ОК</string>
     <string name="dialog_alert_title">Внимание</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Видео не подходит для потокового воспроизведения на этом устройстве.</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Извините, видео не подходит для потокового воспроизведения на этом устройстве.</string>
     <string name="selectTextMode">Выберите текст</string>
     <string name="month_long_standalone_january">Январь</string>
     <string name="month_long_standalone_february">Февраль</string>
@@ -98,6 +98,8 @@
     <string name="day_of_week_shortest_thursday">Ч</string>
     <string name="day_of_week_shortest_friday">П</string>
     <string name="day_of_week_shortest_saturday">С</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
     <string name="yesterday">Вчера</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
@@ -158,6 +160,7 @@
     <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
     <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
     <string name="default_text_encoding">Автоопределение</string>
+    <string name="lock_pattern_view_aspect">square</string>
     <string name="time_picker_separator">:</string>
     <string name="byteShort">Б</string>
     <string name="kilobyteShort">Кб</string>
@@ -194,6 +197,8 @@
     <string name="enablePin">Неудачно. Снимите SIM/RUIM блокировку.</string>
     <string name="pinpuk_attempts">"
 Осталось попыток:"</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
     <string name="ClipMmi">Идентификатор входящего вызова</string>
     <string name="ClirMmi">Идентификатор исходящего вызова</string>
     <string name="CfMmi">Перенаправление вызовов</string>

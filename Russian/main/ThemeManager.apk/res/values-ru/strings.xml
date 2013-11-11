@@ -90,7 +90,7 @@
 	<string name="theme_import_oper_start">Обновить все</string>
 	<string name="theme_import_oper_complete">Обновление завершено.</string>
 	<string name="theme_import_item_not_upgraded">Не обновлено</string>
-	<string name="theme_import_item_waiting">Ожидание…</string>
+	<string name="theme_import_item_waiting">Ожидание…<string>
 	<string name="theme_import_item_importing">Обновление…</string>
 	<string name="theme_import_item_not_exist">Не существует</string>
 	<string name="theme_import_item_delete_request_title">Ошибка обновления</string>

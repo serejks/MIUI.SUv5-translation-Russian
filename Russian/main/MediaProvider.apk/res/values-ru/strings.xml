@@ -3,6 +3,6 @@
     <string name="Add_More_Ringtones">Больше мелодий…</string>
     <string name="uid_label">Медиа</string>
     <string name="app_label">Хранилище медиа</string>
-    <string name="upgrade_msg">Обновление БД медиа.</string>
+    <string name="upgrade_msg">Обновить БД медиа</string>
     <string name="artist_label">Исполнитель</string>
 </resources>

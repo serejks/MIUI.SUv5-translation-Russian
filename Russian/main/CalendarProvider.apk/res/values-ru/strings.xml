@@ -7,7 +7,7 @@
     <string name="calendar_info_error">Ошибка</string>
     <string name="calendar_info_no_calendars">Нет календарей</string>
     <string name="calendar_info_events">Мероприятий: %1$d</string>
-    <string name="calendar_info_events_dirty">Мероприятий: %1$d, Не сохранено: %2$d</string>
+    <string name="calendar_info_events_dirty">Мероприятий: %1$d Не сохранено: %2$d</string>
     <string name="provider_label">Календарь</string>
     <string name="debug_tool_delete_button">Удалить</string>
     <string name="debug_tool_start_button">Начать</string>
@@ -15,10 +15,4 @@
     <string name="debug_tool_email_sender_picker">Выберите приложение для отправки</string>
     <string name="debug_tool_email_subject">БД календаря прикреплена</string>
     <string name="debug_tool_email_body">К письму прикреплена БД календаря. Обращайтесь осторожно.</string>
-    <string name="holiday_update_title">База рабочих дней требует подключения к сети для обновления</string>
-    <string name="holiday_update_summary">Проверка обновлений</string>
-    <string name="holiday_data_updating">Обновление…</string>
-    <string name="holiday_data_update_failed">Проверьте ошибки обновления и повторите попытку позже.</string>
-    <string name="holiday_data_update_succeed">Проверьте завершенное обновление</string>
-    <string name="holiday_data_no_network">Нет сети,, повторите позже</string>
 </resources>
