@@ -227,7 +227,6 @@
 	<string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
 	<string name="pref_development_cpu_upload_path">Включить путь загрузки ЦП</string>
 	<string name="js_engine_flags">Установить флаги JS</string>
-	<string name="pref_development_uastring">UAString</string>
 	<string name="pref_development_error_console">Показать консоль JavaScript</string>
 	<string name="pref_development_reset_prelogin">Сброс</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
@@ -238,26 +237,25 @@
 	<string name="pref_lab_title">Лаборатория Google</string>
 	<string name="pref_lab_quick_controls">Панель инструментов</string>
 	<string name="pref_lab_quick_controls_summary">Чтобы открыть панель инструментов, начните перелистывать страницу справа или слева</string>
-	<string name="pref_use_instant_search">Живой поиск Google</string>
 	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных).</string>
 	<string name="pref_lab_fullscreen">Во весь экран</string>
 	<string name="pref_lab_fullscreen_summary">Чтобы скрыть статусбар, используйте полноэкранный режим</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_save_bandwidth_mode_title">Мобильный трафик</string>
-	<string name="pref_save_bandwidth_mode_summary">Запретить загрузку изображений при использовании мобильного интернета.</string>
+	<string name="pref_save_bandwidth_mode_summary">Запретить загрузку изображений при использовании мобильного интернета</string>
 	<string name="menu_enable_save_bandwidth_mode">Включить мобильный трафик</string>
 	<string name="menu_disable_save_bandwidth_mode">Отключить мобильный трафик</string>
 	<string name="menu_save_bandwidth_mode_first_clicked_txt">Не загружать изображения при использовании мобильного интернета</string>
 	<string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ОК</string>
-	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено</string>
-	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено</string>
-	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg">SD карта отключена</string>
+	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено.</string>
+	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено.</string>
+	<string name="pref_data_preload_title">Предзагрузка результатов поиска</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg">USB накопитель отключен</string>
 	<string name="pref_data_preload_summary">"
 Разрешить браузеру предварительно загружать результаты поиска в фоне."</string>
 	<string name="pref_data_preload_value_never_summary">"
 Запретить браузеру предварительно загружать результаты поиска в фоне."</string>
-	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
+	<string name="pref_data_preload_dialogtitle">Предзагрузка результатов поиска</string>
 	<string name="pref_link_prefetch_title">Предзагрузка страниц</string>
 	<string name="pref_link_prefetch_summary">"
 Разрешить предзагрузку связанных страниц в фоне"</string>
@@ -269,13 +267,13 @@
 Разрешить предзагрузку видео в фоне."</string>
 	<string name="pref_video_preload_value_never_summary">"
 Запретить предзагрузку видео в фоне."</string>
-	<string name="pref_images_preload_summary">"Разрешить предзагрузку изображений."</string>
+	<string name="pref_images_preload_summary">: разрешить предзагрузку изображений</string>
 	<string name="pref_images_preload_title">Предзагрузка изображений</string>
 	<string name="pref_content_preload_title">Предзагрузка содержания</string>
 	<string name="pref_image_display_control">Управление изображениями</string>
-	<string name="pref_images_preload_value_never_summary">Запретить предзагрузку изображений.</string>
-	<string name="pref_images_preload_value_wifi_only_summary">Разрешить предзагрузку изображений только по Wi-Fi.</string>
-	<string name="pref_images_preload_value_always_summary">Разрешить предзагрузку изображений.</string>
+	<string name="pref_images_preload_value_never_summary">Запретить предзагрузку изображений</string>
+	<string name="pref_images_preload_value_wifi_only_summary">Разрешить предзагрузку изображений только по Wi-Fi</string>
+	<string name="pref_images_preload_value_always_summary">Разрешить предзагрузку изображений</string>
 	<string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
 	<string name="pref_video_preload_dialogtitle">Предзагрузка видео</string>
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
