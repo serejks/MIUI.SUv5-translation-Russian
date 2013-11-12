@@ -265,8 +265,8 @@
 	<string name="experimental_validate_username">Xiaomi ID</string>
 	<string name="experimental_validate_warning">Спасибо, за то, что помогаете MIUI стать лучше!</string>
 	<string name="find_device_check_sim">Проверка SIM…</string>
-	<string name="find_device_sim_change_instructions">Ваше устройство было заблокировано\nПожалуйста, вставьте SIM-карту или введите пароль вашего аккаунта Xiaomi</string>
-	<string name="find_device_sim_change_instructions_no_network">Ваше устройство заблокировано\nВставьте SIM-карту</string>
+	<string name="find_device_sim_change_instructions">Ваше устройство было заблокировано\nПожалуйста, вставьте SIM карту или введите пароль вашего аккаунта Xiaomi</string>
+	<string name="find_device_sim_change_instructions_no_network">Ваше устройство заблокировано\nВставьте SIM карту</string>
 	<string name="find_device_turn_off_flight_mode">Выклычите режим \"В самолете\"</string>
 	<string name="find_device_turn_off_flight_mode_instructions">Ваше устройство заблокировано\nВыкл. режим \"В самолете\"</string>
 	<string name="firewall_setting">Антиспам</string>
@@ -291,7 +291,7 @@
 	<string name="labour_day">Первомайские</string>
 	<string name="lantern_festival">Фестиваль фонарей</string>
 	<string name="light_snow">Легкий снег</string>
-	<string name="lockscreen_unlock_sim_via_puk">Введите PUK-код для разблокировки SIM-карты</string>
+	<string name="lockscreen_unlock_sim_via_puk">Введите PUK код для разблокировки SIM карты</string>
 	<string name="memory_clear_nothing_result">Очистка памяти уже произведена</string>
 	<string name="memory_clear_result">Очищено: %1$s\nДоступно: %2$s</string>
 	<string name="miui_copyright_title">Авторские права</string>
@@ -316,7 +316,7 @@
 	<string name="national_father_day">Китайский день отца</string>
 	<string name="never">Никогда</string>
 	<string name="new_years_day">Новый Год</string>
-	<string name="no_sim">=SIM-карта не обнаружена</string>
+	<string name="no_sim">=SIM карта не обнаружена</string>
 	<string name="partys_day">День веселья</string>
 	<string name="payphone">Телефоный автомат</string>
 	<string name="peace_day">Международный день мира</string>
@@ -340,10 +340,10 @@
 	<string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите \"Назад\"+\"Громкость вверх\"</string>
 	<string name="screen_on_proximity_sensor_summary">Не закрывайте верх экрана</string>
 	<string name="screen_on_proximity_sensor_title">Режим предотвращения случайных нажатий</string>
-	<string name="sd_not_available">SD-карта не обнаружена.</string>
-	<string name="sd_not_available_low_internal_storage">SD-карта недоступна: вы работаете из внутренней памяти.</string>
+	<string name="sd_not_available">SD карта не обнаружена.</string>
+	<string name="sd_not_available_low_internal_storage">SD карта недоступна: вы работаете из внутренней памяти.</string>
 	<string name="sd_not_available_saved_to_internal_storage">Сохранение во внутреннюю память</string>
-	<string name="sd_not_available_use_internal_storage">SD-карта недоступна: сохранено во внутреннюю память</string>
+	<string name="sd_not_available_use_internal_storage">SD карта недоступна: сохранено во внутреннюю память</string>
 	<string name="select">Выбрать</string>
 	<string name="select_all">Удалить все</string>
 	<string name="send_sms_for_sync_notice">Для активации нужно отправить SMS, продолжить?</string>
@@ -411,18 +411,18 @@
 	<string name="forget_password_string">Забыл пароль</string>
 	<string name="miui_unlockscreen_password_wrong">Попробуйте еще раз:</string>
 	<string name="contact_carrier_message">Если у вас есть вопросы свяжитесь с поставщиком услуги</string>
-	<string name="input_puk_code">Введите PUK-код</string>
-	<string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>
-	<string name="unlocking_sim_card">Разблокировка SIM-карты</string>
+	<string name="input_puk_code">Введите PUK код</string>
+	<string name="input_puk_code_to_unlock">Введите PUK код для разблокировки устройства</string>
+	<string name="unlocking_sim_card">Разблокировка SIM карты</string>
 	<string name="short_pukcode_error_msg">Введите минимум 8 символов</string>
 	<string name="short_pincode_error_msg">Введите 4–8 символов</string>
-	<string name="input_pin_code">Введите PIN-код</string>
-	<string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки устройства</string>
+	<string name="input_pin_code">Введите PIN код</string>
+	<string name="input_pin_code_to_unlock">Введите PIN код для разблокировки устройства</string>
 	<string name="pincode_set_to_default_msg">PIN сброшен на 1234, введите PIN тут.</string>
-	<string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код, осталось попыток %d</string>
-	<string name="incorrect_pincode_remaining_attempts">Неверный PIN-код, осталось попыток %d</string>
-	<string name="incorrect_pukcode">Неверный PUK-код</string>
-	<string name="incorrect_pincode">Неверный PIN-код</string>
+	<string name="incorrect_pukcode_remaining_attempts">Неверный PUK код, осталось попыток %d</string>
+	<string name="incorrect_pincode_remaining_attempts">Неверный PIN код, осталось попыток %d</string>
+	<string name="incorrect_pukcode">Неверный PUK код</string>
+	<string name="incorrect_pincode">Неверный PIN код</string>
 	<string name="puk_operation_failed">Сбой операции PUK.</string>
 	<string name="pin_operation_failed">Сбой операции PIN.</string>
 	<string name="return_to_me_message">Просьба вернуть владельцу</string>
@@ -438,9 +438,9 @@
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы ввели неверный пароль %d раз. После %d неудачных попыток, Вам будет предложено разблокировать телефон через системный аккаунт.
 
  Повторите через %d сек."</string>
-    <string name="sim_unavailable">SIM-карта недоступна.</string>
-    <string name="sim_locked">SIM-карта заблокирована.</string>
-    <string name="sim_not_ready">SIM-карта используется. Повторите позже.</string>
+    <string name="sim_unavailable">SIM карта недоступна.</string>
+    <string name="sim_locked">SIM карта заблокирована.</string>
+    <string name="sim_not_ready">SIM карта используется. Повторите позже.</string>
     <string name="sim_in_airplane_mode">Отключите режим \"В самолете\".</string>
     <string name="days">%d дн.</string>
     <string name="hours">%d ч.</string>

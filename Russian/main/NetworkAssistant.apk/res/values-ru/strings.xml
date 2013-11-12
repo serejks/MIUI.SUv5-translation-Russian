@@ -101,8 +101,8 @@
  Если нет, то вы можете изменить настройки."</string>
     <string name="dialog_button_adjust">Настройка</string>
     <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
-    <string name="settings_page_traffic_summary">Доступно: %1$s, Использовано: %2$s, Дата последнего пополнения: %3$d</string>
-    <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, Дата последнего пополнения: %d</string>
+    <string name="settings_page_traffic_summary">Доступно: %1$s \nПорог предупреждения: %2$s \nДата начала учета: %3$d</string>
+    <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, дата учета: %d</string>
     <string name="sync_traffic_ing">Получение информации от оператора, пожалуйста, подождите…</string>
     <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
     <string name="sync_traffic_fail_title">Не удалось получить информацию</string>
@@ -167,7 +167,7 @@
     <string name="yesterday_total_traffic_format">%s Трафик за вчера</string>
     <string name="today_total_traffic_format">%s Трафик за сегодня</string>
     <string name="this_month_total_traffic_format">%s Трафик за месяц</string>
-    <string name="another_sim_card_adjusting">Другая SIM-карта устанавливается.</string>
+    <string name="another_sim_card_adjusting">Другая SIM карта устанавливается.</string>
     <string name="adjust_no_network_update_data_fail">Ошибка обновления. Пожалуйста проверьте параметры подключения к интернету.</string>
     <string name="app_has_deleted">Удалено: %s.</string>
     <string name="custom_adjust_title">Пользовательские настройки трафика</string>

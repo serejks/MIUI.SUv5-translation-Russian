@@ -15,10 +15,10 @@
     <string name="other_service_user_experience">Программа улучшения качества</string>
     <string name="other_service_user_experience_summary0">"При использовании нашего продукта мы надеемся, что вы поможете, обеспечить обратную связь. Ваши отзывы будут отправлены согласно с "</string>
     <string name="other_service_user_experience_summary1">Политикой конфиденциальности</string>
-    <string name="sim_card_detection_dialog_message">Обнаружение SIM-карты. Подождите.</string>
-    <string name="sim_card_detection_label">SIM-карта обнаружена</string>
-    <string name="sim_card_detection_info">Мы не можем настроить аккаунт Xiaomi без SIM-карты. Вам необходима SIM-карта для использования сервисов, как например синхронизация контактов, поиск телефона и т.д.</string>
-    <string name="sim_card_detection_status_absent">SIM-карта не обнаружена!</string>
+    <string name="sim_card_detection_dialog_message">Обнаружение SIM карты. Подождите.</string>
+    <string name="sim_card_detection_label">SIM карта обнаружена</string>
+    <string name="sim_card_detection_info">Мы не можем настроить аккаунт Xiaomi без SIM карты. Вам необходима SIM карта для использования сервисов, как например синхронизация контактов, поиск телефона и т.д.</string>
+    <string name="sim_card_detection_status_absent">SIM карта не обнаружена!</string>
     <string name="setup_complete_label">Спасибо</string>
     <string name="setup_complete_info">Сервисное обслуживание будет активировано с при первом использовании телефона</string>
     <string name="setup_complete_start">Телефон готов к использованию!</string>

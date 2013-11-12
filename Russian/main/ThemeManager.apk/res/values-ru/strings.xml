@@ -41,7 +41,7 @@
 	<string name="theme_component_title_all">Темы</string>
 	<string name="apply_theme_no_select_message">Выберите компоненты</string>
 	<string name="apply_lockscreen_paper_tips">Экран не поддерживает разные обои.</string>
-	<string name="theme_import_from_sdcard">Импорт с SD-карты</string>
+	<string name="theme_import_from_sdcard">Импорт с SD карты</string>
 	<string name="theme_select_others">Другие</string>
 	<string name="third_party_pickers_activity_title">Установить %1$s</string>
 	<string name="lockstyle_personal_settings">Персонализация</string>
@@ -138,7 +138,7 @@
     <string name="default_name">По умолчанию</string>
 	<string name="resource_app_name">Ресурсы браузера</string>
 	<string name="resource_price_free">Бесплатно</string>
-	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменён</string>
+	<string name="sdcard_status_changed_dialog_title">Статус SD карты изменён</string>
 	<string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>
 	<string name="resource_mute">Без звука</string>
 	<string name="resource_default">Стандартная мелодия</string>
@@ -196,8 +196,8 @@
 	<string name="loading_resource_detail_fail">Ошибка загрузки ресурса.</string>
 	<string name="account_abnormal_state">Ошибка аккаунта: повторите позже</string>
 	<string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
-	<string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
-    <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту. \n</string>
+	<string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
+    <string name="sdcard_not_mounted_dialog_message">Вставьте SD карту. \n</string>
 	<string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
 	<string name="resource_selected">Новые</string>
     <string name="resource_ranking">Популярные</string>

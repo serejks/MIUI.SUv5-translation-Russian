@@ -16,7 +16,7 @@
     <string name="checking_update">Проверка обновлений…</string>
     <string name="no_update">Обновлений не найдено</string>
     <string name="download_err">Загрузка не удалась. Проверьте подключение к сети</string>
-    <string name="update_no_sd">Загрузка не удалась. SD-карта не обнаружена</string>
+    <string name="update_no_sd">Загрузка не удалась. SD карта не обнаружена</string>
     <string name="immediately_update">Обновление</string>
     <string name="cancel_update">Отмена</string>
     <string name="currency_unit_template">Сумма ¥%1$s</string>
@@ -231,7 +231,7 @@
     <string name="allphone">Все модели</string>
     <string name="acquaintance_more">查看更多</string>
     <string name="save_pic_success">图片已经保存到%s</string>
-    <string name="save_pic_fail">保存图片失败, 请检查SD-卡是否可用</string>
+    <string name="save_pic_fail">保存图片失败, 请检查SD 卡是否可用</string>
     <string name="save_pic">保存</string>
     <string name="save_pic_unavailiable">图片尚未下载, 无法保存</string>
     <string name="view_detail">查看详情</string>
