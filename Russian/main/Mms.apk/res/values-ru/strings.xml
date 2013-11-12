@@ -555,4 +555,10 @@
     <string name="sim_card2">SIM карта 2</string>
     <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
     <string name="add_slide_before">Добавить слайд (впереди)</string>
+    <string name="sp_conversation_title">Уведомления сообщений</string>
+    <string name="title_collapse_sp_messages">Группа сервисных сообщений</string>
+    <string name="pref_collapse_sp_messages_summary">Группировать сервисные сообщения в одну категорию.</string>
+    <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
+    <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
+    <string name="sp_mark_as_read_progress">Чтение сообщений…</string>
 </resources>
