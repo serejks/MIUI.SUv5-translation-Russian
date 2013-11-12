@@ -467,7 +467,7 @@
     <string name="wifi_setting_sleep_policy_title">Не отключаться от Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">При изменении параметров произошла ошибка</string>
     <string name="wifi_att_auto_connect">Автоподключение</string>
-    <string name="wifi_att_auto_connect_summary">Автоматическое подключение к AT&T Wi-Fi Hotspot, при обнаружении.</string>
+    <string name="wifi_att_auto_connect_summary">Автоматическое подключение к AT&amp;T Wi-Fi Hotspot, при обнаружении.</string>
     <string name="wifi_add_network">Добавить сеть</string>
     <string name="wifi_add_wifi_network">Добавить сеть Wi-Fi</string>
     <string name="wifi_manage_network">Управление сетями</string>

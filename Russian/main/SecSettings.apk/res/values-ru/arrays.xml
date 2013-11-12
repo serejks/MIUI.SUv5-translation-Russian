@@ -331,7 +331,6 @@
         <item>MMS</item>
         <item>DUN</item>
     </string-array>
-    <string-array name="apn_type_key_includeDUN">
     <string-array name="wifi_connect_entries">
         <item>Автоматически</item>
         <item>Вручную</item>
