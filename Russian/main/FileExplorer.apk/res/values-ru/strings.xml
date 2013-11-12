@@ -31,7 +31,7 @@
     <string name="no_file">Нет файлов</string>
     <string name="tab_category">Категория</string>
     <string name="tab_phone">Телефон</string>
-    <string name="sd_folder">SD карта</string>
+    <string name="sd_folder">SD-карта</string>
     <string name="category_all">Все</string>
     <string name="category_music">Музыка</string>
     <string name="category_video">Видео</string>
@@ -54,7 +54,7 @@
     <string name="delete_files">Удалить выбранные файлы (%1$d шт.)?</string>
     <string name="delete_files_and_folders">Удалить выбранные файлы (%1$d шт.) и папки (%2$d шт.)?</string>
     <string name="new_folder_name">Новая папка</string>
-    <string name="sd_card_size">SD карта: %1$s</string>
+    <string name="sd_card_size">SD-карта: %1$s</string>
     <string name="sd_card_available">Доступно: %1$s</string>
     <string name="file_info_location">Занято: </string>
     <string name="file_info_size">Размер: </string>
@@ -73,7 +73,7 @@
 	<string name="fail_to_create_folder_unknown">Невозможно создать: неизвестная ошибка</string>
     <string name="fail_to_rename">Невозможно переименовать: файл или папка уже существует</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
-    <string name="enable_sd_card">SD карта недоступна. Вставьте карту или переключите режим USB</string>
+    <string name="enable_sd_card">SD-карта недоступна. Вставьте карту или переключите режим USB</string>
     <string name="start_server">Старт</string>
     <string name="stop_server">Стоп</string>
     <string name="notif_server_starting">FTP сервер запущен</string>
@@ -145,11 +145,11 @@
     <string name="kuaipan_tech_support">Тех.поддержка Kingsoft Kuaipan</string>
     <string name="no_tasks">Нет задач</string>
     <string name="no_more_space">Нет свободного места</string>
-    <string name="sd_full">SD карта заполнена</string>
+    <string name="sd_full">SD-карта заполнена</string>
     <string name="file_too_large">Слишком большой файл для загрузки</string>
     <string name="create_new_folder_failed">Ошибка создания папки %1$s</string>
     <string name="slide_left_text">Сдвиньте влево</string>
-    <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD карты в KuaiPan</string>
+    <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD-карты в KuaiPan</string>
     <string name="guide_access_files_through_web">Они будут доступны через интернет\nна любом компьютере</string>
     <string name="guide_access_files_through_phone">Загруженные через интернет файлы\nбудут отображаться в телефоне\nв разделе KuaiPan</string>
     <string name="guide_advance_tech">Передовые технологии</string>
@@ -244,7 +244,7 @@
     <string name="waiting">Ожидание</string>
     <string name="wait_wifi">Ожидание Wi-Fi</string>
     <string name="wait_net">Ожидание сети</string>
-    <string name="wait_sdcard">Ожидание монтирования SD карты</string>
+    <string name="wait_sdcard">Ожидание монтирования SD-карты</string>
     <string name="paused">Приостановлено</string>
     <string name="upload_failed">Ошибка загрузки</string>
     <string name="download_failed">Ошибка загрузки</string>
@@ -261,8 +261,8 @@
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Нажмите&lt;/a&gt; чтобы очистить корзину</string>
     <string name="clean_complete">Очищено</string>
     <string name="storage_internal">ВНУТРЕННЯЯ ПАМЯТЬ</string>
-    <string name="storage_sd_card">SD карта</string>
-    <string name="storage_usb">USB накопитель</string>    
+    <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_usb">USB-накопитель</string>    
     <string name="bind_account">Привязать к аккаунту KuaiPan</string>
     <string name="bind_account_summary">Если у Вас уже есть аккаунт KuaiPan, тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
     <string name="binded_accout_title">Вы уже привязаны к аккаунту KuaiPan</string>
@@ -330,6 +330,6 @@
 2. Загрузить в Ваш аккаунт KuaiPan"</string>
     <string name="ui_filechange_btn_upload">В KuaiPan</string>
     <string name="folder_exist">Папка с таким именем уже существует</string> 
-	<string name="unmount_inform_text">USB накопитель отключен.</string>
-	<string name="dlg_error_unmount_text">Невозможно подключить USB накопитель. Повторите позже.</string>
+	<string name="unmount_inform_text">USB-накопитель отключено.</string>
+	<string name="dlg_error_unmount_text">Невозможно подключить USB-накопитель. Повторите позже.</string>
 </resources>

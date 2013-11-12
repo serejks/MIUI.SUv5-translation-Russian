@@ -107,7 +107,7 @@
     <string name="HIPS_Perm_Location_Access">определить точное местоположение</string>
     <string name="HIPS_Perm_PhoneID_IMEI">получить номер IMEI</string>
     <string name="HIPS_Perm_PhoneID_IMEISN">получить IMEI/серийный номер</string>
-    <string name="HIPS_Perm_PhoneID_ICCID">получить серийный номер SIM карты</string>
+    <string name="HIPS_Perm_PhoneID_ICCID">получить серийный номер SIM-карты</string>
     <string name="HIPS_Perm_PhoneID_Number">получить номер телефона</string>
     <string name="HIPS_Perm_PhoneID_IMSI">получить номер IMSI</string>
     <string name="HIPS_Perm_AllowAll">Разрешить все</string>

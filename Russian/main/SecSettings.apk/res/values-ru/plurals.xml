@@ -21,7 +21,7 @@
         <item quantity="one">Пароль должен содержать не менее 1 символа</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">PINкод должен содержать не менее %d цифр или символов</item>
+        <item quantity="other">PIN-код должен содержать не менее %d цифр или символов</item>
         <item quantity="one">Пароль должен содержать не менее 1 цифры или символа</item>
     </plurals>
     <plurals name="lock_timeout_minutes">

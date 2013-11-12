@@ -98,8 +98,8 @@
   <string name="mass_storage_camcorder">Видеокамера недоступна, поскольку карта памяти подключена к ПК. Для продолжения отключите кабель USB.</string>
   <string name="mass_storage_camera">Камера недоступна, поскольку карта памяти подключена к ПК. Для продолжения отключите кабель USB.</string>
   <string name="mass_storage_fs_max_file_reach">Достигнут максимальный размер видеозаписи</string>
-  <string name="mass_storage_phone_camcorder">Доступ к видеокамере невозможен, поскольку ваш телефон используется как USB накопитель. Для продолжения отключите кабель USB.</string>
-  <string name="mass_storage_phone_camera">Доступ к камере невозможен, поскольку ваш телефон используется как USB накопитель. Для продолжения отключите кабель USB.</string>
+  <string name="mass_storage_phone_camcorder">Доступ к видеокамере невозможен, поскольку ваш телефон используется как USB-накопитель. Для продолжения отключите кабель USB.</string>
+  <string name="mass_storage_phone_camera">Доступ к камере невозможен, поскольку ваш телефон используется как USB-накопитель. Для продолжения отключите кабель USB.</string>
   <string name="metering_mode">Режим замера</string>
   <string name="mirror_error_msg_cannot_start_preview">Не удалось включить переднюю камеру</string>
   <string name="mirror_error_msg_no_front_camera">Не удается найти переднюю камеру</string>

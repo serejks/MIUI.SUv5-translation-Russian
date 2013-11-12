@@ -125,7 +125,7 @@
     <string name="packages_pay_hint">Отправить бесплатное сообщение</string>
     <string name="packages_pay_success">Сообщение отправлено</string>
     <string name="packages_wait_for_op_reply">Пожалуйста, дождитесь сообщения с подтверждением</string>
-    <string name="packages_select_sim_cards_title">Выберите SIM карту</string>
+    <string name="packages_select_sim_cards_title">Выберите SIM-карту</string>
     <string name="packages_select_sim_cards_summmary">Система будет рекомендовать пакеты трафиков согласно вашему выбору</string>
     <string name="packages_no_package">Нет пакетов</string>
 	<string name="express_inquiry_serial_number_indication">Номер отслеживания</string>

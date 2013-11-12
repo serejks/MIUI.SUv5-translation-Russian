@@ -184,13 +184,13 @@
     <string name="serviceErased">Отключение прошло успешно.</string>
     <string name="passwordIncorrect">Неверный пароль.</string>
     <string name="mmiComplete">MMI завершён.</string>
-    <string name="badPin">Неверно введён старый PINкод.</string>
-    <string name="badPuk">Неверно введён PUKкод.</string>
-    <string name="mismatchPin">Введённые PINкоды не совпадают.</string>
-    <string name="invalidPin">Введите PINкод (от 4 до 8 цифр).</string>
-    <string name="invalidPuk">Введите PUKкод (8 или больше цифр).</string>
-    <string name="needPuk">SIM карта заблокирована PUKкодом. Для разблокировки введите PUKкод.</string>
-    <string name="needPuk2">Для разблокировки SIM карты введите PUK2.</string>
+    <string name="badPin">Неверно введён старый PIN-код.</string>
+    <string name="badPuk">Неверно введён PUK-код.</string>
+    <string name="mismatchPin">Введённые PIN-коды не совпадают.</string>
+    <string name="invalidPin">Введите PIN-код (от 4 до 8 цифр).</string>
+    <string name="invalidPuk">Введите PUK-код (8 или больше цифр).</string>
+    <string name="needPuk">SIM-карта заблокирована PUK-кодом. Для разблокировки введите PUK-код.</string>
+    <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
     <string name="enablePin">Неудачно. Снимите SIM/RUIM блокировку.</string>
     <string name="pinpuk_attempts">"
 Осталось попыток:"</string>
@@ -200,7 +200,7 @@
     <string name="CwMmi">Настройки вызовов на ожидании</string>
     <string name="BaMmi">Настройки запрета вызовов</string>
     <string name="PwdMmi">Сменить пароль</string>
-    <string name="PinMmi">Сменить PINкод</string>
+    <string name="PinMmi">Сменить PIN-код</string>
     <string name="CnapMmi">Настройка вызовов</string>
     <string name="CnipMmi">Входящий вызов разрешён</string>
     <string name="CnirMmi">Входящий вызов заблокирован</string>
@@ -357,7 +357,7 @@
     <string name="permgrouplab_display">Интерфейс приложений</string>
     <string name="permgroupdesc_display">Эфекты интерфейса приложений.</string>
     <string name="permgrouplab_storage">Память</string>
-    <string name="permgroupdesc_storage">Доступ к USB хранилищу.</string>
+    <string name="permgroupdesc_storage">Доступ к USB-хранилищу.</string>
     <string name="permlab_IMS">Использование функции IMS</string>
     <string name="permdesc_IMS">Позволяет приложению получать доступ к функциям IMS.</string>
     <string name="permlab_statusBar">Отключение/изменение статусбара</string>
@@ -381,9 +381,9 @@
     <string name="permlab_sendSmsNoConfirmation">Отправка SMS-сообщений без Вашего согласия</string>
     <string name="permdesc_sendSmsNoConfirmation">Позволяет отправлять SMS-сообщения. Вредоносные программы могут тратить ваши деньги, отправляя сообщения без Вашего согласия.</string>
     <string name="permlab_readSms">Чтение SMS или MMS</string>
-    <string name="permdesc_readSms">Позволяет читать SMS или MMS сообщения, сохранённые в смартфоне или на SIM карте. Вредоносные приложения могут прочитать Вашу конфиденциальную информацию.</string>
+    <string name="permdesc_readSms">Позволяет читать SMS или MMS сообщения, сохранённые в смартфоне или на SIM-карте. Вредоносные приложения могут прочитать Вашу конфиденциальную информацию.</string>
     <string name="permlab_writeSms">Редактирование SMS или MMS</string>
-    <string name="permdesc_writeSms">Позволяет изменять SMS или MMS сообщения, сохранённые в смартфоне или на SIM карте. Вредоносные приложения могут удалять Ваши сообщения.</string>
+    <string name="permdesc_writeSms">Позволяет изменять SMS или MMS сообщения, сохранённые в смартфоне или на SIM-карте. Вредоносные приложения могут удалять Ваши сообщения.</string>
     <string name="permlab_receiveWapPush">Получение WAP-сообщений</string>
     <string name="permdesc_receiveWapPush">Позволяет получать и обрабатывать WAP-сообщения. Вредоносные приложения отслеживать Ваши сообщения или удалять их, не показывая Вам.</string>
     <string name="permlab_getTasks">Получение списка запущенных приложений</string>
@@ -576,7 +576,7 @@
     <string name="permdesc_reboot">Позволяет приложениям перезагружать телефон.</string>
     <string name="permlab_mount_unmount_filesystems">Доступ к файловым системам</string>
     <string name="permdesc_mount_unmount_filesystems">Позволяет приложениям монтировать или отмонтировать файловые системы съемных носителей.</string>
-    <string name="permlab_mount_format_filesystems">Форматировать SD карту</string>
+    <string name="permlab_mount_format_filesystems">Форматировать SD-карту</string>
     <string name="permdesc_mount_format_filesystems">Позволяет приложениям форматировать съемный носитель.</string>
     <string name="permlab_asec_access">Получение информации о внутренней памяти телефона</string>
     <string name="permdesc_asec_access">Дает доступ приложениям к информации о внутренней памяти телефона.</string>
@@ -689,7 +689,7 @@
     <string name="permlab_sdcardRead">Тестовый доступ к защищенному носителю</string>
     <string name="permdesc_sdcardRead">Дает приложению возможность протестировать доступ к защищенному носителю, который будет использоваться на будущих устройствах.</string>
     <string name="permlab_sdcardWrite">Изменять, удалять содержимое USB носителя</string>
-    <string name="permdesc_sdcardWrite">Дает приложениям возможность записи на USB накопитель.</string>
+    <string name="permdesc_sdcardWrite">Дает приложениям возможность записи на USB-накопитель.</string>
     <string name="permlab_mediaStorageWrite">Изменять, удалять содержимое внутренней памяти.</string>
     <string name="permdesc_mediaStorageWrite">Приложение сможет изменять содержание внутренней памяти устройства.</string>
     <string name="permlab_sdcardAccessAll">Доступ к внешним храненилищам всех пользователей</string>
@@ -785,14 +785,14 @@
     <string name="sipAddressTypeHome">Домашний</string>
     <string name="sipAddressTypeWork">Рабочий</string>
     <string name="sipAddressTypeOther">Другой</string>
-    <string name="keyguard_password_enter_pin_code">Введите PINкод</string>
-    <string name="keyguard_password_enter_pin_code_for_subscription">Введите PINкод для подписки</string>
-    <string name="keyguard_password_enter_puk_code">Введите PUKкод и новый PINкод</string>
-    <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUKкод и новый PINкод для подписки</string>
-    <string name="keyguard_password_enter_puk_prompt">PUKкод</string>
-    <string name="keyguard_password_enter_pin_prompt">Новый PINкод</string>
+    <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
+    <string name="keyguard_password_enter_pin_code_for_subscription">Введите PIN-код для подписки</string>
+    <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
+    <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUK-код и новый PIN-код для подписки</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
+    <string name="keyguard_password_enter_pin_prompt">Новый PIN-код</string>
     <string name="keyguard_password_enter_password_code">Введите пароль, чтобы разблокировать</string>
-    <string name="keyguard_password_enter_pin_password_code">Введите PINкод, чтобы разблокировать</string>
+    <string name="keyguard_password_enter_pin_password_code">Введите PIN-код, чтобы разблокировать</string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN код!</string>
     <string name="keyguard_password_wrong_puk_code">Неверный PUK код!</string>
     <string name="keyguard_password_pin_failed">PIN операция не удалась!</string>
@@ -815,12 +815,12 @@
     <string name="lockscreen_charged">Полностью заряжен</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
-    <string name="lockscreen_missing_sim_message_short">Нет SIM карты</string>
-    <string name="lockscreen_missing_sim_message">В телефоне нет SIM карты</string>
-    <string name="lockscreen_missing_sim_instructions">Вставьте SIM карту</string>
-    <string name="lockscreen_missing_sim_instructions_long">SIM карта извлечена, либо не читаема. Пожалуйста, вставьте SIM карту.</string>
-    <string name="lockscreen_permanent_disabled_sim_message_short">Нерабочая SIM карта.</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">Ваша SIM карта сломалась. \n Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM карту.</string>
+    <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="lockscreen_missing_sim_message">В телефоне нет SIM-карты</string>
+    <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM-карта извлечена, либо не читаема. Пожалуйста, вставьте SIM-карту.</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Нерабочая SIM-карта.</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">Ваша SIM-карта сломалась. \n Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM-карту.</string>
     <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
     <string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
@@ -828,18 +828,18 @@
     <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
     <string name="emergency_calls_only">Только экстренные</string>
     <string name="lockscreen_sim_error_message_short">Недействительная карта.</string>
-    <string name="lockscreen_sim_error_message">SIM карта недействительна.</string>
+    <string name="lockscreen_sim_error_message">SIM-карта недействительна.</string>
     <string name="lockscreen_network_locked_message">Мобильная сеть заблокирована</string>
     <string name="lockscreen_perso_locked_message">SIM/RUIM is Perso locked</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM карта заблокирована PUKкодом.</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована PUK-кодом.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Инструкции по разблокировке можно найти в контракте на услуги сотовой связи, либо обратитеесь в Клиентскую поддержку сотового оператора.</string>
-    <string name="lockscreen_sim_locked_message">SIM карта заблокирована.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
+    <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Вы неправильно ввели графический ключ %d раз(а). \n\n Новая попытка через %d сек.</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Вы неправильно ввели пароль %d раз(а). \n\n Новая попытка через %d сек.</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 заблокирован! Введите PUK1 для разблокировки PIN1.</string>
     <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1 для разблокировки PIN1.</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Вы неправильно ввели PINкод %d раз(а). \n\n Новая попытка через %d сек.</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Вы неправильно ввели PIN-код %d раз(а). \n\n Новая попытка через %d сек.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Вы неправильно ввели графический ключ %d раз(а). После %d неудачных попыток Вам будет предложено разблокировать телефон с помощью аккаунта Google. \n\n Новая попытка через %d сек.</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (Число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных</string>
     <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (Число попыток: %d). Будут установлены настройки по умолчанию</string>
@@ -877,7 +877,7 @@
     <string name="keyguard_accessibility_slide_unlock">Слайд.</string>
     <string name="keyguard_accessibility_pattern_unlock">Графический ключ.</string>
     <string name="keyguard_accessibility_face_unlock">Обнаружение лица.</string>
-    <string name="keyguard_accessibility_pin_unlock">PINкод.</string>
+    <string name="keyguard_accessibility_pin_unlock">PIN-код.</string>
     <string name="keyguard_accessibility_password_unlock">Пароль.</string>
     <string name="keyguard_accessibility_pattern_area">Область графического ключа.</string>
     <string name="keyguard_accessibility_slide_area">Область слайда.</string>
@@ -1108,20 +1108,20 @@
     <string name="perms_show_all">Показать все</string>
     <string name="perms_new_perm_prefix">"НОВОЕ: "</string>
     <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
-    <string name="usb_storage_title">USB накопитель подключен</string>
-    <string name="usb_storage_message">Вы соединены с компьютером по USB. Нажмите кнопку ниже, если вы хотите скопировать файлы с компьютера на внутренний USB накопитель.</string>
-    <string name="usb_storage_button_mount">Включить USB накопитель</string>
-    <string name="usb_storage_error_message">При использовании USB накопителя в качестве запоминающего устройства USB возникла неполадка.</string>
+    <string name="usb_storage_title">USB-накопитель подключен</string>
+    <string name="usb_storage_message">Вы соединены с компьютером по USB. Нажмите кнопку ниже, если вы хотите скопировать файлы с компьютера на внутренний USB-накопитель.</string>
+    <string name="usb_storage_button_mount">Включить USB-накопитель</string>
+    <string name="usb_storage_error_message">При использовании USB-накопителя в качестве запоминающего устройства USB возникла неполадка.</string>
     <string name="usb_storage_notification_title">USB подключение установлено</string>
     <string name="usb_storage_notification_message">Выберите фалы для копирования на/с вашего компьютера.</string>
-    <string name="usb_storage_stop_notification_title">Отключить USB накопитель</string>
-    <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB накопитель.</string>
-    <string name="usb_storage_stop_title">USB накопитель используется</string>
-    <string name="usb_storage_stop_message">Перед отключением USB накопителя убедитесь, что USB накопитель Android был отключен от компьютера.</string>
-    <string name="usb_storage_stop_button_mount">Отключить USB накопитель</string>
-    <string name="usb_storage_stop_error_message">При выключении USB накопителя произошла неполадка. Убедитесь, что USBхост отключен, и повторите попытку.</string>
-    <string name="dlg_confirm_kill_storage_users_title">Включение USB накопителя</string>
-    <string name="dlg_confirm_kill_storage_users_text">При включении USB накопителя некоторые используемые приложения могут прекратить работу и оставаться недоступными до отключения USB накопителя.</string>
+    <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
+    <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB-накопитель.</string>
+    <string name="usb_storage_stop_title">USB-накопитель используется</string>
+    <string name="usb_storage_stop_message">Перед отключением USB-накопителя убедитесь, что USB-накопитель Android был отключен от компьютера.</string>
+    <string name="usb_storage_stop_button_mount">Отключить USB-накопитель</string>
+    <string name="usb_storage_stop_error_message">При выключении USB-накопителя произошла неполадка. Убедитесь, что USB-хост отключен, и повторите попытку.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Включение USB-накопителя</string>
+    <string name="dlg_confirm_kill_storage_users_text">При включении USB-накопителя некоторые используемые приложения могут прекратить работу и оставаться недоступными до отключения USB-накопителя.</string>
     <string name="dlg_error_title">Ошибка при подключении USB</string>
     <string name="dlg_ok">OK</string>
     <string name="usb_mtp_notification_title">Подключен как устройство хранения данных</string>
@@ -1129,8 +1129,8 @@
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_accessory_notification_title">USB устройство подключено</string>
     <string name="usb_notification_message">Нажмите, чтобы увидеть другие параметры USB</string>
-    <string name="extmedia_format_title">Форматирование USB накопителя</string>
-    <string name="extmedia_format_message">Форматирование USB накопителя безвозвратно удалит все файлы на нем. Продолжить?</string>
+    <string name="extmedia_format_title">Форматирование USB-накопителя</string>
+    <string name="extmedia_format_message">Форматирование USB-накопителя безвозвратно удалит все файлы на нем. Продолжить?</string>
     <string name="extmedia_format_button_format">Формат</string>
     <string name="adb_active_notification_title">Отладка по USB разрешена</string>
     <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB.</string>
@@ -1142,18 +1142,18 @@
     <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры.</string>
     <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
-    <string name="ext_media_checking_notification_title">Подготовка USB накопителя</string>
+    <string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
     <string name="ext_media_checking_notification_message">Проверка на ошибки.</string>
-    <string name="ext_media_nofs_notification_title">Пустой USB накопитель</string>
+    <string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
     <string name="ext_media_nofs_notification_message">USB пуст или файловая система не поддерживается.</string>
-    <string name="ext_media_unmountable_notification_title">USB накопитель поврежден</string>
+    <string name="ext_media_unmountable_notification_title">USB-накопитель поврежден</string>
     <string name="ext_media_unmountable_notification_message">Возможно придётся отформатировать его.</string>
     <string name="ext_media_badremoval_notification_title">USB неожиданно отсоединён</string>
     <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отсоединением.</string>
     <string name="ext_media_safe_unmount_notification_title">USB можно отсоединить</string>
-    <string name="ext_media_safe_unmount_notification_message">Отсоедините USB накопитель.</string>
-    <string name="ext_media_nomedia_notification_title">USB накопитель отсоединён</string>
-    <string name="ext_media_nomedia_notification_message">USB накопитель отсоединён.</string>
+    <string name="ext_media_safe_unmount_notification_message">Отсоедините USB-накопитель.</string>
+    <string name="ext_media_nomedia_notification_title">USB-накопитель отсоединён</string>
+    <string name="ext_media_nomedia_notification_message">USB-накопитель отсоединён.</string>
     <string name="activity_list_empty">Подходящих действий не найдено</string>
     <string name="permlab_pkgUsageStats">обновлять статистику использования компонентов</string>
     <string name="permdesc_pkgUsageStats">Позволяет изменять собранную статистику использования компонентов. Не предназначено для использования обычными приложениями.</string>
@@ -1203,7 +1203,7 @@
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Автомобиль\"</string>
     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
-    <string name="tethered_notification_title">USB модем/точка дост.Wi-Fi используется</string>
+    <string name="tethered_notification_title">USB-модем/точка дост.Wi-Fi используется</string>
     <string name="tethered_notification_message">Нажмите для настройки</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Далее</string>
@@ -1216,14 +1216,14 @@
     <string name="find_on_page">Найти на странице</string>
     <string name="action_mode_done">Готово</string>
     <string name="progress_unmounting_internal">Отключение внутренней памяти…</string>
-    <string name="progress_unmounting">Отключение USB накопителя…</string>
+    <string name="progress_unmounting">Отключение USB-накопителя…</string>
     <string name="progress_erasing_internal">Очистка внутренней памяти…</string>
-    <string name="progress_erasing">Очистка USB накопителя…</string>
-    <string name="format_error">Не удалось очистить USB накопитель</string>
-    <string name="media_bad_removal">SD карта была извлечена до отключения</string>
-    <string name="media_checking">USB накопитель проверен</string>
-    <string name="media_removed">SD карта отключена</string>
-    <string name="media_shared">USB накопитель используется компьютером</string>
+    <string name="progress_erasing">Очистка USB-накопителя…</string>
+    <string name="format_error">Не удалось очистить USB-накопитель</string>
+    <string name="media_bad_removal">SD-карта была извлечена до отключения</string>
+    <string name="media_checking">USB-накопитель проверен</string>
+    <string name="media_removed">SD-карта отключена</string>
+    <string name="media_shared">USB-накопитель используется компьютером</string>
     <string name="media_unknown_state">Неизвестное состояние внешнего носителя</string>
     <string name="share">Отправить</string>
     <string name="find">Найти</string>
@@ -1295,8 +1295,8 @@
     <string name="action_bar_up_description">Перейти вверх</string>
     <string name="action_menu_overflow_description">Еще</string>
     <string name="storage_internal">Внутренняя память</string>
-    <string name="storage_sd_card">SD карта</string>
-    <string name="storage_usb">USB накопитель</string>
+    <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_usb">USB-накопитель</string>
     <string name="extract_edit_menu_button">Редактировать…</string>
     <string name="data_usage_warning_title">Ограничение трафика</string>
     <string name="data_usage_warning_body">Настройте ограничение на трафик</string>
@@ -1397,7 +1397,7 @@
     <string name="PdpRejectedTitle">Использование передачи данных в роуминге.</string>
     <string name="RestrictedWaitTitle">Пожалуйста, подождите некоторое время.</string>
     <string name="RestrictedWaitTitlePacket">Пожалуйста, подождите некоторое время(пакет)</string>
-    <string name="sp_usb_massstorage_notification_title_NORMAL">Подключено как USB накопитель.</string>
+    <string name="sp_usb_massstorage_notification_title_NORMAL">Подключено как USB-накопитель.</string>
     <string name="media_route_button_content_description">Медиа выход</string>
     <string name="media_route_status_scanning">Сканирование…</string>
     <string name="media_route_status_connecting">Соединение…</string>
@@ -1420,15 +1420,15 @@
     <string name="kg_sim_pin_instructions">Введите SIM PIN</string>
     <string name="kg_pin_instructions">Введите PIN</string>
     <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_puk_enter_puk_hint">SIM карта заблокирована. Введите PUK код для проолжения. Обратитесь в справочную вашего провайдера для получения подробностей.</string>
+    <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Введите PUK код для проолжения. Обратитесь в справочную вашего провайдера для получения подробностей.</string>
     <string name="kg_puk_enter_pin_hint">Введите PIN код</string>
     <string name="kg_enter_confirm_pin_hint">Подтвердите PIN код</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
-    <string name="kg_password_wrong_pin_code">Неверный PINкод.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+    <string name="kg_password_wrong_pin_code">Неверный PIN-код.</string>
     <string name="kg_invalid_sim_pin_hint">Введите PIN код (от 4 до 8 символов).</string>
     <string name="kg_invalid_sim_puk_hint">PUK код должен содержать 8 и более символов.</string>
-    <string name="kg_invalid_puk">Введите верный PUK код ещё раз. Неоднократные неверные попытки приведут к полной блокировке SIM карты.</string>
-    <string name="kg_invalid_confirm_pin_hint">PINкоды не совпадают</string>
+    <string name="kg_invalid_puk">Введите верный PUK код ещё раз. Неоднократные неверные попытки приведут к полной блокировке SIM-карты.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
     <string name="kg_login_too_many_attempts">Слишком много неверных попыток ввода графического ключа</string>
     <string name="kg_login_instructions">Для разблокировки, войдите в Google аккаунт.</string>
     <string name="kg_login_username_hint">Логин (E-mail)</string>
@@ -1438,7 +1438,7 @@
     <string name="kg_login_account_recovery_hint">"Восстановить имя пользователи или пароль?
 Посетите "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Проверка аккаунта…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели PINкод %d раз.
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели PIN-код %d раз.
 
  Попробуйте снова через %d сек."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неправильно ввели пароль %d раз.
@@ -1462,7 +1462,7 @@
     <string name="user_switched">Текущий пользователь: %1$s.</string>
     <string name="owner_name">Владелец</string>
     <string name="storage_phone">Внутренняя память</string>
-    <string name="storage_external_usb">Внешний USB накопитель</string>
+    <string name="storage_external_usb">Внешний USB-накопитель</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Разблокировка голосом.</string>
     <string name="reboot_title">Перезагрузить телефон?</string>
     <string name="reboot_confirm">Перезапуск телефона удалит временные файлы из памяти. Перезагрузить ​​телефон?</string>

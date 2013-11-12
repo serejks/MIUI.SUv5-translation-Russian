@@ -32,7 +32,7 @@
     <string name="display">Дисплей</string>
     <string name="io">IO</string>
     <string name="touchscreen">ТачСкрин</string>
-    <string name="sd_card_test">Тест SD карты</string>
+    <string name="sd_card_test">Тест SD-карты</string>
     <string name="audio">Аудио</string>
     <string name="camera">Камера</string>
     <string name="cpu_freq_test">Тест CPU частоты</string>
@@ -137,7 +137,7 @@
     <string name="TouchScreen_Settings_sdcard">OFF</string>
     <string name="TouchScreen_Settings_uart">OFF</string>
     <string name="TouchScreen_Settings_TextUart">Включить Uart логи</string>
-    <string name="TouchScreen_Settings_TextSDcard">Включить логи SD карты</string>
+    <string name="TouchScreen_Settings_TextSDcard">Включить логи SD-карты</string>
     <string name="Display">Экран</string>
     <string name="Display_lcd_Text">Подсветка</string>
     <string name="Display_lcd_on">LCD ON</string>
@@ -442,10 +442,10 @@
     <string name="input_null_tip">Введите значение.</string>
     <string name="set_success_tip">Установка параметров завершена.</string>
     <string name="set_failed_tip">Ошибка установки параметров.</string>
-    <string name="no_sdcard_title">SD карта недоступна</string>
-    <string name="no_sdcard_msg">Вставьте SD карту.</string>
-    <string name="sdcard_busy_title">SD карта заполнена</string>
-    <string name="sdcard_busy_msg">Ваша SD карта заполнена.</string>
+    <string name="no_sdcard_title">SD-карта недоступна</string>
+    <string name="no_sdcard_msg">Вставьте SD-карту.</string>
+    <string name="sdcard_busy_title">SD-карта заполнена</string>
+    <string name="sdcard_busy_msg">Ваша SD-карта заполнена.</string>
     <string name="input_length_error">Некорректное значение. Введите значение от 0 до 65535.</string>
     <string name="set_debuginfo_success">Установка DebugInfo параметров завершена.</string>
     <string name="set_debuginfo_failed">Ошибка установки DebugInfo параметров.</string>

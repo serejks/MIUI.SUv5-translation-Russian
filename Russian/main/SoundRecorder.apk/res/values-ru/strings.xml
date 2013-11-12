@@ -5,14 +5,14 @@
     <string name="recording_stopped">Запись остановлена</string>
     <string name="storage_is_full">Память заполнена</string>
     <string name="max_length_reached">Достигнута максимальная длина</string>
-    <string name="insert_sd_card">Вставьте SD карту</string>
+    <string name="insert_sd_card">Вставьте SD-карту</string>
     <string name="button_ok">ОК</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
     <string name="audio_db_artist_name">Ваши записи</string>
     <string name="audio_db_album_name">Аудиозаписи</string>
     <string name="audio_db_playlist_name">Мои записи</string>
-    <string name="error_sdcard_access">Не удалось получить доступ к SD карте</string>
+    <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
     <string name="error_app_internal">Может быть ошибка карты памяти или другое приложение использует службу записи. Проверьте и повторите заново.</string>
     <string name="error_app_internal_title">Ошибка приложения</string>
     <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
@@ -35,7 +35,7 @@
     <string name="notification_warning">Мало памяти (осталось менее %d минут)…</string>
     <string name="record_list">Список записей</string>
     <string name="record_loading">Загрузка записи, подождите.</string>
-    <string name="sd_card_not_available">SD карта недоступна</string>
+    <string name="sd_card_not_available">SD-карта недоступна</string>
     <string name="call_record">Записи звонков(%d)</string>
     <string name="fm_record">Записи FM радио(%d)</string>
     <string name="open_file_explorer">Открыть файл-менеджер</string>

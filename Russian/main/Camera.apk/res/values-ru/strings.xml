@@ -10,12 +10,12 @@
     <string name="gallery_camera_bucket_name">Фото камеры</string>
     <string name="gallery_camera_videos_bucket_name">Видео камеры</string>
     <string name="wait">Подождите…</string>
-    <string name="no_storage">Вставьте SD карту перед использованием камеры.</string>
-    <string name="not_enough_space">Ваша SD карта заполнена.</string>
+    <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
+    <string name="not_enough_space">Ваша SD-карта заполнена.</string>
     <string name="preparing_sd">Подготовка внутреннего хранилища…</string>
-    <string name="access_sd_fail">Нет доступа к SD карте</string>
-    <string name="access_phone_fail_no_product">Нет доступа к USB накопителю</string>
-    <string name="access_sd_fail_no_product">Нет доступа к SD карте</string>
+    <string name="access_sd_fail">Нет доступа к SD-карте</string>
+    <string name="access_phone_fail_no_product">Нет доступа к USB-хранилищу</string>
+    <string name="access_sd_fail_no_product">Нет доступа к SD-карте</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_change_mode_title">Переключить режим</string>
@@ -323,7 +323,7 @@
     <string name="pref_camera_antibanding_entry_2">60 Гц</string>
     <string name="pref_camera_antibanding_entry_3">Авто</string>
     <string name="dialog_ok">OK</string>
-    <string name="spaceIsLow_content">Место на вашей SD карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
+    <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -554,7 +554,7 @@
     <string name="pref_camera_storage_external_default">Выкл</string>
     <string name="pref_camera_storage_external_title">Накопитель</string>
     <string name="pref_camera_storage_external_entry_off">Память телефона</string>
-    <string name="pref_camera_storage_external_entry_on">SD карта</string>
+    <string name="pref_camera_storage_external_entry_on">SD-карта</string>
     <string name="pref_camera_storage_external_value_off">Выкл</string>
     <string name="pref_camera_storage_external_value_on">Вкл</string>
     <string name="unit_mm">мм</string>

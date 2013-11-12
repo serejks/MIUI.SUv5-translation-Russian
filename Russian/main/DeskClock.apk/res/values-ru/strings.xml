@@ -149,7 +149,7 @@
 	<string name="resource_price_free">Бесплатно</string>
 	<string name="resource_price_unit">MI Деньги</string>
 	<string name="resource_price_format">(%1$s)</string>
-	<string name="sdcard_status_changed_dialog_title">Статус SD карты изменён</string>
+	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменён</string>
 	<string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>
 	<string name="resource_mute">Без звука</string>
 	<string name="resource_default">Стандартная мелодия</string>

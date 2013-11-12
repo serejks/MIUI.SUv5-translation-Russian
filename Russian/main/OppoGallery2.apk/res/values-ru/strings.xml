@@ -17,10 +17,10 @@
     <string name="gallery_camera_bucket_name">Снимки, сделанные камерой</string>
     <string name="gallery_camera_videos_bucket_name">Видео</string>
     <string name="wait">Подождите…</string>
-    <string name="no_storage">Вставьте SD карту перед использованием камеры.</string>
-    <string name="not_enough_space">Ваша SD карта заполнена.</string>
+    <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
+    <string name="not_enough_space">Ваша SD-карта заполнена.</string>
     <string name="preparing_sd">Подготовка карты SD…</string>
-    <string name="access_sd_fail">Нет доступа к SD карте.</string>
+    <string name="access_sd_fail">Нет доступа к SD-карте.</string>
     <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
     <string name="review_play">Воспроизвести</string>
     <string name="review_cancel">ОТМЕНА</string>
@@ -80,7 +80,7 @@
     <string name="pref_restore_detail">По умолчанию</string>
     <string name="pref_exposure_title">Экспозиция</string>
     <string name="dialog_ok">ОК</string>
-    <string name="spaceIsLow_content">Место на вашей SD карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
+    <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
     <string name="share_picture_via">Отправка картинки</string>
     <string name="share_video_via">Отправка видео</string>

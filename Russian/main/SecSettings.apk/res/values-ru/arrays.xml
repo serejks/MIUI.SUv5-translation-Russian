@@ -124,8 +124,8 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Нажмите кнопку</item>
-        <item>PINкод другого устройства</item>
-        <item>PINкод этого устройства</item>
+        <item>PIN-код другого устройства</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Подключено</item>
@@ -196,8 +196,8 @@
     <string-array name="wifi_network_setup">
         <item>Выключено</item>
         <item>Нажмите кнопку</item>
-        <item>PINкод точки доступа</item>
-        <item>PINкод этого устройства</item>
+        <item>PIN-код точки доступа</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -240,7 +240,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Внутренняя память устройства</item>
-        <item>Съемная SD карта</item>
+        <item>Съемная SD-карта</item>
         <item>По умолчанию</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">

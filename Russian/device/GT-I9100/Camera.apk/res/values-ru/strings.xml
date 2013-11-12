@@ -232,9 +232,9 @@
     <string name="Title_InsertMemoryCardDailog">Для использования Камеры вставьте карту памяти</string>
     <string name="OnScreen_HelpTextTouchAF">Нажмите на область экрана для фокусировки</string>
     <string name="media_scanner_running">Подождите, идет поиск медиа файлов…</string>
-    <string name="close_camera_when_mmc_inserted">Вставлена SD карта. %s закрыто для поиска медиа-файлов на SD карте</string>
+    <string name="close_camera_when_mmc_inserted">Вставлена SD-карта. %s закрыто для поиска медиа-файлов на SD-карте</string>
     <string name="close_camera_when_media_mounted">Камера закрыта. Идёт сканирование медиа файлов.</string>
-    <string name="close_camera_for_unmounted_memory">Перед использованием камеры отключите USB накопитель</string>
+    <string name="close_camera_for_unmounted_memory">Перед использованием камеры отключите USB-накопитель</string>
     <string name="message_size_limited">Достигнут максимальный размер сообщения</string>
     <string name="crop_save_text">Сохранить</string>
     <string name="crop_discard_text">Отменить</string>
@@ -280,9 +280,9 @@
     <string name="battery_low">Камера закрыта! Заряд батареи слишком низкий!</string>
     <string name="buddy_photo_share_helptext">Фотографируйте и делитесь снимками с друзьями при помощи функции распознавания лиц</string>
     <string name="face_zoom_helptext">Дважды кликните по лицу для автофокусировки</string>
-    <string name="burst_shot_guidetext">Моментальные снимки будут сохраняться в память телефона</string>
+    <string name="burst_shot_guidetext">Моментальные снимки будут сохраняться в хранилище телефона</string>
     <string name="continuous_shot_guidetext">Серийные снимки будет сохранены на память устройства</string>
-    <string name="best_photo_guidetext">Лучшие снимки будут сохраняться в память телефона</string>
+    <string name="best_photo_guidetext">Лучшие снимки будут сохраняться в хранилище телефона</string>
     <string name="snap_shot_limitation_dialog">Невозможно использовать функцию записи снимка, пока включена функция защиты от сотрясений.</string>
     <string name="voicecommand_helptext">Вы можете делать фото с помощью голосовызх команд, тких как %1$s, %2$s, %3$s, и %4$s</string>
     <string name="on_device_help_focus">Вы можете нажать на экран, чтобы настроить фокусs</string>

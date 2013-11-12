@@ -31,7 +31,7 @@
     <string name="policy_app_whitelist">Разрешать только указанные приложения</string>
     <string name="policy_text_truncation">Ограничивать размер текстовых писем</string>
     <string name="policy_html_truncation">Ограничивать размер писем в формате HTML</string>
-    <string name="policy_require_sd_encryption">Обязательное шифрование SD карты</string>
+    <string name="policy_require_sd_encryption">Обязательное шифрование SD-карты</string>
     <string name="policy_dont_allow_attachments">Не загружать прикрепленные файлы</string>
     <string name="policy_max_attachment_size">Ограничивать размер прикрепленных файлов</string>
     <string name="policy_require_manual_sync_roaming">В роуминге только синхронизация вручную</string>

@@ -74,7 +74,7 @@
 	<string name="pref_video_volumekeys_entry_flash">Вспышка</string>
 	<string name="pref_camera_storagesource_title">Место хранения</string>
 	<string name="pref_camera_storagesource_entry_internal">Внутренняя панять</string>
-	<string name="pref_camera_storagesource_entry_sd">SD карта</string>
+	<string name="pref_camera_storagesource_entry_sd">SD-карта</string>
 	<string name="settings_album_settings">НАСТРОЙКИ АЛЬБОМА</string>
 	<string name="settings_album_sort_albums_by">Сортировка по</string>
 	<string name="order_by_date_desc">Дата</string>
@@ -179,9 +179,9 @@
 	<string name="camera_label">Камера</string>
 	<string name="video_camera_label">Видеокамера</string>
 	<string name="wait">Подождите…</string>
-	<string name="no_storage">Вставьте SD карту перед использованием камеры.</string>
+	<string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
 	<string name="preparing_sd">Подготовка внутреннего хранилища…</string>
-	<string name="access_sd_fail">Нет доступа к USB хранилищу</string>
+	<string name="access_sd_fail">Нет доступа к USB-хранилищу</string>
 	<string name="review_cancel">ОТМЕНА</string>
 	<string name="review_ok">ГОТОВО</string>
 	<string name="time_lapse_title">Режим замедленной съёмки</string>
@@ -227,7 +227,7 @@
 	<string name="not_selectable_in_scene_mode">Недоступно в режиме съёмки.</string>
 	<string name="pref_exposure_title">Экспозиция</string>
 	<string name="dialog_ok">OK</string>
-	<string name="spaceIsLow_content">Место на вашей SD карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
+	<string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
 	<string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
 	<string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
 	<string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -484,7 +484,7 @@
 	<string name="help">Помощь</string>
 	<string name="help_url_gallery_main"></string>
 	<string name="no_external_storage_title">Нет хранилища</string>
-	<string name="no_external_storage">Внешний накопитель недоступен</string>
+	<string name="no_external_storage">Внешнее хранилище недоступно</string>
 	<string name="switch_photo_filmstrip">Диафильм</string>
 	<string name="switch_photo_grid">Сетка</string>
 	<string name="trimming">Отделка</string>

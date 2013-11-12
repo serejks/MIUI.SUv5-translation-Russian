@@ -45,8 +45,8 @@
 	<string name="alert_title_edit_anyway">Подтвердите редактирование, старые данные могут быть утеряны?</string>
 	<string name="alert_message_edit_anyway">Заметка содержит неподдерживаемые данные, редактирование может привести к потьере данных.</string>
 	<string name="alert_action_edit_anyway">Продолжить редактирование</string>
-	<string name="error_sdcard_unmounted">SD карта недоступна</string>
-	<string name="error_sdcard_export">Экспорт не удался, проверьте SD карту</string>
+	<string name="error_sdcard_unmounted">SD-карта недоступна</string>
+	<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту</string>
 	<string name="error_note_not_exist">Заметка отсутствует</string>
 	<string name="error_note_empty_for_clock">Заметка пуста. Невозможно установить напоминание</string>
 	<string name="error_note_empty_for_send_to_desktop">Заметка пуста. Невозможно отправить на рабочий стол</string>
@@ -96,7 +96,7 @@
 	<string name="pref_title_common">Общие настройки</string>
 	<string name="pref_title_alarm_when_silent">Сигнал в режиме \"Без звука\"</string>
 	<string name="pref_desc_alarm_when_silent">Cигналы будильника будут воспроизводиться даже в режиме без звука</string>
-	<string name="pref_title_data_export_to_sdcard">Экспорт заметок на SD карту</string>
+	<string name="pref_title_data_export_to_sdcard">Экспорт заметок на SD-карту</string>
 	<string name="dlg_title_confirm_alarm_silent">Отключить сигнал будильника в режиме без звука?</string>
 	<string name="dlg_desc_confirm_alarm_silent">Cигналы будильника не будут воспроизводиться в режиме без звука.</string>
 	<string name="close">Закрыть</string>

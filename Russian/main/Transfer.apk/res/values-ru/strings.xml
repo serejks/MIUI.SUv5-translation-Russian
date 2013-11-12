@@ -72,7 +72,7 @@
 	<string name="trasfer_list">История загрузок</string>
     <string name="about_to_receive">Получение\u2026</string> 
     <string name="receive_canceled">Отменено.</string>
-    <string name="sdcard_unavailable">SD карта недоступна.</string>
+    <string name="sdcard_unavailable">SD-карта недоступна.</string>
     <string name="receive_cannot_created_file">Ошибка создания файла.</string>
     <string name="error_transmit">Ошибка передачи.</string>
     <string name="error_bad_file">Поврежденный файл.</string>
@@ -140,7 +140,7 @@
     <string name="network_not_connected">Сеть не доступна</string>
     <string name="login_failed">Ошибка авторизации</string>
     <string name="select_file_to_share">Отправить файл</string>
-    <string name="sdcard_invalid">SD карта не доступна</string>
+    <string name="sdcard_invalid">SD-карта не доступна</string>
     <string name="back">Назад</string>
     <string name="all_history">Вся история</string>
     <string name="share_history">История отправки</string>
@@ -171,7 +171,7 @@
     <string name="waitting">Ожидание</string>
     <string name="wait_login">Ожидание входа</string>
     <string name="wait_net">Ожидание сети</string>
-    <string name="wait_sdcard">Ожидание SD карты</string>
+    <string name="wait_sdcard">Ожидание SD-карты</string>
     <string name="wait_wifi">Ожидание Wi-Fi</string>
     <string name="wait_wifi_to_upload">Ожидание сети Wi-Fi</string>
     <string name="wait_wifi_to_download">Ожидание сети Wi-Fi</string>

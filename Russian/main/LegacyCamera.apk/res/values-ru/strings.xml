@@ -8,10 +8,10 @@
     <string name="gallery_camera_bucket_name">Снимки камеры</string>
     <string name="gallery_camera_videos_bucket_name">Видео камеры</string>
     <string name="wait">Пожалуйста подождите…</string>
-    <string name="no_storage">Подключите USB накопитель перед использованием камеры.</string>
-    <string name="not_enough_space">Нет места на USB накопителе.</string>
-    <string name="preparing_sd">Подготовка USB накопителя…</string>
-    <string name="access_sd_fail">Нет доступа к USB накопителю.</string>
+    <string name="no_storage">Подключите USB-накопитель перед использованием камеры.</string>
+    <string name="not_enough_space">Нет места на USB-накопителе.</string>
+    <string name="preparing_sd">Подготовка USB-накопителя…</string>
+    <string name="access_sd_fail">Нет доступа к USB-накопителю.</string>
     <string name="confirm_restore_title">Восстановить по умолчанию</string>
     <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
     <string name="review_play">Воспроизвести</string>
@@ -81,7 +81,7 @@
     <string name="pref_exposure_title">Экспозиция</string>
     <string name="pref_exposure_default">0</string>
     <string name="dialog_ok">Да</string>
-    <string name="spaceIsLow_content">Осталось мало места на USB накопителе. Измените качество снимков или удалите снимки/другие файлы с накопителя.</string>
+    <string name="spaceIsLow_content">Осталось мало места на USB-накопителе. Измените качество снимков или удалите снимки/другие файлы с накопителя.</string>
     <string name="video_reach_size_limit">Достигнуто ограничение размера.</string>
     <string name="switch_to_camera_label">Переключить в режим фото</string>
     <string name="switch_to_video_label">Переключить в режим видео</string>
