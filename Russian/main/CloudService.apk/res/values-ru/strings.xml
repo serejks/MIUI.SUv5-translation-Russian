@@ -6,7 +6,7 @@
     <string name="sub_sync_item_sms_title_wifi_only">MMS только по Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Рекомендуется включить, или увеличится расход трафика</string>
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Фотографии только по Wi-Fi</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, или увеличится расход трафика</string>
     <string name="find_device">Найти устройство</string>
     <string name="find_device_stop_noise">Нажмите \"ОК\" для выключения звука</string>
