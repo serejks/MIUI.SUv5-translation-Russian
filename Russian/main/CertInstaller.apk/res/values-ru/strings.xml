@@ -28,5 +28,5 @@
     <string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
     <string name="no_cert_file_found">На накопителе отсутствует файл сертификата.</string>
-    <string name="sdcard_not_present">SD-карта отсутствует.</string>
+    <string name="sdcard_not_present">SD карта отсутствует.</string>
 </resources>

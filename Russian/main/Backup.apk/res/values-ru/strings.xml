@@ -11,7 +11,7 @@
 	<string name="backup_items_app_tailer">" приложений "</string>
 	<string name="backup_failed">Ошибка резервного копирования.</string>
 	<string name="backup_recently">" (Последний)"</string>
-	<string name="sdcard_unmounted">SD-карта не найдена.</string>
+	<string name="sdcard_unmounted">SD карта не найдена.</string>
 	<string name="backup_progress">Создание бэкапа…</string>
 	<string name="button_ok">ОК</string>
 	<string name="backup_finished">Бэкап завершен.</string>
@@ -82,7 +82,7 @@
 	<string name="task_restore_none">Восстановление не требуется.</string>
 	<string name="task_stopped_exception">Задание отменено.</string>
 	<string name="sdcard_no_enough_space">Недостаточно свободного места</string>
-	<string name="sdcard_no_enough_space_message">Недостаточно свободного места на SD-карте</string>
+	<string name="sdcard_no_enough_space_message">Недостаточно свободного места на SD карте</string>
 	<string name="data_no_enough_space">Недостаточно свободного места</string>
 	<string name="data_no_enough_space_message">Недостаточно свободного места в памяти телефона</string>
 	<string name="task_running_hint">Служба уже работает в фоне.</string>
@@ -145,7 +145,7 @@
 	<string name="cloud_search">Поиск…</string>
 	<string name="cloud_no_backup">Нет облачных бэкапов.</string>
 	<string name="current_account">Привет, %s</string>
-	<string name="current_sim">Текущая SIM-карта</string>
+	<string name="current_sim">Текущая SIM карта</string>
 	<string name="date_format">dd.MM.yyyy HH:mm:ss</string>
 	<string name="dir_date_format">dd.MM.yyyy_HH-mm-ss</string>
 	<string name="no_network">Сетевая ошибка: проверьте настройки подключения и повторите заново</string>

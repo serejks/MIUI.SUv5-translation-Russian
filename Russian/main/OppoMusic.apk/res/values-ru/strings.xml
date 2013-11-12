@@ -27,12 +27,12 @@
     <string name="recentlyadded_title">Последние добавления</string>
     <string name="podcasts_listitem">Подкасты</string>
     <string name="podcasts_title">Подкасты</string>
-    <string name="sdcard_missing_title">SD-карта не найдена</string>
-    <string name="sdcard_missing_message">Вставьте SD-карту</string>
-    <string name="sdcard_busy_title">SD-карта недоступна</string>
-    <string name="sdcard_busy_message">SD-карта занята</string>
-    <string name="sdcard_error_title">Ошибка SD-карты</string>
-    <string name="sdcard_error_message">Ошибка SD-карты</string>
+    <string name="sdcard_missing_title">SD карта не найдена</string>
+    <string name="sdcard_missing_message">Вставьте SD карту</string>
+    <string name="sdcard_busy_title">SD карта недоступна</string>
+    <string name="sdcard_busy_message">SD карта занята</string>
+    <string name="sdcard_error_title">Ошибка SD карты</string>
+    <string name="sdcard_error_message">Ошибка SD карты</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unknown_album_name">"Неизвестный альбом "</string>
     <string name="shuffle_on_notif">Включено случайное воспроизведение</string>
@@ -183,7 +183,7 @@
     <string name="notif_nothing_playing">Трек не воспроизводится или воспроизводимый трек не включен в медиа-библиотеку.</string>
     <string name="notif_track_deleted">" один трек удален из %s !"</string>
     <string name="internal_storage">внутренняя память</string>
-    <string name="external_storage">SD-карта</string>
+    <string name="external_storage">SD карта</string>
     <string name="notif_playlist_exist">Плей-лист уже существует, введите снова</string>
     <string name="notif_track_exist">Файл с таким именем уже существует, попробуйте снова</string>
     <string name="notif_empty_input">Поле ввода не должно оставаться пустым</string>

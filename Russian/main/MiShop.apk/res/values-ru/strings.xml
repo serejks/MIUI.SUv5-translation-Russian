@@ -16,7 +16,7 @@
     <string name="checking_update">Проверка обновлений…</string>
     <string name="no_update">Обновлений не найдено</string>
     <string name="download_err">Загрузка не удалась. Проверьте подключение к сети</string>
-    <string name="update_no_sd">Загрузка не удалась. SD-карта не обнаружена</string>
+    <string name="update_no_sd">Загрузка не удалась. SD карта не обнаружена</string>
     <string name="immediately_update">Обновление</string>
     <string name="cancel_update">Отмена</string>
     <string name="currency_unit_template">Сумма ¥%1$s</string>
