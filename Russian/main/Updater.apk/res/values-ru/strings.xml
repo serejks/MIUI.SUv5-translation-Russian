@@ -58,7 +58,7 @@
     <string name="no_updates_warning">На вашем аппарате не найдено обновлений</string>
     <string name="no_updates_warning2">Приложение уведомит вас об обновлении</string>
     <string name="new_updates_found_title">Доступно обновление</string>
-    <string name="new_update_content_title">"Найдена новая версия "</string>
+    <string name="new_update_content_title">"Новая версия "</string>
     <string name="new_update_downloading_body">Загрузка новой версии:%s</string>
     <string name="new_update_download_complete_body">Новая версия загружена:%s</string>
     <string name="update_success_title">Обновление завершено!</string>

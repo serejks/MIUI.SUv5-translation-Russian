@@ -100,7 +100,7 @@
     <string name="recharge_status_description">Статус:</string>
     <string name="recharge_actual_price">Цена:</string>
     <string name="recharge_order_original_price">RMB %s</string>
-    <string name="recharge_order_actual_price">\u00A5%s</string>
+    <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_pay">Контроль</string>
     <string name="recharge_history">История пополнений</string>
     <string name="module_sms_sent">Сообщение отправлено</string>
