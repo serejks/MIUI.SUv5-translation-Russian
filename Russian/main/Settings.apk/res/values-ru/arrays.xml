@@ -74,20 +74,24 @@
         <item>Подключено</item>
         <item>Приостановлено</item>
         <item>Отключение…</item>
-        <item>Нет подключения</item>
-        <item>Сбой</item>
+        <item>Отключено</item>
+        <item>Неудачно</item>
+        <item>Заблокировано</item>
+        <item>Временно избежать плохого соединения</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Поиск…</item>
-        <item>Соединение с сетью %1$s…</item>
-        <item>Аутентификация в сети %1$s…</item>
+        <item>Соединение с %1$s…</item>
+        <item>Аутентификация с %1$s…</item>
         <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
         <item>Приостановлено</item>
         <item>Отключение от %1$s…</item>
-        <item>Нет подключения</item>
-        <item>Сбой</item>
+        <item>Отключено</item>
+        <item>Неудачно</item>
+        <item>Заблокировано</item>
+        <item>Временно избежать плохого соединения</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push-кнопка</item>
@@ -102,9 +106,9 @@
         <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>1 ч.</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
         <item>Без тайм-аута</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -269,14 +273,14 @@
         <item>Накопитель</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>2 сек.</item>
-        <item>3 сек.</item>
-        <item>4 сек.</item>
-        <item>5 сек.</item>
-        <item>6 сек.</item>
-        <item>7 сек.</item>
-        <item>8 сек.</item>
-        <item>9 сек.</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Синий</item>
@@ -307,17 +311,17 @@
         <item>Сапфир</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-        <item>0.5 сек.</item>
-        <item>1 сек.</item>
-        <item>1.5 сек.</item>
-        <item>2 сек.</item>
+        <item>0.5 секунд</item>
+        <item>1 секунда</item>
+        <item>1.5 секунд</item>
+        <item>2 секунд</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
-        <item>1 сек.</item>
-        <item>2 сек.</item>
-        <item>5 сек.</item>
-        <item>10 сек.</item>
-        <item>20 сек.</item>
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>20 секунд</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="entries_dolby_control">
@@ -398,10 +402,10 @@
         <item>Закрыть текущее приложение</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 сек.</item>
-        <item>1 сек.</item>
-        <item>1.5 сек.</item>
-        <item>2 сек.</item>
+        <item>0.5 секунд</item>
+        <item>1 секунда</item>
+        <item>1.5 секунд</item>
+        <item>2 секунды</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Один микрофон</item>
