@@ -4,7 +4,7 @@
     <string name="no_effects">Эффекты недоступны</string>
     <string name="main_toggle_effects_title">Аудиоэффекты</string>
     <string name="eq_dialog_title">Эквалайзер</string>
-    <string name="headset_plug">Подключите наушники для этих эффектов</string>
+    <string name="headset_plug">Подключите наушники для этих эффектов.</string>
     <string name="bass_boost_strength">Усиление нижних частот</string>
     <string name="virtualizer_strength">Эффект 3D</string>
     <string name="pr_title">Реверберация:</string>

@@ -2,7 +2,7 @@
 <resources>
 	<string name="app_name">Заметки</string>
 	<string name="app_widget">Заметка</string>
-	<string name="widget_havenot_content">Нажмите, чтобы создать заметку</string>
+	<string name="widget_havenot_content">Не найдено связанных заметок. Нажмите, для создания заметки. Измените размер, долгим нажатием</string>
 	<string name="widget_under_visit_mode">Заметки не отображаются в режиме \"Гость\"</string>
 	<string name="notelist_string_info">…</string>
 	<string name="notelist_menu_new">Новая заметка</string>
@@ -22,7 +22,7 @@
 	<string name="menu_create_folder">Новая папка</string>
 	<string name="menu_setting">Настройки</string>
 	<string name="menu_delete">Удалить</string>
-	<string name="menu_discard">Отменить</string>
+	<string name="menu_discard">Отменить все изменения</string>
 	<string name="menu_move">Переместить</string>
     <string name="menu_stick">Закрепить</string>
     <string name="menu_unstick">Отлепить</string>
