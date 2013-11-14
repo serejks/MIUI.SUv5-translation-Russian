@@ -11,7 +11,7 @@
 	<string name="restore_all_button_msg">Восстановить сообщения этого контакта</string>
     <string name="sim_empty">На SIM карте нет сообщений.</string>
     <string name="sim_full_title">SIM карта заполнена</string>
-    <string name="save_to_sim">Сохранено на SIM карту</string>
+    <string name="save_to_sim">Сохранить на SIM карту</string>
     <string name="app_label">Сообщения</string>
     <string name="new_message">Новое сообщение</string>
     <string name="menu_call_back">Вызов: %s</string>
@@ -375,7 +375,7 @@
     <string name="pref_messaging_list_title">Список</string>
     <string name="bookmark_list_title">Избранное</string>
     <string name="bookmark_attr_format">%1$s , %2$s</string>
-    <string name="delete_bookmark">Удалено из избранного</string>
+    <string name="delete_bookmark">Удалить из избранного</string>
     <string name="view_bookmark">Показать оригинальное сообщение</string>
     <string name="bookmark_confirm_delete_message">Выбранное сообщение будет удалено из избранного</string>
     <string name="bookmark_empty">Нет избранных</string>
