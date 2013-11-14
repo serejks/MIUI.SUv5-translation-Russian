@@ -238,7 +238,6 @@
     <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии ваших друзей и добавлять фотографии в их альбом.</string>
     <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
     <string name="view_sharers">Пользователи</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Не удалось загрузить изображение!</string>
     <string name="damaged_file">Файл поврежден</string>
     <string name="cloud_camera_display_name">Фото камеры</string>
