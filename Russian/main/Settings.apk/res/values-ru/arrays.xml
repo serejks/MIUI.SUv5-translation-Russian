@@ -77,7 +77,7 @@
         <item>Отключено</item>
         <item>Неудачно</item>
         <item>Заблокировано</item>
-        <item>Временно избежать плохого соединения</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -91,7 +91,7 @@
         <item>Отключено</item>
         <item>Неудачно</item>
         <item>Заблокировано</item>
-        <item>Временно избежать плохого соединения</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push-кнопка</item>
