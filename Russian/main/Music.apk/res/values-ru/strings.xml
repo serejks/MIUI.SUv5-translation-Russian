@@ -23,6 +23,14 @@
     <string name="not_selected">Выберите песню</string>
     <string name="file_not_found">Файл не существует</string>
     <string name="music_settings">Настройки</string>
+    <string name="account_setting">Аккаунт</string>
+    <string name="account_and_synchronization">Аккаунт и синхронизация</string>
+    <string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
+    <string name="bind_baidu_account_setting">Аккаунт Bind Baidu</string>
+    <string name="bind_baidu_account_summary">Загрузите плейлист из своего аккаунта Baidu music</string>
+    <string name="synchronize_playlist_setting">Синхронизировать плейлист</string>
+    <string name="synchronize_playlist_summary">Синхронизировать плейлист с облаком.</string>
+    <string name="not_login">Вход</string>
     <string name="mobile_connect_settings">Мобильная сеть</string>
     <string name="download_album_settings">Загружать изображения</string>
     <string name="download_album_summary">Увеличится объём загружаемых данных. Рекомендуется выключить.</string>
@@ -269,6 +277,7 @@
     <string name="dirac_mode_in_ear">Наушники-вкладыши Xiaomi</string>
     <string name="dirac_mode_earbuds">Наушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Наушники Xiaomi</string>
+    <string name="dirac_mode_general">Обычные</string>
     <string name="eq_flat">Легкая</string>
     <string name="eq_rock">Рок</string>
     <string name="eq_jazz">Джаз</string>

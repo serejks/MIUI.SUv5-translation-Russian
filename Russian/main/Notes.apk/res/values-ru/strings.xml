@@ -58,6 +58,7 @@
 	<string name="error_contact_not_exist">Контакт не существует</string>
 	<string name="preferences_title">Настройки</string>
 	<string name="preferences_bg_random_appear_title">Случайный цвет заметок</string>
+    <string name="pref_title_font_size">Размер шрифта</string>
 	<string name="call_record_folder_name">Заметка разговора</string>
 	<string name="hint_foler_name">Введите имя</string>
 	<string name="search_label">Поиск заметок</string>

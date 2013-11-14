@@ -814,6 +814,8 @@
 	<string name="auto_record_scenario_enteries_always_miui">Все номера</string>
 	<string name="auto_record_scenario_enteries_whitelist_miui">Выбранные номера</string>
 	<string name="auto_record_whitelist_miui">Выбрать номера</string>
+    <string name="auto_record_unknown_miui">Неизвестные номера</string>
+    <string name="auto_record_yellowpage_miui">Желтые страницы</string>
 	<string name="auto_record_whitelist_no_item_miui">Нажмите Добавить номера для добавления к автозаписи</string>
 	<string name="auto_record_whitelist_summary_for_one_miui">1 номер</string>
 	<string name="auto_record_whitelist_summary_miui">%d номера(ов)</string>
@@ -1188,6 +1190,7 @@
 	<string name="antispam_marked_title">%1$s</string>
 	<string name="antispam_marked_count">Сообщило: %1$d MIUI пользователей</string>
 	<string name="antispam_notification_title">Умное определение номеров</string>
+    <string name="antispam_provider">Определено %s</string>
     <string name="which_call_to_activate">Какой звонок активировать?</string>
     <string name="onscreenHangupAll">Завершить все</string>
     <string name="onscreenHangupHolding">Завершить проведением</string>

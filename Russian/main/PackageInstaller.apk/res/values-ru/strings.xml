@@ -83,5 +83,9 @@
     <string name="perm_action_prompt">С запросом</string>
     <string name="perm_action_reject">Запретить</string>
     <string name="unknown_installer">Неопознаный инструмент ПК</string>
-	<string name="install_failed_system_incompatible" product="default">Это приложение не совместимо с системой MIUI.</string>
+	<string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI.</string>
+    <string name="virus_scan_install">" "<u>продолжить установку</u>" "</string>
+    <string name="virus_scan_is_virus">Это приложение содержит вирус, рекомендуется его удалить!</string>
+    <string name="virus_scan_is_risk">Я понимаю опасность, продолжить установку.</string>
+    <string name="virus_scan_clear">Удалить</string>
 </resources>

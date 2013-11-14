@@ -20,6 +20,8 @@
     <string name="pref_traffic_daily_limit_settings">Настройки дневного лимита</string>
     <string name="pref_connect_settings_title">Настройки приложения Монитор</string>
     <string name="pref_connect_settings_notify_in_statusbar">Иконка в панели уведомлений</string>
+    <string name="pref_connect_settings_monitor_running_app">Показывать заблокированные приложения при запуске</string>
+    <string name="pref_connect_settings_monitor_running_app_summary">Показывать уведомление при запуске заблокированного приложения</string>
     <string name="pref_connect_settings_exceed_limit">Выкл.интернет по дост.порога</string>
     <string name="pref_connect_settings_exceed_limit_hint">Уведомить и отключить передачу данных при достижении порога</string>
     <string name="pref_connect_settings_enable_backgroung">Включить фоновые службы</string>
@@ -179,4 +181,10 @@
     <string name="custom_adjust_receiver_hint">Номер оператора, используемый для отправки информации.</string>
     <string name="custom_adjust_recevier_same_with_sender">Почти то же самое с номера отправителя</string>
     <string name="custom_adjust_is_empty">%s пусто!</string>
+    <string name="running_apps_activity_title">Запущенные приложения</string>
+    <string name="network_control_service_notification_text">Нажмите для управления сетью</string>
+    <string name="network_control_service_notification_title_single">%1$s был запрежен для %2$s соединения</string>
+    <string name="network_control_service_notification_title_mutiple">%1$d приложению было запрещено %2$s соединение</string>
+    <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+    <string name="network_control_service_notification_title_nettype_mobile">Мобильн.интернет</string>
 </resources>
