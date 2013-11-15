@@ -187,7 +187,7 @@
 	<string name="button_search_in_market">Поиск в маркете</string>
     <string name="notif_title_update">%1$s обновлений</string>
     <string name="notif_installing">Установка %1$s…</string>
-    <string name="notif_install_successful">Установлено: %1$s</string>
+    <string name="notif_install_successful">Установлено</string>
     <string name="notif_install_successful_default">%1$s установлено</string>
     <string name="notif_update_successful">Обновлено.</string>
     <string name="notif_update_successful_default">Обновлено.</string>
