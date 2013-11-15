@@ -18,8 +18,8 @@
     <string name="start_update">Начать обновление</string>
     <string name="applying_update">Идет обновление (%s)…</string>
     <string name="apply_update_fail">Обновление системы не удалось</string>
-    <string name="view_install_log">Показать лог ошибок</string>
-    <string name="send_install_log">Отправить лог ошибок</string>
+    <string name="view_install_log">Посмотреть лог</string>
+    <string name="send_install_log">Отправить лог</string>
     <string name="install_email">Установить e-mail софт</string>
     <string name="send_install_log_error">Ошибка при отправке лога ошибок</string>
     <string name="copy_install_log">Копировать</string>
@@ -105,7 +105,7 @@
     <string name="moving_data_to_sdcard_message">Перенос данных. Не вынимайте SD карту и не переключайтесь в режим USB накопителя</string>
     <string name="moving_data_to_sdcard_progress_format">Завершено %1$d Kб из %2$d Kб</string>
     <string name="finish_download">Загрузка завершена</string>
-    <string name="install_whole_rom">Скачать полную прошивку</string>
+    <string name="install_whole_rom">Скачайте полную прошивку</string>
     <string name="check_update_policy">Параметры обновления</string>
     <string name="check_update_when_wifi_available">Проверка обновлений только через Wi-Fi</string>
     <string name="update_monthly_build_only">Обновлять только до ежемесячных сборок</string>
