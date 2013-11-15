@@ -574,7 +574,6 @@
     <string name="power_mode_balanced_title">Включить балансировку мощности</string>
     <string name="usb_host_mode_text">Включить USB хост режим</string>
     <string name="usb_host_mode_subtext">Использование игровых контроллеров и другие периферийных устройств от USB порта, может уменьшить срок службы батареи</string>
-    <string name="power_settings_title">Производительность системы</string>
     <string name="title_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_color_calibration">Коррекция цвета</string>
     <string name="color_calibration_srgb">sRGB</string>
