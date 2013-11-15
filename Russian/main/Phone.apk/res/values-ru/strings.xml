@@ -389,7 +389,6 @@
 	<string name="puk_requested">Неверный пароль, SIM карта заблокирована! Введите код PUK2.</string>
 	<string name="puk_unlock_failed">Ошибка разблокировки</string>
 	<string name="puk_unlock_success">PUK код разблокирован</string>
-	<string name="enter_pin2_text">PIN2</string>
 	<string name="oldPin2Label">Прежний PIN2</string>
 	<string name="newPin2Label">Новый PIN2</string>
 	<string name="confirmPin2Label">Подтвердите новый PIN2</string>
@@ -648,8 +647,6 @@
 	<string name="default_preference_summary">&lt;Не настроено&gt;</string>
 	<string name="display_name_summary">&lt;Совпадает с именем пользователя&gt;</string>
 	<string name="optional_summary">&lt;Необязательно&gt;</string>
-	<string name="default_port">5060</string>
-	<string name="default_transport">UDP</string>
 	<string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
 	<string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
 	<string name="empty_alert">Поле \%s\ не может быть пустым</string>
@@ -948,7 +945,6 @@
 	<string name="enable_telocation_title_miui">Показать местоположение</string>
 	<string name="enforce_proximity_summary_miui">Автоблокировка телефона, при помещении в карман</string>
 	<string name="enforce_proximity_title_miui">Датчик приближения</string>
-	<string name="enter_pin2_text_miui">PIN2</string>
 	<string name="fdn_change_pin_sum_miui">Изменить PIN для доступа к FDN</string>
 	<string name="fdn_disabled_miui">Фиксированный набор выключен</string>
 	<string name="fdn_enabled_miui">Фиксированный набор включен</string>
@@ -1044,9 +1040,6 @@
 	<string name="preferred_network_type_pref_entries_only_3g_miui">Только 3G</string>
 	<string name="preferred_network_type_pref_entries_global_miui">Глобально</string>
 	<string name="preferred_network_type_3g_only_warning_miui">Вы выбрали Только 3G как предпочтительный режим, сигнала может не быть, если ваша SIM карта не поддерживает 3G! Нажмите OK для продолжения.</string>
-	<string name="preferred_network_type_cdma_miui">CDMA</string>
-	<string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-	<string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
 	<string name="preferred_network_type_title_miui">Выбор типа сети</string>
     <string name="preferred_network_type_group_title_miui">Мобильная сеть (%s)</string>
 	<string name="puk_lock_warning_miui">SIM карта будет заблокирована навсегда при неудачной попытке!</string>
@@ -1078,10 +1071,6 @@
 	<string name="telocation_setting_summary_teloc_off">Спрятать местоположение</string>
 	<string name="telocation_setting_summary_countrycode_on">Автоматически добавить код страны</string>
 	<string name="telocation_setting_summary_countrycode_off">Не добавлять код страны</string>
-	<string name="tty_mode_entries_full_miui">TTY Full</string>
-	<string name="tty_mode_entries_hco_miui">TTY HCO</string>
-	<string name="tty_mode_entries_off_miui">TTY Off</string>
-	<string name="tty_mode_entries_vco_miui">TTY VCO</string>
 	<string name="tty_mode_option_summary_miui">Включить режим телетайпа</string>
 	<string name="tty_mode_option_title_miui">TTY режим</string>
 	<string name="turnover_mute_title_miui">Переверните для выключения звука</string>
@@ -1125,6 +1114,8 @@
 	<string name="turn_off_auto_select_confirm_message_miui">Сеть может быть недоступна, выключить эту опцию?</string>
 	<string name="network_work_query_failed_message_miui">Ошибка запроса, нажмите Отмена для автоматического выбора сети или ok для повтора</string>
 	<string name="sum_select_automatically_option_miui">Автоматический выбор предпочитаемой сети, %s</string>
+    <string name="select_network_automatic_hint_miui">"Не удалось зарегистрироваться в выбранной сети,
+предпочитаемая сеть будет выбрана автоматически"</string>
 	<string name="register_network_failed_title_miui">Сервис недоступен</string>
 	<string name="register_network_failed_message_miui">Невозможно зарегистрироваться в выбранной сети, вы хотите выбирать предпочитаемую сеть автоматически?</string>
 	<string name="next_miui">Далее</string>
@@ -1148,6 +1139,7 @@
 	<string name="t9_indexing_rebuilding_message">Переиндексация T9…</string>
 	<string name="t9_indexing_method_pinyin">Алфавитный</string>
 	<string name="t9_indexing_method_zhuyin">Китайский</string>
+    <string name="network_forbidden_miui">%s (запрещено)</string>
 	<string name="label_rn1dp">PIN для разблокировки сети1 UIM</string>
 	<string name="label_rn2dp">PIN для разблокировки сети2 UIM</string>
 	<string name="label_rhrpd">PIN для разблокировки hrpd UIM</string>
@@ -1187,8 +1179,7 @@
 	<string name="sms_sender">От</string>
 	<string name="sms_content">Содержание</string>
 	<string name="readingSimContacts">Чтение информации с SIM карты. Это может занять несколько минут, подождите.</string>
-	<string name="antispam_marked_title">%1$s</string>
-	<string name="antispam_marked_count">Сообщило: %1$d MIUI пользователей</string>
+	<string name="antispam_marked_count">Сообщило MIUI пользователей: %1$d</string>
 	<string name="antispam_notification_title">Умное определение номеров</string>
     <string name="antispam_provider">Определено %s</string>
     <string name="which_call_to_activate">Какой звонок активировать?</string>
@@ -1421,16 +1412,8 @@
     <string name="deactivate_all">Отменить все</string>
     <string name="change_password">Изменить пароль</string>
     <string name="call_barring_sum">Запрет вызовов</string>
-    <string name="lable_voice">VOICE</string>
-    <string name="lable_data">DATA</string>
-    <string name="lable_fax">FAX</string>
-    <string name="lable_sms">SMS</string>
-    <string name="lable_data_sync">DATA-SYNC</string>
-    <string name="lable_data_async">DATA-ASYNC</string>
-    <string name="lable_packet">PACKET</string>
-    <string name="lable_pad">PAD</string>
-    <string name="lable_disable">Disabled</string>
-    <string name="lable_enable">Enabled</string>
+    <string name="lable_disable">Отключено</string>
+    <string name="lable_enable">Включено</string>
     <string name="old_password_label">Старый пароль(4 символа)</string>
     <string name="new_password_label">Новый пароль(4 символа)</string>
     <string name="invalid_password">Введите пароль из 4 символов.</string>
