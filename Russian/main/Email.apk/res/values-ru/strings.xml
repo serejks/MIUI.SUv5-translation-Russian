@@ -313,7 +313,7 @@
     <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
     <string name="account_settings_default_label">Аккаунт по умолчанию</string>
     <string name="account_settings_default_summary">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
-    <string name="account_settings_background_attachments_label">Автозагрузка прикрепл.файлов</string>
+    <string name="account_settings_background_attachments_label">Автозагрузка вложений</string>
     <string name="account_settings_background_attachments_summary">Загружать вложения при подключении к Wi-Fi</string>
     <string name="account_settings_notify_label">Уведомления почты</string>
     <string name="account_settings_summary">Частота синхронизации, уведомления и другие настройки</string>
