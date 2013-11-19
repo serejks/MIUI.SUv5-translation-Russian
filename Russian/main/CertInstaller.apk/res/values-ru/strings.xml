@@ -5,8 +5,8 @@
     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
     <string name="extracting_pkcs12">Извлечение…</string>
     <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
-    <string name="name_credential_dialog_title">Укажите название сертификата</string>
-    <string name="credential_name">Название сертификата:</string>
+    <string name="name_credential_dialog_title">Имя сертификата</string>
+    <string name="credential_name">Имя сертификата:</string>
     <string name="credential_password">Введите пароль для извлечения сертификатов.</string>
     <string name="credential_info">Пакет содержит:</string>
     <string name="p12_description">Сертификат находится в хранилище ключей PKCS12.</string>
@@ -16,7 +16,7 @@
     <string name="n_cacrts">Сертификатов центра сертификации: %d</string>
     <string name="password_error">Введите правильный пароль.</string>
     <string name="password_empty_error">Введите пароль.</string>
-    <string name="name_empty_error">Введите название.</string>
+    <string name="name_empty_error">Введите имя.</string>
     <string name="name_char_error">Имя должно состоять из букв и цифр.</string>
     <string name="storage_error">Не удается сохранить сертификат. Нажмите ОК и повторите попытку.</string>
     <string name="unable_to_save_cert">Не удается сохранить сертификат. Хранилище регистрационных данных не включено или некорректно инициализировано.</string>
@@ -27,6 +27,6 @@
     <string name="cert_too_large_error">Установка не удалась. Размер сертификата слишком велик.</string>
     <string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
-    <string name="no_cert_file_found">На накопителе отсутствует файл сертификата.</string>
-    <string name="sdcard_not_present">SD карта отсутствует.</string>
+    <string name="no_cert_file_found">На USB накопителе отсутствует файл сертификата.</string>
+    <string name="sdcard_not_present">USB накопитель отсутствует.</string>
 </resources>
