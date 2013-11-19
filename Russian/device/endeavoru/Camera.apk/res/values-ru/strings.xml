@@ -168,13 +168,13 @@
   <string name="resolution_VGA_description">Эконом. (640 x 480)</string>
   <string name="resolution_contact_description">Среднее (272 x 272)</string>
   <string name="resolution_video_1080p_description_3">Онлайн (Full HD, 10 минут)</string>
-  <string name="resolution_video_720p_description_3">On-line (HD, 10 минут)</string>
+  <string name="resolution_video_720p_description_3">Онлайн (HD, 10 минут)</string>
   <string name="resolution_video_QVGA_description_3">Низкое (320 x 240)</string>
   <string name="resolution_video_hvga_description_2">Широкоэкранное (720 x 480)</string>
   <string name="resolution_video_qcif_description_3">MMS (176 x 144)</string>
   <string name="resolution_video_qhd_description_2">QHD (960 x 540)</string>
   <string name="resolution_video_vga_description_2">Высокое (640 x 480)</string>
-  <string name="resolution_video_vga_description_3">On-line (высокое, 10 минут)</string>
+  <string name="resolution_video_vga_description_3">Онлайн (высокое, 10 минут)</string>
   <string name="resolution_video_wvga_description_2">Широкоэкранное (800 x 480)</string>
   <string name="review_btn_capture">Съёмка</string>
   <string name="review_duration">Просмотр после съемки</string>
@@ -263,9 +263,9 @@
   <string name="settings_video_stabilization">Стабилизация видео</string>
   <string name="settings_white_balance">Баланс белого</string>
   <string name="settings_wide_image_ratio">Широкоэкранный</string>
-  <string name="settings_wide_image_ratio_summary_16_10">Формат - 16:10 (Широкоэкранный)</string>
+  <string name="settings_wide_image_ratio_summary_16_10">Формат 16:10 (Широкоэкранный)</string>
   <string name="settings_wide_image_ratio_summary_16_9">Формат 16:9 (широкоэкранный)</string>
-  <string name="settings_wide_image_ratio_summary_4_3">Разрешение - 4:3 (Стандартный размер фотоснимка)</string>
+  <string name="settings_wide_image_ratio_summary_4_3">Формат 4:3 (Стандартный размер фотоснимка)</string>
   <string name="settings_wide_image_ratio_summary_5_3">Формат 5:3 (широкоэкранный)</string>
   <string name="shutter_sound">Звук затвора</string>
   <string name="smile_capture">Определение улыбки</string>

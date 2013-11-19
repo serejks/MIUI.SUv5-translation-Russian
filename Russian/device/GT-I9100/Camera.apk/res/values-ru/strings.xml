@@ -27,7 +27,7 @@
     <string name="close">Закрыть</string>
     <string name="cannot_start_camera_msg">Невозможно запустить Камеру во время звонка</string>
     <string name="cannot_start_camcorder_msg">Запись видео во время звонка</string>
-    <string name="finish_multi_camera_msg">Невозможно повторно открыть камеру, когда она уже зарущена</string>
+    <string name="finish_multi_camera_msg">Невозможно повторно открыть камеру, когда она уже запущена</string>
     <string name="finish_multi_camcorder_msg">Невозможно повторно открыть камеру, когда она уже зарущена</string>
     <string name="image_stitching_fail">Ошибка</string>
     <string name="SM_SINGLE">Один снимок</string>
