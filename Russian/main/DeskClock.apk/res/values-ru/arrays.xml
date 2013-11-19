@@ -56,4 +56,10 @@
         <item>С ПН по ПТ</item>
         <item>Своя установка</item>
     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>С ПН по ПТ</item>
+        <item>Своя установка</item>
+    </string-array>
 </resources>
