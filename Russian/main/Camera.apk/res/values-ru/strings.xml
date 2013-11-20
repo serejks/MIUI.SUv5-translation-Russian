@@ -718,7 +718,7 @@
     <string name="pref_scan_qrcode_title">Сканировать QR код</string>
     <string name="pref_scan_qrcode_entry_off">Выкл</string>
     <string name="pref_scan_qrcode_entry_on">Вкл</string>
-    <string name="pref_scan_qrcode_default">Вкл</string>
-    <string name="pref_scan_qrcode_value_off">Выкл</string>
-    <string name="pref_scan_qrcode_value_on">Вкл</string>
+    <string name="pref_scan_qrcode_default">on</string>
+    <string name="pref_scan_qrcode_value_off">off</string>
+    <string name="pref_scan_qrcode_value_on">on</string>
 </resources>
