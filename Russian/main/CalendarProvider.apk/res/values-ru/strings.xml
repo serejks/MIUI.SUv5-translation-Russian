@@ -20,5 +20,5 @@
     <string name="holiday_data_updating">Обновление…</string>
     <string name="holiday_data_update_failed">Проверьте ошибки обновления и повторите попытку позже.</string>
     <string name="holiday_data_update_succeed">Проверьте завершенное обновление</string>
-    <string name="holiday_data_no_network">Нет сети,, повторите позже</string>
+    <string name="holiday_data_no_network">Нет сети, повторите позже</string>
 </resources>

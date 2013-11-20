@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="action_screen_confirm_delete_message">Удалить %s?</string>
   <string name="action_screen_confirm_delete_message_burst">Удалить снятые фотографии?</string>

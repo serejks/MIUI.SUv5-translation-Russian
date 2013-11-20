@@ -460,7 +460,7 @@
     <string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
     <string name="aggregation_suggestion_edit_dialog_message">Переключиться на редактирование выбранного контакта? Введенная информация будет скопирована.</string>
     <string name="menu_copyContact">Копировать в контакты</string>
-    <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
+    <string name="add_to_my_contacts">Добавить в Мои контакты</string>
     <string name="contact_directory_description">Каталог %1$s</string>
     <string name="directory_search_label">Каталог</string>
     <string name="local_search_label">Все контакты</string>
@@ -468,7 +468,7 @@
     <string name="list_filter_all_accounts">Все контакты</string>
     <string name="list_filter_all_starred">Помеченные</string>
     <string name="list_filter_custom">Пользовательские</string>
-    <string name="list_filter_customize">Настроить…</string>
+    <string name="list_filter_customize">Настроить</string>
     <string name="list_filter_phones">Все контакты с номерами телефонов</string>
     <string name="list_filter_single">Контакт</string>
     <string name="custom_list_filter">Настройка отображения</string>
@@ -490,10 +490,10 @@
     <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
     <string name="contacts_unavailable_add_account">Войдите в аккаунт</string>
     <string name="contacts_unavailable_import_contacts">Импорт контактов из файла</string>
-    <string name="create_group_dialog_title">Создание новой группы</string>
-    <string name="create_group_item_label">[Создать новую группу]</string>
-    <string name="delete_group_dialog_title">Удаление группы</string>
-    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (При удалении группы контакты удалены не будут.)</string>
+    <string name="create_group_dialog_title">Создать новую группу</string>
+    <string name="create_group_item_label">Создать новую группу</string>
+    <string name="delete_group_dialog_title">Удалить группу</string>
+    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? Контакты этой группы удалены не будут.</string>
     <string name="toast_join_with_empty_contact">Введите имя контакта перед тем, как объединять его с другим.</string>
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>
