@@ -17,12 +17,12 @@
     <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки.</string>
     <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен.</string>
     <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-    <string name="install_failed_msg">Невозможно установить приложение \"%1$s\".</string>
+    <string name="install_failed_msg">Невозможно установить \"%1$s\".</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
     <string name="unknown_apps_dlg_text">"Из соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Android-маркета.
 
-Вы можете изменить это в Настройки->Безопасность и приватность->Неизвестные источники."</string>
+Вы можете изменить это в Настройки->Безопасность->Неизвестные источники."</string>
     <string name="ok">ОК</string>
     <string name="settings">Настройки</string>
     <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
@@ -34,8 +34,8 @@
     <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит другое приложение.
 
 Все пользовательские данные будут сохранены."</string>
-    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) заменит установленную версию (%3$s). Пользовательские данные будут сохранены.
-Установить?</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) заменит установленную версию (%3$s). Пользовательские данные будут сохранены.
+Установить?"</string>
     <string name="dlg_sys_app_replacement_statement">"Это системное приложение. Заменить?
 
 Все пользовательские данные будут сохранены."</string>
@@ -45,12 +45,12 @@
     <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
-    <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений.</string>
+    <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных приложений.</string>
     <string name="uninstall_application_title">Удаление приложения</string>
     <string name="uninstall_update_title">Удаление обновления</string>
     <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
     <string name="uninstall_confirm_question">Удалить приложение?</string>
-    <string name="uninstall_application_text">Приложение будет удалено</string>
+    <string name="uninstall_application_text">Приложение будет удалено.</string>
     <string name="uninstall_update_text">Будет восстановлена исходная версия приложения.</string>
     <string name="uninstalling">Удаление…</string>
     <string name="uninstall_done">Удаление завершено</string>
@@ -72,7 +72,7 @@
 Разрешить автозапуск?"</string>
     <string name="low_risk_perms">Слабо опасные разрешения</string>
     <string name="high_risk_perms">Опасные разрешения</string>
-    <string name="perm_privacy_app_finish">Закрыть</string>
+    <string name="perm_privacy_app_finish">Готово</string>
     <string name="perm_privacy_app_launch">Открыть</string>
     <string name="perm_privacy_app_installed">Установка завершена!</string>
     <string name="perm_sysopt_boost_auto_start">Разрешения автозапуска</string>
@@ -84,7 +84,7 @@
     <string name="perm_action_reject">Запретить</string>
     <string name="unknown_installer">Неопознаный инструмент ПК</string>
 	<string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI.</string>
-    <string name="virus_scan_install">" "<u>продолжить установку</u>" "</string>
+    <string name="virus_scan_install">" <u>продолжить установку</u> "</string>
     <string name="virus_scan_is_virus">Это приложение содержит вирус, рекомендуется его удалить!</string>
     <string name="virus_scan_is_risk">Я понимаю опасность, продолжить установку.</string>
     <string name="virus_scan_clear">Удалить</string>
