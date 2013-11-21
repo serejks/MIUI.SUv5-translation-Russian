@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Безопасность</string>
-    <string name="Generic_Copyright">Работает на LBE Privacy Guard</string>
     <string name="Generic_Version">Версия: %1$s</string>
     <string name="Generic_Configuration">Настройки</string>
     <string name="Generic_UserApp">Скачаные приложения: (%d)</string>
@@ -25,7 +24,7 @@
     <string name="Generic_Check">Проверка</string>
     <string name="Generic_Clean">Очистка</string>
     <string name="Generic_Good">Хорошо</string>
-    <string name="Generic_Update">Обновление приложений</string>
+    <string name="Generic_Update">Обновление програмного обеспечения</string>
     <string name="Generic_Shortcut">Контекстное меню</string>
     <string name="HIPS_Action_Accept">Разрешить</string>
     <string name="HIPS_Action_Prompt">С запросом</string>
@@ -90,7 +89,7 @@
     <string name="HIPS_Perm_SendSMS_Recipient">Получатель:</string>
     <string name="HIPS_Perm_SendSMS_Content">Содержимое:</string>
     <string name="HIPS_Perm_SendSMS_SMSC">Центр обслуживания SMS:</string>
-    <string name="HIPS_Perm_SendSMS_SMSC_Default">Центр обслуживания SMS по умолчанию</string>
+    <string name="HIPS_Perm_SendSMS_SMSC_Default">SMS центр по умолчанию</string>
     <string name="HIPS_Perm_SendSMS_Port">Порт назначения:</string>
     <string name="HIPS_Perm_SendSMS_Data">отправить SMS %1$s:%2$d</string>
     <string name="HIPS_Perm_SendSMS_Text">отправить SMS %1$s</string>
@@ -141,14 +140,14 @@
     <string name="Dashboard_Log">Журналы</string>
     <string name="Dashboard_Perm_Header">Контролируются приложений: %1$d</string>
     <string name="Dashboard_Perm_Header_Disabled">Контроль разрешений отключен</string>
-    <string name="Dashboard_Perm_SU_Switch">ROOT-доступ</string>
-    <string name="Dashboard_Perm_SU">Управление ROOT-доступом</string>
-    <string name="Dashboard_Perm_SU_Desc">Контролируются приложений с ROOT-доступом: %1$d</string>
-    <string name="Dashboard_Perm_SU_Disabled">ROOT-доступ отключен</string>
+    <string name="Dashboard_Perm_SU_Switch">ROOT доступ</string>
+    <string name="Dashboard_Perm_SU">Управление ROOT доступом</string>
+    <string name="Dashboard_Perm_SU_Desc">Контролируются приложений с ROOT доступом: %1$d</string>
+    <string name="Dashboard_Perm_SU_Disabled">ROOT доступ отключен</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT не доступен в стабильной версии MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Предоставление ROOT сторонним приложениям может привести к нестабильности системы, потере персональной информации и необратимым повреждениям аппаратной части телефона.
 
-Для использования ROOT-доступа установите, пожалуйста, версию MIUI для разработчиков.</string>
+Для использования ROOT доступа установите, пожалуйста, версию MIUI для разработчиков.</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Загрузить MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.su/download</string>
     <string name="Dashboard_Perm_HIPS_Switch">Контроль Разрешений</string>
@@ -164,9 +163,9 @@
     <string name="Dashboard_HIPS_Disable_Title">Контроль Разрешений</string>
     <string name="Dashboard_HIPS_Disable_Content">При выключении этого MIUI перестанет контролировать запросы приложений и больше не сможет защищать Вашу безопасность и конфинедциальность.
 Отключить?</string>
-    <string name="Dashboard_Su_Enable_Title">ROOT-доступ</string>
-    <string name="Dashboard_Su_Enable_Content">Включение этого позволит приложениям запрашивать ROOT-доступ.
-Внимание: Приложения с ROOT-доступом может привести к нестабильности системы, даже к потере персональной информации, программным или аппаратным повреждениям. Пожалуйста, будьте осторожны. Включить?</string>
+    <string name="Dashboard_Su_Enable_Title">ROOT доступ</string>
+    <string name="Dashboard_Su_Enable_Content">Включение этого позволит приложениям запрашивать ROOT доступ.
+Внимание: Приложения с ROOT доступом может привести к нестабильности системы, даже к потере персональной информации, программным или аппаратным повреждениям. Пожалуйста, будьте осторожны. Включить?</string>
     <string name="Dashboard_Log_Clear_Title">Очистка журналов</string>
     <string name="Dashboard_Log_Clear_Content">Все журналы будут удалены. Включить?</string>
     <string name="Privacy_Perm_Count">Разрешенных: %1$d Запрещенных: %2$d</string>
@@ -187,6 +186,6 @@
     <string name="SysOpt_Boost_Receiver">Фон</string>
     <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
     <string name="SysOpt_Boost_AutoStart">Разрешение на автозагрузку</string>
-    <string name="Su_Enable_Dialog">\"%1$s\" пытается получить ROOT-доступ, который по умолчанию отлючен для обеспечения безопасности системы. Если Вам необходимо его включить, перейдите в настройки Безопасности.</string>
-    <string name="Su_Unavailable">ROOT-доступ недоступен в стабильной версии MIUI. Установите версию для разработчиков для получение ROOT-доступа</string>
+    <string name="Su_Enable_Dialog">\"%1$s\" пытается получить ROOT доступ, который по умолчанию отлючен для обеспечения безопасности системы. Если Вам необходимо его включить, перейдите в настройки Безопасности.</string>
+    <string name="Su_Unavailable">ROOT доступ недоступен в стабильной версии MIUI. Установите версию для разработчиков для получение ROOT доступа</string>
 </resources>

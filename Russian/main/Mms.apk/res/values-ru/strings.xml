@@ -551,7 +551,7 @@
     <string name="select_local_video">Выбор локального видео…</string>
     <string name="mx_recommend_msg">Включите Облачные сообщения. Нажмите для включения и отправки сообщений бесплатно.</string>
     <string name="set_smsc_address_title_miui">Номер SMS центра</string>
-    <string name="sim_card1">SIM карта 1</string>
+    <string name="sim_card1">SIM карта</string>
     <string name="sim_card2">SIM карта 2</string>
     <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
     <string name="add_slide_before">Добавить слайд (впереди)</string>

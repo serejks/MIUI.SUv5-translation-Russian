@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string-array name="default_smiley_names">
+    <string-array name="default_smiley_names">
         <item>Радость</item>
         <item>Грустный</item>
         <item>Подмигивает</item>
@@ -22,15 +22,15 @@
         <item>Злой</item>
         <item>Ухмылка</item>
         <item>Невозмутимость</item>
-  </string-array>
-  <string-array name="prefEntries_ringtone_repeat">
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
         <item>1 раз</item>
         <item>2 раза</item>
         <item>3 раза</item>
         <item>5 раз</item>
         <item>10 раз</item>
-  </string-array>
-  <string-array name="contact_entries">
+    </string-array>
+    <string-array name="contact_entries">
         <item>Имя</item>
         <item>Ник</item>
         <item>Телефон</item>
@@ -42,16 +42,24 @@
         <item>Веб-сайт</item>
         <item>Адрес</item>
         <item>Примечания</item>
-  </string-array>
-  <string-array name="entries_date_type">
+    </string-array>
+    <string-array name="entries_date_type">
         <item>Время получения</item>
-        <item>Время отправки (Время сервера)</item>
-  </string-array>
-  <string-array name="resent_via_entries">
+        <item>Время отправки</item>
+    </string-array>
+    <string-array name="resent_via_entries">
         <item>Через сообщения</item>
         <item>Через облачные сообщения</item>
-  </string-array>
-  <string-array name="select_dialog_items">
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Через сообщения</item>
+        <item>Через облачные сообщения</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Через сообщения</item>
+        <item>Через облачные сообщения</item>
+    </string-array>
+    <string-array name="select_dialog_items">
         <item>1 сек.</item>
         <item>2 сек.</item>
         <item>3 сек.</item>
@@ -63,10 +71,10 @@
         <item>9 сек.</item>
         <item>10 сек.</item>
         <item>Прочее</item>
-  </string-array>
-  <string-array name="prefEntries_vibrateWhen">
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
         <item>Всегда</item>
         <item>Только в беззвуч.режиме</item>
         <item>Никогда</item>
-  </string-array>
+    </string-array>
 </resources>
