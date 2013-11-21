@@ -113,7 +113,7 @@
     <string name="find_device_notice_p1">Псетите</string>
     <string name="find_device_notice_p3">чтобы найти, заблокировать, или удалить данные.</string>
     <string name="i_know">Я знаю</string>
-    <string name="find_device_disabled_title">Поиск устройств отключён</string>
+    <string name="find_device_disabled_title">Поиск устройств отключен</string>
     <string name="find_device_disabled_notice">Вы можете включить его снова в Настройки &lt; Аккаунты &lt;\n- MiCloud</string>
     <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации.</string>
     <string name="activate_phone_server_error">Ошибка сервера.</string>
@@ -218,7 +218,7 @@
     <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите</string>
     <string name="error_too_frequent_visits_title">Слишком часто!</string>
     <string name="error_too_frequent_visits_summary">Вы совершаете запрос слишком часто. Пожалуйста, попробуйте еще раз через пять минут.</string>
-    <string name="title_recharge">Пополнение счёта</string>
+    <string name="title_recharge">Пополнение счета</string>
     <string name="title_pay">Оплатить MiCredits</string> 
     <string name="recharge_group_favorite">Используемые методы пополнения</string>
     <string name="recharge_group_others">Другие методы пополнения</string>
@@ -257,7 +257,7 @@
 	<string name="recharge_grid_error_denomination">Введите корректную сумму для зачисления</string>
     <string name="paytool_error_install">Не удалось завершить установку плагина безопасности Alipay</string>
     <string name="paytool_error_denomination">Введите корректную сумму для зачисления</string>
-    <string name="paytool_error_msp">Не удалось пополнить счёт с помощью Alipay</string>
+    <string name="paytool_error_msp">Не удалось пополнить счет с помощью Alipay</string>
     <string name="paytool_msp_not_installed">Не установлен плагин безопасности Alipay, установить сейчас?</string>
     <string name="progress_paytool_creating">Создание заказа %1$s…</string>
     <string name="progress_paytool_installing">Установка мобильного плагина защиты: %1$s…</string>
@@ -265,7 +265,7 @@
     <string name="prepaid_picker_hint_1_2">Одной картой можно пополнить баланс только один раз; </string>
     <string name="prepaid_picker_hint_2_1">2. </string>
     <string name="prepaid_picker_hint_2_2_a">Выбранный номинал должен соответствовать номиналу карты предоплаты, в противном случае это приведет к потере денег. </string>
-    <string name="prepaid_picker_hint_2_2_b">Если номинал карты предоплаты составляет не &lt;font color=red>%1$s юань&lt;/font>, то это приведёт к неудачному пополнению счёта и обнулению баланса карты</string>
+    <string name="prepaid_picker_hint_2_2_b">Если номинал карты предоплаты составляет не &lt;font color=red>%1$s юань&lt;/font>, то это приведет к неудачному пополнению счета и обнулению баланса карты</string>
     <string name="prepaid_picker_title_default">Выберите сумму пополнения</string>
     <string name="prepaid_picker_title_selected">сумма пополнения</string>
     <string name="prepaid_number_edit_hint">Номер:</string>
@@ -276,7 +276,7 @@
     <string name="prepaid_error_card_number">Введите корректную сумму пополнения</string>
     <string name="prepaid_error_password">Введите корректный пароль карты предоплаты</string>
     <string name="prepaid_error_card_length">Введите правильный номер карты и пароль</string>
-    <string name="progress_prepaid_creating">Создаю платёжное поручение…</string>
+    <string name="progress_prepaid_creating">Создаю платежное поручение…</string>
     <string name="voucher_input">Пополнение</string>
 	<string name="voucher_input_password_prompt">Введите пароль</string>
 	<string name="value">Значение</string>
@@ -316,7 +316,7 @@
     <string name="progress_success_pay_title">Оплата завершена</string>
     <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
     <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
-    <string name="progress_error_recharge_title">Не удалось пополнить счёт</string>
+    <string name="progress_error_recharge_title">Не удалось пополнить счет</string>
     <string name="progress_error_pay_title">Оплата не выполнена</string> 
     <string name="progress_warning_waiting">Все еще не отображается. Повторите позже.</string>
     <string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
@@ -328,9 +328,9 @@
     <string name="title_mili_center">MiCredits</string>
     <string name="title_recharge_record">Зачисления</string>
     <string name="title_pay_record">%1$s: платежи</string>
-    <string name="recharge_record">Отчёты по зачислениям</string>
-    <string name="pay_record">Отчёты по платежам</string>
-    <string name="btn_mili_center_recharge">Пополнить счёт</string>
+    <string name="recharge_record">Отчеты по зачислениям</string>
+    <string name="pay_record">Отчеты по платежам</string>
+    <string name="btn_mili_center_recharge">Пополнить счет</string>
     <string name="btn_voucher">Карта Mi Credit (%1$s)</string>
 	<string name="btn_wait_call">Ожидание</string>
 	<string name="btn_wait_call_count">Ожидание (%1$s)</string>

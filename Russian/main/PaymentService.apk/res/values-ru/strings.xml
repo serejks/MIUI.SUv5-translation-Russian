@@ -253,7 +253,7 @@
     <string name="title_gesture">Графический ключ</string>
     <string name="title_lockpattern">Требуется графический ключ</string>
     <string name="title_visible_pattern">Отображать ключ</string>
-    <string name="summary_lockpattern">Запрос ввода графический ключ для MiCredits</string>
+    <string name="summary_lockpattern">Запрос ввода графического ключа для MiCredits</string>
     <string name="title_change_lockpattern">Настройки графического ключа</string>
     <string name="title_password">Пароль</string>
     <string name="title_nopassword">Не запрашивать при небольших платежах</string>

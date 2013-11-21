@@ -558,7 +558,7 @@
     <string name="add_new_account">Добавить аккаунт</string>
     <string name="dialog_phone_call_prohibited_message">Вызов не отправлен</string>
     <string name="dialog_voicemail_not_ready_message">Для настройки голосовой почты перейдите в Меню > Настройки.</string>
-    <string name="dialog_voicemail_airplane_mode_message">Выключите режим "В самолёте", чтобы вызвать голосовую почту.</string>
+    <string name="dialog_voicemail_airplane_mode_message">Выключите режим "В самолете", чтобы вызвать голосовую почту.</string>
     <string name="action_menu_overflow_description">Больше настроек</string>
     <string name="add_blacklist">Заблокировать</string>
 	<string name="remove_blacklist">Разблокировать</string>

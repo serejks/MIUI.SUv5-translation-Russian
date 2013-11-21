@@ -21,7 +21,7 @@
     <string name="cmas_presidential_level_alert">Оповещение от президента</string>
     <string name="cmas_extreme_alert">Аварийное оповещение: чрезвычайная ситуация</string>
     <string name="cmas_severe_alert">Аварийное оповещение: критическая ситуация</string>
-    <string name="cmas_amber_alert">Похищение ребенка (Жёлтая тревога)</string>
+    <string name="cmas_amber_alert">Похищение ребенка (Желтая тревога)</string>
     <string name="cmas_required_monthly_test">Ежемесячное тестирование аварийного оповещения</string>
     <string name="cmas_exercise_alert">Аварийное оповещение (Тренировка)</string>
     <string name="cmas_operator_defined_alert">Аварийное оповещение (Оператор)</string>

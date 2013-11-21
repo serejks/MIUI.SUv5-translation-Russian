@@ -423,7 +423,7 @@
     <string name="headset_calibrate_next_track">"Следующий трек"</string>
     <string name="headset_calibrate_confirm">"Назначение кнопок изменено, сохранить?"</string>
     <string name="headset_no_contected">"Гарнитура не подключена"</string>
-    <string name="headset_calibrate_wrong_key">"Калибровка не удалась. Попробуйте ещё раз."</string>
+    <string name="headset_calibrate_wrong_key">"Калибровка не удалась. Попробуйте еще раз."</string>
     <string name="default_date_format">MM.dd.yyyy</string>
     <string name="normal_date_format">По умолчанию (%s)</string>
     <string name="display_preview_label">Предварительный просмотр:</string>
@@ -514,10 +514,10 @@
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
-    <string name="airplane_mode">В самолёте</string>
+    <string name="airplane_mode">В самолете</string>
     <string name="radio_controls_title">Дополнительно</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
-    <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим \"В самолёте\", мобильные сети и VPN</string>
+    <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим \"В самолете\", мобильные сети и VPN</string>
     <string name="roaming">Интернет-роуминг</string>
     <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
@@ -756,7 +756,7 @@
     <string name="wifi_starting">Включение Wi-Fi…</string>
     <string name="wifi_stopping">Отключение Wi-Fi…</string>
     <string name="wifi_error">Ошибка</string>
-    <string name="wifi_in_airplane_mode">В самолёте</string>
+    <string name="wifi_in_airplane_mode">В самолете</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
@@ -853,7 +853,7 @@
     <string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
     <string name="wifi_wps_connected">Соединение с сетью Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">WPS уже используется, для завершения потребуется около минуты</string>
-    <string name="wifi_wps_failed">"Не могу настроить WPS. Попробуйте ещё раз"</string>
+    <string name="wifi_wps_failed">"Не могу настроить WPS. Попробуйте еще раз"</string>
     <string name="wifi_wps_failed_generic">ОшибкаWPS. Повторите попытку через несколько минут.</string>
     <string name="wifi_wps_failed_wep">Настройки безопасности роутера (WEP) не поддерживаются</string>
     <string name="wifi_wps_failed_tkip">Настройки безопасности роутера (TKIP) не поддерживаются</string>
@@ -1158,8 +1158,8 @@
     <string name="mtp_ptp_mode_summary">MTP или PTP функции активны</string>
     <string name="internal_format">Очистить внутренний накопитель</string>
     <string name="internal_format_summary">Удалить все данные на внутреннем накопителе (Как музыка и фото)</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчёта займёт около минуты</string>
-    <string name="bugreport_tool_log_toast">Отчёт сохранен в %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета займет около минуты</string>
+    <string name="bugreport_tool_log_toast">Отчет сохранен в %s</string>
     <string name="wifi_tether_setting_title">Основные настройки</string>
     <string name="wifi_priority_settings_label">Настройки предпочтений</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
@@ -1724,7 +1724,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="battery_desc_voice">Использование батареи для голосовых вызовов</string>
     <string name="battery_desc_standby">Расход заряда батареи в режиме ожидания</string>
     <string name="battery_desc_radio">Расход энергии на поддержание связи с сетью в режиме ожидания</string>
-    <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим \"В самолёте\" для экономии заряда</string>
+    <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим \"В самолете\" для экономии заряда</string>
     <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
     <string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
     <string name="battery_desc_wifi">Использование батареи модулем Wi-Fi</string>
@@ -2019,7 +2019,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
     <string name="data_usage_label_foreground">Активный режим</string>
     <string name="data_usage_label_background">Фоновый режим</string>
-    <string name="data_usage_disclaimer">"Измерено телефоном. Учёт трафика Вашего оператора связи может отличаться."</string>
+    <string name="data_usage_disclaimer">"Измерено телефоном. Учет трафика Вашего оператора связи может отличаться."</string>
     <string name="data_usage_disable_mobile">Отключить мобильную передачу данных?</string>
     <string name="data_usage_disable_mobile_limit">Установить лимит</string>
     <string name="data_usage_disable_4g_limit">Лимитировать трафик 4G</string>
@@ -2125,14 +2125,14 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="accessibility_tutorial_skip">Пропустить руководство</string>
     <string name="accessibility_tutorial_lesson_1_title">Урок 1: Экран</string>
     <string name="accessibility_tutorial_lesson_1_text_1">После того, как вы включили "подсказки при нажатии", поставьте палец на нужный объект для того, чтобы получить его описание. Например, этот экран содержит иконки приложений. Найдите одну из них, водя пальцем по экрану.</string>
-    <string name="accessibility_tutorial_lesson_1_text_2_more">Отлично. Продолжайте водить пальцем по экрану пока не найдете, по крайней мере, ещё одну иконку.</string>
+    <string name="accessibility_tutorial_lesson_1_text_2_more">Отлично. Продолжайте водить пальцем по экрану пока не найдете, по крайней мере, еще одну иконку.</string>
     <string name="accessibility_tutorial_lesson_1_text_3">Для того, чтобы запустить приложение коснитесь его. Ведите пальцем, пока не найдете иконку для %s. Затем коснитесь иконки, чтобы запустить приложение.</string>
     <string name="accessibility_tutorial_lesson_1_text_4">Ваш палец на %s. Нажмите один раз, чтобы запустить приложение.</string>
     <string name="accessibility_tutorial_lesson_1_text_4_exited">Вы пропустили %s . Медленно ведите пальцем по экрану пока не найдете иконку Браузера снова.</string>
     <string name="accessibility_tutorial_lesson_1_text_5">Отлично. Для того, чтобы перейти к следующему уроку найдите и нажмите кнопку %s, расположенную возле правого нижнего края экрана.</string>
     <string name="accessibility_tutorial_lesson_2_title">Урок 2: Прокрутка двумя пальцами</string>
     <string name="accessibility_tutorial_lesson_2_text_1">Для перемещения по странице, проведите двумя пальцами по экрану. Например, текущий экран содержит список приложений, который можно прокрутить вверх и вниз. Для начала попробуйте определить несколько объектов, проводя пальцем по экрану.</string>
-    <string name="accessibility_tutorial_lesson_2_text_2_more">Отлично. Продолжайте водить по экрану, пока не определите ещё один объект.</string>
+    <string name="accessibility_tutorial_lesson_2_text_2_more">Отлично. Продолжайте водить по экрану, пока не определите еще один объект.</string>
     <string name="accessibility_tutorial_lesson_2_text_3">Теперь поместите два пальца на предмет из списка и потащите его вверх. Если вы достигли предела, поднимите пальцы, переместите их вниз списка и повторите действие.</string>
     <string name="accessibility_tutorial_lesson_2_text_3_more">Отлично. Продолжайте перемещать пальцы вверх для дальнейшего пролистывания.</string>
     <string name="accessibility_tutorial_lesson_2_text_4">Ваше обучение окончено, найдите и нажмите кнопку %s.</string>
@@ -2438,7 +2438,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск</string>
     <string name="perm_sysopt_boost_auto_start">Права автозапуска</string>
     <string name="perm_su_enable_dialog">%1$s пытается получить Root-права, которые по-умолчанию отключены для обеспечения безопасности системы. При необходимости Root-права можно включить в приложении Безопасность => Права суперпользователя.</string>
-    <string name="search_airplane">\"В самолёте\"</string>
+    <string name="search_airplane">\"В самолете\"</string>
     <string name="search_network">Сеть</string>
     <string name="search_wifi">Wi-Fi</string>
     <string name="search_bluetooth">Blutooth</string>
@@ -2624,7 +2624,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="silent_mode_title">Без звука</string>
     <string name="media_feedback_enable_title">Vibrate with the beat</string>
-    <string name="wifi_wapi_certification_dont_exist">Введён неверный пароль. Попробуйте ещё раз</string>
+    <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте еще раз</string>
     <string name="please_type_passphrase">Пароль сети</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -2808,7 +2808,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="dirac_switch_summary">Всегда использовать усилитель MiSound при использовании динамика</string>
     <string name="dolby_volume_leveler">Уровень звука</string>
     <string name="dolby_dialogue_enhancer">Улучшение речи</string>
-    <string name="dolby_surround_virtualizer">Объёмный звук</string>
+    <string name="dolby_surround_virtualizer">Объемный звук</string>
     <string name="dirac_mode_off">Dirac выкл</string>
     <string name="dirac_mode_earbuds">Гарнитура</string>
     <string name="dirac_mode_in_ear">Наушники</string>
@@ -2863,10 +2863,10 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="device_edit_title">Изменить имя устройства</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
     <string name="device_name_usage_point">Заданное имя будет отображаться при обмене данными с другими устройствами.</string>
-    <string name="drive_mode">За рулём</string>
-    <string name="enable_drive_mode">Вкл. \"За рулём\"</string>
+    <string name="drive_mode">За рулем</string>
+    <string name="enable_drive_mode">Вкл. \"За рулем\"</string>
     <string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
-    <string name="drive_mode_settings">Настройки режима \"За рулём\"</string>
+    <string name="drive_mode_settings">Настройки режима \"За рулем\"</string>
     <string name="drive_mode_voice_report">Голосовое оповещение</string>
     <string name="drive_mode_phone_report">Оповещение о вызове</string>
     <string name="drive_mode_sms_report">Оповещение о SMS</string>
@@ -2875,7 +2875,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="drive_mode_calling_auto_sms_reply">На входящие отвечать SMS</string>
     <string name="drive_mode_sms_auto_sms_reply">Автоответ на SMS</string>
     <string name="drive_mode_only_contact_reply">Отвечать только известным номерам</string>
-    <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулём. Свяжусь с Вами позже.</string>
+    <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулем. Свяжусь с Вами позже.</string>
     <string name="drive_mode_auto_sms_reply_content_title">Содержание SMS-ответа</string>
     <string name="clear_activities_summary">Разрешить этой программе некоторые действия поумолчанию</string>
     <string name="permission_detail_info">Просмотреть все разрешения</string>
@@ -2908,7 +2908,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="floating_window_switch_label_disable">Скрывать всплыв.окна</string>
     <string name="app_floating_window_dlg_enable">"Для активации %1$s плавающих окон необходимо перезагрузить приложение. Вы также можете вручную остановить приложение. 
 Включить?"</string>
-    <string name="app_floating_window_dlg_disable">"Отключение %1$s плавающих окон приведёт к принудительному закрытию приложения. Вы также можете вручную открыть приложение.
+    <string name="app_floating_window_dlg_disable">"Отключение %1$s плавающих окон приведет к принудительному закрытию приложения. Вы также можете вручную открыть приложение.
 Отключить?"</string>
     <string name="app_floating_window_dlg">Разрешить \"%1$s\" уведомления?</string>
     <string name="wps_category">Быстрая и безопасная связь</string>
@@ -3026,7 +3026,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="MobileNetwork_Category">Мобильные сети</string>
     <string name="AgpsHelp_Category">Помощь</string>
     <string name="about_agps_title">Подробнее об A-GPS</string>
-    <string name="about_agps_message">"\u0009 технология, ускоряющая «холодный старт» GPS-приёмника. 
+    <string name="about_agps_message">"\u0009 технология, ускоряющая «холодный старт» GPS-приемника. 
 \u0009 Ускорение происходит за счет предоставления необходимой информации через альтернативные каналы связи(мобильную сеть). 
 \u0009 Передача данных может вызвать дополнительные расходы за услуги связи."</string>
     <string name="epo_auto_download_title">Автозагрузка</string>
@@ -3368,7 +3368,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="nfc_tag_mode_category">Тег режим</string>
     <string name="nfc_rw_tag_title">Тэги</string>
     <string name="nfc_rw_tag_summary">Чтение или запись в тег</string>
-    <string name="voice_unlock_backup_info_summary">"Какой тип разблокировки предлагать, если не удаётся распознать ваш голос?"</string>
+    <string name="voice_unlock_backup_info_summary">"Какой тип разблокировки предлагать, если не удается распознать ваш голос?"</string>
     <string name="unlock_set_unlock_mode_voice_weak">Разблокировка голосом</string>
     <string name="voice_ui_title">Голосовое управление</string>
     <string name="voice_ui_app_category">Для пиложений</string>

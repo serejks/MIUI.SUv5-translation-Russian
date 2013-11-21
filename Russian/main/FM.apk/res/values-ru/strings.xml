@@ -151,13 +151,13 @@
     <string name="toast_fm_seeking">Поиск станции, подождите</string>
     <string name="favorite_manager">Список станций</string>
     <string name="add_to_favorite">Добавить в избранное</string>
-    <string name="add_to_favorite1">Добавить в сохранённые радиостанции</string>
+    <string name="add_to_favorite1">Добавить в сохраненные радиостанции</string>
     <string name="optmenu_search">Поиск</string>
     <string name="optmenu_exit">Выход</string>
     <string name="contmenu_title">Операции</string>
     <string name="contmenu_item_edit">Изменить</string>
     <string name="contmenu_item_delete">Удалить из избранного</string>
-    <string name="contmenu_item_delete1">Удалить из сохранённых радиостанций</string>
+    <string name="contmenu_item_delete1">Удалить из сохраненных радиостанций</string>
     <string name="dlg_noantenna_title">Подключите гарнитуру</string>
     <string name="btn_yes">Да</string>
     <string name="btn_no">Нет</string>

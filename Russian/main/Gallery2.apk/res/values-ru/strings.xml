@@ -113,7 +113,7 @@
 	<string name="aspectNone_effect">Ничего</string>
 	<string name="tinyplanet">Мини-планета</string>
 	<string name="exposure">Экспозиция</string>
-	<string name="sharpness">Чёткость</string>
+	<string name="sharpness">Четкость</string>
 	<string name="contrast">Контраст</string>
 	<string name="vibrance">Вибрация</string>
 	<string name="saturation">Насыщенность</string>
@@ -149,16 +149,16 @@
 	<string name="filllight">Заполнить светом</string>
 	<string name="fisheye">Рыбий глаз</string>
 	<string name="flip">Переворот</string>
-	<string name="grain">Плёнка</string>
+	<string name="grain">Пленка</string>
 	<string name="grayscale">Ч/б</string>
-	<string name="accessibility_black_and_white">Чёрно-белое</string>
+	<string name="accessibility_black_and_white">Черно-белое</string>
 	<string name="highlight">Акценты</string>
 	<string name="lomoish">Ломо</string>
 	<string name="negative">Негатив</string>
 	<string name="posterize">постеризация</string>
 	<string name="sepia">Сепия</string>
 	<string name="shadow">Тени</string>
-	<string name="sharpen">Чёткость</string>
+	<string name="sharpen">Четкость</string>
 	<string name="temperature">Тепло</string>
 	<string name="tint">Тон</string>
 	<string name="crop_tooltip">Перетащите маркеры, для обрезки</string>
@@ -184,7 +184,7 @@
 	<string name="access_sd_fail">Нет доступа к USB хранилищу</string>
 	<string name="review_cancel">ОТМЕНА</string>
 	<string name="review_ok">ГОТОВО</string>
-	<string name="time_lapse_title">Режим замедленной съёмки</string>
+	<string name="time_lapse_title">Режим замедленной съемки</string>
 	<string name="pref_camera_id_title">Выберите камеру</string>
 	<string name="pref_camera_id_entry_back">Основная</string>
 	<string name="pref_camera_id_entry_front">Передняя</string>
@@ -217,14 +217,14 @@
 	<string name="pref_camera_whitebalance_entry_fluorescent">Лампа дневного света</string>
 	<string name="pref_camera_whitebalance_entry_cloudy">Пасмурно</string>
 	<string name="pref_camera_scenemode_default">авто</string>
-	<string name="pref_camera_scenemode_title">Режим съёмки</string>
+	<string name="pref_camera_scenemode_title">Режим съемки</string>
 	<string name="pref_camera_scenemode_entry_auto">Авто</string>
 	<string name="pref_camera_scenemode_entry_hdr">HDR</string>
 	<string name="pref_camera_scenemode_entry_action">Действие</string>
 	<string name="pref_camera_scenemode_entry_night">Ночь</string>
 	<string name="pref_camera_scenemode_entry_sunset">Закат</string>
 	<string name="pref_camera_scenemode_entry_party">Вечеринка</string>
-	<string name="not_selectable_in_scene_mode">Недоступно в режиме съёмки.</string>
+	<string name="not_selectable_in_scene_mode">Недоступно в режиме съемки.</string>
 	<string name="pref_exposure_title">Экспозиция</string>
 	<string name="dialog_ok">OK</string>
 	<string name="spaceIsLow_content">Место на вашей SD карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
@@ -254,7 +254,7 @@
 	<string name="effect_backdropper_gallery">Выбрать видео</string>
 	<string name="bg_replacement_message">"Установите устройство на твердой поверхности
 Затем отойдите, чтобы вас было видно в камеру."</string>
-	<string name="video_snapshot_hint">Чтобы сделать снимок при видеосъёмке, нажмите на экран просмотра.</string>
+	<string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажмите на экран просмотра.</string>
 	<string name="disable_video_snapshot_hint">Невозможно сделать снимок при включенных спецэффектах.</string>
 	<string name="clear_effects">Убрать эффекты</string>
 	<string name="effect_silly_faces">СМЕШНЫЕ РОЖИЦЫ</string>
@@ -325,7 +325,7 @@
 	<string name="time_lapse_hours">ч.</string>
 	<string name="time_lapse_interval_set">Готово</string>
 	<string name="set_time_interval">Установить интервал</string>
-	<string name="set_time_interval_help">Функция замедления времени выключено. Включите её для установки интервала.</string>
+	<string name="set_time_interval_help">Функция замедления времени выключено. Включите ее для установки интервала.</string>
 	<string name="remember_location_title">Сохранять координаты фото?</string>
 	<string name="remember_location_prompt">"Сохранять координаты мест, где были сделаны снимки и видео.
 
@@ -448,7 +448,7 @@
 	<string name="ffx_x_process">X-процесс</string>
 	<string name="ffx_washout">Латте</string>
 	<string name="ffx_washout_color">Лито</string>
-	<string name="try_to_set_local_album_available_offline">Этот элемент сохранён локально и доступен оффлайн.</string>
+	<string name="try_to_set_local_album_available_offline">Этот элемент сохранен локально и доступен оффлайн.</string>
 	<string name="set_label_all_albums">Все альбомы</string>
 	<string name="set_label_local_albums">Локальные альбомы</string>
 	<string name="set_label_mtp_devices">MTP-устройства</string>
@@ -478,7 +478,7 @@
 	<string name="add_account">Добавить аккаунт</string>
 	<string name="folder_camera">Камера</string>
 	<string name="folder_download">Загрузки</string>
-	<string name="folder_edited_online_photos">Изменённые онлайн-фото</string>
+	<string name="folder_edited_online_photos">Измененные онлайн-фото</string>
 	<string name="folder_imported">Импортировано</string>
 	<string name="folder_screenshot">Скриншоты</string>
 	<string name="help">Помощь</string>

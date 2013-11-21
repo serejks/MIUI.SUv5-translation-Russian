@@ -138,7 +138,7 @@
     <string name="default_name">По умолчанию</string>
 	<string name="resource_app_name">Ресурсы браузера</string>
 	<string name="resource_price_free">Бесплатно</string>
-	<string name="sdcard_status_changed_dialog_title">Статус SD карты изменён</string>
+	<string name="sdcard_status_changed_dialog_title">Статус SD карты изменен</string>
 	<string name="sdcard_status_changed_dialog_message">Выхожу. Перезайдите в приложение для обновления ресурсов.</string>
 	<string name="resource_mute">Без звука</string>
 	<string name="resource_default">Стандартная мелодия</string>
