@@ -343,4 +343,5 @@
     <string name="settings_show_statusBar_notification">Уведомления в статусбаре</string>
     <string name="filter_item_preview_image">Предпросмотр</string>
 	<string name="filter_item_description">Вы можете задать пользовательские настройки отображения уведомлений для каждого приложения.</string>
+	<string name="usb_share_net_info">Использовать интернет компьютера</string>
 </resources>

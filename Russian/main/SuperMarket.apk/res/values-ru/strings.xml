@@ -361,4 +361,6 @@
 	<string name="activate_now">Активировать</string>
 	<string name="my_app">Мои приложения</string>
 	<string name="no_favorites">Нет избранного</string>
+	<string name="resume">Далее</string>
+    <string name="downloading">Пауза</string>
 </resources>

@@ -49,6 +49,9 @@
     <string name="to_be_play_label_v5">Новое видео</string>
     <string name="about_version_label">Версия</string>
     <string name="about_developer_label">Разработчик</string>
+	<string name="about_developer_name">Xiaomi</string>
+	<string name="episode_prefix">Эпизод</string>
+    <string name="episode_suffix" />
     <string name="nowifi_alert_dialog_title">Уведомление</string>
     <string name="nowifi_alert_dialog_message">Во время воспроизведения будет идти загрузка, продолжить?</string>
     <string name="nowifi_alert_dialog_continue">Продолжить</string>

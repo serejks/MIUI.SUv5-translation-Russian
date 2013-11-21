@@ -375,8 +375,9 @@
     <string name="settings_i_xiaomi_com">Зайдите на i.xiaomi.com для доступа к вашим облачным альбомам в любое время</string>
     <string name="cloud_album_more_settings">Синхронизация облачных альбомов</string>
     <string name="browse_category">Обзор фото</string>
-    <string name="by_email">Почта</string>
-    <string name="by_sms">Сообщение</string>
+    <string name="by_email">По электронной почте</string>
+	<string name="by_sms">По SMS</string>
+	<string name="by_others">Другие способы</string>
     <string name="photo_page_save_image">Сохранить</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в папку камеры по умолчанию.</string>
     <string name="photo_page_save_uri_image_fail">Ошибка сохранения фото.</string>
