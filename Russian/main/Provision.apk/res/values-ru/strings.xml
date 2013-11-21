@@ -9,7 +9,7 @@
     <string name="other_service_google_location">Сервис местоположения Google</string>
     <string name="other_service_google_location_use">Местоположение и поиск Google</string>
     <string name="other_service_google_location_use_summary">Разрешить Google использовать ваше местоположение для улучшения результатов поиска</string>
-    <string name="other_service_google_location_use_help">Разрешить сервису определения местоположения Google собирать личные локальные данные. Сбор данных будет происходить даже при незапущенных приложениях.\nИзменить настройки можно в Настройки > Моё местоположение</string>
+    <string name="other_service_google_location_use_help">Разрешить сервису определения местоположения Google собирать личные локальные данные. Сбор данных будет происходить даже при незапущенных приложениях.\nИзменить настройки можно в Настройки > Мое местоположение</string>
     <string name="other_service_permission_manager">Управление разрешениями</string>
     <string name="other_service_permission_manager_summary">Монторинг приложений для обеспечения безопасности и приватности</string>
     <string name="other_service_user_experience">Программа улучшения качества</string>

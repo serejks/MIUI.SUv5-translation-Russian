@@ -58,7 +58,7 @@
     <string name="non_sleep_disable">Отключить Режим без сна</string>
     <string name="non_sleep_enable">Втключить Режим без сна</string>
     <string name="pch_data_prefer_title">Предпочтительная передача данных</string>
-    <string name="pch_data_prefer_summary">Увеличить скорость передачи данных за счёт снижения качества вызовов</string>
+    <string name="pch_data_prefer_summary">Увеличить скорость передачи данных за счет снижения качества вызовов</string>
     <string name="pch_data_prefer_message">"Предпочтильная передача данных используется для повышения эффективности передачи данных за счет снижения качества и скорости приема вызовов. Не рекомендуется включать эту функцию.
 
 Включить данную функцию?"</string>
@@ -123,7 +123,7 @@
     <string name="GPRS_CANCEL_SPECIFY">Не указывать</string>
     <string name="TouchScreen">ТачСкрин</string>
     <string name="TouchScreen_HandWriting">Ручной ввод</string>
-    <string name="TouchScreen_RateReport">Отчёт об ошибках</string>
+    <string name="TouchScreen_RateReport">Отчет об ошибках</string>
     <string name="TouchScreen_Verification">Проверка</string>
     <string name="TouchScreen_VerificationPoint">Проверка Point</string>
     <string name="TouchScreen_VerificationLine">Проверка Line</string>
@@ -289,7 +289,7 @@
     <string name="hqa_cpustress_name">CPU Stress Тест</string>
     <string name="hqa_cpustress_toast_load_notsupport">Загрузка не поддерживается</string>
     <string name="hqa_cpustress_dialog_waiting_title">Подождите</string>
-    <string name="hqa_cpustress_dialog_waiting_message">Идёт получение статуса…</string>
+    <string name="hqa_cpustress_dialog_waiting_message">Идет получение статуса…</string>
     <string name="hqa_cpustress_dialog_error_title">Ошибка</string>
     <string name="hqa_cpustress_dialog_error_message">Диалог ID неправильный</string>
     <string name="hqa_cpustress_toast_mode">Выберите режим</string>

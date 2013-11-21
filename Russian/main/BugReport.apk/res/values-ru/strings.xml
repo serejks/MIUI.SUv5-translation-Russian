@@ -2,7 +2,7 @@
 <resources>
     <string name="app_label">Отзывы</string>
     <string name="user_feedback">Отзывы</string>
-    <string name="report_miui">Отчёт в MIUI</string>
+    <string name="report_miui">Отчет в MIUI</string>
     <string name="menu_send">Отправить отчет</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_attach_screenshot">Прикрепить скришнот</string>
@@ -29,7 +29,7 @@
     <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена.</string>
     <string name="toast_description_required">Описание не может быть пустым.</string>
     <string name="toast_pending_log_collection">Сохранение логов…</string>
-    <string name="toast_feedback_submitted">Ваш отчёт успешно зарегистрирован.</string>
+    <string name="toast_feedback_submitted">Ваш отчет успешно зарегистрирован.</string>
     <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении Wi-Fi</string>
     <string name="discard_draft_dialog_title">Отмена проекта</string>
     <string name="discard_draft_dialog_content">Отчет был исправлен, нажмите ок для отмены проекта.</string>

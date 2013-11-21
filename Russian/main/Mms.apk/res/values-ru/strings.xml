@@ -397,7 +397,7 @@
     <string name="pref_title_wake_up_screen">Включение экрана</string>
     <string name="pref_summary_wake_up_screen">Включать экран при получении сообщений</string>
     <string name="pref_title_delivery_reports">Отчеты о доставке</string>
-    <string name="pref_summary_delivery_reports">Запрос отчёта о доставке для каждого отправляемого сообщения</string>
+    <string name="pref_summary_delivery_reports">Запрос отчета о доставке для каждого отправляемого сообщения</string>
     <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
     <string name="pref_summary_ringtone_repeat">Повтор каждые 5 минут</string>
     <string name="pref_other_title">Прочее</string>
@@ -517,7 +517,7 @@
     <string name="mx_online">В сети</string>
     <string name="mx_offline">Не в сети</string>
     <string name="mx_enable_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между MIUI. За обычные сообщения взымается плата. Включить облачные сообщения?</string>
-    <string name="mx_enable_int_popup_msg">Облачные сообщения позволяют Вам общаться с прочими пользователями MIUI. Для активации будет отправлен SMS запрос (сообщение считается роуминговым). Ваш оператор поддерживает данную операцию, активировать её сейчас? В случае отказа, вы можете активировать её позже, в настройках</string>
+    <string name="mx_enable_int_popup_msg">Облачные сообщения позволяют Вам общаться с прочими пользователями MIUI. Для активации будет отправлен SMS запрос (сообщение считается роуминговым). Ваш оператор поддерживает данную операцию, активировать ее сейчас? В случае отказа, вы можете активировать ее позже, в настройках</string>
     <string name="loading_mms">Загрузка…</string>
     <string name="add_number_to_sender">Добавить номер в %s</string>
     <string name="in_calling">Вызов</string>
@@ -527,7 +527,7 @@
     <string name="sms_sender">От</string>
     <string name="sms_content">Содержимое</string>
     <string name="hint_search_sms">%d SMS</string>
-    <string name="search_show_more_results">Ещё</string>
+    <string name="search_show_more_results">Еще</string>
     <string name="add_private_contact">Добавить приватный контакт</string>
     <string name="private_settings">Настройки приватности</string>
     <string name="prvate_contact">Приватные контакты</string>

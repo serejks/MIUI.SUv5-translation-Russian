@@ -192,7 +192,7 @@
     <string name="sync_album_summary">Загрузить фотографии и скриншоты в онлайн альбом</string>
     <string name="open_sync_title">Запустите синхронизацию</string>
 	<string name="operation_delete_confirm_message_folder">Папка будет удалена со всеми файлами.</string>
-    <string name="alert_message_open_sync">Сначала Вы должны запустить синхронизацию. Запустить её сейчас?</string>
+    <string name="alert_message_open_sync">Сначала Вы должны запустить синхронизацию. Запустить ее сейчас?</string>
     <string name="open">Открыть</string>
     <string name="alert_message_initial_cloud">Фотографии и скриншоты будут автоматически загружаться в онлайн хранилище только при включенном Wi-Fi.</string>
     <string name="cloud_gallery_no_pictures">Нет изображений в онлайн альбоме</string>

@@ -362,7 +362,7 @@
 	<string name="fdn_contact_deleted">Номер ограниченного набора удален.</string>
 	<string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN код.</string>
 	<string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр.</string>
-	<string name="pin2_or_fdn_invalid">Детский контроль не включён. PIN2 введён не верно или отклонён номер телефона.</string>
+	<string name="pin2_or_fdn_invalid">Детский контроль не включен. PIN2 введен не верно или отклонен номер телефона.</string>
 	<string name="fdn_failed">Активация услуги \"Детский контроль\" не удалась.</string>
 	<string name="simContacts_emptyLoading">Считывание с SIM карты…</string>
 	<string name="exportContacts">Экспорт контактов на SIM карту…</string>
@@ -424,14 +424,14 @@
 	<string name="card_title_cugcall">Звонок закрытой группе пользователей</string>
 	<string name="card_title_outgoing_barred">Исходящие звонки запрещены</string>
 	<string name="card_title_incoming_barred">Входящие звонки запрещены</string>
-	<string name="card_title_clir_suppression_rejected">Антиопределитель запрещён - отмена</string>
-	<string name="card_title_call_deflected">Звонок отклонён</string>
+	<string name="card_title_clir_suppression_rejected">Антиопределитель запрещен - отмена</string>
+	<string name="card_title_call_deflected">Звонок отклонен</string>
 	<string name="card_title_MTcall_forwarding">Входящий вызов переадресуется</string>
 	<string name="card_title_forwarded_MTcall">Входящий переадресованный вызов</string>
 	<string name="card_title_callonhold">Удержание</string>
 	<string name="card_title_callretrieved">Звонки извлечены</string>
 	<string name="card_title_multipartycall">Множественный вызов (Конференция)</string>
-	<string name="card_title_callonhold_released">Звонок совершён</string>
+	<string name="card_title_callonhold_released">Звонок совершен</string>
 	<string name="card_title_forwardcheckreceived">Переадресация установлена</string>
 	<string name="card_title_callconnectingect">Соединение вызова</string>
 	<string name="card_title_callconnectedect">Соединение установлено</string>
@@ -752,7 +752,7 @@
 	<string name="contactAddFailed">Не удалось добавить контакт на SIM!</string>
 	<string name="contactUpdateSuccess">Успешно обновлено!</string>
 	<string name="contactUpdateFailed">Не удалось обновить контакт!</string>
-	<string name="contactdeleteSuccess">Номер удалён!</string>
+	<string name="contactdeleteSuccess">Номер удален!</string>
 	<string name="contactdeleteFailed">Не удалось удалить номер с SIM!</string>
 	<string name="allContactdeleteSuccess">Все контакты УДАЛЕНЫ</string>
 	<string name="allContactdeleteFailed">Не удалось удалить все контакты с SIM!</string>
@@ -1232,7 +1232,7 @@
     <string name="vt_incoming_showme_disable">Отключено</string>
     <string name="vt_pic_replace_local_default">Стандартное изображение</string>
     <string name="vt_pic_replace_local_freezeme">Заморозить меня</string>
-    <string name="vt_pic_replace_local_mypic">Моё изображение</string>
+    <string name="vt_pic_replace_local_mypic">Мое изображение</string>
     <string name="vt_local_video_display">Отображение локального видео</string>
     <string name="vt_sd_null">"SD карта
 недоступна"</string>
@@ -1506,7 +1506,7 @@
     <string name="sim_manage_sipcall">Интернет-вызов</string>
     <string name="sim_manage_call_via">Вызов через</string>
     <string name="pch_data_prefer_title">Предпочтительная передача данных</string>
-    <string name="pch_data_prefer_summary">Увеличить скорость передачи данных за счёт снижения качества вызовов</string>
+    <string name="pch_data_prefer_summary">Увеличить скорость передачи данных за счет снижения качества вызовов</string>
     <string name="pch_data_prefer_message">"Предпочтильная передача данных используется для повышения эффективности передачи данных за счет снижения качества и скорости приема вызовов. Не рекомендуется включать эту функцию.
 
 Включить данную функцию?"</string>
@@ -1542,7 +1542,7 @@
     <string name="international_dialing_no">Нет. Использовать оригинальный номер:</string>
     <string name="international_dialing_call_button">Звонок</string>
     <string name="international_dialing_area_code">Код страны</string>
-    <string name="international_dialing_invalid_number">Некорректный номер. Всё равно продолжить вызов?</string>
+    <string name="international_dialing_invalid_number">Некорректный номер. Все равно продолжить вызов?</string>
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Добавить код страны и код города?</string>
     <string name="no_search_result">Нет результатов поиска</string>
     <string name="gemini_3g_disable_warning_case0">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Включить передачу данных в роуминге и выбрать эту SIM карту?</string>

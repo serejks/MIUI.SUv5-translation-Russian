@@ -33,7 +33,7 @@
 	<string name="firewall_action">Действия брандмауэра</string>
 	<string name="act_call">Журнал звонков</string>
 	<string name="act_hangup_call">Сразу сбрасывать</string>
-	<string name="act_hangup_call_summary">Отклонённые номера не будут отображаться в журнале вызовов</string>
+	<string name="act_hangup_call_summary">Отклоненные номера не будут отображаться в журнале вызовов</string>
 	<string name="act_mute_call">Без звука</string>
 	<string name="act_mute_call_summary">Не будет уведомлений о звонках, но они будут записываться в журнал вызовов</string>
 	<string name="act_ignore_call">Не фильтровать звонки</string>
@@ -222,7 +222,7 @@
 	<string name="st_bl_setting_group">Настройки черного списка</string>
 	<string name="st_block_all">Блокировать вызовы и сообщения</string>
 	<string name="st_block_mute">Блокировать вызовы и не уведомлять о сообщениях</string>
-	<string name="st_block_private_call_button">Блокировать неопределённые</string>
+	<string name="st_block_private_call_button">Блокировать неопределенные</string>
 	<string name="st_block_title">Блокировать</string>
 	<string name="st_call_group">Вызовы</string>
 	<string name="st_common_setting_group">Настройки фильтров</string>

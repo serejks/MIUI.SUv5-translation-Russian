@@ -138,7 +138,7 @@
     <string-array name="availability">
         <item>Занят</item>
         <item>Доступен</item>
-        <item>Не определён</item>
+        <item>Не определен</item>
     </string-array>
     <string-array name="visibility">
         <item>По умолчанию</item>

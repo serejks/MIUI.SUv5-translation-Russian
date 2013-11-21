@@ -398,10 +398,10 @@
 	<string name="lockscreen_pattern_wrong">Попробуйте снова:</string>
 	<string name="lockscreen_pattern_instructions">Нарисуйте графический ключ чтобы разблокировать</string>
 	<string name="lockscreen_transport_next_description">Далее</string>
-	<string name="lockscreen_access_pattern_cleared">Графический ключ стёрт</string>
+	<string name="lockscreen_access_pattern_cleared">Графический ключ стерт</string>
 	<string name="lockscreen_access_pattern_start">Графический ключ начат</string>
 	<string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
-	<string name="lockscreen_access_pattern_detected">Графический ключ завершён</string>
+	<string name="lockscreen_access_pattern_detected">Графический ключ завершен</string>
 	<string name="lockscreen_transport_prev_description">Назад</string>
 	<string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
 	<string name="lockscreen_emergency_call">Экстренный вызов</string>

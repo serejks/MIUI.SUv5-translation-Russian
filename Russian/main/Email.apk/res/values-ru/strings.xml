@@ -83,7 +83,7 @@
     <string name="mailbox_list_recent_mailboxes">Недавние папки</string>
     <string name="message_subject_description">Тема</string>
     <string name="message_is_empty_description">Без темы</string>
-    <string name="message_list_load_more_messages_action">Загрузить ещё сообщения</string>
+    <string name="message_list_load_more_messages_action">Загрузить еще сообщения</string>
     <string name="message_list_no_messages">Нет сообщений</string>
     <string name="message_compose_to_hint">Получатели</string>
     <string name="message_compose_cc_hint">Копия</string>
@@ -115,7 +115,7 @@
     <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми.</string>
     <string name="message_compose_attachment_size">Файл имеет слишком большой размер и не может быть приложен.</string>
     <string name="message_compose_insert_quick_response_list_title">Вставка быстрого ответа</string>
-    <string name="message_compose_display_name">%1$s и ещё %2$d</string>
+    <string name="message_compose_display_name">%1$s и еще %2$d</string>
     <string name="message_view_to_label">Кому:</string>
     <string name="message_view_cc_label">Копия:</string>
     <string name="message_view_bcc_label">Скрытая копия:</string>
@@ -399,7 +399,7 @@
     <string name="widget_starred">Помеченные</string>
     <string name="widget_loading">Загрузка…</string>
     <string name="widget_touch_to_configure">Нажмите для настройки.</string>
-    <string name="widget_no_accounts">Вы ещё не добавили аккаунт электронной почты.</string>
+    <string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты.</string>
     <string name="widget_no_mailboxes">Этот аккаунт не синхронизирован. Повторите позже.</string>
     <string name="more_than_999">999+</string>
     <string name="search_hint">Искать в электронной почте</string>
@@ -408,7 +408,7 @@
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
-	<string name="long_string">Это очень длинная строка, дальше не будет ничего интересного! Поверьте, вы просто зря тратите своё бесценное время, вчитываясь в этот бред…уточка - три, корова - два, сколько лошадь?</string>
+	<string name="long_string">Это очень длинная строка, дальше не будет ничего интересного! Поверьте, вы просто зря тратите свое бесценное время, вчитываясь в этот бред…уточка - три, корова - два, сколько лошадь?</string>
     <string name="default_signature">Отправлено с MIPHONE</string>
     <string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге.</string>
     <string name="application_name">Загрузка с телефона</string>
@@ -433,7 +433,7 @@
     <string name="contextmenu_sharelink">Отправить ссылку</string>
     <string name="contextmenu_help">Справка</string>
     <string name="contextmenu_feedback">Отправить отзыв</string>
-    <string name="more_string">Ещё %1$s…</string>
+    <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Вернуться</string>

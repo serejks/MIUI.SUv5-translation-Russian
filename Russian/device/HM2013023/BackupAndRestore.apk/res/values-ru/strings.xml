@@ -51,7 +51,7 @@
     <string name="delete_please_wait">Удаление…</string>
     <string name="loading_please_wait">Обновление…</string>
     <string name="edit_folder_name">Изменить имя папки</string>
-    <string name="file_no_exist_and_update">Файл был удалён, перезагрузите.</string>
+    <string name="file_no_exist_and_update">Файл был удален, перезагрузите.</string>
     <string name="no_item_selected">Ничего не выбрано</string>
     <string name="updating">Обновление…</string>
     <string name="create_folder_fail">Ошибка создания папки</string>

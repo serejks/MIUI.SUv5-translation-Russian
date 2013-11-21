@@ -85,7 +85,7 @@
     <string name="no_wifi">Wi-Fi отключен</string>
     <string name="no_wifi_hint">Сеть Wi-Fi не найдена</string>
     <string name="search_title">Поиск</string>
-    <string name="search_hint">Введите часть или всё имя файла</string>
+    <string name="search_hint">Введите часть или все имя файла</string>
     <string name="dialog_select_type">Выберите тип</string>
     <string name="dialog_type_text">Текст</string>
     <string name="dialog_type_audio">Аудио</string>
@@ -153,7 +153,7 @@
     <string name="guide_access_files_through_web">Они будут доступны через интернет\nна любом компьютере</string>
     <string name="guide_access_files_through_phone">Загруженные через интернет файлы\nбудут отображаться в телефоне\nв разделе KuaiPan</string>
     <string name="guide_advance_tech">Передовые технологии</string>
-    <string name="guide_manage_files_through_computer">Управляйте файлами в KuaiPan\nна своём ПК</string>
+    <string name="guide_manage_files_through_computer">Управляйте файлами в KuaiPan\nна своем ПК</string>
     <string name="guide_senior_tech">Обмен между компьютерами</string>
     <string name="guide_install_app_on_several_computers">Установите клиент KuaiPan\nна несколько компьютеров</string>
     <string name="guide_changes_sync">Изменения синхронизируются\nна всех устройствах</string>
@@ -214,7 +214,7 @@
     <string name="utf8_title">UTF-8</string>
     <string name="utf8_summary">Тип кодировки FTP по умолчанию</string>
     <string name="gbk_title">GBK</string>
-    <string name="gbk_summary">Стандартная кодировка в упрощённой китайской версии Windows.</string>
+    <string name="gbk_summary">Стандартная кодировка в упрощенной китайской версии Windows.</string>
     <string name="big5_title">BIG5</string>
     <string name="big5_summary">Стандартная кодировка в традиционной китайской версии Windows.</string>
     <string name="stay_awake_title">Не засыпать</string>
