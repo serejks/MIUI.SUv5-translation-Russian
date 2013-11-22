@@ -41,7 +41,7 @@
 	<string name="cant_remove_system_app">Невозможно удалить системное приложение</string>
 	<string name="cant_remove_retained_app">Невозможно удалить приложение.</string>
 	<string name="uninstall_dialog_title_format">Удалить \"%s\"</string>
-	<string name="uninstall_dialog_message">Удаление очистит все данные приложения.</string>
+	<string name="uninstall_dialog_message">Будут очищены все данные.</string>
 	<string name="uninstall">Удалить</string>
 	<string name="starting_preset_app">Запуск…</string>
 	<string name="install">Установить</string>
