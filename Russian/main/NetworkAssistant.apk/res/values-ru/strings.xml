@@ -133,8 +133,8 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Не обновлялось более месяца</string>
     <string name="adjust_traffic_carrier_adjusting">настройка трафика…</string>
     <string name="menu_sort_by_name">Сорт. по имени</string>
-    <string name="menu_sort_by_mobile_traffic">Сорт. по 2G/3G траффику</string>
-    <string name="menu_sort_by_all_traffic">Сорт. по общему траффику</string>
+    <string name="menu_sort_by_mobile_traffic">Сорт. по 2G/3G трафику</string>
+    <string name="menu_sort_by_all_traffic">Сорт. по общему трафику</string>
     <string name="menu_sort_by_disabled">Сорт. по выкл. приложениям</string>
     <string name="notify_traffic_settings_format">%s не был настроен ваш тарифный план. Настроить?</string>
     <string name="notify_carrier_settings_format">%s не был настроен поставщик услуг связи .Настроить?</string>
@@ -148,7 +148,7 @@
     <string name="version_label">Версия:</string>
     <string name="sms_template_updated_label">"Обновлено: "</string>
     <string name="unknown">неизвестно</string>
-    <string name="overseas_unknown_traffic_hint">Ограничения на расход траффика не настроены. Настроить сейчас?</string>
+    <string name="overseas_unknown_traffic_hint">Ограничения на расход трафика не настроены. Настроить сейчас?</string>
     <string name="overseas_menu_traffic_settings">Ограничение трафика</string>
     <string name="overseas_menu_traffic_adjust">Ручная настройка</string>
     <string name="about">О приложении</string>
