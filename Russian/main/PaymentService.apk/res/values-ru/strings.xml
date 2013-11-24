@@ -245,9 +245,7 @@
     <string name="lockpattern_confirm_button_text">Подтвердить</string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Пароль введен неверно много раз&lt;/font></string>
-    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите попытку через %d сек.</string>
     <string name="title_myaccount">Мой аккаунт: %s</string>
     <string name="title_gesture">Графический ключ</string>
