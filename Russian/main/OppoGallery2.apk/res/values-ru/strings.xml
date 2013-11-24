@@ -151,9 +151,9 @@
     <string name="my_image">DCIM</string>
     <string name="my_record">DCIM</string>
     <string name="front_facing_camera_error">Фронтальная камера недоступна!</string>
-    <string name="burst_shot_not_available_for_panorama">Непрерывная съека не работает в режиме панорамы</string>
-    <string name="burst_shot_not_available_for_hdr">Непрерывная съека не работает в режиме HDR</string>
-    <string name="burst_shot_not_available_for_beautify">Непрерывная съека не работает в режиме улучшения</string>
+    <string name="burst_shot_not_available_for_panorama">Непрерывная съемка не работает в режиме панорамы</string>
+    <string name="burst_shot_not_available_for_hdr">Непрерывная съемка не работает в режиме HDR</string>
+    <string name="burst_shot_not_available_for_beautify">Непрерывная съемка не работает в режиме улучшения</string>
     <string name="battery_level_low_camera">Вспышка выключена при низким электричеством</string>
     <string name="battery_level_low_video">Вспышка выключена при низким электричеством</string>
     <string name="oppo_pano_generated">Панорама создана</string>
