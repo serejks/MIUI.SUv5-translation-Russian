@@ -403,7 +403,7 @@
 	<string name="delete_bookmark">Из закладок</string>
 	<string name="multi_select_title">Выбрано пунктов: %1$s</string>
 	<string name="delete_multi_bookmarks_alert_title">Удалить выбранные закладки (%1$s шт.)?</string>
-	<string name="add_bookmark">Добавить закладку</string>
+	<string name="add_bookmark">"Добавить закладку "</string>
 	<string name="send_bookmark_to_home_screen">Отправить на Домашний Экран</string>
 	<string name="bookmark_title">Имя</string>
 	<string name="bookmark_url">Адрес</string>
@@ -480,7 +480,7 @@
 	<string name="menu_hv_swap">Альбомный режим</string>
 	<string name="menu_hv_swap2">Портретный режим</string>
 	<string name="exit_browser_warning">Выйти?</string>
-	<string name="not_remind_again">Больше не напоминать.</string>
+	<string name="not_remind_again">Больше не напоминать</string>
 	<string name="pref_general_exit_setting_title">Настройки выхода</string>
 	<string name="pref_confirm_for_exit">Подтверждение выхода</string>
 	<string name="pref_content_auto_light_mode">Автоподсветка</string>

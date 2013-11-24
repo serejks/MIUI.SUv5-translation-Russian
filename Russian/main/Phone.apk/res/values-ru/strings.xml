@@ -440,7 +440,7 @@
 	<string name="card_title_conf_call">Конференц-вызов</string>
 	<string name="card_title_incoming_call">Входящий вызов</string>
 	<string name="card_title_cdma_call_waiting">CDMA удержание вызова</string>
-	<string name="card_title_call_ended">Вызов завершен</string>
+	<string name="card_title_call_ended">"Вызов завершен "</string>
 	<string name="card_title_on_hold">Ждет ответа</string>
 	<string name="card_title_hanging_up">Завершение разговора</string>
 	<string name="card_title_in_call">Поступающий вызов</string>
@@ -694,7 +694,7 @@
 	<string name="description_image_button_zero">ноль</string>
 	<string name="description_image_button_pound">решетка</string>
 	<string name="description_search_button">поиск</string>
-	<string name="description_dial_button">набор номера</string>
+	<string name="description_dial_button">набор</string>
 	<string name="description_delete_button">возврат</string>
 	<string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
 	<string name="accessibility_call_muted">Звук выключен.</string>
@@ -745,7 +745,7 @@
 	<string name="editContact">Правка</string>
 	<string name="sendSms">Отправить SMS</string>
 	<string name="delete">Удалить</string>
-	<string name="dial">Набор номера</string>
+	<string name="dial">Набор</string>
 	<string name="enterName">Введите имя:</string>
 	<string name="enterNumber">Введите номер телефона:</string>
 	<string name="contactAddSuccess">Контакт добавлен на SIM</string>

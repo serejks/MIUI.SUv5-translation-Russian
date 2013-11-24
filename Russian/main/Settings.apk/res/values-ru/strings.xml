@@ -3259,13 +3259,13 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="power_center_custom_summary_default">Параметры оптимизации для экономии заряда батареи.</string>
     <string name="power_center_low_battery_title">Авто переключение</string>
     <string name="power_center_low_battery_summary_default">Включение режима экономии, когда батарея разряжена.</string>
-    <string name="power_center_low_battery_summary_dynamic">Когда заряд батареи менее %1$d%% переключиться в режим %2$s.</string>
+    <string name="power_center_low_battery_summary_dynamic">В случае если заряд батареи менее %1$d%% переключиться в режим %2$s.</string>
     <string name="power_center_on_time_title">Расписание</string>
     <string name="power_center_on_time_summary_default">Включение режима в назначенное время.</string>
     <string name="power_center_on_time_summary_dynamic">С %1$s до %2$s переключиться в режим %3$s.</string>
     <string name="power_center_state_on">Включено</string>
     <string name="power_center_state_off">Выключено</string>
-    <string name="power_center_consume_time">Оставшееся время: %1$s</string>
+    <string name="power_center_consume_time">Осталось: %1$s</string>
     <string name="power_center_charge_time">Зарядка будет завершена в %1$s</string>
     <string name="power_center_battery_full">Батарея заряжена</string>
     <string name="power_chooser_title">Режим экономии батареи</string>

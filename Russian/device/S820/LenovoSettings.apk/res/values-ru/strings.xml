@@ -196,7 +196,7 @@
     <string name="lenovo_id_summery">С номером телефона, как ваш идентификатор Lenovo, вы можете наслаждаться Lenovo связанных с ними услуг.</string>
     <string name="lenovo_system_update">Обновление ПО</string>
     <string name="storage_path0">USB Память</string>
-    <string name="storage_path1">SD Память</string>
+    <string name="storage_path1">SD карта</string>
     <string name="dlg_default_write_disk_change_title">Настройки памяти по-умолчанию</string>
     <string name="dlg_default_write_disk_change_msg">Изменения вступят в силу после перезагрузки!</string>
     <string name="dlg_default_write_disk0_change_msg">"При выборе памяти SD, приложения, которые установлены в USB накопитель отключатся и устройство перезагрузится, выбрать память SD для хранения по умолчанию?"</string>

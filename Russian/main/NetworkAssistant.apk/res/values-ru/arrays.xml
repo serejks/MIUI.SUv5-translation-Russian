@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Трафик за вчера</item>
-        <item>Трафик за сегодня</item>
-        <item>Трафик за месяц</item>
+        <item>"Трафик за вчера "</item>
+        <item>"Трафик за сегодня "</item>
+        <item>"Трафик за месяц "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Вчера 2G/3G</item>
