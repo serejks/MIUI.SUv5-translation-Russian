@@ -30,7 +30,7 @@
     <string name="light_show">Световое шоу</string>
     <string name="light_show_info">Световое шоу воспроизведения музыки</string>
     <string name="stop">Стоп</string>
-    <string name="closed">Замкнутый</string>
-    <string name="open">Открытый</string>
+    <string name="closed">Отключен</string>
+    <string name="open">Включен</string>
     <string name="multiselect_alert_info">Необходим как минимум один цвет!</string>
 </resources>
