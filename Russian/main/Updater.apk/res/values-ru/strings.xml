@@ -90,7 +90,7 @@
     <string name="boot_recovery">Перезагрузка в Recovery</string>
     <string name="applying_rom_message">Применение обновлений…</string>
     <string name="loading">Запрос…</string>
-    <string name="install_rom_from_sd">Выбрать установойчный файл</string>
+    <string name="install_rom_from_sd">Выбрать установочный файл</string>
     <string name="download_current_rom">Загрузка последней версии MIUI</string>
     <string name="no_proper_updates">Для текущей версии MIUI обновлений не найдено.</string>
     <string name="sign_in_info">"Статус обновления: %1$s\n%2$s пользователей выбрали MIUI %3$s""</string>

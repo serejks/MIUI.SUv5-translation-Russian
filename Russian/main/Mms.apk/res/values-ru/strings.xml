@@ -522,6 +522,9 @@
     <string name="add_number_to_sender">Добавить номер в %s</string>
     <string name="in_calling">Вызов</string>
 	<string name="mx_activation_done">Облачные сообщения активированы</string>
+    <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться между собой сообщениями через интеренет.</string>
+    <string name="mx_activate_int_popup_msg">Сообщения позволяют пользователям MIUI обмениваться между собой сообщениями через интеренет.</string>
+    <string name="mx_btn_enable_now">Включить</string>
     <string name="unknown_num">Неизвестный номер</string>
     <string name="in_sms">Сообщение</string>
     <string name="sms_sender">От</string>

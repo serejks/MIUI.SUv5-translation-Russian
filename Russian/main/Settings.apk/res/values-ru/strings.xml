@@ -3635,7 +3635,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="last_checked_date_mark">%</string>
     <string name="last_checked_date2">Последняя проверка была %d дн. назад</string>
     <string name="just_checked">Все отлично!</string>
-    <string name="need_check">Некоторые элементы могут быть оптимизированы</string>
+    <string name="need_check">Можно оптимизировать</string>
     <string name="scan_done">Проверка завершена</string>
     <string name="realtime_protection_title">Защита</string>
     <string name="process_manager_actionbar_title">Память</string>
@@ -3659,8 +3659,8 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="last_check_canceled">Требуется проверка: предыдущая была отменена до ее завершения.</string>
     <string name="last_checked_default">Требуется проверка: последний раз выполнено %s дн. назад.</string>
     <string name="examination_score_100">Проверка не требуется</string>
-    <string name="examination_score_80_100">Некоторые элементы могут быть оптимизированы</string>
-    <string name="examination_score_80_60">Некоторые элементы могут быть оптимизированы</string>
+    <string name="examination_score_80_100">Можно оптимизировать</string>
+    <string name="examination_score_80_60">Можно оптимизировать</string>
     <string name="examination_score_60_0">Необходимо выполнить оптимизацию</string>
     <string name="examination_score_has_virus">Обнаружены подозрительные приложения</string>
     <string name="scanning_virus">Сканирование…</string>

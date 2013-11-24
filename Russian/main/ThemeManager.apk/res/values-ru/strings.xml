@@ -75,6 +75,9 @@
 	<string name="wallpaper_decoded_error">Ошибка загрузки.</string>
 	<string name="close">Закрыть</string>
 	<string name="download_success">Загрузка завершена.</string>
+    <string name="basic_info">Основная информация</string>
+    <string name="account_info">Мой аккаунт</string>
+    <string name="payment_info">Центр MiCredits</string>
 	<string name="theme_importing">Импорт тем…</string>
 	<string name="theme_upgrade_request_title">Есть обновления для тем</string>
 	<string name="theme_upgrade_request_content">Обновить темы?</string>
@@ -196,6 +199,8 @@
 	<string name="loading_resource_detail_fail">Ошибка загрузки ресурса.</string>
 	<string name="account_abnormal_state">Ошибка аккаунта: повторите позже</string>
 	<string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
+    <string name="apply_theme_with_ringtones">Применять тему без мелодии</string>
+    <string name="settings">Настройка</string>
 	<string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">Вставьте SD карту. \n</string>
 	<string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
