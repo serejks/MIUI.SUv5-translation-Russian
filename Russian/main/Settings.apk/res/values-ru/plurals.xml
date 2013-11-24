@@ -5,8 +5,8 @@
         <item quantity="one">%d дн.</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d час.</item>
-        <item quantity="one">%d час.</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
     </plurals>
     <plurals name="power_center_battery_minute">
         <item quantity="other">%d мин.</item>

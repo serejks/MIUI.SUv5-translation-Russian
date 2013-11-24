@@ -97,7 +97,7 @@
 	<string name="reset">Сброс</string>
 	<string name="lap">Круг</string>
 	<string name="timer_continue">Продолжить</string>
-	<string name="elapsed_hour">%d час.</string>
+	<string name="elapsed_hour">%d ч.</string>
 	<string name="worldclock_empty_text">Нет мировых часов</string>
 	<string name="alarmclock_empty_text">Нет будильников</string>
     <string name="stopwatch_lap_empty_text">Ни одного круга</string>
@@ -111,7 +111,7 @@
 	<string name="cancel">Отмена</string>
 	<string name="timer_minute">М</string>
 	<string name="timer_hour">Ч</string>
-	<string name="timer_message_with_hour">%1$d час. и %2$d мин.</string>
+	<string name="timer_message_with_hour">%1$d ч. и %2$d мин.</string>
 	<string name="timer_message">%1$d мин.</string>
 	<string name="timer_tutorial">Установка таймера</string>
 	<string name="alarm_duration">Интервал срабатывания (Мин)</string>

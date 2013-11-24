@@ -543,10 +543,10 @@
     <string name="preposition_for_date">%s</string>
     <string name="preposition_for_time">в %s</string>
     <string name="preposition_for_year">в %s г.</string>
-    <string name="day">дн.</string>
+    <string name="day">день</string>
     <string name="days">дн.</string>
-    <string name="hour">час.</string>
-    <string name="hours">час.</string>
+    <string name="hour">час</string>
+    <string name="hours">ч.</string>
     <string name="minute">мин.</string>
     <string name="minutes">мин.</string>
     <string name="second">сек.</string>

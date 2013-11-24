@@ -231,7 +231,7 @@
     <string name="date_time_auto_summaryOn">Использовать значение времени, заданное сетью</string>
     <string name="date_time_auto_summaryOff">Использовать значение времени, заданное сетью</string>
     <string name="warning">Предупреждение</string>
-    <string name="zone_auto">Автоопредел. час. пояса</string>
+    <string name="zone_auto">Часовой пояс сети</string>
     <string name="zone_auto_summaryOn">Использовать часовой пояс, заданный сетью</string>
     <string name="zone_auto_summaryOff">Использовать часовой пояс, заданный сетью</string>
     <string name="date_time_24hour">24-часовой формат</string>

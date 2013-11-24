@@ -9,8 +9,8 @@
         <item quantity="one">1 мин. назад</item>
     </plurals>
     <plurals name="num_hours_ago">
-        <item quantity="other">%d час. назад</item>
-        <item quantity="one">1 час. назад</item>
+        <item quantity="other">%d ч. назад</item>
+        <item quantity="one">1 ч. назад</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Последние %d дн.</item>
@@ -28,8 +28,8 @@
         <item quantity="one">через 1 мин.</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">через %d час.</item>
-        <item quantity="one">через 1 час.</item>
+        <item quantity="other">через %d ч.</item>
+        <item quantity="one">через 1 ч.</item>
     </plurals>
     <plurals name="in_num_days">
         <item quantity="other">через %d дн.</item>
@@ -44,8 +44,8 @@
         <item quantity="one">1 мин. назад</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">%d час. назад</item>
-        <item quantity="one">1 час. назад</item>
+        <item quantity="other">%d ч. назад</item>
+        <item quantity="one">1 ч. назад</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
         <item quantity="other">%d дн. назад</item>
@@ -60,8 +60,8 @@
         <item quantity="one">через 1 мин.</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
-        <item quantity="other">через %d час.</item>
-        <item quantity="one">через 1 час.</item>
+        <item quantity="other">через %d ч.</item>
+        <item quantity="one">через 1 ч.</item>
     </plurals>
     <plurals name="abbrev_in_num_days">
         <item quantity="other">через %d дн.</item>
