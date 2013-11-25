@@ -59,9 +59,9 @@
     <string name="install_tencent">Получить приложение Weibo</string>
     <string name="share_content">\#Погода MIUI#</string>
     <string name="share_weather_content">"\#Погода MIUI#
-Сегодня %1$s's погода %2$s, %3$s, %4$s. %5$s."</string>
+Сегодня %1$s погода %2$s, %3$s, %4$s. %5$s."</string>
     <string name="share_aqi_content">"\#Погода MIUI#
-Сегодня %1$s's кач-во воздуха: %2$s, %3$s. %4$s %5$s."</string>
+Сегодня %1$s кач-во воздуха: %2$s, %3$s. %4$s %5$s."</string>
     <string name="save_screen_shot_failed">Ошибка сохранения скриншота.</string>
     <string name="trend_weather_today">Сегодня</string>
     <string name="trend_weather_tomorrow">Завтра</string>

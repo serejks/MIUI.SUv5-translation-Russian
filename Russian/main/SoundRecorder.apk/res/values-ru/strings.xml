@@ -36,8 +36,8 @@
     <string name="record_list">Список записей</string>
     <string name="record_loading">Загрузка…</string>
     <string name="sd_card_not_available">SD карта недоступна.</string>
-    <string name="call_record">Записи звонков(%d)</string>
-    <string name="fm_record">Записи радио(%d)</string>
+    <string name="call_record">Записи звонков (%d)</string>
+    <string name="fm_record">Записи радио (%d)</string>
     <string name="open_file_explorer">Открыть файл-менеджер</string>
     <string name="no_file">Нет записей.</string>
     <string name="mark_now">(Текущая)</string>
@@ -90,7 +90,7 @@
 	<string name="duration_format_minute">%s мин.</string>
 	<string name="duration_format_second">%s сек.</string>
 	<string name="toast_max_record_time">%1$s может записать около %2$s</string>
-	<string name="toast_uninstall_fileexplorer">Файл менеджер не установлено</string>
+	<string name="toast_uninstall_fileexplorer">Файл менеджер не установлен</string>
 	<string name="message_file_size_error">Запись достигла максимального лимита поддерживаемой %s</string>
 	<string name="start_recording">Начать запись</string>
     <string name="pause">Пауза</string>

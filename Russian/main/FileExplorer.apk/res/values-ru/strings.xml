@@ -321,7 +321,7 @@
 1. Скачать файл заново для обновления.
 2. Загрузить в Ваш аккаунт KuaiPan."</string>
     <string name="ui_filechange_btn_upload">Загрузить файлы</string>
-    <string name="folder_exist">Папка с уже существует.</string> 
+    <string name="folder_exist">Папка уже существует.</string> 
 	<string name="unmount_inform_text">Отключить USB накопитель?</string>
 	<string name="dlg_error_unmount_text">Невозможно отключить USB накопитель.</string>
 </resources>

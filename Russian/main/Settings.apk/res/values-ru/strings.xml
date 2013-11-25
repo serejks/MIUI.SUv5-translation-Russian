@@ -2658,7 +2658,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="man_add_application">Добавить вручную</string>
     <string name="application_item_disable">Запретить</string>
     <string name="application_item_permission">Разрешить</string>
-    <string name="application_item_already_permission">Разрешенные</string>
+    <string name="application_item_already_permission">Разрешен</string>
     <string name="application_forbid_auto_startup">Запретить \"%s\" запуск в фоновом режиме?</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрывать всплыв.окна</string>
@@ -3409,7 +3409,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="power_autorun_empty">Нет установленных приложений</string>
     <string name="power_autorun_apps_empty">Нет приложений с автозапуском</string>
     <string name="power_perm_logs_empty">Нет журналов</string>
-    <string name="process_manage_title">Остановка процессов: %1$d, оччистит памяти: %2$s</string>
+    <string name="process_manage_title">Очищено процессов: %1$d, освобождено памяти: %2$s</string>
     <string name="process_list_empty_hints">Нет кэшированных процессов</string>
     <string name="protection_category_dangerous_title">С риском (%d)</string>
     <string name="protection_category_recommend_title">Для оптимизации (%d)</string>
