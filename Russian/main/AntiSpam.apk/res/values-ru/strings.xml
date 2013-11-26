@@ -183,7 +183,7 @@
 	<string name="menu_clear_all_call">Очистить заблокированные вызовы</string>
 	<string name="menu_clear_all_sms">Удалить заблокированные сообщения</string>
 	<string name="menu_clear_current_call">Очистить заблокированные вызовы от этого номера</string>
-	<string name="menu_clear_current_sms">Удалить заблокированные сообщения от этого номера</string>
+	<string name="menu_clear_current_sms">Удалить заблокир. сообщения этого номера</string>
 	<string name="menu_mark">Отметить</string>
 	<string name="menu_no_block">Не блокировать</string>
 	<string name="menu_remove">Удалить</string>

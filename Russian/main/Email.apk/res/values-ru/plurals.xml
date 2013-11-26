@@ -14,8 +14,8 @@
         <item quantity="few">в %d аккаунтах</item>
     </plurals>
     <plurals name="number_of_accounts">
-        <item quantity="other">Число аккаунтов: %1$d</item>
-        <item quantity="one">Число аккаунтов: %1$d</item>
+        <item quantity="other">Аккаунтов: %1$d</item>
+        <item quantity="one">Аккаунтов: %1$d</item>
     </plurals>
     <plurals name="picker_combined_view_account_count">
         <item quantity="other">Аккаунтов: %d</item>
@@ -26,8 +26,8 @@
         <item quantity="one">Выбрано: %d</item>
     </plurals>
     <plurals name="message_view_show_attachments_action">
-        <item quantity="other">Прикреп. файлов: %1$d</item>
-        <item quantity="one">Прикреп. файлов: %1$d</item>
+        <item quantity="other">Вложений: %1$d</item>
+        <item quantity="one">Вложений: %1$d</item>
     </plurals>
     <plurals name="message_delete_confirm">
         <item quantity="other">Удалить сообщения?</item>
@@ -38,8 +38,8 @@
         <item quantity="one">Сообщение удалено</item>
     </plurals>
     <plurals name="message_moved_toast">
-        <item quantity="other">Сообщения (%1$d) перемещены в папку %2$s</item>
-        <item quantity="one">Сообщение (%1$d) перемещено в папку %2$s</item>
+        <item quantity="other">Сообщения (%1$d) перемещены в %2$s</item>
+        <item quantity="one">Сообщение (%1$d) перемещено в %2$s</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d Б</item>
@@ -58,7 +58,7 @@
         <item quantity="one">%d Гб</item>
     </plurals>
     <plurals name="gal_completed_fmt">
-        <item quantity="other">Кол-во результатов: %1$d с %2$s</item>
-        <item quantity="one">Результаты с %1$d (%2$s)</item>
+        <item quantity="other">Результатов: %1$d из %2$s</item>
+        <item quantity="one">Результатов: %1$d из %2$s</item>
     </plurals>
 </resources>

@@ -155,7 +155,7 @@
     <string name="attachment_info_wifi_settings">Настройки Wi-Fi</string>
     <string name="attachment_info_application_settings">Настройки приложения</string>
     <string name="attachment_info_unknown">Не удается открыть вложение.</string>
-    <string name="attachment_info_malware">Через файлы такого типа часто распространяют вредоносное ПО, поэтому мы не даем открывать и сохранять их.</string>
+    <string name="attachment_info_malware">Рекомендуется не сохранять или открывать вложения такого типа, т.к. они могут содержать вредоносное ПО.</string>
     <string name="attachment_info_policy">Политика безопасности аккаунта не позволяет сохранять подобные файлы.</string>
     <string name="attachment_info_wifi_only">Файл слишком большой для загрузки через мобильную сеть. Чтобы сохранить его, нужно подключиться к сети Wi-Fi.</string>
     <string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Android Маркета.</string>
