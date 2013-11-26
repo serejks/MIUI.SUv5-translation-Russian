@@ -3740,7 +3740,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="only_when_charging">Только при зарядке</string>
     <string name="miui_screensaver_show_time">Продолжительность</string>
     <string name="miui_screensaver_show_time_select_title">Продолжительность заставки</string>
-    <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайд-шоу после 5 секунд выключенного экрана.</string>
+    <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайдшоу после 5 секунд выключенного экрана.</string>
     <string name="alert_show_screensaver_when_not_charging_title">Предупреждение</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Батарея будет садиться гораздо быстрее во время показа заставки, если зарядка не подключена. \nОтключить этот пункт?</string>
 </resources>

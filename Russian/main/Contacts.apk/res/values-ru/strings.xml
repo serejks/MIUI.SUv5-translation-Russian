@@ -635,7 +635,7 @@
     <string name="group_name_coworkers">Коллеги</string>
     <string name="unkown_location">" "</string>
     <string name="service_provider">Желтые страницы</string>
-    <string name="zero_items_selected">Выберите пункты</string>
+    <string name="zero_items_selected">Выберите элементы</string>
     <string name="menu_group_add_members">Добавить в группу</string>
     <string name="nickname_picker_name_column">Имя</string>
     <string name="nickname_picker_nickname_column">Заголовок</string>
@@ -962,7 +962,7 @@
     <string name="online_search_hint">Поиск онлайн ресурсов</string>
     <string name="loading">Загрузка…</string>
     <string name="download_failed">Ошибка загрузки.</string>
-    <string name="download_preview_failed">Ошибка загрузки миниатюры.</string>
+    <string name="download_preview_failed">Ошибка загрузки эскиза.</string>
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="resource_delta_update_failed">Ошибка обновления: повторная загрузка темы…</string>
 	<string name="resource_delta_update_successful">Успешно обновлено</string>

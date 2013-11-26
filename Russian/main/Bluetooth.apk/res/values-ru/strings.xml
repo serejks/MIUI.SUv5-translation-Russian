@@ -69,7 +69,7 @@
 	<string name="bt_toast_6">Отправка файла на \"%1$s\" остановлена</string>
 	<string name="bt_sm_2_1">На SD карте нет места, чтобы сохранить файл с устройства \"%1$s\"</string>
 	<string name="bt_sm_2_2">Необходимое свободное место: %1$s</string>
-	<string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
+	<string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позже.</string>
 	<string name="status_pending">Передача файла еще не началась.</string>
 	<string name="status_running">Выполняется передача файла.</string>
 	<string name="status_success">Передача файла успешно завершена.</string>

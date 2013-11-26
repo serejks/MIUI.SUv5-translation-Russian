@@ -346,7 +346,7 @@
 	<string name="loading">Загрузка…</string>
 	<string name="fail_to_load">Невозможно загрузить</string>
 	<string name="fail_to_load_image">Невозможно загрузить изображение</string>
-	<string name="no_thumbnail">Нет миниатюр</string>
+	<string name="no_thumbnail">Нет эскизов</string>
 	<string name="resume_playing_restart">Начать сначала</string>
 	<string name="crop_save_text">OK</string>
 	<string name="ok">OK</string>
@@ -383,7 +383,7 @@
 	<string name="show_on_map">Показать на карте</string>
 	<string name="rotate_left">Повернуть влево</string>
 	<string name="rotate_right">Повернуть вправо</string>
-	<string name="no_such_item">Не удалось найти пункт</string>
+	<string name="no_such_item">Не удалось найти элемент</string>
 	<string name="edit">Редактировать</string>
 	<string name="process_caching_requests">Обработка очереди запросов</string>
 	<string name="caching_label">Кэширование…</string>
@@ -413,7 +413,7 @@
 	<string name="make_available_offline">Сделать доступным оффлайн</string>
 	<string name="sync_picasa_albums">Обновить</string>
 	<string name="done">Готово</string>
-	<string name="sequence_in_set">%1$d из %2$d пунктов:</string>
+	<string name="sequence_in_set">%1$d из %2$d элементов:</string>
 	<string name="title">Название</string>
 	<string name="description">Описание</string>
 	<string name="time">Время</string>

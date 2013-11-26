@@ -401,7 +401,7 @@
 	<string name="delete">Удалить</string>
     <string name="save_bookmark">В закладки</string>
 	<string name="delete_bookmark">Из закладок</string>
-	<string name="multi_select_title">Выбрано пунктов: %1$s</string>
+	<string name="multi_select_title">Выбрано элементов: %1$s</string>
 	<string name="delete_multi_bookmarks_alert_title">Удалить выбранные закладки (%1$s шт.)?</string>
 	<string name="add_bookmark">"Добавить закладку "</string>
 	<string name="send_bookmark_to_home_screen">Отправить на Домашний Экран</string>
