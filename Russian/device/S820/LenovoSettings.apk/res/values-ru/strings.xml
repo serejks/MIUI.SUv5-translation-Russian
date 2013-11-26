@@ -2487,7 +2487,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="sms_delivered_sound_dialog_title">Выберите звук доставленного SMS</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="privacy_protect_title">Настройка приватности</string>
-    <string name="privacy_mode_enable_title">Защищенный режим</string>
+    <string name="privacy_mode_enable_title">Режим гостя</string>
     <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и прочее для защиты приватности.</string>
     <string name="ac_enable_title">Управление доступом</string>
     <string name="ac_set_apps_title">Защита приложений</string>

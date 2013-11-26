@@ -71,7 +71,7 @@
 	<string name="fw_import_whitelist_confirm">Занести выбранные номера (%d шт.) в белый список?</string>
 	<string name="fw_blacklist_hint">Вызовы и сообщения автоматически блокируются при добавлении в черный список</string>
 	<string name="fw_whitelist_hint">Вызовы и сообщения белого списка не будут блокироваться</string>
-	<string name="fw_no_effect">Включить режим защиты?</string>
+	<string name="fw_no_effect">Включить режим гостя?</string>
 	<string name="fw_call_muted">Вызовы без звука</string>
 	<string name="fw_call_rejected">Отклоненные вызовы</string>
 	<string name="fw_call_imported">Импорт журнала вызовов</string>
