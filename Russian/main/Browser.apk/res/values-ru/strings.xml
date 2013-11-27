@@ -591,8 +591,8 @@
 	<string name="search">Поиск</string>
 	<string name="clear_search_history">Очистить историю</string>
 	<string name="bottom_bar_tabs_long_click_up_tip_txt">" Слайд вверх для закрытия "</string>
-    <string name="bottom_bar_tabs_long_click_down_tip_txt">" Слайд вниз для закрытия "</string>
-    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">" Последняя вкладка "</string>
+	<string name="bottom_bar_tabs_long_click_down_tip_txt">" Слайд вниз для закрытия "</string>
+	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">" Последняя вкладка "</string>
 	<string name="already_in_top_level">Эта закладка уже наверху</string>
 	<string name="webapp_app_name">Веб-маркет приложений</string>
 	<string name="webapp_dialog_title">Добавить приложений на рабочий строл</string>
@@ -609,8 +609,11 @@
 	<string name="dialog_geolocation_reject">Отклонить</string>
 	<string name="dialog_geolocation_share">Согласен</string>
 	<string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
-    <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета вы будете получать уведомления о доступных сетях Wi-Fi.</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Доступно Wi-Fi подключение. Подключиться?</string>
-    <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
+	<string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета вы будете получать уведомления о доступных сетях Wi-Fi.</string>
+	<string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
+	<string name="network_show_wifi_setting_tip_dialog_description">Доступно Wi-Fi подключение. Подключиться?</string>
+	<string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
+	<string name="send_to_popular">На главную</string>
+	<string name="add_quicklink_to_popular">Добавить на главную страницу</string>
+	<string name="quicklink_saved_before">Ссылка уже добавлена на главную страницу</string>
 </resources>
