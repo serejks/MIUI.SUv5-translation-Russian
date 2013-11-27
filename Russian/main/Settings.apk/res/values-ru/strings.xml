@@ -1134,7 +1134,7 @@
     <string name="force_stop">Остановить</string>
     <string name="total_size_label">Всего</string>
     <string name="application_size_label">Приложение</string>
-    <string name="external_code_size_label">на USB накопителе</string>
+    <string name="external_code_size_label">На USB накопителе</string>
     <string name="data_size_label">Данные</string>
     <string name="external_data_size_label">SD карта</string>
     <string name="uninstall_text">Удалить</string>
@@ -3505,7 +3505,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="fw_set_keyword">Настройка ключевых слов</string>
     <string name="fw_notification_settings">Настройка уведомлений</string>
     <string name="show_firewall_notification">Уведомления блокировок</string>
-    <string name="show_notification">Показывать уведомления</string>
+    <string name="show_notification">Уведомления</string>
     <string name="opt_reject_blacklist">Отклонять вызовы от номеров из черного списка</string>
     <string name="opt_reject_blacklist_stranger">Блокировать вызовы от неизвестных номеров из черного списка</string>
     <string name="opt_reject_blacklist_stranger_summary">Вызовы от номеров из черного списка будут автоматически отклонены</string>
