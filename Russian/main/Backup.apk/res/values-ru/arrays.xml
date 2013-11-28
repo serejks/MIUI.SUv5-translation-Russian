@@ -27,9 +27,9 @@
         <item>Аккаунты</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>Данные</item>
-        <item>Программы</item>
-        <item>Программы и данные</item>
+        <item>"Данные "</item>
+        <item>"Программы </item>
+        <item>"Программы и данные "</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Контакты</item>
