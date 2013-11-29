@@ -78,7 +78,7 @@
     <string name="shake_while_screen_on_title_summary">Пропустить только когда экран используется</string>
     <string name="other_settings">Остальное</string>
     <string name="play_and_download">Прослушать и скачать</string>
-    <string name="play_and_download_summary">Автоматически скачивать музыку, прослушанную онлайн</string>
+    <string name="play_and_download_summary">Автоскачивание музыки, прослушанную онлайн</string>
     <string name="screen_bright_wake">Держать экран включенным</string>
     <string name="screen_bright_wake_summary">Держать экран включенным на экране текущего воспроизведения</string>
     <string name="keep_quit_position_settings">Запоминать позицию</string>

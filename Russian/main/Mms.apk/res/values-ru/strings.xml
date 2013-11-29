@@ -176,9 +176,9 @@
     <string name="prefDefault_vibrate_false">никогда</string>
     <string name="prefDialogTitle_vibrateWhen">Вибросигнал</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
-    <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
+    <string name="pref_summary_mms_auto_retrieval">Автозагрузка MMS-сообщения</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
-    <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
+    <string name="pref_summary_mms_retrieval_during_roaming">Автозагрузка MMS-сообщения в роуминге</string>
     <string name="to_label">"Кому "</string>
     <string name="confirm_dialog_title">Удалить?</string>
     <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>

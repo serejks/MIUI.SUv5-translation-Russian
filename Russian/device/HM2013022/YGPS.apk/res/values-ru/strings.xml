@@ -83,7 +83,7 @@
     <string name="toast_nmealog_save_at">NMEAlog сохранен в %1$s</string>
     <string name="toast_no_log">Нет данных для сохранения!</string>
     <string name="toast_exceed_time">Превышено %1$s сек.</string>
-    <string name="toast_test_interrupted">Автоматический тест GPS прерван</string>
+    <string name="toast_test_interrupted">Автотест GPS прерван</string>
     <string name="toast_jamming_succeed">Сканирование помех завершено</string>
     <string name="toast_jamming_failed">Ошибка сканирования помех</string>
     <string name="toast_first_fix">GPS Fix после %1$d %2$s</string>

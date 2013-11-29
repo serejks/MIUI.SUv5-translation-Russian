@@ -34,8 +34,8 @@
 	<string name="restore_contacts_hit">Для восстановления контактов необходимо войти в аккаунт</string>
 	<string name="restore_telephony_hit">Процесс восстановления перезагрузит приложение \"Телефон\"</string>
 	<string name="restore_launcher_layout_hit">Восстановление ярлыков рабочего стола</string>
-	<string name="settings_summary">Бэкап настроек телефона и сообщений</string>
-	<string name="account_summary">Бэкап аккаунтов Google, Xiaomi и прочих пользовательских данных</string>
+	<string name="settings_summary">(Настройки телефона и сообщений)</string>
+	<string name="account_summary">(Аккаунты Google, Xiaomi и прочих пользовательских данных)</string>
 	<string name="cloud_app_name">Облачный бэкап</string>
 	<string name="cloud_home_title">Облако</string>
 	<string name="prompt_reading">Чтение…</string>

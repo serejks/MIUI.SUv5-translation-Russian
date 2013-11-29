@@ -303,8 +303,8 @@
     <string name="auto_create_recent_album">Автосоздание избранных альбомов</string>
 	<string name="landscape_mode">Включить альбомный режим</string>
 	<string name="photo_page_always_rotate">Автоповорот</string>
-    <string name="auto_create_recent_album_over_ten_times">Автоматическое создание избранного альбома, если он открыт более 10 раз</string>
-    <string name="not_auto_create_recent_album">Отменить автоматическое создание Избранных альбомов</string>
+    <string name="auto_create_recent_album_over_ten_times">Автосоздание избранного альбома, если он открыт более 10 раз</string>
+    <string name="not_auto_create_recent_album">Отменить автосоздание Избранных альбомов</string>
     <string name="auto_create_recent_album_confirm">Галерея очистит данные избранных альбомов. Избранные альбомы назначенные пользователем затронуты не будут.</string>
     <string name="slideshow_category">Слайдшоу</string>
     <string name="slideshow_interval">Время показа слайда</string>

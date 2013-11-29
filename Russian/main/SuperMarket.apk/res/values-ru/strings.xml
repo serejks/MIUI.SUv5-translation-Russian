@@ -196,7 +196,7 @@
     <string name="notif_install_failed">%1$s ошибка установки</string>
 	<string name="notif_auto_update_via_wifi">Обновлено: %1$s</string>
     <string name="notif_auto_update_successfull">Выполняется втоматическое обновление приложения: %1$s.</string>
-    <string name="notif_auto_update_failed">Автоматическое обновление приложений не удалось.</string>
+    <string name="notif_auto_update_failed">Автообновление приложений не удалось.</string>
     <string name="notif_summary_auto_update_successful">Обновлено: %1$s.</string>
     <string name="notif_summary_auto_update_failed">Нажмите для продолжения.</string>
     <string name="notif_description_from_market">Через Xiaomi market</string>

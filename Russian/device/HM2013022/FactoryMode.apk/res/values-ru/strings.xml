@@ -6,7 +6,7 @@
     <string name="calibrate_td">Статус калибровки TD</string>
     <string name="calibrate_gsm">Статус калибровки GSM</string>
     <string name="calibrate_wcdma">Статус калибровки WCDMA</string>
-    <string name="auto_test">Автоматический тест</string>
+    <string name="auto_test">Автотест</string>
     <string name="item_test">Выборочный тест</string>
     <string name="test_report">Отчет теста</string>
     <string name="instrument_check">Запрос ключевых компонентов</string>

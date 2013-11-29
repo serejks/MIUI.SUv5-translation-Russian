@@ -893,7 +893,7 @@
     <string name="GPS_msg">GPS выкл.</string>
     <string name="message_enable_GPS">Чтобы использовать теги GPS, включите GPS в разделе \"Настройки\"</string>
     <string name="app_name">Камера</string>
-    <string name="SmileShot_message">Нажмите кнопку камеры. Автоматическая съемка, когда человек улыбается</string>
+    <string name="SmileShot_message">Нажмите кнопку камеры. Автосъемка, когда человек улыбается</string>
     <string name="Title_ResetDailog">Сбросить настройки камеры?</string>
     <string name="Title_ChangeMemoryInUseDailog">Изменить место хранения по умолчанию на карту памяти?</string>
     <string name="Title_InsertMemoryCardDailog">Чтобы использовать камеру, вставьте карту памяти</string>
@@ -974,7 +974,7 @@
     <string name="bestgroup">Лучшие снимки</string>
     <string name="bestgroup_title">Выберите лучшие снимки</string>
     <string name="battery_low">Закройте камеру. Батарея слишком холодная</string>
-    <string name="buddy_photo_share_helptext">Автоматическое определение лиц друзей на фотографиях</string>
+    <string name="buddy_photo_share_helptext">Автоопределение лиц друзей на фотографиях</string>
     <string name="face_zoom_helptext">Для увеличения или уменьшения дважды нажмите лицо</string>
     <string name="burst_shot_guidetext">Фотографии, полученные при непрерывной съемке, будут сохраняться в памяти устройства</string>
     <string name="best_photo_guidetext">Лучшие фотографии будут сохраняться в памяти устройства</string>

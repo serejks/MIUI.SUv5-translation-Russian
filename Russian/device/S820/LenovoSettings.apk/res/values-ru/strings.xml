@@ -113,7 +113,7 @@
     <string name="wifi_popup_0">"Связывание подключенных точек доступа.
 Всплывающие уведомление при входе в это расположение."</string>
     <string name="wifi_popup_1">"Связывание подключенных точек доступа.
-Автоматически включить при входе в этот расположение."</string>
+Автовключение при входе в этот расположение."</string>
     <string name="wifi_popup_2">"Не связывать расположение"</string>
     <string name="show_dialog">"Не напоминать мнe"</string>
     <string name="apn_info">Информация о Точке доступа</string>
@@ -381,7 +381,7 @@
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
-    <string name="bluetooth_auto_connect">Автоматическое подключение</string>
+    <string name="bluetooth_auto_connect">Автоподключение</string>
     <string name="bluetooth_connection_permission_request">Запрос на подключение по каналу Bluetooth</string>
     <string name="bluetooth_pbap_connection_permission_request">Pbap: запрос на подключение</string>
     <string name="bluetooth_ftp_connection_permission_request">FTP: запрос на подключение</string>
@@ -1506,7 +1506,7 @@
     <string name="auto_replace">Автокоррекция</string>
     <string name="auto_replace_summary">Исправлять опечатки</string>
     <string name="auto_caps">Заглавные автоматически</string>
-    <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений.</string>
+    <string name="auto_caps_summary">Использовать автоподстановку заглавных букв в начале предложений.</string>
     <string name="auto_punctuate">Автопунктуация</string>
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
     <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
@@ -1639,7 +1639,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
 Если устройство имеет несколько пользователей, используя этот ярлык на экране блокировки позволяет временно доступности, пока устройство не будет разблокировано."</string>
     <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Увеличение изображения</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автоматическое обновление увеличения экрана</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автообновление увеличения экрана</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Обновления экрана на увеличение при переходе в приложение</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
     <string name="accessibility_toggle_speak_password_preference_title">Произносить пароль</string>
@@ -2229,9 +2229,9 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="dndm_auto_time_setting">Настройки времени</string>
     <string name="dndm_auto_time_setting_summary">От %1$s до %2$s</string>
     <string name="dndm_auto_time_turn_on">От</string>
-    <string name="dndm_auto_time_turn_on_title">Автоматическое включение тихого режима</string>
+    <string name="dndm_auto_time_turn_on_title">Автовключение тихого режима</string>
     <string name="dndm_auto_time_turn_off">До</string>
-    <string name="dndm_auto_time_turn_off_title">Автоматическое отключение тихого режима</string>
+    <string name="dndm_auto_time_turn_off_title">Автоотключение тихого режима</string>
     <string name="dndm_dlg_remove_vip">Удалить из списка исключений?</string>
     <string name="dndm_dlg_remove_ok">Удалить</string>
     <string name="dndm_menu_add_vip_custom">Добавить исключение</string>
@@ -3030,7 +3030,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
 \u0009 Ускорение происходит за счет предоставления необходимой информации через альтернативные каналы связи(мобильную сеть). 
 \u0009 Передача данных может вызвать дополнительные расходы за услуги связи."</string>
     <string name="epo_auto_download_title">Автозагрузка</string>
-    <string name="epo_auto_download_summary">Автоматически загружать спутниковые данные позиции</string>
+    <string name="epo_auto_download_summary">Автозагрузка спутниковых данных позиции</string>
     <string name="epo_info_title">Информация EPO</string>
     <string name="epo_download_time_title">Время загрузки</string>
     <string name="epo_download_time_summary">Недоступно</string>

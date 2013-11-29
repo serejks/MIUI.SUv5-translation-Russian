@@ -280,7 +280,7 @@
     <string name="scene_type_portrait">Портрет</string>
     <string name="scene_type_lowlight">Слабая освещенность</string>
     <string name="scene_type_manual">Ручная настройка</string>
-    <string name="scene_description_auto">Автоматическое распознавание и настройка позволяют добиться наилучших результатов для большинства сцен.</string>
+    <string name="scene_description_auto">Автораспознавание и настройка позволяют добиться наилучших результатов для большинства сцен.</string>
     <string name="scene_description_panorama">Используйте режим Панорамы если вы хотите запечатлеть все на одном снимке.</string>
     <string name="scene_description_hdr">Используйте функцию захват объекта в настройках яркости, это позволит сделать контрастные фото."</string>
     <string name="scene_description_burst">Используйте Серийную съемку, это позволит запечатлеть все лучшие моменты."</string>

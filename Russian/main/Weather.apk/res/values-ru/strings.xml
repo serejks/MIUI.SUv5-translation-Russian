@@ -42,13 +42,13 @@
     <string name="act_weather_range_title">Прогноз погоды</string>
     <string name="act_weather_range_select">Выберите город</string>
     <string name="menu_around">Окресности</string>
-    <string name="menu_location">Местоположение</string>
+    <string name="menu_location">Город</string>
     <string name="menu_notification">Уведомления</string>
     <string name="menu_reload">Обновить</string>
     <string name="menu_reloading">Обновление…</string>
     <string name="menu_share">Поделиться</string>
-    <string name="menu_main">Главный</string>
-    <string name="menu_trend">Тренд</string>
+    <string name="menu_main">Основной</string>
+    <string name="menu_trend">График</string>
     <string name="menu_chart">Диаграмма</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_about">О программе</string>

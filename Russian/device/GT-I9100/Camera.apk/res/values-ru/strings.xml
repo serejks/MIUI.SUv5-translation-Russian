@@ -167,7 +167,7 @@
     <string name="Title_AutoContrast">Автоконтрастность</string>
     <string name="Title_GPS">Тег GPS</string>
     <string name="Title_Review">Просмотр</string>
-    <string name="Title_AutoShareShot">Поделиться автоматически</string>
+    <string name="Title_AutoShareShot">Автоподключение</string>
     <string name="Title_Guideline">Сетка</string>
     <string name="Title_VideoQuality">Качество видео</string>
     <string name="Title_AudioRecording">Запись звука</string>

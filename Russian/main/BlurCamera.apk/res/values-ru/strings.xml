@@ -303,7 +303,7 @@
     <string name="muteToggle">Без звука</string>
     <string name="setting_shutterAnim">Анимация затвора</string>
     <string name="setting_ShutterAnimSummary">Отображать анимацию затвора во время съемки фотографий</string>
-    <string name="selfPortraitToast">Съемка автоматически начнется когда лицо будет обнаружено</string>
+    <string name="selfPortraitToast">Автосъемка при обнаружении лица</string>
     <string name="None">Отсутствует</string>
     <string name="Circle">Круг</string>
     <string name="Curtain">Занавес</string>
@@ -340,7 +340,7 @@
     <string name="help_summary">Демонстрация видео стабилизации</string>
     <string name="help_exit">Назад</string>
     <string name="motocast">MotoCast Авто Загрузка</string>
-    <string name="motocast_summary">Автоматически загружать фотографии и видеозаписи на отдаленный компьютер</string>
+    <string name="motocast_summary">Автозагрузка фотографии и видеозаписи на отдаленный компьютер</string>
     <string name="enabled">Включено</string>
     <string name="disabled">Отключено</string>
     <string name="toast_EffectsNotAllowed">Невозможно изменить эффекты в выбранном режиме съемки</string>
