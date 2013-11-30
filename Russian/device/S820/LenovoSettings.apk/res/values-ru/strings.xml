@@ -2881,8 +2881,8 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="permission_detail_info">Просмотреть все разрешения</string>
     <string name="permission_detail_info_summary">Все разрешения: Безопасности %1$d, Конфиденциальности %2$d, Другие %3$d</string>
     <string name="permission_manage">Управление разрешениями</string>
-    <string name="permission_manage_summary">Управление разрешениями автозапуска, конфиденциальности, безпасности</string>
-    <string name="safe_relative">Связанные с безпасностью</string>
+    <string name="permission_manage_summary">Управление разрешениями автозапуска, конфиденциальности, безопасности</string>
+    <string name="safe_relative">Связанные с безопасностью</string>
     <string name="privacy_relative">Связанные с конфиденциальностью</string>
     <string name="other_relative">Другие разрешения</string>
     <string name="permission_manage_title">%s: разрешения:</string>

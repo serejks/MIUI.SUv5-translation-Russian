@@ -181,12 +181,12 @@
     <string name="pref_camera_whitebalance_entry_cloudy">Пасмурно</string>
     <string name="pref_camera_coloreffect_default">none</string>
     <string name="pref_camera_coloreffect_title">Фильтры</string>
-    <string name="pref_camera_coloreffect_entry_none">Без фильтра</string>
+    <string name="pref_camera_coloreffect_entry_none">Оригинал</string>
     <string name="pref_camera_coloreffect_entry_mono">Моно</string>
     <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
     <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
     <string name="pref_camera_coloreffect_entry_solarize">Соляризация</string>
-    <string name="pref_camera_coloreffect_entry_posterize">Постеризация</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Постериз.</string>
     <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
     <string name="pref_camera_coloreffect_entry_blackboard">Черная доска</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">Белая доска</string>
