@@ -416,7 +416,7 @@
 	<string name="unlocking_sim_card">Разблокировка SIM карты</string>
 	<string name="short_pukcode_error_msg">Введите минимум 8 символов</string>
 	<string name="short_pincode_error_msg">Введите 4–8 символов</string>
-	<string name="input_pin_code">Введите PIN код</string>
+	<string name="input_pin_code">PIN код</string>
 	<string name="input_pin_code_to_unlock">Введите PIN код для разблокировки устройства</string>
 	<string name="pincode_set_to_default_msg">PIN сброшен на 1234, введите PIN тут.</string>
 	<string name="incorrect_pukcode_remaining_attempts">Неверный PUK код, осталось попыток %d</string>

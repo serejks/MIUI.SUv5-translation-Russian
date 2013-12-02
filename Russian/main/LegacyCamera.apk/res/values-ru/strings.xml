@@ -110,8 +110,8 @@
     <string name="effect_backdropper_space">В космосе</string>
     <string name="effect_backdropper_sunset">Закат</string>
     <string name="effect_backdropper_gallery">Выбрать свой</string>
-    <string name="bg_replacement_message">"Настройка устройства. Изображение исчезнет на некоторое время."</string>
-    <string name="not_selectable_in_effect">Не доступно при включенных эффектах.</string>
+    <string name="bg_replacement_message">Настройка устройства. Изображение исчезнет на некоторое время.</string>
+    <string name="not_selectable_in_effect">Недоступно при включенных эффектах.</string>
     <string name="video_snapshot_hint">Сделайте снимок во время записи видео, нажав на экран предпросмотра.</string>
     <string name="disable_video_snapshot_hint">Сохранение кадров выключено, когда включены специальный эффекты.</string>
     <string name="clear_effects">Очистить эффекты</string>

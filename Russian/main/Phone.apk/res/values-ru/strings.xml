@@ -881,7 +881,7 @@
 	<string name="command_error_op_denied_before_reg_miui">Операция не поддерживается до завершения регистрации в сети.</string>
 	<string name="command_error_op_denied_during_call_miui">Операция не поддерживается во время голосовых вызовов, повторите после завершения вызова.</string>
 	<string name="command_error_password_incorrect_miui">Неверный пароль, введите снова.</string>
-	<string name="command_error_radio_not_available_miui">Радио не доступно, повторите позже.</string>
+	<string name="command_error_radio_not_available_miui">Радио недоступно, повторите позже.</string>
 	<string name="command_error_sim_absent_miui">ICC карта отсутствует.</string>
 	<string name="command_error_sim_pin2_miui">Введите PIN2 для завершения операции.</string>
 	<string name="command_error_sim_puk2_miui">PIN2 заблокирован, введите PUK2 для разблокировки.</string>
@@ -1335,7 +1335,7 @@
     <string name="cannot_answered_Voice_Call">Голосовой вызов не может быть совершен, так как уже совершается видеовызов.</string>
     <string name="callDurationFormat">%1$s мин. %2$s сек.</string>
     <string name="reminder">Напоминание</string>
-    <string name="vt_media_occupied">Так как камера не доступна, видеовызов не может быть совершен. Возможно другое приложение использует камеру.</string>
+    <string name="vt_media_occupied">Так как камера недоступна, видеовызов не может быть совершен. Возможно другое приложение использует камеру.</string>
     <string name="vt_media_video_fail">Видео не может быть отображено правильно. Видеовызов не может быть совершен. </string>
     <string name="incall_toast_hold">Удерживать</string>
     <string name="incall_toast_unhold">Не удерживать</string>
@@ -1499,7 +1499,7 @@
     <string name="mt_code_forwarded_cf_cond">Условная переадресация</string>
     <string name="mt_code_forwarded_cf_busy">Отклонен</string>
     <string name="mt_code_forwarded_cf_no_reply">Нет ответа</string>
-    <string name="mt_code_forwarded_cf_not_reachable">Не доступен</string>
+    <string name="mt_code_forwarded_cf_not_reachable">Недоступен</string>
     <string name="networksettings_tips_data_enabled">Включить передачу данных? Вы можете понести расходы за трафик!</string>
     <string name="networksettings_tips_data_disabled">Выключить передачу данных? Это может повлиять на работу других приложений, например отправка и получение MMS или электронная почта.</string>
     <string name="sim_manage_suggested">Предложенное</string>

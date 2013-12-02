@@ -37,10 +37,10 @@
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
     <string name="menu_item_screen_shot">Скриншот</string>
     <string name="menu_item_sub_title">Субтитры</string>
-    <string name="toast_message_continue_play_from">Воспроизвести с</string>
-    <string name="toast_message_continue_play_hour">ч</string>
-    <string name="toast_message_continue_play_minute">м</string>
-    <string name="toast_message_continue_play_second_and_play">с</string>
+    <string name="toast_message_continue_play_from">"Воспроизведение "</string>
+    <string name="toast_message_continue_play_hour">"ч "</string>
+    <string name="toast_message_continue_play_minute">"м "</string>
+    <string name="toast_message_continue_play_second_and_play">"с "</string>
     <string name="vp_VideoView_error_network_not_available">Соединение отсутствует</string>
     <string name="top_status_local_media">Локальное медиа</string>
     <string name="top_status_online_media">Онлайн медиа</string>

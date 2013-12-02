@@ -969,7 +969,7 @@
     <string name="media_route_status_scanning">Сканирование…</string>
     <string name="media_route_status_connecting">Соединение…</string>
     <string name="media_route_status_available">Доступно</string>
-    <string name="media_route_status_not_available">Не доступно</string>
+    <string name="media_route_status_not_available">Недоступно</string>
     <string name="display_manager_built_in_display_name">Встроенный экран</string>
     <string name="display_manager_hdmi_display_name">HDMI экран</string>
     <string name="display_manager_overlay_display_name">Перекрытие #%1$d</string>
