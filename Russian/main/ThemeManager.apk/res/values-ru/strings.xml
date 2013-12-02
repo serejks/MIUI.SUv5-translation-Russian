@@ -242,7 +242,7 @@
     <string name="resource_comment_current_version">Текущая версия</string>
     <string name="resource_comment_upload_hint">Ваш комментарий будет отображаться после небольшой проверки</string>
     <string name="ringtone_volume_mute">Звук мелодии отключен.</string>
-    <string name="resource_unable_to_access">В данный момент контент не доступен в вашем регионе.</string>
+    <string name="resource_unable_to_access">В данный момент контент недоступен в вашем регионе.</string>
     <string name="resource_purchase_getting_order">Получение информации заказа…</string>
     <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
     <string name="resource_purchase_verifying_payment">Проверка платежа…</string>

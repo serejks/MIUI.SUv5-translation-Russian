@@ -359,7 +359,7 @@
 	<string name="error_unknown_host">Сеть не обнаружена.</string>
 	<string name="error_album_not_exist">Альбом не существует.</string>
 	<string name="error_cloud_not_active">Облачный альбом не используется.</string>
-    <string name="no_storage_disable_cloud_albums">Облако не доступно.</string>
+    <string name="no_storage_disable_cloud_albums">Облако недоступно.</string>
     <string name="message_no_delete_access">У вас нет разрешений для удаления %s</string>
 	<string name="message_no_delete_access_with_count">У вас нет разрешений для файлов %dс.</string>
     <string name="fail_init_gallery_db_helper">Невозможно загрузить базу данных Галереи.</string>

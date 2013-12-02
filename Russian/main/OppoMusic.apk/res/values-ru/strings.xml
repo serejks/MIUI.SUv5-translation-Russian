@@ -200,7 +200,7 @@
     <string name="track_edit">Трек</string>
     <string name="artist_edit">Исполнитель</string>
     <string name="album_edit">Альбом</string>
-    <string name="empty_edit_hint">Информация о треке не доступна</string>
+    <string name="empty_edit_hint">Информация о треке недоступна</string>
     <string name="modify_tracks_id3_background">Редактировать ID3 теги выбранного трека в фоне</string>
     <string name="shuffle_all">Смешать все</string>
     <string name="play_all">Воспр.все</string>

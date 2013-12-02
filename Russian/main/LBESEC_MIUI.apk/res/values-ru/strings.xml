@@ -144,7 +144,7 @@
     <string name="Dashboard_Perm_SU">Управление ROOT доступом</string>
     <string name="Dashboard_Perm_SU_Desc">Контролируются приложений с ROOT доступом: %1$d</string>
     <string name="Dashboard_Perm_SU_Disabled">ROOT доступ отключен</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT не доступен в стабильной версии MIUI</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT недоступен в стабильной версии MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Предоставление ROOT сторонним приложениям может привести к нестабильности системы, потере персональной информации и необратимым повреждениям аппаратной части телефона.
 
 Для использования ROOT доступа установите, пожалуйста, версию MIUI для разработчиков.</string>

@@ -1113,7 +1113,7 @@
     <string name="sim_error_password_error">Неверный пароль</string>
 	<string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">Вставьте SD карту \n</string>
-    <string name="resource_unable_to_access">Извините,\nв данный момент контент не доступен в вашем регионе.</string>
+    <string name="resource_unable_to_access">Извините,\nв данный момент контент недоступен в вашем регионе.</string>
     <string name="resource_purchase_getting_order">Получение информации заказа…</string>
     <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
     <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
