@@ -21,7 +21,7 @@
     <string name="title_select_station">Выбор станции: %s</string>
     <string name="menu_stats">Статус FM RF</string>
     <string name="button_text_stop">Стоп</string>
-    <string name="msg_seeking">Поиск станции…</string>
+    <string name="msg_seeking">Поиск станций…</string>
     <string name="msg_scanning">Сканирование всех станций…</string>
     <string name="msg_scanning_pty">Сканирование %s…</string>
     <string name="msg_search_title">FM: %1$s</string>
@@ -148,7 +148,7 @@
     <string name="toast_removed_from_presets">Удалено из избранного</string>
     <string name="toast_fm_starting">Радио запускается, подождите</string>
     <string name="toast_fm_stoping">Радио останавливается, подождите</string>
-    <string name="toast_fm_seeking">Поиск станции, подождите</string>
+    <string name="toast_fm_seeking">Поиск станции…</string>
     <string name="favorite_manager">Список станций</string>
     <string name="add_to_favorite">Добавить в избранное</string>
     <string name="add_to_favorite1">Добавить в сохраненные радиостанции</string>
