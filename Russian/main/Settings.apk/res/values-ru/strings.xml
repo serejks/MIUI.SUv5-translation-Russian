@@ -1558,8 +1558,8 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="credentials_configure_lock_screen_hint">Прежде чем использовать хранилище учетных данных, необходимо задать PIN код или пароль для блокировки экрана.</string>
     <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
     <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
-    <string name="privacy_settings">Бэкап и сброс</string>
-    <string name="privacy_settings_title">Бэкап и сброс</string>
+    <string name="privacy_settings">Восстановление и сброс</string>
+    <string name="privacy_settings_title">Восстановление и сброс</string>
     <string name="backup_section_title">Бэкап и восстановление</string>
     <string name="personal_data_section_title">Личные данные</string>
     <string name="backup_data_title">Копирование данных</string>
