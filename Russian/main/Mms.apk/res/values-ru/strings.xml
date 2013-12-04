@@ -478,7 +478,7 @@
     <string name="mx_dspt_disabled">Отправлять бесплатно сообщения по интернету между MIUI устройствами.</string>
     <string name="mx_dspt">Отправлять бесплатно сообщения по интернету между MIUI устройствами.</string>
     <string name="mx_current_status">Текущий статус: в сети</string>
-    <string name="mx_count_dspt">Вы отправили облачных сообщений: %1$d SMS и %2$s MMS</string>
+    <string name="mx_count_dspt" formatted="false">Статистика отправленных облачных сообщений:\nSMS: %1$d | MMS: %2$s</string>
     <string name="mx_auto_resend_sms">Отправить как SMS</string>
     <string name="mx_auto_resend_sms_summary">Отправить как SMS когда облачные сообщения недоступны (стоимость зависит от вашего оператора).</string>
     <string name="mx_auto_resend_mms">Отправить как MMS</string>
