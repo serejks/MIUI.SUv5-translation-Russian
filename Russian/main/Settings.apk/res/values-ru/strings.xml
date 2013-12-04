@@ -2651,8 +2651,8 @@ Android File Transfer,
     <string name="wps_connect_title">Подключение к WPS</string>
     <string name="wps_connect_summary">Убедитесь, что режим WPS поддерживается беспроводным маршрутизатором и включен</string>
     <string name="retry">Повтор</string>
-    <string name="brightness_auto_adjust_off">Яркость можно регулировать по своему вкусу, перемещая ползунок. Яркость экрана не будет зависеть от внешних условий.</string>
-    <string name="brightness_auto_adjust_on">Эффект \"Автояркость\" можно регулировать перемещая ползунок. Яркость экрана будет меняться в зависимости от вашей настройки и внешних условий.</string>
+    <string name="brightness_auto_adjust_off">Яркость останется неизменной при любом окружающем освещении.</string>
+    <string name="brightness_auto_adjust_on">Яркость будет меняться от окружающего освещения.</string>
     <string name="mdb_restore_label">Mdb восстановление</string>
     <string name="mdb_restore_info1">Будут всстановлены данные вашего телефона</string>
     <string name="mdb_restore_info2">Не отключайте USB</string>
