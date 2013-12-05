@@ -68,7 +68,7 @@
     <string name="pref_title_use_staging">Использование промежуточного сервера</string>
     <string name="clear_search_record_message">Очистить историю поиска?</string>
     <string name="result_of_clear_history">История очищена</string>
-    <string name="pref_title_silent_install">Тихая установка</string>
+    <string name="pref_title_silent_install">Не уведомлять об установке</string>
 	<string name="pref_summary_auto_update_via_wifi">Автообновление через Wi-Fi при выключенном экране.</string>
     <string name="app_comments_title">Комментариев: %1$s</string>
     <string name="edit_comment_title">Ред.комментарий: %1$s</string>
