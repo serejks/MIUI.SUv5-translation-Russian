@@ -124,7 +124,6 @@
 
 .method public static formatCharToT9(C)C
     .locals 5
-    .parameter "paramChar"
 
     .prologue
     const/16 v3, 0x396
@@ -133,7 +132,6 @@
     const/4 v0, 0x0
 
     .line 17
-    .local v0, i:C
     const/16 v2, 0x41
 
     if-lt p0, v2, :cond_0
@@ -176,7 +174,6 @@
 
     .line 495
     .end local v0           #i:C
-    .local v1, i:C
     :goto_0
     return v1
 
@@ -1941,7 +1938,6 @@
 
 .method public static isValidT9Key(C)Z
     .locals 1
-    .parameter "paramChar"
 
     .prologue
     .line 500

@@ -21,7 +21,7 @@
 	<string name="callFailed_noSignal">Нет сигнала</string>
 	<string name="callFailed_limitExceeded">Превышен лимит ACM</string>
 	<string name="callFailed_powerOff">Радио выключено</string>
-	<string name="callFailed_simError">SIM карта не установлена или ошибка SIM карты</string>
+	<string name="callFailed_simError">Отсутствует SIM карта или ошибка SIM карты</string>
 	<string name="callFailed_outOfService">Вне зоны действия сети</string>
 	<string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров.</string>
 	<string name="callFailed_dialToUssd">DIAL запрос преобразован в USSD запрос.</string>
@@ -42,7 +42,7 @@
 	<string name="callFailed_cdma_notEmergency">Только экстренные</string>
 	<string name="callFailed_unobtainable_number">Недействительный номер</string>
 	<string name="confCall">Конференц-вызов</string>
-	<string name="call_lost">Вызов был утрачен</string>
+	<string name="call_lost">Вызов был утрачен.</string>
 	<string name="callUnanswered_forwarded">Неотвеченные и переадресованные</string>
 	<string name="retry">Повтор</string>
 	<string name="call_lost_title">Вызов пропущен</string>
