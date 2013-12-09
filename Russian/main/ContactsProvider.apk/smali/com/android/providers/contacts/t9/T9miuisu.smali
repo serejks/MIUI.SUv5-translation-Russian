@@ -4,7 +4,135 @@
 
 
 # static fields
-.field private static final TAG:Ljava/lang/String; = "MIUISUT9"
+.field private static final sNumberCeroMap:[C
+
+.field private static final sNumberCeroSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberEightMap:[C
+
+.field private static final sNumberEightSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberFiveMap:[C
+
+.field private static final sNumberFiveSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberFourMap:[C
+
+.field private static final sNumberFourSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberNineMap:[C
+
+.field private static final sNumberNineSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberOneMap:[C
+
+.field private static final sNumberOneSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberSevenMap:[C
+
+.field private static final sNumberSevenSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberSixMap:[C
+
+.field private static final sNumberSixSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberThreeMap:[C
+
+.field private static final sNumberThreeSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private static final sNumberTwoMap:[C
+
+.field private static final sNumberTwoSet:Ljava/util/Set;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
+.end field
 
 .field private static final sPinyinT9Map:[C
 
@@ -13,102 +141,910 @@
 
 # direct methods
 .method static constructor <clinit>()V
-    .locals 1
+    .locals 3
 
     .prologue
-    .line 10
-    const/16 v0, 0x1a
+    .line 8
+    const/4 v0, 0x2
 
     new-array v0, v0, [C
 
     fill-array-data v0, :array_0
 
-    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sPinyinT9Map:[C
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberOneMap:[C
 
-    .line 11
-    const/16 v0, 0x25
+    .line 9
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberOneMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberOneSet:Ljava/util/Set;
+
+    .line 10
+    const/16 v0, 0x5b
 
     new-array v0, v0, [C
 
     fill-array-data v0, :array_1
 
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberTwoMap:[C
+
+    .line 11
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberTwoMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberTwoSet:Ljava/util/Set;
+
+    .line 12
+    const/16 v0, 0x50
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_2
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberThreeMap:[C
+
+    .line 13
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberThreeMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberThreeSet:Ljava/util/Set;
+
+    .line 14
+    const/16 v0, 0x4b
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_3
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFourMap:[C
+
+    .line 15
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFourMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFourSet:Ljava/util/Set;
+
+    .line 16
+    const/16 v0, 0x2b
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_4
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFiveMap:[C
+
+    .line 17
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFiveMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFiveSet:Ljava/util/Set;
+
+    .line 18
+    const/16 v0, 0x5a
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_5
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSixMap:[C
+
+    .line 19
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSixMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSixSet:Ljava/util/Set;
+
+    .line 20
+    const/16 v0, 0x30
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_6
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSevenMap:[C
+
+    .line 21
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSevenMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSevenSet:Ljava/util/Set;
+
+    .line 22
+    const/16 v0, 0x54
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_7
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberEightMap:[C
+
+    .line 23
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberEightMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberEightSet:Ljava/util/Set;
+
+    .line 24
+    const/16 v0, 0x3c
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_8
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberNineMap:[C
+
+    .line 25
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberNineMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberNineSet:Ljava/util/Set;
+
+    .line 26
+    const/4 v0, 0x1
+
+    new-array v0, v0, [C
+
+    const/4 v1, 0x0
+
+    const/16 v2, 0x314e
+
+    aput-char v2, v0, v1
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberCeroMap:[C
+
+    .line 27
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberCeroMap:[C
+
+    invoke-static {v0}, Lcom/android/providers/contacts/t9/T9miuisu;->createSet([C)Ljava/util/Set;
+
+    move-result-object v0
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberCeroSet:Ljava/util/Set;
+
+    .line 29
+    const/16 v0, 0x1a
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_9
+
+    sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sPinyinT9Map:[C
+
+    .line 30
+    const/16 v0, 0x25
+
+    new-array v0, v0, [C
+
+    fill-array-data v0, :array_a
+
     sput-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sZhuyin2T9Map:[C
 
     return-void
 
-    .line 10
+    .line 8
     nop
 
     :array_0
-    .array-data 0x2
-        0x32t 0x0t
-        0x32t 0x0t
-        0x32t 0x0t
-        0x33t 0x0t
-        0x33t 0x0t
-        0x33t 0x0t
-        0x34t 0x0t
-        0x34t 0x0t
-        0x34t 0x0t
-        0x35t 0x0t
-        0x35t 0x0t
-        0x35t 0x0t
-        0x36t 0x0t
-        0x36t 0x0t
-        0x36t 0x0t
-        0x37t 0x0t
-        0x37t 0x0t
-        0x37t 0x0t
-        0x37t 0x0t
-        0x38t 0x0t
-        0x38t 0x0t
-        0x38t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
+    .array-data 2
+        0x3133s
+        0x314bs
     .end array-data
 
-    .line 11
+    .line 10
     :array_1
-    .array-data 0x2
-        0x31t 0x0t
-        0x31t 0x0t
-        0x31t 0x0t
-        0x31t 0x0t
-        0x32t 0x0t
-        0x32t 0x0t
-        0x32t 0x0t
-        0x32t 0x0t
-        0x33t 0x0t
-        0x33t 0x0t
-        0x33t 0x0t
-        0x34t 0x0t
-        0x34t 0x0t
-        0x34t 0x0t
-        0x35t 0x0t
-        0x35t 0x0t
-        0x35t 0x0t
-        0x35t 0x0t
-        0x36t 0x0t
-        0x36t 0x0t
-        0x36t 0x0t
-        0x37t 0x0t
-        0x37t 0x0t
-        0x37t 0x0t
-        0x37t 0x0t
-        0x38t 0x0t
-        0x38t 0x0t
-        0x38t 0x0t
-        0x38t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
-        0x39t 0x0t
-        0x30t 0x0t
-        0x30t 0x0t
-        0x30t 0x0t
+    .array-data 2
+        0xc0s
+        0xc1s
+        0xc3s
+        0xc4s
+        0xc5s
+        0xc6s
+        0xc7s
+        0xe0s
+        0xe1s
+        0xe2s
+        0xe3s
+        0xe4s
+        0xe5s
+        0xe6s
+        0xe7s
+        0x100s
+        0x101s
+        0x102s
+        0x103s
+        0x104s
+        0x105s
+        0x106s
+        0x107s
+        0x108s
+        0x109s
+        0x10as
+        0x10bs
+        0x10cs
+        0x10ds
+        0x180s
+        0x181s
+        0x182s
+        0x183s
+        0x184s
+        0x185s
+        0x186s
+        0x187s
+        0x188s
+        0x1cds
+        0x1ces
+        0x386s
+        0x391s
+        0x392s
+        0x393s
+        0x3acs
+        0x3b1s
+        0x3b2s
+        0x3b3s
+        0x410s
+        0x411s
+        0x412s
+        0x413s
+        0x430s
+        0x431s
+        0x432s
+        0x433s
+        0x490s
+        0x491s
+        0x1ea0s
+        0x1ea1s
+        0x1ea2s
+        0x1ea3s
+        0x1ea4s
+        0x1ea5s
+        0x1ea6s
+        0x1ea7s
+        0x1ea8s
+        0x1ea9s
+        0x1eaas
+        0x1eabs
+        0x1eacs
+        0x1eads
+        0x1eaes
+        0x1eafs
+        0xb0s
+        0xb1s
+        0xb2s
+        0xb3s
+        0xb4s
+        0xb5s
+        0xb6s
+        0xb7s
+        0x3134s
+        0x628s
+        0x629s
+        0x62as
+        0x62bs
+        0x67es
+        0x5d3s
+        0x5d4s
+        0x5d5s
+    .end array-data
+
+    .line 12
+    nop
+
+    :array_2
+    .array-data 2
+        0xc8s
+        0xc9s
+        0xcas
+        0xcbs
+        0xe8s
+        0xe9s
+        0xeas
+        0xebs
+        0x10es
+        0x10fs
+        0x110s
+        0x111s
+        0x112s
+        0x113s
+        0x114s
+        0x115s
+        0x116s
+        0x117s
+        0x118s
+        0x119s
+        0x11as
+        0x11bs
+        0x189s
+        0x18as
+        0x18bs
+        0x18cs
+        0x18ds
+        0x18es
+        0x18fs
+        0x190s
+        0x191s
+        0x192s
+        0x394s
+        0x395s
+        0x396s
+        0x3ads
+        0x3b4s
+        0x3b5s
+        0x3b6s
+        0x1eb8s
+        0x1eb9s
+        0x1ebas
+        0x1ebbs
+        0x1ebcs
+        0x1ebds
+        0x1ebes
+        0x1ebfs
+        0x1ec0s
+        0x1ec1s
+        0x1ec2s
+        0x1ec3s
+        0x1ec4s
+        0x1ec5s
+        0x1ec6s
+        0x1ec7s
+        0x3137s
+        0x314cs
+        0x401s
+        0x402s
+        0x404s
+        0x414s
+        0x415s
+        0x416s
+        0x417s
+        0x434s
+        0x435s
+        0x436s
+        0x437s
+        0x451s
+        0x452s
+        0x454s
+        0x5d0s
+        0x5d1s
+        0x5d2s
+        0x621s
+        0x622s
+        0x623s
+        0x625s
+        0x627s
+        0x649s
+    .end array-data
+
+    .line 14
+    :array_3
+    .array-data 2
+        0xccs
+        0xcds
+        0xcfs
+        0xecs
+        0xeds
+        0xefs
+        0x11cs
+        0x11ds
+        0x11es
+        0x11fs
+        0x120s
+        0x121s
+        0x122s
+        0x123s
+        0x124s
+        0x125s
+        0x126s
+        0x127s
+        0x128s
+        0x129s
+        0x12as
+        0x12bs
+        0x12cs
+        0x12ds
+        0x12es
+        0x12fs
+        0x130s
+        0x131s
+        0x132s
+        0x133s
+        0x193s
+        0x194s
+        0x195s
+        0x196s
+        0x197s
+        0x1cfs
+        0x1d0s
+        0x396s
+        0x397s
+        0x398s
+        0x399s
+        0x3aas
+        0x3aes
+        0x3afs
+        0x3b7s
+        0x3b8s
+        0x3b9s
+        0x3cas
+        0x406s
+        0x407s
+        0x408s
+        0x418s
+        0x419s
+        0x41as
+        0x41bs
+        0x438s
+        0x439s
+        0x43as
+        0x43bs
+        0x456s
+        0x457s
+        0x458s
+        0x5dds
+        0x5des
+        0x5dfs
+        0x5e0s
+        0x633s
+        0x634s
+        0x635s
+        0x636s
+        0x1ec8s
+        0x1ec9s
+        0x1ecas
+        0x1ecbs
+        0x3139s
+    .end array-data
+
+    .line 16
+    nop
+
+    :array_4
+    .array-data 2
+        0x134s
+        0x135s
+        0x136s
+        0x137s
+        0x138s
+        0x139s
+        0x13as
+        0x13bs
+        0x13cs
+        0x13ds
+        0x13es
+        0x13fs
+        0x140s
+        0x141s
+        0x142s
+        0x198s
+        0x199s
+        0x19as
+        0x19bs
+        0x39as
+        0x39bs
+        0x39cs
+        0x3bas
+        0x3bbs
+        0x3bcs
+        0x41cs
+        0x41ds
+        0x41es
+        0x41fs
+        0x43cs
+        0x43ds
+        0x43es
+        0x43fs
+        0x5d9s
+        0x5das
+        0x5dbs
+        0x5dcs
+        0x62fs
+        0x630s
+        0x631s
+        0x632s
+        0x698s
+        0x3141s
+    .end array-data
+
+    .line 18
+    nop
+
+    :array_5
+    .array-data 2
+        0xd1s
+        0xd2s
+        0xd3s
+        0xd4s
+        0xd5s
+        0xd6s
+        0xd7s
+        0xd8s
+        0xf1s
+        0xf2s
+        0xf3s
+        0xf4s
+        0xf5s
+        0xf6s
+        0xf7s
+        0xf8s
+        0x143s
+        0x144s
+        0x145s
+        0x146s
+        0x147s
+        0x148s
+        0x149s
+        0x14as
+        0x14bs
+        0x14cs
+        0x14ds
+        0x14es
+        0x14fs
+        0x150s
+        0x151s
+        0x152s
+        0x153s
+        0x19cs
+        0x19ds
+        0x19es
+        0x19fs
+        0x1a0s
+        0x1a1s
+        0x1a2s
+        0x1a3s
+        0x38cs
+        0x39ds
+        0x39es
+        0x39fs
+        0x3bds
+        0x3bes
+        0x3bfs
+        0x3ccs
+        0x420s
+        0x421s
+        0x422s
+        0x423s
+        0x440s
+        0x441s
+        0x442s
+        0x443s
+        0x5d6s
+        0x5d7s
+        0x5d8s
+        0x62cs
+        0x62ds
+        0x62es
+        0x686s
+        0x1eccs
+        0x1ecds
+        0x1eces
+        0x1ecfs
+        0x1ed0s
+        0x1ed1s
+        0x1ed2s
+        0x1ed3s
+        0x1ed4s
+        0x1ed5s
+        0x1ed6s
+        0x1ed7s
+        0x1ed8s
+        0x1ed9s
+        0x1edas
+        0x1edbs
+        0x1edcs
+        0x1edds
+        0x1edes
+        0x1edfs
+        0x1ee0s
+        0x1ee1s
+        0x1ee2s
+        0x1ee3s
+        0x3142s
+        0x314ds
+    .end array-data
+
+    .line 20
+    :array_6
+    .array-data 2
+        0xdfs
+        0x154s
+        0x155s
+        0x156s
+        0x157s
+        0x158s
+        0x159s
+        0x15as
+        0x15bs
+        0x15cs
+        0x15ds
+        0x15es
+        0x15fs
+        0x160s
+        0x161s
+        0x1a4s
+        0x1a5s
+        0x1a6s
+        0x1a7s
+        0x1a8s
+        0x1a9s
+        0x1aas
+        0x3a0s
+        0x3a1s
+        0x3a3s
+        0x3c0s
+        0x3c1s
+        0x3c2s
+        0x3c3s
+        0x424s
+        0x425s
+        0x426s
+        0x427s
+        0x444s
+        0x445s
+        0x446s
+        0x447s
+        0x5e8s
+        0x5e9s
+        0x5eas
+        0x624s
+        0x626s
+        0x646s
+        0x647s
+        0x648s
+        0x64as
+        0x6ccs
+        0x3145s
+    .end array-data
+
+    .line 22
+    :array_7
+    .array-data 2
+        0xd9s
+        0xdas
+        0xdbs
+        0xdcs
+        0xf9s
+        0xfas
+        0xfbs
+        0xfcs
+        0x162s
+        0x163s
+        0x164s
+        0x165s
+        0x166s
+        0x167s
+        0x168s
+        0x169s
+        0x16as
+        0x16bs
+        0x16cs
+        0x16ds
+        0x16es
+        0x16fs
+        0x170s
+        0x171s
+        0x172s
+        0x173s
+        0x1abs
+        0x1acs
+        0x1ads
+        0x1aes
+        0x1afs
+        0x1b0s
+        0x1b1s
+        0x1b2s
+        0x1d3s
+        0x1d4s
+        0x1d5s
+        0x1d6s
+        0x1d7s
+        0x1d8s
+        0x1d9s
+        0x1das
+        0x1dbs
+        0x1dcs
+        0x3a4s
+        0x3a5s
+        0x3a6s
+        0x3c4s
+        0x3c5s
+        0x3c6s
+        0x3cbs
+        0x428s
+        0x429s
+        0x42as
+        0x42bs
+        0x448s
+        0x449s
+        0x44as
+        0x44bs
+        0x5e5s
+        0x5e6s
+        0x5e7s
+        0x641s
+        0x642s
+        0x643s
+        0x644s
+        0x645s
+        0x6a9s
+        0x6afs
+        0x1ee4s
+        0x1ee5s
+        0x1ee6s
+        0x1ee7s
+        0x1ee8s
+        0x1ee9s
+        0x1eeas
+        0x1eebs
+        0x1eecs
+        0x1eeds
+        0x1eees
+        0x1eefs
+        0x1ef0s
+        0x1ef1s
+        0x3147s
+    .end array-data
+
+    .line 24
+    :array_8
+    .array-data 2
+        0xdds
+        0xfds
+        0x174s
+        0x175s
+        0x176s
+        0x177s
+        0x178s
+        0x179s
+        0x17as
+        0x17bs
+        0x17cs
+        0x17ds
+        0x17es
+        0x1b3s
+        0x1b4s
+        0x1b5s
+        0x1b6s
+        0x1b7s
+        0x1b8s
+        0x1b9s
+        0x1bas
+        0x1bbs
+        0x1bcs
+        0x1bds
+        0x1bes
+        0x1bfs
+        0x38fs
+        0x3a7s
+        0x3a8s
+        0x3a9s
+        0x3c7s
+        0x3c8s
+        0x3c9s
+        0x3ces
+        0x42cs
+        0x42ds
+        0x42es
+        0x42fs
+        0x44cs
+        0x44ds
+        0x44es
+        0x44fs
+        0x5e1s
+        0x5e2s
+        0x5e3s
+        0x5e4s
+        0x637s
+        0x638s
+        0x639s
+        0x63as
+        0x1ef2s
+        0x1ef3s
+        0x1ef4s
+        0x1ef5s
+        0x1ef6s
+        0x1ef7s
+        0x1ef8s
+        0x1ef9s
+        0x3148s
+        0x314as
+    .end array-data
+
+    .line 29
+    :array_9
+    .array-data 2
+        0x32s
+        0x32s
+        0x32s
+        0x33s
+        0x33s
+        0x33s
+        0x34s
+        0x34s
+        0x34s
+        0x35s
+        0x35s
+        0x35s
+        0x36s
+        0x36s
+        0x36s
+        0x37s
+        0x37s
+        0x37s
+        0x37s
+        0x38s
+        0x38s
+        0x38s
+        0x39s
+        0x39s
+        0x39s
+        0x39s
+    .end array-data
+
+    .line 30
+    :array_a
+    .array-data 2
+        0x31s
+        0x31s
+        0x31s
+        0x31s
+        0x32s
+        0x32s
+        0x32s
+        0x32s
+        0x33s
+        0x33s
+        0x33s
+        0x34s
+        0x34s
+        0x34s
+        0x35s
+        0x35s
+        0x35s
+        0x35s
+        0x36s
+        0x36s
+        0x36s
+        0x37s
+        0x37s
+        0x37s
+        0x37s
+        0x38s
+        0x38s
+        0x38s
+        0x38s
+        0x39s
+        0x39s
+        0x39s
+        0x39s
+        0x39s
+        0x30s
+        0x30s
+        0x30s
     .end array-data
 .end method
 
@@ -116,1831 +1052,313 @@
     .locals 0
 
     .prologue
-    .line 8
+    .line 6
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void
 .end method
 
-.method public static formatCharToT9(C)C
-    .locals 5
+.method private static createSet([C)Ljava/util/Set;
+    .locals 4
+    .param p0, "var0"    # [C
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "([C)",
+            "Ljava/util/Set",
+            "<",
+            "Ljava/lang/Character;",
+            ">;"
+        }
+    .end annotation
 
     .prologue
-    const/16 v3, 0x396
+    .line 33
+    new-instance v0, Ljava/util/HashSet;
 
-    .line 16
-    const/4 v0, 0x0
-
-    .line 17
-    const/16 v2, 0x41
-
-    if-lt p0, v2, :cond_0
-
-    const/16 v2, 0x5a
-
-    if-gt p0, v2, :cond_0
-
-    .line 18
-    sget-object v2, Lcom/android/providers/contacts/t9/T9miuisu;->sPinyinT9Map:[C
-
-    add-int/lit8 v3, p0, -0x41
-
-    aget-char v0, v2, v3
-
-    .line 19
-    const-string v2, "MIUISUT9"
-
-    new-instance v3, Ljava/lang/StringBuilder;
-
-    invoke-direct {v3}, Ljava/lang/StringBuilder;-><init>()V
-
-    const-string v4, "index="
-
-    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v3
-
-    invoke-virtual {v3, v0}, Ljava/lang/StringBuilder;->append(C)Ljava/lang/StringBuilder;
-
-    move-result-object v3
-
-    invoke-virtual {v3}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
-
-    move-result-object v3
-
-    invoke-static {v2, v3}, Landroid/util/Log;->v(Ljava/lang/String;Ljava/lang/String;)I
-
-    move v1, v0
-
-    .line 495
-    .end local v0           #i:C
-    :goto_0
-    return v1
-
-    .line 22
-    .end local v1           #i:C
-    .restart local v0       #i:C
-    :cond_0
-    const/16 v2, 0x61
-
-    if-lt p0, v2, :cond_2
-
-    const/16 v2, 0x7a
-
-    if-gt p0, v2, :cond_2
-
-    .line 24
-    sget-object v2, Lcom/android/providers/contacts/t9/T9miuisu;->sPinyinT9Map:[C
-
-    add-int/lit8 v3, p0, -0x61
-
-    aget-char v0, v2, v3
-
-    .line 493
-    :cond_1
-    :goto_1
-    const-string v2, "MIUISUT9"
-
-    new-instance v3, Ljava/lang/StringBuilder;
-
-    invoke-direct {v3}, Ljava/lang/StringBuilder;-><init>()V
-
-    const-string v4, "index="
-
-    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v3
-
-    invoke-virtual {v3, v0}, Ljava/lang/StringBuilder;->append(C)Ljava/lang/StringBuilder;
-
-    move-result-object v3
-
-    invoke-virtual {v3}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
-
-    move-result-object v3
-
-    invoke-static {v2, v3}, Landroid/util/Log;->v(Ljava/lang/String;Ljava/lang/String;)I
-
-    move v1, v0
-
-    .line 495
-    .end local v0           #i:C
-    .restart local v1       #i:C
-    goto :goto_0
-
-    .line 26
-    .end local v1           #i:C
-    .restart local v0       #i:C
-    :cond_2
-    const/16 v2, 0x3105
-
-    if-lt p0, v2, :cond_3
-
-    const/16 v2, 0x3129
-
-    if-gt p0, v2, :cond_3
-
-    .line 28
-    sget-object v2, Lcom/android/providers/contacts/t9/T9miuisu;->sZhuyin2T9Map:[C
-
-    add-int/lit16 v3, p0, -0x3105
-
-    aget-char v0, v2, v3
-
-    goto :goto_1
-
-    .line 30
-    :cond_3
-    const/16 v2, 0xc0
-
-    if-lt p0, v2, :cond_4
-
-    const/16 v2, 0xc7
-
-    if-gt p0, v2, :cond_4
-
-    .line 32
-    const/16 v0, 0x32
-
-    goto :goto_1
+    invoke-direct {v0}, Ljava/util/HashSet;-><init>()V
 
     .line 34
-    :cond_4
-    const/16 v2, 0xe0
+    .local v0, "var1":Ljava/util/HashSet;, "Ljava/util/HashSet<Ljava/lang/Character;>;"
+    array-length v1, p0
 
-    if-lt p0, v2, :cond_5
+    .line 35
+    .local v1, "var2":I
+    const/4 v2, 0x0
 
-    const/16 v2, 0xe7
-
-    if-gt p0, v2, :cond_5
-
-    .line 36
-    const/16 v0, 0x32
-
-    goto :goto_1
+    .local v2, "var3":I
+    :goto_0
+    if-lt v2, v1, :cond_0
 
     .line 38
-    :cond_5
-    const/16 v2, 0x100
+    return-object v0
 
-    if-lt p0, v2, :cond_6
+    .line 36
+    :cond_0
+    aget-char v3, p0, v2
 
-    const/16 v2, 0x10d
+    invoke-static {v3}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
 
-    if-gt p0, v2, :cond_6
+    move-result-object v3
 
-    .line 40
-    const/16 v0, 0x32
+    invoke-virtual {v0, v3}, Ljava/util/HashSet;->add(Ljava/lang/Object;)Z
 
-    goto :goto_1
+    .line 35
+    add-int/lit8 v2, v2, 0x1
 
-    .line 42
-    :cond_6
-    const/16 v2, 0x180
+    goto :goto_0
+.end method
 
-    if-lt p0, v2, :cond_7
+.method public static formatCharToT9(C)C
+    .locals 2
+    .param p0, "var0"    # C
 
-    const/16 v2, 0x188
-
-    if-gt p0, v2, :cond_7
-
-    .line 44
-    const/16 v0, 0x32
-
-    goto :goto_1
-
+    .prologue
     .line 46
-    :cond_7
-    const/16 v2, 0x1cd
-
-    if-lt p0, v2, :cond_8
-
-    const/16 v2, 0x1ce
-
-    if-gt p0, v2, :cond_8
-
-    .line 48
-    const/16 v0, 0x32
-
-    goto :goto_1
-
-    .line 50
-    :cond_8
-    const/16 v2, 0x386
-
-    if-ne p0, v2, :cond_9
-
-    .line 52
-    const/16 v0, 0x32
-
-    goto :goto_1
-
-    .line 54
-    :cond_9
-    const/16 v2, 0x391
-
-    if-lt p0, v2, :cond_a
-
-    const/16 v2, 0x393
-
-    if-gt p0, v2, :cond_a
-
-    .line 56
-    const/16 v0, 0x32
-
-    goto :goto_1
-
-    .line 58
-    :cond_a
-    const/16 v2, 0x3ac
-
-    if-ne p0, v2, :cond_b
-
-    .line 60
-    const/16 v0, 0x32
-
-    goto :goto_1
-
-    .line 62
-    :cond_b
-    const/16 v2, 0x3b1
-
-    if-lt p0, v2, :cond_c
-
-    const/16 v2, 0x3b3
-
-    if-gt p0, v2, :cond_c
-
-    .line 64
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 66
-    :cond_c
-    const/16 v2, 0x410
-
-    if-lt p0, v2, :cond_d
-
-    const/16 v2, 0x413
-
-    if-gt p0, v2, :cond_d
-
-    .line 68
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 70
-    :cond_d
-    const/16 v2, 0x430
-
-    if-lt p0, v2, :cond_e
-
-    const/16 v2, 0x433
-
-    if-gt p0, v2, :cond_e
-
-    .line 72
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 74
-    :cond_e
-    const/16 v2, 0x490
-
-    if-lt p0, v2, :cond_f
-
-    const/16 v2, 0x491
-
-    if-gt p0, v2, :cond_f
-
-    .line 76
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 78
-    :cond_f
-    const/16 v2, 0x1ea0
-
-    if-lt p0, v2, :cond_10
-
-    const/16 v2, 0x1eb7
-
-    if-gt p0, v2, :cond_10
-
-    .line 80
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 82
-    :cond_10
-    const/16 v2, 0xc3e
-
-    if-ne p0, v2, :cond_11
-
-    .line 84
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 86
-    :cond_11
-    const/16 v2, 0x628
-
-    if-lt p0, v2, :cond_12
-
-    const/16 v2, 0x62b
-
-    if-gt p0, v2, :cond_12
-
-    .line 88
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 90
-    :cond_12
-    const/16 v2, 0x67e
-
-    if-ne p0, v2, :cond_13
-
-    .line 92
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 94
-    :cond_13
-    const/16 v2, 0x5d3
-
-    if-lt p0, v2, :cond_14
-
-    const/16 v2, 0x5d5
-
-    if-gt p0, v2, :cond_14
-
-    .line 96
-    const/16 v0, 0x32
-
-    goto/16 :goto_1
-
-    .line 98
-    :cond_14
-    const/16 v2, 0xc8
-
-    if-lt p0, v2, :cond_15
-
-    const/16 v2, 0xcb
-
-    if-gt p0, v2, :cond_15
-
-    .line 100
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 102
-    :cond_15
-    const/16 v2, 0xe8
-
-    if-lt p0, v2, :cond_16
-
-    const/16 v2, 0xeb
-
-    if-gt p0, v2, :cond_16
-
-    .line 104
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 106
-    :cond_16
-    const/16 v2, 0x10e
-
-    if-lt p0, v2, :cond_17
-
-    const/16 v2, 0x11b
-
-    if-gt p0, v2, :cond_17
-
-    .line 108
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 110
-    :cond_17
-    const/16 v2, 0x189
-
-    if-lt p0, v2, :cond_18
-
-    const/16 v2, 0x192
-
-    if-gt p0, v2, :cond_18
-
-    .line 112
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 114
-    :cond_18
-    const/16 v2, 0x394
-
-    if-lt p0, v2, :cond_19
-
-    if-gt p0, v3, :cond_19
-
-    .line 116
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 118
-    :cond_19
-    const/16 v2, 0x3ad
-
-    if-lt p0, v2, :cond_1a
-
-    const/16 v2, 0x33
-
-    if-gt p0, v2, :cond_1a
-
-    .line 120
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 122
-    :cond_1a
-    const/16 v2, 0x3b4
-
-    if-lt p0, v2, :cond_1b
-
-    const/16 v2, 0x3b6
-
-    if-gt p0, v2, :cond_1b
-
-    .line 124
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 126
-    :cond_1b
-    const/16 v2, 0x401
-
-    if-lt p0, v2, :cond_1c
-
-    const/16 v2, 0x402
-
-    if-gt p0, v2, :cond_1c
-
-    .line 128
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 130
-    :cond_1c
-    const/16 v2, 0x451
-
-    if-lt p0, v2, :cond_1d
-
-    const/16 v2, 0x452
-
-    if-gt p0, v2, :cond_1d
-
-    .line 132
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 134
-    :cond_1d
-    const/16 v2, 0x404
-
-    if-ne p0, v2, :cond_1e
-
-    const/16 v2, 0x454
-
-    if-eq p0, v2, :cond_1e
-
-    .line 136
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 138
-    :cond_1e
-    const/16 v2, 0x414
-
-    if-lt p0, v2, :cond_1f
-
-    const/16 v2, 0x417
-
-    if-gt p0, v2, :cond_1f
-
-    .line 140
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 142
-    :cond_1f
-    const/16 v2, 0x434
-
-    if-lt p0, v2, :cond_20
-
-    const/16 v2, 0x437
-
-    if-gt p0, v2, :cond_20
-
-    .line 144
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 146
-    :cond_20
-    const/16 v2, 0x1eb8
-
-    if-lt p0, v2, :cond_21
-
-    const/16 v2, 0x1ec7
-
-    if-gt p0, v2, :cond_21
-
-    .line 148
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 150
-    :cond_21
-    const/16 v2, 0x3137
-
-    if-ne p0, v2, :cond_22
-
-    const/16 v2, 0x314c
-
-    if-eq p0, v2, :cond_22
-
-    .line 152
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 154
-    :cond_22
-    const/16 v2, 0x627
-
-    if-ne p0, v2, :cond_23
-
-    .line 156
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 158
-    :cond_23
-    const/16 v2, 0x621
-
-    if-lt p0, v2, :cond_24
-
-    const/16 v2, 0x623
-
-    if-gt p0, v2, :cond_24
-
-    .line 160
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 162
-    :cond_24
-    const/16 v2, 0x625
-
-    if-ne p0, v2, :cond_25
-
-    const/16 v2, 0x649
-
-    if-eq p0, v2, :cond_25
-
-    .line 164
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 166
-    :cond_25
-    const/16 v2, 0x5d0
-
-    if-lt p0, v2, :cond_26
-
-    const/16 v2, 0x5d2
-
-    if-gt p0, v2, :cond_26
-
-    .line 168
-    const/16 v0, 0x33
-
-    goto/16 :goto_1
-
-    .line 170
-    :cond_26
-    const/16 v2, 0xcc
-
-    if-lt p0, v2, :cond_27
-
-    const/16 v2, 0xcf
-
-    if-gt p0, v2, :cond_27
-
-    .line 172
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 174
-    :cond_27
-    const/16 v2, 0xec
-
-    if-lt p0, v2, :cond_28
-
-    const/16 v2, 0xef
-
-    if-gt p0, v2, :cond_28
-
-    .line 176
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 178
-    :cond_28
-    const/16 v2, 0x11c
-
-    if-lt p0, v2, :cond_29
-
-    const/16 v2, 0x133
-
-    if-gt p0, v2, :cond_29
-
-    .line 180
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 182
-    :cond_29
-    const/16 v2, 0x193
-
-    if-lt p0, v2, :cond_2a
-
-    const/16 v2, 0x197
-
-    if-gt p0, v2, :cond_2a
-
-    .line 184
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 186
-    :cond_2a
-    const/16 v2, 0x1cf
-
-    if-lt p0, v2, :cond_2b
-
-    const/16 v2, 0x1d0
-
-    if-gt p0, v2, :cond_2b
-
-    .line 188
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 190
-    :cond_2b
-    if-lt p0, v3, :cond_2c
-
-    const/16 v2, 0x399
-
-    if-gt p0, v2, :cond_2c
-
-    .line 192
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 194
-    :cond_2c
-    const/16 v2, 0x3aa
-
-    if-ne p0, v2, :cond_2d
-
-    const/16 v2, 0x3ca
-
-    if-eq p0, v2, :cond_2d
-
-    .line 196
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 198
-    :cond_2d
-    const/16 v2, 0x3ae
-
-    if-lt p0, v2, :cond_2e
-
-    const/16 v2, 0x3af
-
-    if-gt p0, v2, :cond_2e
-
-    .line 200
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 202
-    :cond_2e
-    const/16 v2, 0x3b7
-
-    if-lt p0, v2, :cond_2f
-
-    const/16 v2, 0x3b9
-
-    if-gt p0, v2, :cond_2f
-
-    .line 204
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 206
-    :cond_2f
-    const/16 v2, 0x406
-
-    if-lt p0, v2, :cond_30
-
-    const/16 v2, 0x408
-
-    if-gt p0, v2, :cond_30
-
-    .line 208
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 210
-    :cond_30
-    const/16 v2, 0x418
-
-    if-lt p0, v2, :cond_31
-
-    const/16 v2, 0x41b
-
-    if-gt p0, v2, :cond_31
-
-    .line 212
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 214
-    :cond_31
-    const/16 v2, 0x438
-
-    if-lt p0, v2, :cond_32
-
-    const/16 v2, 0x43b
-
-    if-gt p0, v2, :cond_32
-
-    .line 216
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 218
-    :cond_32
-    const/16 v2, 0x456
-
-    if-lt p0, v2, :cond_33
-
-    const/16 v2, 0x458
-
-    if-gt p0, v2, :cond_33
-
-    .line 220
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 222
-    :cond_33
-    const/16 v2, 0x1ec8
-
-    if-lt p0, v2, :cond_34
-
-    const/16 v2, 0x1ecb
-
-    if-gt p0, v2, :cond_34
-
-    .line 224
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 226
-    :cond_34
-    const/16 v2, 0x3139
-
-    if-ne p0, v2, :cond_35
-
-    .line 228
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 230
-    :cond_35
-    const/16 v2, 0x633
-
-    if-lt p0, v2, :cond_36
-
-    const/16 v2, 0x636
-
-    if-gt p0, v2, :cond_36
-
-    .line 232
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 234
-    :cond_36
-    const/16 v2, 0x5dd
-
-    if-lt p0, v2, :cond_37
-
-    const/16 v2, 0x5e0
-
-    if-gt p0, v2, :cond_37
-
-    .line 236
-    const/16 v0, 0x34
-
-    goto/16 :goto_1
-
-    .line 238
-    :cond_37
-    const/16 v2, 0x134
-
-    if-lt p0, v2, :cond_38
-
-    const/16 v2, 0x142
-
-    if-gt p0, v2, :cond_38
-
-    .line 240
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 242
-    :cond_38
-    const/16 v2, 0x198
-
-    if-lt p0, v2, :cond_39
-
-    const/16 v2, 0x19b
-
-    if-gt p0, v2, :cond_39
-
-    .line 244
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 246
-    :cond_39
-    const/16 v2, 0x39a
-
-    if-lt p0, v2, :cond_3a
-
-    const/16 v2, 0x39c
-
-    if-gt p0, v2, :cond_3a
-
-    .line 248
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 250
-    :cond_3a
-    const/16 v2, 0x3ba
-
-    if-lt p0, v2, :cond_3b
-
-    const/16 v2, 0x3bc
-
-    if-gt p0, v2, :cond_3b
-
-    .line 252
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 254
-    :cond_3b
-    const/16 v2, 0x41c
-
-    if-lt p0, v2, :cond_3c
-
-    const/16 v2, 0x41f
-
-    if-gt p0, v2, :cond_3c
-
-    .line 256
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 258
-    :cond_3c
-    const/16 v2, 0x43c
-
-    if-lt p0, v2, :cond_3d
-
-    const/16 v2, 0x43f
-
-    if-gt p0, v2, :cond_3d
-
-    .line 260
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 262
-    :cond_3d
-    const/16 v2, 0x3141
-
-    if-ne p0, v2, :cond_3e
-
-    .line 264
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 266
-    :cond_3e
-    const/16 v2, 0x62f
-
-    if-lt p0, v2, :cond_3f
-
-    const/16 v2, 0x632
-
-    if-gt p0, v2, :cond_3f
-
-    .line 268
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 270
-    :cond_3f
-    const/16 v2, 0x698
-
-    if-ne p0, v2, :cond_40
-
-    .line 272
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 274
-    :cond_40
-    const/16 v2, 0x5d9
-
-    if-lt p0, v2, :cond_41
-
-    const/16 v2, 0x5dc
-
-    if-gt p0, v2, :cond_41
-
-    .line 276
-    const/16 v0, 0x35
-
-    goto/16 :goto_1
-
-    .line 278
-    :cond_41
-    const/16 v2, 0xd1
-
-    if-lt p0, v2, :cond_42
-
-    const/16 v2, 0xd8
-
-    if-gt p0, v2, :cond_42
-
-    .line 280
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 282
-    :cond_42
-    const/16 v2, 0xf1
-
-    if-lt p0, v2, :cond_43
-
-    const/16 v2, 0xf8
-
-    if-gt p0, v2, :cond_43
-
-    .line 284
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 286
-    :cond_43
-    const/16 v2, 0x143
-
-    if-lt p0, v2, :cond_44
-
-    const/16 v2, 0x153
-
-    if-gt p0, v2, :cond_44
-
-    .line 288
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 290
-    :cond_44
-    const/16 v2, 0x19c
-
-    if-lt p0, v2, :cond_45
-
-    const/16 v2, 0x1a3
-
-    if-gt p0, v2, :cond_45
-
-    .line 292
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 294
-    :cond_45
-    const/16 v2, 0x38c
-
-    if-ne p0, v2, :cond_46
-
-    const/16 v2, 0x3cc
-
-    if-eq p0, v2, :cond_46
-
-    .line 296
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 298
-    :cond_46
-    const/16 v2, 0x39d
-
-    if-lt p0, v2, :cond_47
-
-    const/16 v2, 0x39f
-
-    if-gt p0, v2, :cond_47
-
-    .line 300
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 302
-    :cond_47
-    const/16 v2, 0x3bd
-
-    if-lt p0, v2, :cond_48
-
-    const/16 v2, 0x3bf
-
-    if-gt p0, v2, :cond_48
-
-    .line 304
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 306
-    :cond_48
-    const/16 v2, 0x420
-
-    if-lt p0, v2, :cond_49
-
-    const/16 v2, 0x423
-
-    if-gt p0, v2, :cond_49
-
-    .line 308
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 310
-    :cond_49
-    const/16 v2, 0x440
-
-    if-lt p0, v2, :cond_4a
-
-    const/16 v2, 0x443
-
-    if-gt p0, v2, :cond_4a
-
-    .line 312
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 314
-    :cond_4a
-    const/16 v2, 0x1ecc
-
-    if-lt p0, v2, :cond_4b
-
-    const/16 v2, 0x1ee3
-
-    if-gt p0, v2, :cond_4b
-
-    .line 316
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 318
-    :cond_4b
-    const/16 v2, 0x3142
-
-    if-ne p0, v2, :cond_4c
-
-    const/16 v2, 0x314d
-
-    if-eq p0, v2, :cond_4c
-
-    .line 320
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 322
-    :cond_4c
-    const/16 v2, 0x62c
-
-    if-lt p0, v2, :cond_4d
-
-    const/16 v2, 0x62e
-
-    if-gt p0, v2, :cond_4d
-
-    .line 324
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 326
-    :cond_4d
-    const/16 v2, 0x686
-
-    if-ne p0, v2, :cond_4e
-
-    .line 328
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 330
-    :cond_4e
-    const/16 v2, 0x5d6
-
-    if-lt p0, v2, :cond_4f
-
-    const/16 v2, 0x5d8
-
-    if-gt p0, v2, :cond_4f
-
-    .line 332
-    const/16 v0, 0x36
-
-    goto/16 :goto_1
-
-    .line 334
-    :cond_4f
-    const/16 v2, 0x154
-
-    if-lt p0, v2, :cond_50
-
-    const/16 v2, 0x161
-
-    if-gt p0, v2, :cond_50
-
-    .line 336
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 338
-    :cond_50
-    const/16 v2, 0xdf
-
-    if-ne p0, v2, :cond_51
-
-    .line 340
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 342
-    :cond_51
-    const/16 v2, 0x1a4
-
-    if-lt p0, v2, :cond_52
-
-    const/16 v2, 0x1aa
-
-    if-gt p0, v2, :cond_52
-
-    .line 344
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 346
-    :cond_52
-    const/16 v2, 0x3a0
-
-    if-lt p0, v2, :cond_53
-
-    const/16 v2, 0x3a3
-
-    if-gt p0, v2, :cond_53
-
-    .line 348
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 350
-    :cond_53
-    const/16 v2, 0x3c0
-
-    if-lt p0, v2, :cond_54
-
-    const/16 v2, 0x3c3
-
-    if-gt p0, v2, :cond_54
-
-    .line 352
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 354
-    :cond_54
-    const/16 v2, 0x424
-
-    if-lt p0, v2, :cond_55
-
-    const/16 v2, 0x427
-
-    if-gt p0, v2, :cond_55
-
-    .line 356
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 358
-    :cond_55
-    const/16 v2, 0x444
-
-    if-lt p0, v2, :cond_56
-
-    const/16 v2, 0x447
-
-    if-gt p0, v2, :cond_56
-
-    .line 360
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 362
-    :cond_56
-    const/16 v2, 0x3145
-
-    if-ne p0, v2, :cond_57
-
-    const/16 v2, 0x6cc
-
-    if-eq p0, v2, :cond_57
-
-    .line 364
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 366
-    :cond_57
-    const/16 v2, 0x646
-
-    if-lt p0, v2, :cond_58
-
-    const/16 v2, 0x648
-
-    if-gt p0, v2, :cond_58
-
-    .line 368
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 370
-    :cond_58
-    const/16 v2, 0x64a
-
-    if-ne p0, v2, :cond_59
-
-    const/16 v2, 0x624
-
-    if-eq p0, v2, :cond_59
-
-    .line 372
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 374
-    :cond_59
-    const/16 v2, 0x626
-
-    if-ne p0, v2, :cond_5a
-
-    .line 376
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 378
-    :cond_5a
-    const/16 v2, 0x5e8
-
-    if-lt p0, v2, :cond_5b
-
-    const/16 v2, 0x5ea
-
-    if-gt p0, v2, :cond_5b
-
-    .line 380
-    const/16 v0, 0x37
-
-    goto/16 :goto_1
-
-    .line 382
-    :cond_5b
-    const/16 v2, 0xd9
-
-    if-lt p0, v2, :cond_5c
-
-    const/16 v2, 0xdc
-
-    if-gt p0, v2, :cond_5c
-
-    .line 384
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 386
-    :cond_5c
-    const/16 v2, 0xf9
-
-    if-lt p0, v2, :cond_5d
-
-    const/16 v2, 0xfc
-
-    if-gt p0, v2, :cond_5d
-
-    .line 388
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 390
-    :cond_5d
-    const/16 v2, 0x162
-
-    if-lt p0, v2, :cond_5e
-
-    const/16 v2, 0x173
-
-    if-gt p0, v2, :cond_5e
-
-    .line 392
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 394
-    :cond_5e
-    const/16 v2, 0x1ab
-
-    if-lt p0, v2, :cond_5f
-
-    const/16 v2, 0x1b2
-
-    if-gt p0, v2, :cond_5f
-
-    .line 396
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 398
-    :cond_5f
-    const/16 v2, 0x1d3
-
-    if-lt p0, v2, :cond_60
-
-    const/16 v2, 0x1dc
-
-    if-gt p0, v2, :cond_60
-
-    .line 400
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 402
-    :cond_60
-    const/16 v2, 0x3a4
-
-    if-lt p0, v2, :cond_61
-
-    const/16 v2, 0x3a6
-
-    if-gt p0, v2, :cond_61
-
-    .line 404
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 406
-    :cond_61
-    const/16 v2, 0x3c4
-
-    if-lt p0, v2, :cond_62
-
-    const/16 v2, 0x3c6
-
-    if-gt p0, v2, :cond_62
-
-    .line 408
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 410
-    :cond_62
-    const/16 v2, 0x3cb
-
-    if-ne p0, v2, :cond_63
-
-    const/16 v2, 0x3147
-
-    if-eq p0, v2, :cond_63
-
-    .line 412
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 414
-    :cond_63
-    const/16 v2, 0x428
-
-    if-lt p0, v2, :cond_64
-
-    const/16 v2, 0x42b
-
-    if-gt p0, v2, :cond_64
-
-    .line 416
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 418
-    :cond_64
-    const/16 v2, 0x448
-
-    if-lt p0, v2, :cond_65
-
-    const/16 v2, 0x44b
-
-    if-gt p0, v2, :cond_65
-
-    .line 420
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 422
-    :cond_65
-    const/16 v2, 0x1ee4
-
-    if-lt p0, v2, :cond_66
-
-    const/16 v2, 0x1ef1
-
-    if-gt p0, v2, :cond_66
-
-    .line 424
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 426
-    :cond_66
-    const/16 v2, 0x641
-
-    if-lt p0, v2, :cond_67
-
-    const/16 v2, 0x645
-
-    if-gt p0, v2, :cond_67
-
-    .line 428
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 430
-    :cond_67
-    const/16 v2, 0x6a9
-
-    if-ne p0, v2, :cond_68
-
-    const/16 v2, 0x6af
-
-    if-eq p0, v2, :cond_68
-
-    .line 432
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 434
-    :cond_68
-    const/16 v2, 0x5e5
-
-    if-lt p0, v2, :cond_69
-
-    const/16 v2, 0x5e7
-
-    if-gt p0, v2, :cond_69
-
-    .line 436
-    const/16 v0, 0x38
-
-    goto/16 :goto_1
-
-    .line 438
-    :cond_69
-    const/16 v2, 0xdd
-
-    if-ne p0, v2, :cond_6a
-
-    const/16 v2, 0xfd
-
-    if-eq p0, v2, :cond_6a
-
-    .line 440
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 442
-    :cond_6a
-    const/16 v2, 0x174
-
-    if-lt p0, v2, :cond_6b
-
-    const/16 v2, 0x17e
-
-    if-gt p0, v2, :cond_6b
-
-    .line 444
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 446
-    :cond_6b
-    const/16 v2, 0x1b3
-
-    if-lt p0, v2, :cond_6c
-
-    const/16 v2, 0x1bf
-
-    if-gt p0, v2, :cond_6c
-
-    .line 448
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 450
-    :cond_6c
-    const/16 v2, 0x38f
-
-    if-ne p0, v2, :cond_6d
-
-    const/16 v2, 0x3ce
-
-    if-eq p0, v2, :cond_6d
-
-    .line 452
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 454
-    :cond_6d
-    const/16 v2, 0x3a7
-
-    if-lt p0, v2, :cond_6e
-
-    const/16 v2, 0x3a9
-
-    if-gt p0, v2, :cond_6e
-
-    .line 456
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 458
-    :cond_6e
-    const/16 v2, 0x3c7
-
-    if-lt p0, v2, :cond_6f
-
-    const/16 v2, 0x3c9
-
-    if-gt p0, v2, :cond_6f
-
-    .line 460
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 462
-    :cond_6f
-    const/16 v2, 0x42c
-
-    if-lt p0, v2, :cond_70
-
-    const/16 v2, 0x42f
-
-    if-gt p0, v2, :cond_70
-
-    .line 464
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 466
-    :cond_70
-    const/16 v2, 0x44c
-
-    if-lt p0, v2, :cond_71
-
-    const/16 v2, 0x44f
-
-    if-gt p0, v2, :cond_71
-
-    .line 468
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 470
-    :cond_71
-    const/16 v2, 0x1ef2
-
-    if-lt p0, v2, :cond_72
-
-    const/16 v2, 0x1ef9
-
-    if-gt p0, v2, :cond_72
-
-    .line 472
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 474
-    :cond_72
-    const/16 v2, 0x3148
-
-    if-ne p0, v2, :cond_73
-
-    const/16 v2, 0x314a
-
-    if-eq p0, v2, :cond_73
-
-    .line 476
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 478
-    :cond_73
-    const/16 v2, 0x637
-
-    if-lt p0, v2, :cond_74
-
-    const/16 v2, 0x63a
-
-    if-gt p0, v2, :cond_74
-
-    .line 480
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 482
-    :cond_74
-    const/16 v2, 0x5e1
-
-    if-lt p0, v2, :cond_75
-
-    const/16 v2, 0x5e4
-
-    if-gt p0, v2, :cond_75
-
-    .line 484
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 486
-    :cond_75
-    const/16 v2, 0x314e
-
-    if-ne p0, v2, :cond_76
-
-    .line 488
-    const/16 v0, 0x39
-
-    goto/16 :goto_1
-
-    .line 490
-    :cond_76
     invoke-static {p0}, Lcom/android/providers/contacts/t9/T9miuisu;->isValidT9Key(C)Z
 
-    move-result v2
+    move-result v0
 
-    if-nez v2, :cond_1
+    if-eqz v0, :cond_0
 
-    .line 491
-    move v0, p0
+    .end local p0    # "var0":C
+    :goto_0
+    return p0
 
-    goto/16 :goto_1
+    .restart local p0    # "var0":C
+    :cond_0
+    const/16 v0, 0x41
+
+    if-lt p0, v0, :cond_1
+
+    const/16 v0, 0x5a
+
+    if-gt p0, v0, :cond_1
+
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sPinyinT9Map:[C
+
+    add-int/lit8 v1, p0, -0x41
+
+    aget-char p0, v0, v1
+
+    goto :goto_0
+
+    :cond_1
+    const/16 v0, 0x61
+
+    if-lt p0, v0, :cond_2
+
+    const/16 v0, 0x7a
+
+    if-gt p0, v0, :cond_2
+
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sPinyinT9Map:[C
+
+    add-int/lit8 v1, p0, -0x61
+
+    aget-char p0, v0, v1
+
+    goto :goto_0
+
+    :cond_2
+    const/16 v0, 0x3105
+
+    if-lt p0, v0, :cond_3
+
+    const/16 v0, 0x3129
+
+    if-gt p0, v0, :cond_3
+
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sZhuyin2T9Map:[C
+
+    add-int/lit16 v1, p0, -0x3105
+
+    aget-char p0, v0, v1
+
+    goto :goto_0
+
+    :cond_3
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberCeroSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_4
+
+    const/16 p0, 0x30
+
+    goto :goto_0
+
+    :cond_4
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberOneSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_5
+
+    const/16 p0, 0x31
+
+    goto :goto_0
+
+    :cond_5
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberTwoSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_6
+
+    const/16 p0, 0x32
+
+    goto :goto_0
+
+    :cond_6
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberThreeSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_7
+
+    const/16 p0, 0x33
+
+    goto :goto_0
+
+    :cond_7
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFourSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_8
+
+    const/16 p0, 0x34
+
+    goto :goto_0
+
+    :cond_8
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberFiveSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_9
+
+    const/16 p0, 0x35
+
+    goto/16 :goto_0
+
+    :cond_9
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSixSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_a
+
+    const/16 p0, 0x36
+
+    goto/16 :goto_0
+
+    :cond_a
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberSevenSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_b
+
+    const/16 p0, 0x37
+
+    goto/16 :goto_0
+
+    :cond_b
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberEightSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_c
+
+    .line 47
+    const/16 p0, 0x38
+
+    goto/16 :goto_0
+
+    :cond_c
+    sget-object v0, Lcom/android/providers/contacts/t9/T9miuisu;->sNumberNineSet:Ljava/util/Set;
+
+    invoke-static {p0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_d
+
+    const/16 p0, 0x39
+
+    goto/16 :goto_0
+
+    :cond_d
+    const/4 p0, 0x0
+
+    goto/16 :goto_0
 .end method
 
 .method public static isValidT9Key(C)Z
     .locals 1
+    .param p0, "var0"    # C
 
     .prologue
-    .line 500
+    .line 42
     const/16 v0, 0x30
 
     if-lt p0, v0, :cond_0
@@ -1964,18 +1382,15 @@
 
     const/16 v0, 0x23
 
-    if-ne p0, v0, :cond_2
+    if-eq p0, v0, :cond_1
 
-    .line 505
-    :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x0
 
-    .line 506
     :goto_0
     return v0
 
-    :cond_2
-    const/4 v0, 0x0
+    :cond_1
+    const/4 v0, 0x1
 
     goto :goto_0
 .end method
