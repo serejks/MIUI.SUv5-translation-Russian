@@ -4,5 +4,5 @@
 	<string name="artist_label">Исполнитель</string>
 	<string name="uid_label">Медиа</string>
 	<string name="upgrade_msg">Обновление БД мультимедиа…</string>
-	<string name="drm_licensed_message">Не удается задать защищенный файл как мелодию</string>
+	<string name="drm_licensed_message">Не удается установить защищенный файл как мелодию</string>
 </resources>

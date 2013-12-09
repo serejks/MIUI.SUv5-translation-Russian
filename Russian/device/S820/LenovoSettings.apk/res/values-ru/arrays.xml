@@ -16,7 +16,7 @@
         <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>
-        <item>30 миню</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>

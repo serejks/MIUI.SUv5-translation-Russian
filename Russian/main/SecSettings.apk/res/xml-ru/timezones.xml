@@ -84,4 +84,6 @@
     <timezone id="Pacific/Auckland">Окленд</timezone>
     <timezone id="Pacific/Fiji">Фиджи</timezone>
     <timezone id="Pacific/Tongatapu">Тонгатапу</timezone>
+    <timezone id="Europe/Zagreb">Загреб</timezone>
+    <timezone id="Asia/Singapore">Сингапур</timezone>
 </timezones>

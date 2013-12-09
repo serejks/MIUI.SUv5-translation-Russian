@@ -2,10 +2,10 @@
 <resources>
     <string-array name="auto_power_off_entries">
         <item>Выключено</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
         <item>4 часа</item>
-        <item>8 часов</item>
-        <item>12 часов</item>
-        <item>24 часов</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Америка</item>
@@ -124,8 +124,8 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Нажмите кнопку</item>
-        <item>PIN код другого устройства</item>
-        <item>PIN код этого устройства</item>
+        <item>PIN-код другого устройства</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Подключено</item>
@@ -146,6 +146,20 @@
     <string-array name="wifi_ap_connection_mode">
         <item>Разрешить все устр.</item>
         <item>Только разрешенные устройства</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Авто</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 минуты</item>
@@ -196,8 +210,8 @@
     <string-array name="wifi_network_setup">
         <item>Выключено</item>
         <item>Нажмите кнопку</item>
-        <item>PIN код точки доступа</item>
-        <item>PIN код этого устройства</item>
+        <item>PIN-код точки доступа</item>
+        <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -228,11 +242,6 @@
         <item>CHAP</item>
         <item>PAP или CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
@@ -240,7 +249,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Внутренняя память устройства</item>
-        <item>Съемная SD карта</item>
+        <item>Съемная карта памяти SD</item>
         <item>По умолчанию</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
@@ -322,6 +331,11 @@
         <item>Видео</item>
         <item>Фотографии</item>
         <item>Музыка</item>
+    </string-array>
+    <string-array name="apn_ently_key">
+        <item>Интернет + MMS</item>
+        <item>Интернет</item>
+        <item>MMS</item>
     </string-array>
     <string-array name="apn_ently_key_includeDUN">
         <item>Интернет + MMS + DUN</item>
