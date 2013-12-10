@@ -495,4 +495,72 @@
         <item>3600</item>
         <item>-1</item>
     </string-array>
+<!-- Red Rice -->
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Первые 4 цифры</item>
+        <item>Последние 4 цифры</item>
+        <item>Не отображать</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Один раз</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (Авторежим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM only</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Автоподключение</item>
+        <item>Подключение вручную</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="wifi_ap_channel_width">
+        <item>20 МГц</item>
+        <item>Авто 20/40 МГц</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Только дом</item>
+        <item>Дом + роуминг</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Мобильная сеть - условное время</item>
+        <item>GPS - условное время</item>
+        <item>Выкл</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Полный экран</item>
+        <item>Подходящая ориентация</item>
+        <item>Оригинальный размер</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(не указано)</item>
+        <item>Слот SIM 1</item>
+        <item>Слот SIM2</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Всегда</item>
+        <item>Выключать при неактивности 5 мин.</item>
+        <item>Выключать при неактивности 10 мин.</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push кнопка</item>
+        <item>PIN от клиента</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 пользователь</item>
+        <item>2 пользователя</item>
+        <item>3 пользователя</item>
+        <item>4 пользователя</item>
+        <item>5 пользователей</item>
+        <item>6 пользователей</item>
+        <item>7 пользователей</item>
+        <item>8 пользователей</item>
+    </string-array>
 </resources>

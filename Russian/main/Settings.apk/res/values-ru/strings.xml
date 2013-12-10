@@ -482,6 +482,7 @@
     <string name="wifi_display_options_name">Имя</string>
     <string name="wifi_display_summary_on">Вкл.</string>
     <string name="wifi_display_summary_off">Выкл.</string>
+    <string name="wifi_display_summary_disabled">Выключен</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
     <string name="android_beam_on_summary">Обмен данными по NFC включен</string>
@@ -547,14 +548,14 @@
 	<string name="wifi_share_notification_summary">MIUI позволит вам подключиться к сети Wi-Fi с паролем.</string>
 	<string name="wifi_share_other_network">Другие сети</string>
 	<string name="wifi_share_qrcode_finish">ОК</string>
-    <string name="oldman_mode_entry_title">Расширенный режим</string>
-    <string name="oldman_mode_entry_name">Настройки расширенного режима</string>
-    <string name="oldman_mode_settings_caption">Настройки расширенного режима</string>
-    <string name="oldman_mode_enabled_name">Включить расширенный режим</string>
-    <string name="oldman_mode_summary">Включение/выключение расширенного режима, приведет к перезагрузке!</string>
-    <string name="oldman_mode_confirm_title">Включить расширенный режим</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Включить расширенный режим?</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Выключить расширенный режим?</string>
+    <string name="oldman_mode_entry_title">Для пожилых</string>
+    <string name="oldman_mode_entry_name">Настройки режима \"Для пожилых\"</string>
+    <string name="oldman_mode_settings_caption">Настройки режима \"Для пожилых\"</string>
+    <string name="oldman_mode_enabled_name">Включить режим \"Для пожилых\"</string>
+    <string name="oldman_mode_summary">Включение/выключение режима \"Для пожилых\", приведет к перезагрузке!</string>
+    <string name="oldman_mode_confirm_title">Включить режим \"Для пожилых\"</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Включить режим \"Для пожилых\"?</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Выключить режим \"Для пожилых\"?</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Включить 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D стереоскопический вывод на внешний 3D-дисплей включен</string>
@@ -1362,11 +1363,11 @@
     <string name="accessibility_global_gesture_preference_summary_off">Выкл.</string>
     <string name="accessibility_global_gesture_preference_description">"Когда эта функция включена, вы можете быстро включить функции для людей с ограниченными возможностями в два этапа:
 
-Step 1: Нажмите и удерживайте кнопку питания, пока не услышите звук или почувствуете вибрацию.
+Шаг 1: Нажмите и удерживайте кнопку питания, пока не услышите звук или почувствуете вибрацию.
 
-Step 2: Нажмите и удерживайте двумя пальцами, пока не услышите звук подтверждения.
+Шаг 2: Нажмите и удерживайте двумя пальцами, пока не услышите звук подтверждения.
 
-Если устройство имеет несколько пользователей, используя этот ярлык на экране блокировки позволяет временно доступности, пока устройство не будет разблокировано."</string>
+Если устройство имеет несколько пользователей, кнопка на экране блокировки позволит получить временный доступ."</string>
     <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Увеличение изображения</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автообновление увеличения экрана</string>
@@ -2629,6 +2630,7 @@ Android File Transfer,
     <string name="screen_saturation_adjust">Насыщенность цвета</string>
     <string name="screen_color_temperature">Цветовая температура</string>
     <string name="screen_saturation">Насыщенность цвета</string>
+    <string name="screen_color_temperature_and_saturation_adjust">Температура и насыщенность</string>
 	<string name="screen_color_temperature_and_saturation">Температура и насыщенность</string>
     <string name="finish_application">Закрыть</string>
     <string name="header_category_accounts">Аккаунты</string>

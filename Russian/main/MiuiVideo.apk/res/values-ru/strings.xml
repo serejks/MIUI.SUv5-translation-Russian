@@ -203,7 +203,7 @@
      <string name="video_library">Видео</string>
      <string name="view_all_reviews">Еще %d коммен.</string>
      <string name="waitfornewset">Следовать</string>
-     <string name="waitfornewset_tip_content">You will be notified when a new episode or additional content becomes available.</string>
+     <string name="waitfornewset_tip_content">Вы будете уведомлены, когда новый эпизод или дополнительный контент станет доступным.</string>
      <string name="will_live_status">Live</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>

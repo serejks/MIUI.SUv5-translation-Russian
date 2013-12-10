@@ -63,7 +63,7 @@
 	<string name="default_folder_title_tools">Утилиты</string>
 	<string name="default_folder_title_recommend">Прочие</string>
 	<string name="default_folder_title_game">Игры</string>
-	<string name="default_folder_title_security">Безопасность</string>
+	<string name="default_folder_title_security">Система</string>
 	<string name="default_shortcut_title_10086">Мобильный портал</string>
 	<string name="reset_scene_prompt">Будут установлены настройки по умолчанию</string>
 	<string name="preferences_title">Настройки лаунчера</string>

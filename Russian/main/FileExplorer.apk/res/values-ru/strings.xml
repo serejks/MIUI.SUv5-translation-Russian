@@ -29,7 +29,7 @@
     <string name="cancel">Отмена</string>
     <string name="cancel_cleanup">Отмена очистки</string>
     <string name="background">Загрузить в фоне</string>
-    <string name="no_file">Пусто.</string>
+    <string name="no_file">Пусто</string>
     <string name="tab_category">Категории</string>
     <string name="tab_phone">Телефон</string>
     <string name="sd_folder">SD карта</string>
@@ -140,11 +140,11 @@
     <string name="wangpan_root_path">Мой диск</string>
     <string name="kuaipan_over_space">Недостаточно места.</string>
     <string name="kuaipan_tech_support">Вход в kuaipan.cn</string>
-    <string name="no_tasks">Нет задач.</string>
-    <string name="no_more_space">Недостаточно места.</string>
-    <string name="sd_full">Память телефона заполнена.</string>
-    <string name="file_too_large">Слишком большой файл для загрузки.</string>
-    <string name="create_new_folder_failed">Ошибка создания папки.</string>
+    <string name="no_tasks">Нет задач</string>
+    <string name="no_more_space">Недостаточно места</string>
+    <string name="sd_full">Память телефона заполнена</string>
+    <string name="file_too_large">Слишком большой файл для загрузки</string>
+    <string name="create_new_folder_failed">Ошибка создания папки</string>
     <string name="slide_left_text">Сдвиньте влево</string>
     <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD карты в KuaiPan</string>
     <string name="guide_access_files_through_web">Они будут доступны через интернет\nна любом компьютере</string>
