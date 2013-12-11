@@ -123,7 +123,7 @@
     <string name="megabytes_unit">%1$s Мб</string>
     <string name="rank_app_name">%1$s. %2$s</string>
     <string name="category_header">Все %1$s</string>
-    <string name="publish_info">%3$s, %1$s.%2$s</string>
+    <string name="publish_info">%3$s дата %1$s.%2$s</string>
     <string name="permissions_title">%1$s данные разрешений</string>
     <string name="permissions_expand_title">Все разрешения</string>
     <string name="version_name">Версия %1$s</string>
@@ -137,7 +137,7 @@
     <string name="search_local_app_text_hint">Поиск (Установлено %1$d приложений)</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_ignore">Игнорировать</string>
-    <string name="menu_detail">Показать данные приложения</string>
+    <string name="menu_detail">Про додатку</string>
     <string name="connect_fail">Ошибка загрузки: соединение потеряно</string>
     <string name="connect_no_fit_fail">Ошибка загрузки: телефон несовместим с этим приложением</string>
 	<string name="connect_no_enough_space">Недостаточно места для установки</string>
