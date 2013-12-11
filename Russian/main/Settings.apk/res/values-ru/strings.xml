@@ -3708,4 +3708,14 @@ Android File Transfer,
     <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайдшоу после 5 секунд выключенного экрана.</string>
     <string name="alert_show_screensaver_when_not_charging_title">Предупреждение</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Батарея будет садиться гораздо быстрее во время показа заставки, если зарядка не подключена. \nОтключить этот пункт?</string>
+	<string name="cleaner_support_hints">Поддержка: Clean Master</string>
+	<string name="preferred_application_title">По умолчанию: %s</string>
+    <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
+    <string name="preferred_application_warning_message">Замена стандартного приложения \"%1$s\" может увеличить потребление энергии, снизить скорость работы устройства и подвергнуть систему риску. \nРекомендуется использовать стандартное приложение \"%2$s\".</string>
+    <string name="preferred_application_warning_replace">Заменить</string>
+    <string name="preferred_application_warning_use_system">Отмена</string>
+	<string name="preferred_app_settings">Приложения по умолчанию</string>
+    <string name="preferred_app_settings_default">MIUI</string>
+    <string name="preferred_app_settings_reset">Восстановить по умолчанию</string>
+    <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>
 </resources>
