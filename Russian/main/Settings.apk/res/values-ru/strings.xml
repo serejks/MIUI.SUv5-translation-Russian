@@ -3157,7 +3157,7 @@ Android File Transfer,
     <string name="optimize_title_cache">Кэш</string>
     <string name="optimize_title_ad">Реклама</string>
     <string name="optimize_title_apk">Приложения</string>
-    <string name="optimize_title_residual">Мусор приложений</string>
+    <string name="optimize_title_residual">Мусор</string>
     <string name="button_text_a_key_clean_up">Очистка</string>
     <string name="button_text_a_key_optimize">Оптимизировать</string>
     <string name="button_text_done">Готово</string>
@@ -3196,9 +3196,9 @@ Android File Transfer,
     <string name="system_cache_title">Системный кэш</string>
     <string name="downloaded_rom_title">Пакеты обновлений</string>
     <string name="optimize_large_file_list_empty_content">Большие файлы не найдены.</string>
-    <string name="deep_clean_tips_cache">iconНекоторые приложения используют кэш для загрузки ресурсов (например, песен, музыки, изображений). Будьте внимательны при очистке этих файлов.</string>
+    <string name="deep_clean_tips_cache">iconКэш - некоторые приложения используют кэш для загрузки ресурсов (например, песен, музыки, изображений). Будьте внимательны при очистке этих файлов.</string>
     <string name="deep_clean_tips_residual">iconМусор приложений - это оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
-    <string name="deep_clean_tips_large_file">iconПри очистке будут показаны большие файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
+    <string name="deep_clean_tips_large_file">iconБольшие файлы - при очистке будут показаны большие файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
     <string name="toast_qucik_scan_list_empty">Очистка не требуется!</string>
     <string name="quick_scan_list_loading_hits">Сканирование…</string>
     <string name="app_uninstall_residual">Очистить мусор приложений?</string>
@@ -3326,7 +3326,7 @@ Android File Transfer,
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Невозвможно удалить режим. \nТелефон настроен на переключение к этому режиму, когда батарея разряжена. \nНеобходимо изменить параметры перед удалением.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">Невозвможно удалить режим. \nТелефон настроен на переключение к этому режиму по расписанию. \nНеобходимо изменить параметры перед удалением.</string>
     <string name="power_save_choose_mode">Выбрать режим</string>
-    <string name="power_save_low_battery_title">Режим экономии, когда батарея разряжена</string>
+    <string name="power_save_low_battery_title">Режим экономии</string>
     <string name="power_save_low_battery_auto_save_title">Автопереключение</string>
     <string name="power_save_low_battery_seekbar_title">Переключение режима, при заряде менее %1$d%%</string>
     <string name="power_save_low_battery_option_title">Переключаться в режим</string>
