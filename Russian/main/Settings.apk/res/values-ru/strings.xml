@@ -3716,6 +3716,6 @@ Android File Transfer,
     <string name="preferred_application_warning_use_system">Отмена</string>
 	<string name="preferred_app_settings">Приложения по умолчанию</string>
     <string name="preferred_app_settings_default">MIUI</string>
-    <string name="preferred_app_settings_reset">Восстановить по умолчанию</string>
+    <string name="preferred_app_settings_reset">Восстановить умолчания</string>
     <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>
 </resources>
