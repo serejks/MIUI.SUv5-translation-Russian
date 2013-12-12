@@ -15,7 +15,7 @@
     <string name="debug_tool_email_sender_picker">Выберите приложение для отправки</string>
     <string name="debug_tool_email_subject">БД календаря прикреплена</string>
     <string name="debug_tool_email_body">К письму прикреплена БД календаря. Обращайтесь осторожно.</string>
-    <string name="holiday_update_title">База рабочих дней требует подключения к сети для обновления</string>
+    <string name="holiday_update_title">Обновите базу рабочих дней</string>
     <string name="holiday_update_summary">Проверка обновлений</string>
     <string name="holiday_data_updating">Обновление…</string>
     <string name="holiday_data_update_failed">Проверьте ошибки обновления и повторите попытку позже.</string>
