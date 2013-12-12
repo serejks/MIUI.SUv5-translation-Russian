@@ -22,7 +22,7 @@
     <string name="silent_type_title">Без звука</string>
     <string name="meeting_type_title">Вибрация</string>
     <string name="outdoor_type_title">На улице</string>
-    <string name="profile_edit_pocket_title">Режим "В кармане"</string>
+    <string name="profile_edit_pocket_title">Режим \"В кармане\"</string>
     <string name="profile_edit_pocket_summary">Аватоматически повышать громкость рингтона, когда телефон находится в кармане</string>
     <string name="profile_edit_weaken_title">Уменьшать громкость</string>
     <string name="profile_edit_weaken_summary">Уменьшать громкость рингтона кода телефон в руках/на столе</string>
@@ -728,6 +728,7 @@
     <string name="wifi_display_options_name">Имя</string>
     <string name="wifi_display_summary_on">Вкл.</string>
     <string name="wifi_display_summary_off">Выкл.</string>
+    <string name="wifi_display_summary_disabled">Отключено</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
     <string name="android_beam_on_summary">Обмен данными по NFC включен</string>
@@ -2095,7 +2096,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="accessibility_tutorial_finish">Закрыть</string>
     <string name="accessibility_tutorial_skip">Пропустить руководство</string>
     <string name="accessibility_tutorial_lesson_1_title">Урок 1: Экран</string>
-    <string name="accessibility_tutorial_lesson_1_text_1">После того, как вы включили "подсказки при нажатии", поставьте палец на нужный объект для того, чтобы получить его описание. Например, этот экран содержит иконки приложений. Найдите одну из них, водя пальцем по экрану.</string>
+    <string name="accessibility_tutorial_lesson_1_text_1">После того, как вы включили \"подсказки при нажатии\", поставьте палец на нужный объект для того, чтобы получить его описание. Например, этот экран содержит иконки приложений. Найдите одну из них, водя пальцем по экрану.</string>
     <string name="accessibility_tutorial_lesson_1_text_2_more">Отлично. Продолжайте водить пальцем по экрану пока не найдете, по крайней мере, еще одну иконку.</string>
     <string name="accessibility_tutorial_lesson_1_text_3">Для того, чтобы запустить приложение коснитесь его. Ведите пальцем, пока не найдете иконку для %s. Затем коснитесь иконки, чтобы запустить приложение.</string>
     <string name="accessibility_tutorial_lesson_1_text_4">Ваш палец на %s. Нажмите один раз, чтобы запустить приложение.</string>
@@ -2186,6 +2187,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="user_confirm_remove_message">Удалить пользователя и все данные, связанные с ним?</string>
     <string name="app_notifications_switch_label">Уведомления</string>
     <string name="help_label">Помощь</string>
+    <string name="usbsetting_help_title">Помощь</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
     <string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
 	<string name="change_password">Сменить пароль</string>
@@ -2473,7 +2475,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="launcher_settings_title">Лаунчер</string>
     <string name="screen_timeout_title">Спящий режим</string>
     <string name="touch_title">Тач</string>
-    <string name="touch_sensitive_title">Режим "в перчатках"</string>
+    <string name="touch_sensitive_title">Режим \"в перчатках\"</string>
     <string name="touch_sensitive_summary">Увеличить чувствительность сенсора для работы с телефоном в перчатках, предотвращение случайного включения экрана в кармане.</string>
     <string name="touch_sensitive_turn_off_title">Отключить режим "в перчатках"</string>
     <string name="touch_sensitive_turn_off_summary">Отключить предотвращение случайного включения экрана в кармане?</string>
@@ -2964,7 +2966,7 @@ Android File Transfer,
     <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">Получено сообщение с неправильным содержанием</string>
     <string name="AGPS_CAUSE_USER_AGREE">Пользователь подтвердил</string>
     <string name="AGPS_CAUSE_USER_DENY">Пользователь отклонил сопряжение</string>
-    <string name="AGPS_CAUSE_NO_POSITION">Только для "не в состоянии"</string>
+    <string name="AGPS_CAUSE_NO_POSITION">Только для \"не в состоянии\"</string>
     <string name="AGPS_CAUSE_TLS_AUTH_FAIL">Ошибка аутентификации TLS</string>
     <string name="USER_RESPONSE_TIMEOUT">Ожидание проверки тайм-аута</string>
     <string name="AGPS_MODEM_RESET_HAPPEN">Ошибка модема</string>
@@ -3289,7 +3291,7 @@ Android File Transfer,
     <string name="usb_sharing_info_title">Прямое подключение к Интернету</string>
     <string name="usb_sharing_info_step_1">1. Откройте сетевые соединения на вашем Windows PC.</string>
     <string name="usb_sharing_info_step_2">2. Щелкните правой кнопкой мыши на подключение, которое вы хотите отправить, а затем нажмите кнопку Свойства.</string>
-    <string name="usb_sharing_info_step_3">"3. Перейдите на вкладку Доступ и выберите "Разрешить другим пользователям сети использовать подключение к Интернету данного компьютера."</string>
+    <string name="usb_sharing_info_step_3">"3. Перейдите на вкладку Доступ и выберите \"Разрешить другим пользователям сети использовать подключение к Интернету данного компьютера\".</string>
     <string name="wifi_ap_bandwidth_title">Использование пропускной способности</string>
     <string name="wifi_ap_bandwidth_enable">Включить регулирование пропускной способности</string>
     <string name="wifi_ap_bandwidth_chart_title">Скорость передачи данных в реальном времени</string>
