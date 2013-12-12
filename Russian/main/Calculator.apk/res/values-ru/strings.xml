@@ -5,7 +5,7 @@
     <string name="basic">Основная панель</string>
     <string name="advanced">Дополнительная панель</string>
     <string name="clear_history">Очистить историю</string>
-    <string name="text_copied_toast">Текст скопирован.</string>
+    <string name="text_copied_toast">Текст скопирован</string>
     <string name="leftParenDesc">открывающая скобка</string>
     <string name="rightParenDesc">закрывающая скобка</string>
     <string name="factorialDesc">факториал числа</string>
