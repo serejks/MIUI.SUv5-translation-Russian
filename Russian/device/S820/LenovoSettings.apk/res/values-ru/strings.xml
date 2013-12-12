@@ -3484,7 +3484,7 @@ Android File Transfer,
     <string name="power_center_custom_summary_default">Параметры оптимизации, экономия батареи.</string>
     <string name="power_center_low_battery_title">Автопереключение</string>
     <string name="power_center_low_battery_summary_default">Включение режима экономии, при низком заряде батареи</string>
-    <string name="power_center_low_battery_summary_dynamic">Если заряд батареи менее %1$d%%, переключиться в режим \"%2$s\".</string>
+    <string name="power_center_low_battery_summary_dynamic">Если заряд батареи менее %1$d%%, сменить режим на \"%2$s\".</string>
     <string name="power_center_on_time_title">Расписание</string>
     <string name="power_center_on_time_summary_default">Включение режима в назначенное время</string>
     <string name="power_center_on_time_summary_dynamic">С %1$s до %2$s переключиться в режим \"%3$s\".</string>

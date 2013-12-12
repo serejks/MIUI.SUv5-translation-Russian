@@ -237,10 +237,10 @@
     <string name="open_single_image_failure">Не удалось загрузить изображение.</string>
     <string name="damaged_file">Файл поврежден.</string>
     <string name="cloud_camera_display_name">Фото камеры</string>
-    <string name="camera_folder_display_name">Фото камеры</string>
+    <string name="camera_folder_display_name">Камера</string>
     <string name="cloud_screenshots_display_name">Скриншоты</string>
     <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
-    <string name="internal_camera_folder_display_name">Фото камеры</string>
+    <string name="internal_camera_folder_display_name">Камера</string>
     <string name="internal_miui_capture_screen_folder_display_name">Скриншоты</string>
     <string name="miliao_painting_folder_display_name">MiTalk Рисование</string>
     <string name="miliao_saved_folder_display_name">MiTalk сохраненное</string>
