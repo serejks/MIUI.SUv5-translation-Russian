@@ -18,7 +18,7 @@
     <string name="forward_action">Переслать</string>
     <string name="favorite_action">Пометить</string>
     <string name="done_action">Готово</string>
-    <string name="create_action">Новое сообщение</string>
+    <string name="create_action">Создать</string>
     <string name="delete_quick_response_action">Удалить</string>
     <string name="quick_responses_empty_view">Нет шаблонов быстрых ответов</string>
     <string name="discard_action">Отменить</string>
