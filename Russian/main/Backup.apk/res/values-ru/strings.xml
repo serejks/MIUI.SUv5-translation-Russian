@@ -229,4 +229,25 @@
     <string name="customization"><u>Настроить</u></string>
     <string name="customization_under_wifi_prompt">Поддержка только через Wi-Fi</string>
     <string name="my_phone">Мой телефон</string>
+	<string name="button_continue">Продолжить</string>
+	<string name="cloud_app_invalid_op_when_removing">Невозможно просмотреть облачные данные во время удаления</string>
+	<string name="cloud_app_wait_wifi">Ожидание сети Wi-Fi</string>
+    <string name="cloud_app_backup_cancel">Отмена копирования…</string>
+    <string name="cloud_app_restore_cancel">Отмена восстановления…</string>
+    <string name="cloud_app_remove_cancel">Отмена удаления…</string>
+    <string name="cloud_app_backup_cancel_prompt_title">Остановить копирование</string>
+    <string name="cloud_app_restore_cancel_prompt_title">Остановить восстановление</string>
+    <string name="cloud_app_remove_cancel_prompt_title">Остановить удаление</string>
+    <string name="cloud_app_backup_cancel_prompt_message">Копирование не завершено. \nОстановить копирование?</string>
+    <string name="cloud_app_restore_cancel_prompt_message">Восстановление не завершено. \nОстановить восстановление?</string>
+    <string name="cloud_app_remove_cancel_prompt_message">Удаление не завершено. \nОстановить удаление?</string>
+    <string name="cloud_app_check_data">Запрос данных с сервера…</string>
+    <string name="cloud_app_check_data_timeout">Превышено время ожидания запроса данных</string>
+    <string name="cloud_app_load_data">Запрос списка резервных копий…</string>
+    <string name="cloud_app_load_data_timeout">Превышено время ожидания запроса данных</string>
+    <string name="cloud_app_check_data_fail">Ошибка запроса данных с сервера</string>
+    <string name="cloud_app_no_network">Сеть недоступна</string>
+    <string name="cloud_app_no_wifi">Сеть Wi-Fi недоступна</string>
+    <string name="cloud_app_no_wifi_connect">Нет сетей Wi-Fi</string>
+    <string name="cloud_app_loading_with_mobile_network_prompt">Использовать мобильный интернет для передачи данных?</string>
 </resources>
