@@ -1107,9 +1107,9 @@
     <string name="force_stop">Остановить</string>
     <string name="total_size_label">Всего</string>
     <string name="application_size_label">Приложение</string>
-    <string name="external_code_size_label">Приложение на USB</string>
+    <string name="external_code_size_label">Приложение на накопителе</string>
     <string name="data_size_label">Данные</string>
-    <string name="external_data_size_label">Данные на USB</string>
+    <string name="external_data_size_label">Данные на накопителе</string>
     <string name="uninstall_text">Удалить</string>
     <string name="uninstall_all_users_text">Удалить для всех пользователей</string>
     <string name="install_text">Установить</string>
