@@ -370,8 +370,8 @@
 	<string name="the_spring_festival">Китайский Новый год</string>
 	<string name="unknown">Неизвестный номер</string>
 	<string name="unknown_caller">Неизвестный номер</string>
-	<string name="user_agreement1">Вы будете использовать системы и Интернет услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
-	<string name="user_agreement2">" Пользовательское соглашение"</string>
+	<string name="user_agreement1">"Вы будете использовать системы и Интернет услуги, предоставляемые Xiaomi, пожалуйста, прочитайте "</string>
+	<string name="user_agreement2">Пользовательское соглашение</string>
 	<string name="user_agreement3">" и "</string>
 	<string name="user_agreement4">Политику конфиденциальности</string>
 	<string name="user_agreement5">,нажав \"ОК\", вы соглашаетесь и готовы соблюдать вышесказаное. В случае несогласия нажмите \"Отмена\" для выхода.</string>

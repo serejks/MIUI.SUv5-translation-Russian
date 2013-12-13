@@ -134,7 +134,7 @@
     <string name="new_frequency">Новая частота</string>
     <string name="alert_invalid_frequency">Неверная частота.</string>
     <string name="hint_frequency">Частота: %1$s ~ %2$s</string>
-    <string name="hint_label">Метка</string>
+    <string name="hint_label">Название</string>
     <string name="frequency_mhz_fomart">%s МГц</string>
     <string name="context_menu_title">%s МГц</string>
     <string name="context_menu_item_edit">Редактировать</string>
