@@ -144,7 +144,7 @@
     <string name="default_alarm_screen">Установить свою мелодию по умолчанию</string>
     <string name="default_alarm_title">Мелодия по умолчанию</string>
     <string name="alarm_alert">Установить мелодию</string>
-    <string name="alarm_screen">Стиль будильника и мелодия</string>
+    <string name="alarm_screen">Стиль и мелодия</string>
 	<string name="resource_app_name">Ресурсы браузера</string>
 	<string name="resource_price_free">Бесплатно</string>
 	<string name="resource_price_unit">MI Деньги</string>

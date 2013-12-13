@@ -2840,7 +2840,7 @@ Android File Transfer,
     <string name="status_min_number_slot2">MIN(Слот2)</string>
     <string name="status_prl_version_slot2">PRL Version(Слот2)</string>
     <string name="status_meid_number_slot2">MEID(Слот2)</string>
-    <string name="slot_status_summary">Информация о SIM карте</string>
+    <string name="slot_status_summary">Информация о IMEI</string>
     <string name="custom_build_version">Версия сборки</string>
     <string name="software_update">Сервис обновления ПО</string>
     <string name="mota_system_update_summary">Проверить обновления ПО на сервере</string>
@@ -3172,12 +3172,12 @@ Android File Transfer,
     <string name="quick_scan_result_summary">Очистка начнется через %d сек.</string>
     <string name="optimize_cache_header_left">Кэш файлов: %d</string>
     <string name="optimize_ad_header_left">Файлов рекламы: %d</string>
-    <string name="optimize_apk_header_left">Приложений apk: %d</string>
+    <string name="optimize_apk_header_left">apk: %d</string>
     <string name="optimize_large_file_header_left">Больших файлов: %d</string>
     <string name="optimize_residual_header_left">Мусор приложений: %d</string>
     <string name="optimize_cache_list_empty_content">Кэш не найден</string>
     <string name="optimize_ad_list_empty_content">Файлов рекламы не найдено</string>
-    <string name="optimize_apk_list_empty_content">Приложений apk не найдено</string>
+    <string name="optimize_apk_list_empty_content">apk не найдено</string>
     <string name="optimize_residual_list_empty_content">Мусора не найдена</string>
     <string name="optimize_tips_title">Помощь</string>
     <string name="optimize_tips_ad">iconРеклама \nДанные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>

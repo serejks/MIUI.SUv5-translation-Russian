@@ -54,7 +54,7 @@
     <string name="remove_slide">Удалить слайд</string>
     <string name="add_slide">Добавить слайд (после)</string>
 	<string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
-	<string name="pref_forward_title">Вперед</string>
+	<string name="pref_forward_title">Пересылка</string>
 	<string name="pref_title_card_format">Формат карты</string>
 	<string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
 	<string name="pref_title_miui_card">Отправить через карту MIUI</string>
