@@ -445,7 +445,7 @@
     <string name="cannot_remove_creator">Невозможно удалить создателя</string>
     <string name="exit">Выход</string>
     <string name="album_share_exit_confirm">Выйти из альбома?</string>
-	<string name="no_picture_or_video">Пусто.</string>
+	<string name="no_picture_or_video">Пусто</string>
 	<string name="sharer_status_accepted">Принято</string>
 	<string name="sharer_status_refused">Отклонено</string>
 	<string name="sharer_status_waiting">Ожидание</string>
@@ -467,4 +467,12 @@
     <string name="video_download_start">Начать загрузку видео</string>
     <string name="video_download_in_process">Видео загружается</string>
     <string name="video_not_exist">Видео не существует</string>
+	<string name="file_not_exist_message">Файл не существует</string>
+	<string name="download">Загрузка</string>
+    <string name="confirm_download">Загрузить файл \"%s\"? \nПодсказка больше не будет отображаться.</string>
+    <string name="download_fail">Ошибка загрузки</string>
+    <string name="download_fail_confirm_continue">Ошибка загрузки \"%s\". Продолжить?</string>
+    <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
+    <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
+    <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра.</string>
 </resources>
