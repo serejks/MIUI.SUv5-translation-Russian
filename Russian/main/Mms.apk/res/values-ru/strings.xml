@@ -446,8 +446,8 @@
     <string name="add_timing">Время</string>
     <string name="menu_view_original_message">Показать оригинальное сообщение</string>
     <string name="pref_title_system_mms_priority">Установить по умолчанию</string>
-    <string name="pref_summary_on_system_mms_priority">Использовать системное приложение Сообщение для отправки/получения MMS</string>
-    <string name="pref_summary_off_system_mms_priority">Использовать стороннее приложение для отправки/получения MMS</string>
+    <string name="pref_summary_on_system_mms_priority">Использовать системное приложение Сообщение для отправки/получения сообщений</string>
+    <string name="pref_summary_off_system_mms_priority">Использовать стороннее приложение для отправки/получения сообщений</string>
     <string name="title_timed_message_dialog">Время отправки сообщения</string>
     <string name="will_send_at">Будет отправлено в: %s</string>
     <string name="error_timed_msg">Некорректноее время.</string>
