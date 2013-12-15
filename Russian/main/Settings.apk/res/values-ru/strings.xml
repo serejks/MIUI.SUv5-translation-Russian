@@ -704,6 +704,10 @@
     <string name="wifi_api_test">Wi-Fi API</string>
 	<string name="wifi_auto_connect">Автоподключение</string>
     <string name="android_beam_tips">Убедитесь, что оба устройства соприкасаются, а затем нажмите на содержимое, которое вы хотите отправить.</string>
+    <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
+    <string name="bt_hci_snoop_log_summary">Capture all bluetooth HCI packets in a file</string>
+    <string name="bt_trace_log">Enable Bluetooth Trace log</string>
+    <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
     <string name="wifi_status_test">Статус Wi-Fi</string>
     <string name="wifi_update">Обновить</string>
     <string name="wifi_state_label">Wi-Fi статус:</string>
@@ -2231,6 +2235,8 @@
     <string name="touch_sensitive_summary">Увеличить чувствительность сенсора для работы с телефоном в перчатках, предотвращение случайного включения экрана в кармане.</string>
     <string name="touch_sensitive_turn_off_title">Отключить режим "в перчатках"</string>
     <string name="touch_sensitive_turn_off_summary">Отключить предотвращение случайного включения экрана в кармане?</string>
+    <string name="touch_sensitive_turn_off_confirm">ОК</string>
+    <string name="touch_sensitive_turn_off_cancel">Отмена</string>
 	<string name="screen_never_timeout_title">Никогда</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
     <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий, пока телефон находится в кармане</string>
@@ -2596,6 +2602,10 @@ Android File Transfer,
 	<string name="device_name_input_error">Не удалось сохранить имя устройства.</string>
 	<string name="dirac_mode_general">Общие</string>
 	<string name="open_wifi_connect_summary">Нажмите для настройки</string>
+    <string name="restrict_background_data_title">Background data restricted</string>
+    <string name="restrict_background_data_dialog_summary">"Applicaitons run Background cann't receive message, are you sure to restrict Background data?"</string>
+    <string name="restrict_background_data_notification_summary">"Applications cann't connect to network if background data restricted"</string>
+    <string name="accessibility_screen_magnification_enable">Magnification gestures</string>
 	<string name="open_wifi_connect_title">Подключение к сети %1$s</string>
     <string name="device_edit_title">Переименовать устройство</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
@@ -2677,6 +2687,8 @@ Android File Transfer,
     <string name="line_breaking_title">Оптимизация текста</string>
     <string name="line_breaking_summary">оптимизировать нарушения пунктов абзаца</string>
     <string name="nfc_se_route_title">Безопасные позиции элемента</string>
+    <string name="se_route_ese">Embedded secure element</string>
+    <string name="se_route_uicc">Secure element on SIM card</string>
     <string name="current_use_uicc_se">Использование безопасных элементов на SIM карте</string>
     <string name="current_use_ese">Использоват встроенные защищенные элементы</string>
     <string name="bluetooth_advanced_settings">Дополнительные настройки</string>
@@ -3150,6 +3162,7 @@ Android File Transfer,
     <string name="wifi_priority_changed" formatted="false">Приоритет старое значение =%s, новое значение =%s</string>
     <string name="wifi_configured_ap_list">Сохраненный список точек доступа</string>
     <string name="wifi_priority_label">Приоритет</string>
+    <string name="wifi_available_title">Подключиться к Wi-Fi</string>
     <string name="change_data_conn_title">Изменить тип соединения</string>
     <string name="change_data_conn_message">Сеть %1$s сейчас недоступна, использовать сеть %2$s по умолчанию?</string>
 	<string name="cache_manage_title">Очистка кэша: %1$d, освободит: %2$s</string>
