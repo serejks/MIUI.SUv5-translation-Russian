@@ -267,7 +267,6 @@
     <string name="micloud_error_email">Неправильный e-mail</string>
     <string name="micloud_account">Аккаунт Xiaomi</string>
     <string name="micloud_active_email_sent_1">Мы отправили ссылку для активации на ваш e-mail</string>
-    <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">"Перейдите по ссылке из вашего e-mail для активации
  Аккаунта Xiaomi"</string>
     <string name="micloud_active_sms_sent">Проверочное сообщение отправлено</string>
