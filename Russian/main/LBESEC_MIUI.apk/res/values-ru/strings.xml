@@ -3,7 +3,7 @@
     <string name="app_name">Безопасность</string>
     <string name="Generic_Version">Версия: %1$s</string>
     <string name="Generic_Configuration">Настройки</string>
-    <string name="Generic_UserApp">Скачаные приложения: (%d)</string>
+    <string name="Generic_UserApp">Скачанные приложения: (%d)</string>
     <string name="Generic_SystemApp">Системные приложения: (%d)</string>
     <string name="Generic_SystemApp_Label">[Системные приложения]</string>
     <string name="Generic_MonitoredApp">Контролируемые приложения (%1$d)</string>

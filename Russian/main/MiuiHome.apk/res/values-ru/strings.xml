@@ -125,7 +125,7 @@
 	<string name="gadget_weather_aqi_title">Качество воздуха:</string>
 	<string name="aqi_quality_index_good">Хорошо</string>
 	<string name="aqi_quality_index_moderate">Умеренно</string>
-	<string name="aqi_quality_index_light_pollution">Легкое загрязенние</string>
+	<string name="aqi_quality_index_light_pollution">Легкое загрязнение</string>
 	<string name="aqi_quality_index_unhealthy">Вредно</string>
 	<string name="aqi_quality_index_dangerous">Опасно</string>
 	<string name="aqi_quality_index_hazardous">Очень опасно</string>

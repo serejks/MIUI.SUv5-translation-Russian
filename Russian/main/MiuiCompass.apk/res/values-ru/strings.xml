@@ -9,8 +9,8 @@
     <string name="location_west">Зап. долгота</string>
     <string name="menu_calibrate">Калибровка компаса</string>
     <string name="menu_calibrate_altitude">Калибровка высоты</string>
-    <string name="calibrate_success">Откалибровано.</string>
-    <string name="calibrate_failed_no_location">Ошибка калибровки.</string>
+    <string name="calibrate_success">Откалибровано</string>
+    <string name="calibrate_failed_no_location">Ошибка калибровки</string>
     <string name="calibrate_failed_timeout">Ошибка калибровки: превышено время ожидания.</string>
     <string name="pressure_title">Давление</string>
     <string name="altitude_title">Высота</string>

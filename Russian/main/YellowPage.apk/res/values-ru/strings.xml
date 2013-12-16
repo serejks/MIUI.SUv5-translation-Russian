@@ -2,7 +2,7 @@
 <resources>
     <string name="app_label">Желтые страницы</string>
     <string name="phone_info_divider">" | "</string>
-    <string name="check_network">Параметы сети</string>
+    <string name="check_network">Параметры сети</string>
     <string name="try_again">Повтор</string>
     <string name="network_unavaliable">Сеть недоступна. Проверьте параметры подключения к интернету.</string>
     <string name="service_unavailiable">Сеть недоступна. Повторите попытку позже.</string>
@@ -86,7 +86,7 @@
     <string name="recharge_pay">Пополнить сейчас</string>
     <string name="recharge_pay_hint">При поддержке Xiaomi</string>
     <string name="mishop_web_payment_title">Платеж MiStore</string>
-    <string name="recharge_pay_hint_license">Увеломление пополнения</string>
+    <string name="recharge_pay_hint_license">Уведомление пополнения</string>
     <string name="recharge_title">Пополнение</string>
     <string name="recharge_payment_result_ok_title">Добавлено RMB%s.</string>
     <string name="recharge_payment_result_ok_summary">Убедитесь, что эта сумма отражается на счету.</string>

@@ -180,7 +180,7 @@
     <string name="toast_channel_deleted">Удалено из избранного.</string>
     <string name="toast_channel_deleted1">Удалено из сохраненных каналов.</string>
     <string name="toast_channel_added">Добавлено в избранное.</string>
-    <string name="toast_channel_added1">Дабвлено в сохраненные каналы.</string>
+    <string name="toast_channel_added1">Добавлено в сохраненные каналы.</string>
     <string name="toast_cannot_search">Нет доступных радиостанций.</string>
     <string name="toast_invalid_frequency">Неверная частота для текущего местоположения. Доступные частоты: 87.5-108.0</string>
     <string name="toast_invalid_input">Неверное значение, допустимы значения от 0 до 5.</string>

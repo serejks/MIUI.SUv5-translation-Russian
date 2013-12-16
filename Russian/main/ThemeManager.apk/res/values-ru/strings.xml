@@ -27,7 +27,7 @@
 	<string name="theme_component_title_boot_audio">Звук загрузки</string>
 	<string name="theme_component_title_font">Шрифт</string>
 	<string name="theme_component_title_ringtone">Мелодия вызова</string>
-	<string name="theme_component_title_notification">Уведомленя</string>
+	<string name="theme_component_title_notification">Уведомления</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_contact">Кнопки</string>
 	<string name="theme_component_title_lockstyle">Стиль блокировки</string>
@@ -123,7 +123,7 @@
 	<string name="resource_comment_title">Комментариев: %1$s</string>
 	<string name="resource_comment_edit_title">Редактировать комментарий: %1$s</string>
 	<string name="resource_comment_edit_comment">Добавить комментарии</string>
-	<string name="resource_comment_edit_comment_waiting">Проверкапользовательской истории…</string>
+	<string name="resource_comment_edit_comment_waiting">Проверка пользовательской истории…</string>
 	<string name="resource_comment_edit_text_default">Написать комментарий</string>
 	<string name="resource_comment_publish">Подписаться</string>
 	<string name="resource_comment_description">%1$s комментарий к %2$s %3$s %4$s</string>

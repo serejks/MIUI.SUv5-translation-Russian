@@ -45,7 +45,7 @@
 	<string name="btn_wait_call">Ожидание</string>
 	<string name="btn_wait_call_count">Ожидание (%1$s)</string>
 	<string name="btn_wait_confirm">Ожидание</string>
-	<string name="btn_wait_confirm_count">Ожидание: %1$s）</string>
+	<string name="btn_wait_confirm_count">Ожидание: (%1$s)</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="button_pay">Оплатить</string>
 	<string name="button_recharge">Пополнить</string>
@@ -221,7 +221,7 @@
 	<string name="btn_next">Далее</string>
 	<string name="voucher_error_password">Неверный код</string>
 	<string name="progress_error_recharge_summary">Ошибка платежа. Пожалуйста, попробуйте позже.</string>
-	<string name="progress_error_pay_summary">%1$s MiCredits пополены, но платеж не произведен.</string>
+	<string name="progress_error_pay_summary">%1$s MiCredits пополнены, но платеж не произведен.</string>
 	<string name="security_setting">Настройки безопасности</string>
     <string name="lockscreen_forgot_pattern_button_text"><u>Ключ для напоминания пароля</u></string>
     <string name="lockpattern_recording_intro_header">Создайте ключ разблокировки:</string>

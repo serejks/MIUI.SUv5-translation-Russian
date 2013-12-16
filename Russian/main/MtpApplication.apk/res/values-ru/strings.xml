@@ -18,7 +18,7 @@
     <string name="non_idle_toast">Подключение к ПК доступно только в режиме зарядки. Закройте запущенные приложения.</string>
     <string name="media_scanner_running">Медиа сканер работает…</string>
     <string name="media_scanner_finished">Медиа сканирование завершено</string>
-    <string name="kies_software_check">Проверка Samsung Kies (Програмное обеспечение для ПК)…</string>
+    <string name="kies_software_check">Проверка Samsung Kies (Программное обеспечение для ПК)…</string>
     <string name="security_policy_restriction">Политика безопасности ограничивает использование подключения к ПК</string>
     <string name="resume_to_call">Возобновить вызов</string>
     <string name="store_add_popup">MTP приложение будет перезапущено для подготовки SD карты. Продолжить?</string>

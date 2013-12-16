@@ -128,7 +128,7 @@
     <string name="permissions_expand_title">Все разрешения</string>
     <string name="version_name">Версия %1$s</string>
     <string name="search_other_market">Похожие</string>
-    <string name="result_notice">Результаты предоставены Baidu App Center</string>
+    <string name="result_notice">Результаты предоставлены Baidu App Center</string>
     <string name="search_not_found">\"%1$s\" не найдено</string>
     <string name="show_all_local_app">Показать все установленные</string>
     <string name="show_all_local_app_with_count">Показать все установленные (%1$d)</string>
@@ -137,7 +137,7 @@
     <string name="search_local_app_text_hint">Поиск (Установлено %1$d приложений)</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_ignore">Игнорировать</string>
-    <string name="menu_detail">Про додатку</string>
+    <string name="menu_detail">О приложении</string>
     <string name="connect_fail">Ошибка загрузки: соединение потеряно</string>
     <string name="connect_no_fit_fail">Ошибка загрузки: телефон несовместим с этим приложением</string>
 	<string name="connect_no_enough_space">Недостаточно места для установки</string>
@@ -261,7 +261,7 @@
     <string name="micloud_email">Адрес e-mail</string>
     <string name="micloud_input_password_prompt">Введите пароль</string>
     <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
-    <string name="micloud_password_req_notice">8~16 символов: цифры, буквы алфавита (Чувствителны к регистру)</string>
+    <string name="micloud_password_req_notice">8~16 символов: цифры, буквы алфавита (Чувствительны к регистру)</string>
     <string name="micloud_password_error_inconsistent">Пароли не совпадают</string>
     <string name="micloud_val_sms_alert">Для проверки номера будет отправлено SMS. Продолжить?</string>
     <string name="micloud_error_email">Неправильный e-mail</string>
@@ -305,7 +305,7 @@
 	<string name="pref_title_update_notification">Обновления</string>
 	<string name="pref_title_network_diagnostics">Диагностика сети</string>
     <string name="pref_title_clear_cache">Очистить кэш</string>
-    <string name="pref_title_clear_session">Очистить сесию</string>
+    <string name="pref_title_clear_session">Очистить сессию</string>
 	<string name="pref_summary_data_save">Не показывать изображения через мобильный интернет</string>
     <string name="clear_cache_message">Очистить кэш?</string>
     <string name="clear_cache_succeed">Кэш очищен</string>
@@ -328,7 +328,7 @@
     <string name="search_recommend_no_net">Сеть недоступна, повторите позже</string>
     <string name="search_recommend_no_data">Нет рекомендуемых приложений</string>
     <string name="diagnostics_title">Диагностика сети</string>
-    <string name="diagnostics_desc">Диагности поможет избежать проблемы сети. Будет создан журнал отладки и отправлен разработчикам.</string>
+    <string name="diagnostics_desc">Диагностика поможет избежать проблемы сети. Будет создан журнал отладки и отправлен разработчикам.</string>
     <string name="diagnostics_content_hint">Диагностика:</string>
     <string name="diagnostics_local_ip">1. Локальный IP адрес</string>
     <string name="diagnostics_dns_ip">2. IP адрес разрешенный по DNS</string>

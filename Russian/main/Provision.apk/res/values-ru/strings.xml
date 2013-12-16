@@ -11,7 +11,7 @@
     <string name="other_service_google_location_use_summary">Разрешить Google использовать ваше местоположение для улучшения результатов поиска</string>
     <string name="other_service_google_location_use_help">Разрешить сервису определения местоположения Google собирать личные локальные данные. Сбор данных будет происходить даже при незапущенных приложениях.\nИзменить настройки можно в Настройки > Мое местоположение</string>
     <string name="other_service_permission_manager">Управление разрешениями</string>
-    <string name="other_service_permission_manager_summary">Монторинг приложений для обеспечения безопасности и приватности</string>
+    <string name="other_service_permission_manager_summary">Мониторинг приложений для обеспечения безопасности и приватности</string>
     <string name="other_service_user_experience">Программа улучшения качества</string>
     <string name="other_service_user_experience_summary0">"При использовании нашего продукта мы надеемся, что вы поможете, обеспечить обратную связь. Ваши отзывы будут отправлены согласно с "</string>
     <string name="other_service_user_experience_summary1">Политикой конфиденциальности</string>

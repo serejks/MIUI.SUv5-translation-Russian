@@ -546,7 +546,7 @@
 	<string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
 	<string name="readmode_already_add_to_bookshelf">Подключено к книжной полке</string>
 	<string name="readmode_login">Войти</string>
-	<string name="readmode_login_message">Перед чтением небходимо войти в аккаунт</string>
+	<string name="readmode_login_message">Перед чтением необходимо войти в аккаунт</string>
 	<string name="readmode_page_load_error">Не удалось загрузить страницу :(</string>
 	<string name="readmode_page_loading">Загрузка…</string>
 	<string name="readmode_pay">Купить главу</string>
@@ -595,7 +595,7 @@
 	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">" Последняя вкладка "</string>
 	<string name="already_in_top_level">Эта закладка уже наверху</string>
 	<string name="webapp_app_name">Веб-маркет приложений</string>
-	<string name="webapp_dialog_title">Добавить приложений на рабочий строл</string>
+	<string name="webapp_dialog_title">Добавить приложений на рабочий стол</string>
 	<string name="webapp_add_to_desktop">На рабочий стол</string>
 	<string name="webapp_web_goback">Назад</string>
 	<string name="webapp_web_forward">Вперед</string>

@@ -65,12 +65,12 @@
     <string name="rename_duplicate">Такое имя уже существует.</string>
     <string name="record_picker_title">Диктофон</string>
     <string name="dialog_title_storage_full">Недостаточно свободного места</string>
-    <string name="dialog_content_storage_full">Из-за нехватки памяти, запись была остановленна, удалите лишние файлы через Файл менеджер, запустить приложение?</string>
+    <string name="dialog_content_storage_full">Из-за нехватки памяти, запись была остановлена, удалите лишние файлы через Файл менеджер, запустить приложение?</string>
     <string name="record_saving">Сохранение…</string>
     <string name="preparing_playback">Загрузка записи…</string>
     <string name="loading_duration">Загружается длительность…</string>
     <string name="low_battery_error">Осталось менее 5% заряда батареи, во избежания потери записи, она будет остановлена и сохранена.</string>
-    <string name="low_battery_message_title">Низкай заряд батареи</string>
+    <string name="low_battery_message_title">Низкий заряд батареи</string>
     <string name="low_battery_warning">Неожиданное отключение может привести к потере записи.</string>
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Настройки</string>

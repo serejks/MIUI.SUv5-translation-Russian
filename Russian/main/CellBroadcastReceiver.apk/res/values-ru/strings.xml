@@ -67,7 +67,7 @@
     <string name="cmas_response_prepare">Приготовиться</string>
     <string name="cmas_response_execute">Выполнить действие</string>
     <string name="cmas_response_monitor">Наблюдать за информацией</string>
-    <string name="cmas_response_avoid">Избегайть опасность</string>
+    <string name="cmas_response_avoid">Избегайте опасность</string>
     <string name="cmas_response_assess">Оценивать</string>
     <string name="cmas_response_none">Нет действия</string>
     <string name="cmas_severity_heading">Уровень:</string>

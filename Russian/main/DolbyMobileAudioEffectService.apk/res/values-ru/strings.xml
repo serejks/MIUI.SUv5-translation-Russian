@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Сервис аудиоэффектов Dolby Mobile</string>
+    <string name="app_label">Сервис аудио эффектов Dolby Mobile</string>
     <string name="remote_service_started">Удаленная служба запущена</string>
     <string name="remote_service_stopped">Удаленная служба остановлена</string>
     <string name="remote_service_label">Пример удаленной службы</string>

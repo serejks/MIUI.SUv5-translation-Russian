@@ -169,7 +169,7 @@
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">..</string>
     <string name="mmiError">Проблемы с соединением или неверный код MMI.</string>
-    <string name="unsupportedMmiCode">Набраный MMI код не поддерживается.</string>
+    <string name="unsupportedMmiCode">Набранный MMI код не поддерживается.</string>
     <string name="mmiFdnError">Операция запрещена только для номеров фиксированного набора.</string>
     <string name="stkCcUssdToDial">USSD запрос преобразован в DIAL запрос.</string>
     <string name="stkCcUssdToSs">USSD запрос преобразован в SS запрос.</string>
@@ -1033,7 +1033,7 @@
     <string name="zz_keyguard_accessibility_voice_unlock">Разблокировка голосом.</string>
     <string name="reboot_title">Перезагрузить телефон?</string>
     <string name="reboot_confirm">Перезапуск телефона удалит временные файлы из памяти. Перезагрузить ​​телефон?</string>
-    <string name="global_action_reboot_summary">Закрыть все пограммы и перезагрузить телефон</string>
+    <string name="global_action_reboot_summary">Закрыть все программы и перезагрузить телефон</string>
 	<string name="permlab_accessCoarseLocation">Местоположение по сети</string>
     <string name="permlab_accessFineLocation"> Местоположение по GPS</string>
     <string name="permlab_accessLocationExtraCommands">Информация о местоположении</string>

@@ -68,8 +68,8 @@
     <string name="bluetooth_pbap_server">Доступ Bluetooth к телефонной книге</string>
     <string name="bluetooth_pbap_server_authorize_notify_ticker">Bluetooth PBAP запрос авторизации</string>
     <string name="bluetooth_pbap_server_auth_chall_notify_ticker">Bluetooth PBAP запрос авторизации</string>
-    <string name="bluetooth_pbap_server_authorize_notify_message">Нажмите для разрешения PBAP поключения</string>
-    <string name="bluetooth_pbap_server_authorize_title">Bluetooth PBAP автоизация</string>
+    <string name="bluetooth_pbap_server_authorize_notify_message">Нажмите для разрешения PBAP подключения</string>
+    <string name="bluetooth_pbap_server_authorize_title">Bluetooth PBAP авторизация</string>
     <string name="bluetooth_pbap_server_auth_passcode">Код доступа</string>
     <string name="bluetooth_pbap_server_auth_ok">Oк</string>
     <string name="bluetooth_pbap_server_auth_cancel">Отмена</string>
@@ -101,5 +101,5 @@
     <string name="bt_share_openfile_message_invalid_param">Неверный файл: %1$s (%2$s)</string>
     <string name="bt_share_openfile_message_unsupported_type">Неподдерживаемый тип файла: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">Файл не найден: %1$s</string>
-    <string name="bt_share_openfile_confirm">Ок</string>
+    <string name="bt_share_openfile_confirm">ОК</string>
 </resources>

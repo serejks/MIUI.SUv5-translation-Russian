@@ -86,7 +86,7 @@
     <string name="please_input_keyword">Поиск видео</string>
     <string name="illegal_input_char">Нельзя содержать любые из следующих символов английского алфавита в имени файла</string>
     <string name="network_error">Ошибка подключения сети:</string>
-    <string name="media_scan_msg">Сканирование медиабиблиотеки, повторите попытку позже.</string>
+    <string name="media_scan_msg">Сканирование медиа библиотеки, повторите попытку позже.</string>
     <string name="capture_frame">Скриншот</string>
     <string name="internal_capture">Скриншоты сохранены в Телефон/Screenshots</string>
     <string name="external_capture">Скриншоты сохранены в SD карта/Screenshots</string>

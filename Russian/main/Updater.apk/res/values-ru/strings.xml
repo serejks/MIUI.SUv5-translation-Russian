@@ -49,7 +49,7 @@
     <string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает…</string>
     <string name="file_not_found_error_message">Запрошенный файл не найден на сервере.</string>
     <string name="apply_upload_info_message_manually">После перезагрузки, вы можете зайти в Recovery для применения обновления %s. Если вы хотите создать резервную копию, его необходимо выполнить до обновления системы</string>
-    <string name="apply_upload_info_message">Нажатие \"Обновить\" автоматичеки перезагружает аппарат после применения обновления</string>
+    <string name="apply_upload_info_message">Нажатие \"Обновить\" автоматически перезагружает аппарат после применения обновления</string>
     <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить\", для отмены нажмите \"Применить позже\".</string>
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
     <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
@@ -107,7 +107,7 @@
     <string name="finish_download">Загрузка завершена</string>
     <string name="install_whole_rom">Загрузка полной прошивки</string>
     <string name="check_update_policy">Параметры обновления</string>
-    <string name="check_update_when_wifi_available">Испльзовать Wi-Fi для проверки обновлений</string>
+    <string name="check_update_when_wifi_available">Использовать Wi-Fi для проверки обновлений</string>
     <string name="update_monthly_build_only">Обновлять до ежемесячных сборок</string>
     <string name="install_file_explorer">Установите файл менеджер MIUI</string>
     <string name="share_update">Поделиться информацией об обновлении системы</string>
@@ -137,7 +137,7 @@
     <string name="update_happy">Отлично</string>
     <string name="update_general">Средне</string>
     <string name="update_sad">Ужасно</string>
-    <string name="update_feel">Как Вам прошивка?</string>
+    <string name="update_feel">Как Вам HO?</string>
     <string name="best_update">Лучшее обновление</string>
     <string name="worst_update">Худшее обновление</string>
     <string name="expect">Ожидания</string>

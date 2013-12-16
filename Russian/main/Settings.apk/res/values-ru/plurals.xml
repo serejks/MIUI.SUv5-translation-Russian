@@ -37,7 +37,7 @@
         <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ.</item>
+        <item quantity="other">Пароль должен содержать не буквенные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 не буквенный символ.</item>
     </plurals>
 </resources>

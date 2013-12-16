@@ -263,7 +263,7 @@
     <string name="status_bar_recording_back">Вернуться в Диктофон</string>
     <string name="status_bar_recording_pause">Запись на паузе. Нажмите, для возврата в Диктофон</string>
     <string name="headset_settings">Наушники подключены</string>
-    <string name="headset_info">Настроить кнопоки</string>
+    <string name="headset_info">Настроить кнопки</string>
     <string name="headset_custom">Настроить</string>
 	<string name="audio_effect_settings">Тип наушников</string>
     <string name="audio_effect_info">Улучшение звука</string>
@@ -311,7 +311,7 @@
     <string name="ext_media_unmountable_notification_title">USB накопитель поврежден</string>
     <string name="ext_media_unmountable_notification_message">Возможно придется отформатировать его.</string>
     <string name="ext_media_badremoval_notification_title">USB неожиданно отсоединен</string>
-    <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отсоединением.</string>
+    <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отключением.</string>
     <string name="ext_media_safe_unmount_notification_title">USB можно отсоединить</string>
     <string name="ext_media_safe_unmount_notification_message">Отсоедините USB накопитель.</string>
     <string name="ext_media_nomedia_notification_title">USB накопитель отсоединен</string>

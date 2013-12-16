@@ -40,7 +40,7 @@
     <string name="cert_tips">Вам необходимо установить сертификат на устройство для обеспечения безопасности</string>
     <string name="cert_ready">Вы готовы установить цифровой сертификат…</string>
     <string name="cert_install">Установка…</string>
-    <string name="cert_manager">Вы можете управлять цифровыми сертификатамина сайте Alipay</string>
+    <string name="cert_manager">Вы можете управлять цифровыми сертификатами на сайте Alipay</string>
     <string name="cert_storage_size">Недостаточно места, удалять некоторые файлы, чтобы освободить место и повторите установку сертификата</string>
     <string name="cert_install_success">Установка завершена</string>
     <string name="cert_install_fail">Установка не удалась</string>

@@ -41,7 +41,7 @@
     <string name="act_weather_cycle_low_temp">low</string>
     <string name="act_weather_range_title">Прогноз погоды</string>
     <string name="act_weather_range_select">Выберите город</string>
-    <string name="menu_around">Окресности</string>
+    <string name="menu_around">Окрестности</string>
     <string name="menu_location">Город</string>
     <string name="menu_notification">Уведомления</string>
     <string name="menu_reload">Обновить</string>

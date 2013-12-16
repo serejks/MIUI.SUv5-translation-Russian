@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">MusicFX</string>
     <string name="no_effects">Эффекты недоступны</string>
-    <string name="main_toggle_effects_title">Аудиоэффекты</string>
+    <string name="main_toggle_effects_title">Аудио эффекты</string>
     <string name="eq_dialog_title">Эквалайзер</string>
     <string name="headset_plug">Подключите наушники для этих эффектов.</string>
     <string name="bass_boost_strength">Усиление нижних частот</string>
@@ -16,7 +16,7 @@
     <string name="picker_title">Управление звуковыми эффектами</string>
     <string name="presetreverb_name">Предустановки</string>
     <string name="eq_preset_normal">Стандартная</string>
-    <string name="eq_preset_classical">Класическая</string>
+    <string name="eq_preset_classical">Классическая</string>
     <string name="eq_preset_dance">Танцевальная</string>
     <string name="eq_preset_flat">Легкая</string>
     <string name="eq_preset_folk">Народная</string>

@@ -135,7 +135,7 @@
 	<string name="turn_on_smart_antispam_hint">При включении будут определяться неизвестные номера и звонки мошенников.</string>
 	<string name="turn_on_smart_antispam_title">Определение неизвестных номеров</string>
 	<string name="turn_on_smart_antispam_summary_on">Только по Wi-Fi и 3G</string>
-	<string name="turn_on_smart_antispam_summary_off">Только с токальной базой</string>
+	<string name="turn_on_smart_antispam_summary_off">Только с локальной базой</string>
 	<string name="bl_block_info" formatted="false">Заблокировано: %d, данные: %d</string>
 	<string name="bl_no_blacklist">Нет заблокированных номеров.</string>
 	<string name="bl_no_block_call">Заблокированные вызовы будут храниться в этом журнале</string>

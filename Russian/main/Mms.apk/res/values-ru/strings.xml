@@ -95,7 +95,7 @@
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка.</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
 	<string name="restore_blocked_message">Восстановить сообщение</string>
-	<string name="overwrite_edited_content">Содержимое будет перезаписано.</string>
+	<string name="overwrite_edited_content">Содержимое будет перезаписано</string>
 	<string name="back_to_message_list">Назад к списку сообщений</string>
     <string name="select_recipient">Выбор получателя</string>
     <string name="send_sms">Отправить</string>

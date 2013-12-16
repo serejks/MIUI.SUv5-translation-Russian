@@ -73,7 +73,7 @@
 	<string name="pref_video_volumekeys_entry_zoom_in_out">Увеличение +/-</string>
 	<string name="pref_video_volumekeys_entry_flash">Вспышка</string>
 	<string name="pref_camera_storagesource_title">Место хранения</string>
-	<string name="pref_camera_storagesource_entry_internal">Внутренняя панять</string>
+	<string name="pref_camera_storagesource_entry_internal">Внутренняя память</string>
 	<string name="pref_camera_storagesource_entry_sd">SD карта</string>
 	<string name="settings_album_settings">НАСТРОЙКИ АЛЬБОМА</string>
 	<string name="settings_album_sort_albums_by">Сортировка по</string>
@@ -155,7 +155,7 @@
 	<string name="highlight">Акценты</string>
 	<string name="lomoish">Ломо</string>
 	<string name="negative">Негатив</string>
-	<string name="posterize">постеризация</string>
+	<string name="posterize">Постеризация</string>
 	<string name="sepia">Сепия</string>
 	<string name="shadow">Тени</string>
 	<string name="sharpen">Четкость</string>

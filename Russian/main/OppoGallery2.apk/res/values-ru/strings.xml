@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pref_camera_iso_title">ISO</string>
-    <string name="pref_camera_picturesize_entry_4000x3000">13 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_3200x2400">8 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_1280x768">1.9 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_1280x720">1.2 Мпикс</string>
+    <string name="pref_camera_picturesize_entry_4000x3000">13 Мп</string>
+    <string name="pref_camera_picturesize_entry_3200x2400">8 Мп</string>
+    <string name="pref_camera_picturesize_entry_1280x768">1.9 Мп</string>
+    <string name="pref_camera_picturesize_entry_1280x720">1.2 Мп</string>
     <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
     <string name="pref_camera_scenemode_entry_sports">Действие</string>
@@ -44,14 +44,14 @@
     <string name="pref_camera_settings_category">Настройки камеры</string>
     <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
     <string name="pref_camera_picturesize_title">Разрешение</string>
-    <string name="pref_camera_picturesize_entry_4208x3120">13 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_4208x2368">10 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_1920x1088">2 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_2592x1936">5 Мпикс.</string>
-    <string name="pref_camera_picturesize_entry_2048x1536">3 Мпикс.</string>
-    <string name="pref_camera_picturesize_entry_1600x1200">2 Мпикс.</string>
-    <string name="pref_camera_picturesize_entry_1280x960">1,3 Мпикс</string>
-    <string name="pref_camera_picturesize_entry_1024x768">1 Мпикс.</string>
+    <string name="pref_camera_picturesize_entry_4208x3120">13 Мп</string>
+    <string name="pref_camera_picturesize_entry_4208x2368">10 Мп</string>
+    <string name="pref_camera_picturesize_entry_1920x1088">2 Мп</string>
+    <string name="pref_camera_picturesize_entry_2592x1936">5 Мп.</string>
+    <string name="pref_camera_picturesize_entry_2048x1536">3 Мп.</string>
+    <string name="pref_camera_picturesize_entry_1600x1200">2 Мп.</string>
+    <string name="pref_camera_picturesize_entry_1280x960">1,3 Мп</string>
+    <string name="pref_camera_picturesize_entry_1024x768">1 Мп.</string>
     <string name="pref_camera_picturesize_entry_640x480">VGA</string>
     <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
     <string name="pref_camera_focusmode_title">Режим фокусировки</string>
@@ -191,7 +191,7 @@
     <string name="straighten">Выравнивание</string>
     <string name="temperature">Тепло</string>
     <string name="tint">Оттенок</string>
-    <string name="vignette">Виньетирование</string>
+    <string name="vignette">Виньетка</string>
     <string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
     <string name="doodle_tooltip">Рисуйте на фото пальцем</string>
     <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
@@ -272,7 +272,7 @@
     <string name="no_albums_alert">Нет доступных альбомов.</string>
     <string name="empty_album">Нет фото/видео</string>
     <string name="picasa_posts">Записи</string>
-    <string name="make_available_offline">Офлайн-доступ</string>
+    <string name="make_available_offline">Оффлайн-доступ</string>
     <string name="sync_picasa_albums">Обновить</string>
     <string name="done">Готово</string>
     <string name="sequence_in_set">%1$d из %2$d:</string>
@@ -302,12 +302,12 @@
     <string name="flash_off">Без вспышки</string>
     <string name="try_to_set_local_album_available_offline">Это содержание хранится на устройстве и доступно в автономном режиме.</string>
     <string name="set_label_all_albums">Все альбомы</string>
-    <string name="set_label_local_albums">Офлайн-альбомы</string>
+    <string name="set_label_local_albums">Оффлайн-альбомы</string>
     <string name="set_label_mtp_devices">MTP-устройства</string>
     <string name="set_label_picasa_albums">Альбомы Picasa</string>
     <string name="free_space_format">Свободно:%s</string>
-    <string name="size_below">%1$sили менее</string>
-    <string name="size_above">%1$sили более</string>
+    <string name="size_below">%1$s или менее</string>
+    <string name="size_above">%1$s или более</string>
     <string name="size_between">%1$s–%2$s</string>
     <string name="Import">Импорт</string>
     <string name="import_complete">Импорт завершен</string>

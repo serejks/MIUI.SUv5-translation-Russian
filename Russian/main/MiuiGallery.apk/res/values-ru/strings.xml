@@ -289,7 +289,7 @@
 	<string name="system_album">Системный альбом</string>
     <string name="owner_album_subtitle">Пользователей: %1$s</string>
     <string name="album_quota_fulfiled">Невозможно создать альбом: максимальное количество альбомов.</string>
-    <string name="image_quota_fulfiled">Невозможно создать изобажение: максимальное количество изображений в альбоме.</string>
+    <string name="image_quota_fulfiled">Невозможно создать изображение: максимальное количество изображений в альбоме.</string>
     <string name="sharer_quota_fulfiled">Невозможно добавить пользователя: максимальное количество пользователей.</string>
     <string name="gallery_setting">Настройки</string>
     <string name="error_repeat_apply">Вы уже поделились альбомом.</string>
@@ -312,7 +312,7 @@
     <string name="slideshow_interval_invalid">Интервал должен быть в между 1~3600 секунд.</string>
     <string name="slideshow_repeat_mode">Повторение</string>
     <string name="clear_thumbnail_cache">Очистить кэш эскизов</string>
-    <string name="clear_thumbnail_cache_summary">Очистка созданых эскизов.</string>
+    <string name="clear_thumbnail_cache_summary">Очистка созданных эскизов.</string>
     <string name="clear_thumbnail_cache_confirm">Все эскизы вашей галереи будут удалены.</string>
     <string name="cleaning_cache">Очистка кэша…</string>
     <string name="seconds">сек.</string>
@@ -390,7 +390,7 @@
 	<string name="exit_share_in_process">Попытка выхода…</string>
 	<string name="exit_share_successfully">Вы вышли из \"%1$s\"</string>
 	<string name="fail_to_pick_email">Не верный e-mail</string>
-	<string name="invalid_recipient_message">Исправьте получатей.</string>
+	<string name="invalid_recipient_message">Исправьте получателей</string>
 	<string name="kick_sharer">Удалить получателя</string>
 	<string name="kick_sharer_failed">Ошибка удаления получателя</string>
 	<string name="kick_sharer_successfully">Получатель удален</string>

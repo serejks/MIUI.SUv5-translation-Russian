@@ -84,7 +84,7 @@
     <string name="noAccounts">Для создания групп нужен аккаунт.</string>
     <string name="noMatchingContacts">Подходящие контакты не найдены.</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов.</string>
-    <string name="emptyGroup">В этой группе нет любдей.</string>
+    <string name="emptyGroup">В этой группе нет людей.</string>
     <string name="addPeopleToGroup">Для добавления откройте редактирование группы.</string>
     <string name="savingContact">Сохранение контакта…</string>
     <string name="savingDisplayGroups">Варианты отображения сохраняются…</string>
@@ -115,7 +115,7 @@
     <string name="clearCallLogConfirmation">Все ваши записи о вызовах будут удалены.</string>
     <string name="clearCallLogProgress_title">Очистка списка вызовов…</string>
     <string name="clearFrequentsConfirmation_title">Очистить список часто используемых?</string>
-    <string name="clearFrequentsConfirmation">Очиститить список часто использыумых в приложениях \"Контакты\" и \"Телефон\", и заставите приложение электронной почты создать список часто используемых с нуля.</string>
+    <string name="clearFrequentsConfirmation">Очистить список часто используемых в приложениях \"Контакты\" и \"Телефон\", и заставите приложение электронной почты создать список часто используемых с нуля.</string>
     <string name="clearFrequentsProgress_title">Очистка списка часто используемых…</string>
     <string name="voicemail">Голосовая почта</string>
     <string name="unknown">Неизвестно</string>
