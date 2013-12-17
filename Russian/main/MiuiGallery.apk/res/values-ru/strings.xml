@@ -475,4 +475,7 @@
     <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
     <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
     <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра.</string>
+	<string name="confirm_delete_this_picture">Удалить выбранное изображение?</string>
+    <string name="confirm_delete_this_video">Удалить выбранное видео?</string>
+	<string name="loading_members">Загрузка пользователей…</string>
 </resources>
