@@ -59,11 +59,11 @@
     <string name="system_backup_helper">Обновление не затронет личные данные. Однако, перед обновлением, рекомендуется сделать резервную копию ваших данных</string>
     <string name="system_backup_ask">Не запоминать</string>
     <string name="system_backup_error_message">Приложение MIUI для создания резервных копий не найдена, сделайте его вручную.</string>
-    <string name="md5_check_cancelled">Проверка MD5 прервана.</string>
-    <string name="no_updatecheck_executed">Проверка обновления не проводилась.</string>
-    <string name="no_updates_found">У вас установлена последняя версия MIUI.</string>
-    <string name="no_updates_warning">Для вашего устройства обновлений не найдено.</string>
-    <string name="no_updates_warning2">Расслабьтесь, мы уведомим вас об обновлении.</string>
+    <string name="md5_check_cancelled">Проверка MD5 прервана</string>
+    <string name="no_updatecheck_executed">Проверка обновления не проводилась</string>
+    <string name="no_updates_found">У вас установлена последняя версия MIUI</string>
+    <string name="no_updates_warning">Для вашего устройства обновлений не найдено</string>
+    <string name="no_updates_warning2">Расслабьтесь, мы уведомим вас об обновлении</string>
     <string name="new_updates_found_title">Доступно обновление</string>
     <string name="new_update_content_title"> </string>
     <string name="new_update_downloading_body">Загрузка версии:%s</string>

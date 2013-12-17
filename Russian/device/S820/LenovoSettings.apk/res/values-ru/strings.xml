@@ -1026,7 +1026,7 @@
     <string name="brightness">Яркость</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="screen_timeout">Спящий режим</string>
-    <string name="screen_timeout_summary">После %1$s бездействия</string>
+    <string name="screen_timeout_summary">Спустя %1$s бездействия</string>
     <string name="wallpaper_settings_title">Обои</string>
     <string name="wallpaper_settings_fragment_title">Выбрать обои из</string>
     <string name="screensaver_settings_title">Заставка</string>
@@ -2494,7 +2494,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="menu_key">Клавиша меню</string>
     <string name="home_key">Клавиша домой</string>
     <string name="back_key">Клавиша назад</string>
-    <string name="screen_key_long_press_timeout">Время удерживания</string>
+    <string name="screen_key_long_press_timeout">Время удержания</string>
     <string name="under_keyguard">Экран блокировки</string>
     <string name="enable_assist_key_long_press">Удерживайте для открытия голосового помошника</string>
     <string name="back_long_press">Клавиша назад</string>
@@ -2811,15 +2811,15 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="msd_install_retry_mac">"Если компьютер не обнаружит телефон,
 попробуйте следующее:
 "<li>"Введите в поиске
-Android File Transfer,
+Android File Transfer
 и запустите программу."</li>"
 "<li>Отключить и подключить USB кабель заново.</li>"
 "<li>Переустановить драйвера.</li></string>
     <string name="msd_install_retry_linux">"Если компьютер не обнаружит телефон,
 попробуйте следующее:
 1) Используйте команду \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Создайте папку \"mkdir\" /media/mtp
-3) Подтвердите права доступа для пользовательской группы в текущей fuse user group\
+2) Создайте папку \"mkdir /media/mtp\"
+3) Подтвердите права доступа для пользовательской группы в текущей fuse user group
 4) Войдите заново
 5) Дайте доступ устройству mtpfs /media/mtp через Файл менеджер; так же как к локальным папкам
 6) Удалите устройство fusermount -u /media/mtp

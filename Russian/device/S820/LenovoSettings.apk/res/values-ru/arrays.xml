@@ -12,7 +12,7 @@
     <string-array name="screen_timeout_entries">
         <item>15 секунд</item>
         <item>30 секунд</item>
-        <item>1 минут</item>
+        <item>1 минуту</item>
         <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>
@@ -22,7 +22,7 @@
         <item>Никогда</item>
         <item>15 секунд</item>
         <item>30 секунд</item>
-        <item>1 минут</item>
+        <item>1 минута</item>
         <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>

@@ -12,7 +12,7 @@
     <string-array name="screen_timeout_entries">
         <item>15 секунд</item>
         <item>30 секунд</item>
-        <item>1 минут</item>
+        <item>1 минуту</item>
         <item>2 минуты</item>
         <item>5 минут</item>
         <item>10 минут</item>
@@ -468,9 +468,9 @@
         <item>Закрыть текущее приложение</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 секунд</item>
+        <item>0.5 секунды</item>
         <item>1 секунда</item>
-        <item>1.5 секунд</item>
+        <item>1.5 секунды</item>
         <item>2 секунды</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">

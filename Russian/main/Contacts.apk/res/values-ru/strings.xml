@@ -25,7 +25,7 @@
     <string name="contactDetailUpdates">Обновления</string>
     <string name="searchHint">Поиск контактов</string>
     <string name="menu_search">Поиск</string>
-    <string name="menu_newContact">"Новый контакт "</string>
+    <string name="menu_newContact">"Новый контакт1 "</string>
     <string name="menu_viewContact">Посмотреть контакт</string>
     <string name="menu_callNumber">Вызов %s</string>
     <string name="menu_addStar">"В избранное "</string>

@@ -126,7 +126,7 @@
 	<string name="workday_alarm_clock">По рабочим дням</string>
 	<string name="weekend_alarm_clock">По выходным</string>
     <string name="system_time_setting">Настройка</string>
-    <string name="lap_num">Круг</string>
+    <string name="lap_num">круг</string>
     <string name="hour_unit">Ч</string>
     <string name="minute_unit">М</string>
     <string name="alarm_label_hint">Описание будильника</string>
