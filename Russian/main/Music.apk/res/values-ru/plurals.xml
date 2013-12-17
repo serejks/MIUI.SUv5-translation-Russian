@@ -4,10 +4,6 @@
         <item quantity="other">%d похожих</item>
         <item quantity="one">%d похожая</item>
     </plurals>
-	<plurals name="Ntracks_remove_from_playlist">
-		<item quantity="other">Треков удалено из плейлиста: %d</item>
-		<item quantity="one">Треков удалено из плейлиста: 1</item>
-	</plurals>
     <plurals name="Ntracks_total">
         <item quantity="other">%d треков</item>
         <item quantity="one">%d трек</item>
@@ -60,9 +56,17 @@
         <item quantity="other">треков добавлено в плейлист: %d.</item>
         <item quantity="one">1 трек добавлен в плейлист.</item>
     </plurals>
+	<plurals name="Ntracks_remove_from_playlist">
+		<item quantity="other">Треков удалено из плейлиста: %d</item>
+		<item quantity="one">Треков удалено из плейлиста: 1</item>
+	</plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">треков добавлено в плейлист: %d.</item>
         <item quantity="one">1 трек добавлен в плейлист.</item>
+    </plurals>
+	<plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">Треков удалено из плейлиста: %d</item>
+        <item quantity="one">1 трек удален из плейлиста.</item>
     </plurals>
 	<plurals name="Nsearch_results">
 		<item quantity="other">Результатов: %d</item>
@@ -83,9 +87,5 @@
     <plurals name="NTrackstoDownload">
         <item quantity="other">Треков будет загружено: %d</item>
         <item quantity="one">1 трек будет загружен</item>
-    </plurals>
-	    <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">Треков удалено из плейлиста: %d</item>
-        <item quantity="one">1 трек удален из плейлиста.</item>
     </plurals>
 </resources>

@@ -3659,7 +3659,7 @@ Android File Transfer
     <string name="virus_scan_list_item_virus">Вирус</string>
     <string name="virus_scan_list_item_risk">Угроза</string>
     <string name="virus_scan_start">Сканирование вирусов</string>
-    <string name="virus_scan_support">Техническая поддержка: Tencent</string>
+    <string name="virus_scan_support">Поддержка: Tencent</string>
     <string name="virus_scan_last_time">Последняя проверка: %s</string>
     <string name="virus_scan_safe">Угроз нет</string>
     <string name="virus_scan_dangerous">Угроза</string>
@@ -3731,4 +3731,5 @@ Android File Transfer
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>
+    <string name="perm_copyright">Поддержка: LBE Privacy Guard</string>
 </resources>

@@ -7,6 +7,7 @@
         <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>ничего</item>
         <item>сразу</item>
         <item>за 1 минуту</item>
         <item>за 5 минут</item>
@@ -187,5 +188,9 @@
         <item>Всегда</item>
         <item>Только в режиме без звука</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Прозрачный черный</item>
+        <item>Белый фон</item>
     </string-array>
 </resources>

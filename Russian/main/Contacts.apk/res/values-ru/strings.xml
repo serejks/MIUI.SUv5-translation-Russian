@@ -1154,4 +1154,16 @@
     <string name="resource_user_know">ОК</string>
     <string name="resource_hint">Сигнал</string>
     <string name="resource_ringtone_volume_mute">Звук мелодии отключен.</string>
+    <string name="t9_search_guide_pinyin">Введите номер телефона или найдите его с помощью T9</string>
+    <string name="sim_contact_invalid">Некорректный контакт SIM</string>
+    <string name="yellowPageNavigationLabel">Категории</string>
+    <string name="yellowPageNavigationIconLabel">Категории</string>
+    <string name="login_ok">Вход</string>
+    <string name="login_before_recharging">Сначала надо авторизоваться.</string>
+    <string name="yellowpage_navigation_search_hint">Поиск</string>
+    <string name="yellowpage_navigation_no_content">Нет результатов поиска</string>
+    <string name="yellowpage_navigation_search_offline_hint">Нет доступа к интернету</string>
+    <string name="refresh">Обновить</string>
+    <string name="yellowpage_navigation_search_city_name_hint">Город</string>
+    <string name="yellowpage_navigation_search_select_city">Выберите город</string>
 </resources>

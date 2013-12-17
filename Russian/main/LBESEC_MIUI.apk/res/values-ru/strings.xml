@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Безопасность</string>
+	<string name="Generic_Copyright">Поддержка LBE Privacy Guard</string>
     <string name="Generic_Version">Версия: %1$s</string>
     <string name="Generic_Configuration">Настройки</string>
     <string name="Generic_UserApp">Скачанные приложения: (%d)</string>

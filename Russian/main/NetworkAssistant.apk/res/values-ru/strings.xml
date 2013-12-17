@@ -9,7 +9,6 @@
     <string name="menu_settings">Настройки</string>
     <string name="menu_traffic_adjust">Регулировка трафика</string>
     <string name="menu_traffic_settings">Настройки трафика</string>
-    <string name="powered_by">Техническая поддержка: WALL-E</string>
     <string name="pref_traffic_settings">Настройки трафика</string>
     <string name="pref_traffic_adjust_title">Регулировка трафика</string>
     <string name="pref_traffic_daily_limit_settings">Настройки суточного лимита</string>
