@@ -183,10 +183,10 @@
     <string name="button_day">Д</string>
     <string name="button_month">М</string>
     <string name="account_and_calendar">Аккаунт и календарь</string>
-    <string name="account_and_calendar_to_display">Аккаунт и календарь для отображения</string>
+    <string name="account_and_calendar_to_display">Отображаемые аккаунт и календарь</string>
     <string name="default_reminder_mode">Режим уведомлений по умолчанию</string>
     <string name="time_zone">Часовой пояс</string>
-    <string name="show_all_lunar">Показывать лунный календарь</string>
+    <string name="show_all_lunar">Показать лунный календарь</string>
     <string name="event_all_day_label">Все дни</string>
     <string name="event_account">Аккаунт календаря</string>
     <string name="event_show_more">Показать</string>
