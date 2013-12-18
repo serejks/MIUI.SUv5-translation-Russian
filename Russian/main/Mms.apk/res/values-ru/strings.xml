@@ -197,9 +197,9 @@
     <string name="unsticked_conversation">Диалог откреплен</string>
 	<string name="invalid_conversation">Неверный диалог</string>
     <string name="select_conversations">Выбрать диалог</string>
-    <string name="no_conversations">Нет диалогов.</string>
+    <string name="no_conversations">Нет диалогов</string>
     <string name="loading_conversations">Загрузка диалогов…</string>
-    <string name="cannot_get_details">Не удалось загрузить данные.</string>
+    <string name="cannot_get_details">Не удалось загрузить данные</string>
     <string name="message_details_title">Сведения о сообщении</string>
     <string name="message_type_label">"Тип: "</string>
     <string name="text_message">SMS сообщение</string>
@@ -538,7 +538,7 @@
 	<string name="confirm_restore_positive">Восстановить</string>
 	<string name="confirm_restore_title">Восстановить выбранные сообщения?</string>
     <string name="number_add_hint">Введите номер телефона</string>
-    <string name="menu_new_manual">Введите номер телефона</string>
+    <string name="menu_new_manual">Ввести номер телефона вручную</string>
     <string name="menu_pick_from_contact">Выбрать из контактов</string>
     <string name="select_local_audio">Выбор аудио</string>
     <string name="select_local_video">Выбор видео</string>

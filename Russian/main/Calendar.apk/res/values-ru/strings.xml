@@ -11,7 +11,7 @@
     <string name="today_at_time_fmt">Сегодня в %s</string>
     <string name="tomorrow_at_time_fmt">Завтра в %s</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
-    <string name="repeats_label">Повторять</string>
+    <string name="repeats_label">Повтор</string>
     <string name="no_title_label">(Нет заголовка)</string>
     <string name="calendar_refresh">Обновить</string>
     <string name="show_day_view">Показать день</string>
@@ -79,13 +79,13 @@
     <string name="quick_response_email_failed">Невозможно найти почтовое приложение</string>
     <string name="quick_response_custom_msg">Свое сообщение…</string>
     <string name="event_info_organizer">Организатор:</string>
-    <string name="event_info_reminders_label">Напоминания</string>
+    <string name="event_info_reminders_label">Напоминание</string>
     <string name="agenda_today">СЕГОДНЯ, %1$s</string>
     <string name="agenda_yesterday">ВЧЕРА, %1$s</string>
     <string name="agenda_tomorrow">ЗАВТРА, %1$s</string>
     <string name="loading">Загрузка…</string>
-    <string name="show_older_events">Нажмите, чтобы увидеть мероприятия до %1$s</string>
-    <string name="show_newer_events">Нажмите, чтобы увидеть мероприятия после %1$s</string>
+    <string name="show_older_events">Показать мероприятия до %1$s</string>
+    <string name="show_newer_events">Показать мероприятия после %1$s</string>
     <string name="search_title">Поиск в моих календарях</string>
     <string name="edit_event_label">Сведения</string>
     <string name="edit_label">Изменить</string>
@@ -188,8 +188,8 @@
     <string name="time_zone">Часовой пояс</string>
     <string name="show_all_lunar">Показать лунный календарь</string>
     <string name="event_all_day_label">Все дни</string>
-    <string name="event_account">Аккаунт календаря</string>
-    <string name="event_show_more">Показать</string>
+    <string name="event_account">Календарь</string>
+    <string name="event_show_more">Дополнительно</string>
     <string name="event_hide_more">Скрыть</string>
     <string name="event_info_when">"Когда: "</string>
     <string name="event_info_repeat">"Повтор: "</string>
