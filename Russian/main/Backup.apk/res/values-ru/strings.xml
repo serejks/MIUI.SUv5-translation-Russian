@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Бэкап</string>
-	<string name="app_name">Бэкап</string>
 	<string name="local_app_name">Бэкап</string>
 	<string name="local_home_title">Локальный бэкап</string>
 	<string name="button_backup">Бэкап</string>
