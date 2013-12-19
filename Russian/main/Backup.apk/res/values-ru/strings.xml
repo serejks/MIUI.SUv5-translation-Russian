@@ -2,7 +2,7 @@
 <resources>
 	<string name="app_name">Бэкап</string>
 	<string name="local_app_name">Бэкап</string>
-	<string name="local_home_title">Локальный бэкап</string>
+	<string name="local_home_title">Локальные бэкапы</string>
 	<string name="button_backup">Бэкап</string>
 	<string name="start_backup">Начать</string>
 	<string name="button_cancel">Отмена</string>

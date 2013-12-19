@@ -2,14 +2,14 @@
 <resources>
 	<string name="application_name">Браузер</string>
 	<string name="choose_upload">Выберите файл для загрузки</string>
-	<string name="uploads_disabled">Загрузка файлов отключена.</string>
+	<string name="uploads_disabled">Загрузка файлов отключена</string>
 	<string name="new_tab">Новая вкладка</string>
 	<string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_most_visited">Часто посещаемые</string>
 	<string name="tab_history">История</string>
 	<string name="tab_snapshots">Сохраненные страницы</string>
-	<string name="added_to_bookmarks">Добавлено в закладки.</string>
+	<string name="added_to_bookmarks">Добавлено в закладки</string>
 	<string name="alert_tips">Этот сайт может представлять угрозу для безопасности.</string>
 	<string name="removed_from_bookmarks">Удалено из закладок</string>
 	<string name="sign_in_to" formatted="false">Войти в \"%s2\"</string>
@@ -68,12 +68,12 @@
 	<string name="remove_from_bookmarks">Удалить из закладок</string>
 	<string name="remove_history_item">Удалить из истории</string>
 	<string name="set_as_homepage">Сделать главной страницей</string>
-	<string name="bookmark_saved">Сохранено в закладках.</string>
-	<string name="bookmark_not_saved">Не удалось сохранить закладку.</string>
-	<string name="homepage_set">Главная страница установлена.</string>
-	<string name="bookmark_needs_title">Необходимо указать имя закладки.</string>
-	<string name="bookmark_needs_url">Необходимо указать место закладки.</string>
-	<string name="bookmark_url_not_valid">Неправильный URL.</string>
+	<string name="bookmark_saved">Сохранено в закладках</string>
+	<string name="bookmark_not_saved">Не удалось сохранить закладку</string>
+	<string name="homepage_set">Главная страница установлена</string>
+	<string name="bookmark_needs_title">Необходимо указать имя закладки</string>
+	<string name="bookmark_needs_url">Необходимо указать место закладки</string>
+	<string name="bookmark_url_not_valid">Неправильный URL</string>
 	<string name="bookmark_cannot_save_url">Невозможно добавить в закладки эту страницу.</string>
 	<string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
 	<string name="bookmark_thumbnail_view">Изображения</string>
@@ -91,7 +91,7 @@
 	<string name="copy_page_url">Копировать URL страницы</string>
 	<string name="menu_save_snapshot">Сохранить страницу</string>
 	<string name="saving_snapshot">Сохранение…</string>
-	<string name="snapshot_failed">Не удалось сохранить страницу.</string>
+	<string name="snapshot_failed">Не удалось сохранить страницу</string>
 	<string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
 	<string name="contextheader_folder_empty">Папка пуста</string>
 	<string name="contextmenu_openlink">Открыть</string>
@@ -140,7 +140,7 @@
 	<string name="autologin_bar_text">Войти как</string>
 	<string name="autologin_bar_login_text">Войти</string>
 	<string name="autologin_bar_hide_text">Скрыть</string>
-	<string name="autologin_bar_error">Не удалось войти.</string>
+	<string name="autologin_bar_error">Не удалось войти</string>
 	<string name="autofill_profile_editor_heading">Введите текст для автозаполнения.</string>
 	<string name="autofill_profile_editor_name">Полное имя:</string>
 	<string name="autofill_profile_editor_email_address">Эл. почта:</string>
@@ -156,8 +156,8 @@
 	<string name="autofill_profile_editor_phone_number">Номер телефона:</string>
 	<string name="autofill_profile_editor_phone_number_invalid">Неверный номер телефона.</string>
 	<string name="autofill_profile_editor_save_profile">Сохранить</string>
-	<string name="autofill_profile_successful_save">Текст автозаполнения сохранен.</string>
-	<string name="autofill_profile_successful_delete">Текст автозаполнения удален.</string>
+	<string name="autofill_profile_successful_save">Текст автозаполнения сохранен</string>
+	<string name="autofill_profile_successful_delete">Текст автозаполнения удален</string>
 	<string name="autofill_profile_editor_delete_profile">Удалить</string>
 	<string name="autofill_setup_dialog_message">Браузер может автоматически заполнять такие веб-формы. Включить автозаполнение?</string>
 	<string name="autofill_setup_dialog_negative_toast">Автозаполнение можно настроить в общих настройках браузера.</string>
@@ -247,8 +247,8 @@
 	<string name="menu_disable_save_bandwidth_mode">Отключить мобильный трафик</string>
 	<string name="menu_save_bandwidth_mode_first_clicked_txt">Не загружать изображения при использовании мобильного интернета</string>
 	<string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ОК</string>
-	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено.</string>
-	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено.</string>
+	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено</string>
+	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено</string>
 	<string name="pref_data_preload_title">Предзагрузка результатов поиска</string>
 	<string name="modify_download_path_no_sdcard_dlg_msg">USB накопитель отключен</string>
 	<string name="pref_data_preload_summary">"
@@ -285,7 +285,7 @@
 	<string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
 	<string name="close_all_tab_alert_title">Закрыть все вкладки</string>
 	<string name="browser_history">Недавно посещенные страницы</string>
-	<string name="empty_history">Нет истории.</string>
+	<string name="empty_history">Нет истории</string>
 	<string name="go_home">Домашняя страница</string>
 	<string name="add_new_bookmark">Добавить закладку</string>
 	<string name="add_bookmark_short">Добавить</string>
@@ -304,7 +304,7 @@
 	<string name="download_no_sdcard_dlg_msg">USB накопитель необходим для загрузки %s</string>
 	<string name="download_sdcard_busy_dlg_title">USB накопитель недоступен</string>
 	<string name="download_sdcard_busy_dlg_msg">USB накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB накопитель\" в панели уведомлений.</string>
-	<string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\".</string>
+	<string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
 	<string name="download_pending">Загрузка запущена…</string>
 	<string name="dump_nav">Сбросить кэш навигации</string>
 	<string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
@@ -338,7 +338,7 @@
 	<string name="error_console_eval_text_hint">Оценить JavaScript</string>
 	<string name="error_console_eval_button_text">Оценить</string>
 	<string name="defaultBookmarksUpButton">Закладки</string>
-	<string name="empty_bookmarks_folder">Нет закладок.</string>
+	<string name="empty_bookmarks_folder">Нет закладок</string>
 	<string name="other_bookmarks">Прочие закладки</string>
 	<string name="account_chooser_dialog_title">Выберите аккаунт</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
@@ -469,12 +469,12 @@
 	<string name="pref_fling_on_border_enabled">Переключение вкладок жестом</string>
 	<string name="pref_fling_on_border_enabled_title_summary">Слайд от левого или правог края экрана для переключения между вкладками</string>
 	<string name="pref_fling_on_border_operation">Действие при отпускании на границе</string>
-	<string name="is_page_top">Верх страницы.</string>
-	<string name="is_page_bottom">Низ страницы.</string>
-	<string name="is_first_tab">Первая вкладка.</string>
-	<string name="is_last_tab">Последняя вкладка.</string>
-	<string name="is_first_history_item">Первый элемент истории.</string>
-	<string name="is_last_history_item">Последний элемент истории.</string>
+	<string name="is_page_top">Верх страницы</string>
+	<string name="is_page_bottom">Низ страницы</string>
+	<string name="is_first_tab">Первая вкладка</string>
+	<string name="is_last_tab">Последняя вкладка</string>
+	<string name="is_first_history_item">Первый элемент истории</string>
+	<string name="is_last_history_item">Последний элемент истории</string>
 	<string name="warning">Опасность</string>
 	<string name="menu_exit">Выход</string>
 	<string name="menu_hv_swap">Альбомный режим</string>
@@ -511,8 +511,8 @@
 	<string name="pref_setting_title">Настройка страницы</string>
 	<string name="pref_general_setting_title">Настройка</string>
 	<string name="return_to_homepage">Вернуться на домашнюю страницу</string>
-	<string name="notif_install_successful">Загрузка завершена.</string>
-	<string name="in_incognito">Вы вошли в режим инкогнито, история сохраняться не будет.</string>
+	<string name="notif_install_successful">Загрузка завершена</string>
+	<string name="in_incognito">Вы вошли в режим инкогнито, история сохраняться не будет</string>
 	<string name="tab_opened_background_in_incognito">Открыто новое окно в режиме инкогнито</string>
 	<string name="stop_loading">Стоп</string>
 	<string name="file_picker">Обзор</string>
@@ -525,9 +525,9 @@
 	<string name="save_file_already_exist_alert_title">Внимание</string>
 	<string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>
 	<string name="filename_empty_alert_message">Необходимо ввести имя файла :)</string>
-	<string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
+	<string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены</string>
 	<string name="download_failed">Ошибка загрузки</string>
-	<string name="download_complete">Загрузка завершена.</string>
+	<string name="download_complete">Загрузка завершена</string>
 	<string name="download_dialog_file_length_hint_txt">Размер файла:</string>
 	<string name="download_dialog_file_length_lessthan1kb">Менее 1 Кб</string>
 	<string name="download_dialog_default_path_invalid">Недопустимый путь загрузки, будет использоваться путь по-умолчанию</string>
@@ -558,7 +558,7 @@
 	<string name="download">Скачать</string>
 	<string name="loading_rest_candidates">Загрузка…</string>
 	<string name="downloading">Загрузка…</string>
-	<string name="downloaded">Загружено.</string>
+	<string name="downloaded">Загружено</string>
 	<string name="disk_space_used">Использовано: %1$s</string>
 	<string name="disk_space_selected">Выбрано: %1$s</string>
 	<string name="disk_space_available">Доступно: %1$s</string>
@@ -571,7 +571,7 @@
     <string name="menu_download_video">Загруженные видео</string>
     <string name="download_video_unseleted_all">Снять выбор</string>
     <string name="download_video_please_select_video">Выбрать видео</string>
-    <string name="download_video_please_download_market">Необходимо установить MiApps.</string>
+    <string name="download_video_please_download_market">Необходимо установить Mi-Маркет.</string>
     <string name="download_video_no_title_default_name">Безымянное видео</string>
     <string name="download_video_menu_dialog_title">Установка…</string>
     <string name="download_video_menu_dialog_summary">Для использования этой функции необходимо установить приложение Видео.</string>
@@ -612,7 +612,7 @@
 	<string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
 	<string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета вы будете получать уведомления о доступных сетях Wi-Fi.</string>
 	<string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
-	<string name="network_show_wifi_setting_tip_dialog_description">Доступно Wi-Fi подключение. Подключиться?</string>
+	<string name="network_show_wifi_setting_tip_dialog_description">Подключиться?</string>
 	<string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
 	<string name="send_to_popular">На главную</string>
 	<string name="add_quicklink_to_popular">Добавить на главную страницу</string>

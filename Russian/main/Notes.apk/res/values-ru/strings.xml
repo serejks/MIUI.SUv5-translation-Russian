@@ -9,7 +9,7 @@
 	<string name="note_alert_expired">Просрочено</string>
 	<string name="format_date_ymd">ddMMyyyy</string>
 	<string name="format_datetime_mdhm">dMMM kk:mm</string>
-	<string name="notealert_ok">Выкл. сигнал</string>
+	<string name="notealert_ok">ОК</string>
 	<string name="notealert_enter">Просмотреть</string>
 	<string name="file_path">/MIUI/notes/</string>
 	<string name="file_name_txt_format">notes_%s.txt</string>
@@ -28,7 +28,7 @@
     <string name="menu_unstick">Отлепить</string>
 	<string name="menu_font_size">Размер шрифта</string>
 	<string name="menu_folder_change_name">Переименовать</string>
-	<string name="folder_exist">Папка \"%1$s\" уже существует, введите другое имя</string>
+	<string name="folder_exist">Папка уже существует, введите другое имя</string>
 	<string name="menu_send_to_desktop">На рабочий стол</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
 	<string name="menu_move_parent_folder">Основная папка</string>
@@ -60,7 +60,7 @@
 	<string name="preferences_bg_random_appear_title">Случайный цвет заметок</string>
     <string name="pref_title_font_size">Размер шрифта</string>
 	<string name="call_record_folder_name">Заметка разговора</string>
-	<string name="hint_foler_name">Введите имя</string>
+	<string name="hint_foler_name">Название</string>
 	<string name="search_label">Поиск заметок</string>
 	<string name="search_hint">Найти заметки</string>
 	<string name="search_setting_description">Текст в заметках</string>
@@ -74,11 +74,11 @@
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="time_picker_dialog_title">Время напоминания</string>
 	<string name="toast_message_add_image_fail">Ошибка при вставке изображения</string>
-    <string name="toast_privacy_mode">Нельзя редактировать заметку в режиме защиты.</string>
-	<string name="toast_note_privacy_mode">Нельзя редактировать заметку в режиме защиты.</string>
-	<string name="toast_folder_privacy_mode">Нельзя редактировать папку в режиме защиты.</string>
-	<string name="toast_reach_text_limit_attachment">Невозможно прикрепить файл. Нет свободного места в заметке.</string>
-	<string name="toast_reach_text_limit_truncate">Содержание заметки автоматически сократится по длине.</string>
+    <string name="toast_privacy_mode">Нельзя редактировать заметку в режиме \"Гость\"</string>
+	<string name="toast_note_privacy_mode">Нельзя редактировать заметку в режиме \"Гость\"</string>
+	<string name="toast_folder_privacy_mode">Нельзя редактировать папку в режиме \"Гость\"</string>
+	<string name="toast_reach_text_limit_attachment">Невозможно прикрепить файл. Нет свободного места в заметке</string>
+	<string name="toast_reach_text_limit_truncate">Содержание заметки автоматически сократится по длине</string>
 	<string name="notify_alarm_title">Звуковое напоминание</string>
 	<string name="notify_alarm_action_view">Просмотр</string>
 	<string name="notify_alarm_action_mute">Выключить звук</string> 
@@ -98,7 +98,7 @@
 	<string name="pref_title_alarm_when_silent">Сигнал в режиме \"Без звука\"</string>
 	<string name="pref_desc_alarm_when_silent">Cигналы будильника будут воспроизводиться даже в режиме без звука</string>
 	<string name="pref_title_data_export_to_sdcard">Экспорт заметок на SD карту</string>
-	<string name="dlg_title_confirm_alarm_silent">Отключить сигнал будильника в режиме без звука?</string>
+	<string name="dlg_title_confirm_alarm_silent">Отключить звук?</string>
 	<string name="dlg_desc_confirm_alarm_silent">Cигналы будильника не будут воспроизводиться в режиме без звука.</string>
 	<string name="close">Закрыть</string>
 </resources>
