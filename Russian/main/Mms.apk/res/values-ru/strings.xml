@@ -554,14 +554,13 @@
     <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
     <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
     <string name="sp_mark_as_read_progress">Чтение сообщений…</string>
-    <string name="refill_now">Пополнить сейчас</string>
+    <string name="refill_now">Пополнить</string>
     <string name="toast_feedback_start">Сбор данных журнала…</string>
-    <string name="toast_feedback_finish">Ваш отчет будет отправлен автоматически, при подключении к Wi-Fi сети</string>
-    <string name="toast_feedback_max">Вы можете отправлять не более 3х отчетов в день</string>
+    <string name="toast_feedback_finish">Отчет будет отправлен автоматически при подключении к сети Wi-Fi</string>
+    <string name="toast_feedback_max">Вы можете отправлять не более трех отчетов в день</string>
     <string name="toast_description_required">Невозможно отправить пустое сообщение</string>
-    <string name="pref_key_mx_feedback">Подтвердить отчет</string>
-    <string name="pref_summary_mx_feedback">"Помогите сделать MIUI лучше! 
-Отправляйте отчеты о багах напрямую в MIUI."</string>
-    <string name="feedback_description_hint">Введите текст отчета (Обязательно)</string>
-    <string name="feedback_submit">Подтвердить</string>
+    <string name="pref_key_mx_feedback">Отправить отчет</string>
+    <string name="pref_summary_mx_feedback">Помогите сделать MIUI лучше! \nОтправляйте отчеты о багах разработчикам напрямую.</string>
+    <string name="feedback_description_hint">Введите отчет</string>
+    <string name="feedback_submit">Отправить</string>
 </resources>

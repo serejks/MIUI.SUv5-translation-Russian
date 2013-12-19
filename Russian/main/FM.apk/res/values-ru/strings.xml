@@ -240,4 +240,5 @@
     <string name="toast_fm_recorder_internal_error">Ошибка записи</string>
     <string name="toast_fm_recorder_storage_full">Запись невозможна: память заполнена</string>
     <string name="toast_fm_not_stated">FM не указано</string>
+	<string name="record_completed">Запись завершена</string>
 </resources>
