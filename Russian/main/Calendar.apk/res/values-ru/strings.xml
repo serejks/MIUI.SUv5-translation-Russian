@@ -203,4 +203,5 @@
     <string name="copy_email">Копировать адрес e-mail</string>
     <string name="copy_number">Копировать телефонный номер</string>
     <string name="done">Вернуться</string>
+	<string name="show_almanac">Показывать альманах</string>
 </resources>
