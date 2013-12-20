@@ -190,7 +190,7 @@
         <item>Никогда</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Прозрачный черный</item>
-        <item>Белый фон</item>
+        <item>Прозрачный</item>
+        <item>Белый</item>
     </string-array>
 </resources>

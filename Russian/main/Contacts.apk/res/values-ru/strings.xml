@@ -1156,8 +1156,8 @@
     <string name="resource_ringtone_volume_mute">Звук мелодии отключен.</string>
     <string name="t9_search_guide_pinyin">Введите номер телефона или найдите его с помощью T9</string>
     <string name="sim_contact_invalid">Некорректный контакт SIM</string>
-    <string name="yellowPageNavigationLabel">Категории</string>
-    <string name="yellowPageNavigationIconLabel">Категории</string>
+    <string name="yellowPageNavigationLabel">Сервисы</string>
+    <string name="yellowPageNavigationIconLabel">Сервисы</string>
     <string name="login_ok">Вход</string>
     <string name="login_before_recharging">Сначала надо авторизоваться.</string>
     <string name="yellowpage_navigation_search_hint">Поиск</string>
