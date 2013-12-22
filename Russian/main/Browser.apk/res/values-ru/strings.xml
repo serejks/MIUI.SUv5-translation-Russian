@@ -614,7 +614,7 @@
 	<string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
 	<string name="network_show_wifi_setting_tip_dialog_description">Подключиться?</string>
 	<string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
-	<string name="send_to_popular">На главную</string>
-	<string name="add_quicklink_to_popular">Добавить на главную страницу</string>
-	<string name="quicklink_saved_before">Ссылка уже добавлена на главную страницу</string>
+	<string name="send_to_popular">В популярные</string>
+	<string name="add_quicklink_to_popular">Добавить в популярные сайты</string>
+	<string name="quicklink_saved_before">Ссылка уже добавлена в популярные сайты</string>
 </resources>
