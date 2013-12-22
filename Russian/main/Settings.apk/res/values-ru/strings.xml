@@ -2531,10 +2531,10 @@
     <string name="dolby_volume_leveler">Уровень звука</string>
     <string name="dolby_dialogue_enhancer">Улучшение речи</string>
     <string name="dolby_surround_virtualizer">Объемный звук</string>
-    <string name="dirac_mode_off">Dirac выкл</string>
+    <string name="dirac_mode_off">Dirac выкл.</string>
     <string name="dirac_mode_earbuds">Гарнитура</string>
-    <string name="dirac_mode_in_ear">Xiaomi</string>
-	<string name="dirac_mode_piston_100">Наушники Xiaomi</string>
+    <string name="dirac_mode_in_ear">Вкладыши Xiaomi</string>
+	<string name="dirac_mode_piston_100">Пистоны Xiaomi</string>
     <string name="equalizer">Эквалайзер</string>
     <string name="dialog_title_entryvalues_dolby_control">Настройки Dolby Mobile</string>
     <string name="wifi_menu_wfd">Wi-Fi дисплей</string>
@@ -3191,7 +3191,7 @@ Android File Transfer
     <string name="optimize_cache_list_empty_content">Кэш не найден</string>
     <string name="optimize_ad_list_empty_content">Файлов рекламы не найдено</string>
     <string name="optimize_apk_list_empty_content">apk не найдено</string>
-    <string name="optimize_residual_list_empty_content">Мусора не найдена</string>
+    <string name="optimize_residual_list_empty_content">Мусор не найден</string>
     <string name="optimize_tips_title">Помощь</string>
     <string name="optimize_tips_ad">iconРеклама \nДанные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
     <string name="optimize_tips_apk">"iconApk \nФайлы, предназначенные только для установки приложений.</string>
