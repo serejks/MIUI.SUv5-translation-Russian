@@ -3623,7 +3623,7 @@ Android File Transfer
     <string name="power_autorun_empty">Нет установленных приложений</string>
     <string name="power_autorun_apps_empty">Нет приложений с автозапуском</string>
     <string name="power_perm_logs_empty">Нет журналов</string>
-    <string name="process_manage_title">Очищено процессов: %1$d, освобождено памяти: %2$s</string>
+    <string name="process_manage_title">Очистка процессов (%1$d) освободит памяти: %2$s</string>
     <string name="process_list_empty_hints">Нет кэшированных процессов</string>
     <string name="protection_category_dangerous_title">С риском (%d)</string>
     <string name="protection_category_recommend_title">Для оптимизации (%d)</string>
