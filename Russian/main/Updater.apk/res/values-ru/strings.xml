@@ -107,7 +107,7 @@
     <string name="finish_download">Загрузка завершена</string>
     <string name="install_whole_rom">Загрузка полной прошивки</string>
     <string name="check_update_policy">Параметры обновления</string>
-    <string name="check_update_when_wifi_available">Использовать Wi-Fi для проверки обновлений</string>
+    <string name="check_update_when_wifi_available">Использовать только Wi-Fi для проверки обновлений</string>
     <string name="update_monthly_build_only">Обновлять до ежемесячных сборок</string>
     <string name="install_file_explorer">Установите файл менеджер MIUI</string>
     <string name="share_update">Поделиться информацией об обновлении системы</string>

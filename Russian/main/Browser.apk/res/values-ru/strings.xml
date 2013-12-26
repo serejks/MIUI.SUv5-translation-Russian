@@ -165,7 +165,7 @@
 	<string name="pref_privacy_security_title">Личные данные</string>
 	<string name="pref_privacy_clear_cache">Очистить кэш</string>
 	<string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
-	<string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных?</string>
+	<string name="pref_privacy_clear_cache_dlg">Очистить кэш браузера?</string>
 	<string name="pref_privacy_cookies_title">Файлы cookie</string>
 	<string name="pref_privacy_clear_cookies">Удалить cookie</string>
 	<string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>

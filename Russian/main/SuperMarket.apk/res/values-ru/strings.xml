@@ -360,4 +360,26 @@
 	<string name="no_favorites">Нет избранного</string>
 	<string name="resume">Возобновить</string>
     <string name="downloading">Пауза</string>
+    <string name="pref_category_title_slient_install">Скрыть уведомления об установке</string>
+    <string name="pref_category_title_auto_update">Автообновление приложений</string>
+    <string name="pref_category_title_delta_update">Инкрементное обновление</string>
+    <string name="pref_category_title_update_all">Обновить все</string>
+    <string name="pref_title_about">О приложении</string>
+    <string name="pref_title_feature_intro">Особенности</string>
+    <string name="pref_title_web_market">Web маркет</string>
+    <string name="pref_title_web_dev">Разработчик</string>
+    <string name="pref_title_version">Версия</string>
+    <string name="pref_title_slient_install">При нажатии в Mi-Маркете \"Установить\", выбранное приложение установится без каких либо всплывающих окон и уведомлений.</string>
+    <string name="pref_title_auto_update">При появлении обновлений установленных приложений, она установятся самостоятельно, когда вы не используете телефон (только при подключении к Wi-Fi). Этот способ поможет вам сэкономить время на ручной проверке обновлений.</string>
+    <string name="pref_title_delta_update">Чтобы сэкономить расходы на мобильный интернет, Mi-Маркет будет загружать только часть приложения, которая обновилась.</string>
+    <string name="pref_title_update_all">Чтобы получить все обновления, доступные для ваших приложений в одно касание, перейдите на вкладку \"Мои\" и нажмите \"Обновить все\".</string>
+    <string name="pref_summary_feature_intro">Узнайте об особенностях Mi-Маркета</string>
+    <string name="pref_summary_web_market0">"Посетите: "</string>
+    <string name="pref_summary_web_dev0">"Посетите: "</string>
+    <string name="updatable_apps">Обновляемые приложения</string>
+    <string name="signature_inconsistent_apps">Несовместимые приложения</string>
+    <string name="signature_inconsistent_message">Это приложение имеет отличающуюся подпись в маркете, продолжить обновление?</string>
+    <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
+    <string name="notif_summary_auto_update_on">Mi-Маркет обновит ваши приложения автоматически</string>
+    <string name="login_now">Войти</string>
 </resources>

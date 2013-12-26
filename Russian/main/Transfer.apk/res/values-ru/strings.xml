@@ -212,5 +212,6 @@
     <string name="share_item_not_found">Нет файлов</string>
     <string name="send_history_deleted">История удалена</string>
     <string name="not_support_this_type">Данный тип файла не поддерживается</string>
-	<string name="mishare_app_name">MiShare</string>
+    <string name="support_tip">При подключении AnyShare будет обеспечивать тех. поддержку</string>
+    <string name="receive_tip">Для быстрого сопряжения и получения очереди передачи</string>
 </resources>
