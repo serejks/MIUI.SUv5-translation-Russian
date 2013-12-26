@@ -381,5 +381,4 @@
     <string name="signature_inconsistent_message">Это приложение имеет отличающуюся подпись в маркете, продолжить обновление?</string>
     <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
     <string name="notif_summary_auto_update_on">Mi-Маркет обновит ваши приложения автоматически</string>
-    <string name="login_now">Войти</string>
 </resources>
