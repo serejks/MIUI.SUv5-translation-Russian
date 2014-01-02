@@ -187,7 +187,7 @@
 	<string name="resource_get_auth_checking">Авторизация…</string>
 	<string name="resource_get_auth_retrieving">Восстановление авторизации…</string>
 	<string name="resource_import_successful">Загрузка завершена.</string>
-	<string name="resource_get_auth_missing">Темаы загруженные из сторонних источников не могут быть применены.</string>
+	<string name="resource_get_auth_missing">Темы загруженные из сторонних источников не могут быть применены.</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Достигнут лимит авторизаций</string>
 	<string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте.</string>
 	<string name="resource_server_out_of_service">Сервер недоступен, повторите позже.</string>
