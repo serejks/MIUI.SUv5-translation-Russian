@@ -450,7 +450,7 @@
 	<string name="skip_login_u"><u>Пропустить</u></string>
 	<string name="micloud_data_loading">Загрузка…</string>
 	<string name="micloud_space_full_influence"><u>Что делать, если закончилось свободное место в MiCloud?</u></string>
-	<string name="micloud_title_dspt" formatted="false">Всего: %s \n Занято: %s | Свободно: %s</string>
+	<string name="micloud_title_dspt" formatted="false">Всего: %s \nЗанято: %s | Свободно: %s</string>
 	<string name="micloud_title_full_dspt" formatted="false">Память заполнена!</string>
 	<string name="micloud_user_base_info">Информация пользователя</string>
 	<string name="micloud_user_email">Почта</string>
