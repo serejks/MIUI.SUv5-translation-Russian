@@ -198,10 +198,13 @@
     <string name="lunar_date">Лунная дата</string>
     <string name="widget_select_style">Выберите стиль</string>
     <string name="widget_events">Следующие события</string>
-    <string name="widget_no_events">Далее, нет повестки</string>
-    <string name="more_string">%1$s еще…</string>
-    <string name="copy_email">Копировать адрес e-mail</string>
-    <string name="copy_number">Копировать телефонный номер</string>
-    <string name="done">Вернуться</string>
-	<string name="show_almanac">Показывать альманах</string>
+    <string name="widget_no_events">Нет событий</string>
+ 	<string name="show_almanac">Показывать календарь альманах</string>
+	<string name="show_gou_piao">Показывать календарь билетов</string>
+	<string name="gou_piao_event_title">Напоминание поездки %s</string>
+	<string name="gou_piao_item1">Напомнить мне о времени для поездов</string>
+	<string name="gou_piao_item2">Бронирование по телефону 12306</string>
+	<string name="gou_piao_item3">Купка билетов по телефону 12306</string>
+	<string name="gou_piao_website_start_time">Покупка %s онлайн или по телефону</string>
+	<string name="gou_piao_window_start_time">Билеты можно приобрести на станции %s</string>
 </resources>
