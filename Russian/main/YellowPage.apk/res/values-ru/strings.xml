@@ -72,7 +72,7 @@
     <string name="turn_on_smart_antispam_summary_on">Использовать онлайн базу данных.</string>
     <string name="turn_on_smart_antispam_summary_off">Использовать локальную базу данных.</string>
     <string name="agree">Подтвердить</string>
-    <string name="user_notice_identify_summary_format">Определение неизвестных номеров работает с помощью онлайн сервиса. \nПрочтите перед использованием: %1$s и %2$s</string>
+    <string name="user_notice_identify_summary_format">Определение неизвестных номеров работает с помощью онлайн сервиса по Wi-Fi. \nПрочтите: %1$s and %2$s, нажмите \"Подтвердить\", чтобы принять лицензионное соглашение.</string>
     <string name="user_notice_yp_detail_summary_format">Часть информация будет загружена с помощью онлайн сервиса. \nПрочтите: %1$s and %2$s, нажмите \"Подтвердить\", чтобы принять лицензионное соглашение.</string>
     <string name="title_about_yellow_page">О программе</string>
 	<string name="payment_back">Назад</string>

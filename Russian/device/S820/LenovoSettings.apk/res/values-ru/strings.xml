@@ -1591,7 +1591,7 @@
     <string name="app_name_label">Приложение</string>
     <string name="launch_count_label">Подсчет</string>
     <string name="usage_time_label">Время использования</string>
-    <string name="accessibility_settings">Спец. возможности</string>
+    <string name="accessibility_settings">Специальные возможности</string>
     <string name="accessibility_settings_title">Настройка спец. возможностей</string>
     <string name="accessibility_services_title">Службы</string>
     <string name="accessibility_system_title">Система</string>
@@ -2647,7 +2647,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="bluetooth_default_name">Устройство Xiaomi</string>
     <string name="bluetooth_profile_name">%1$s устройство Xiaomi</string>
     <string name="usage_log">Статистика использования приложений</string>
-    <string name="bluetooth_device_searchable">Включить определение</string>
+    <string name="bluetooth_device_searchable">Видимость</string>
     <string name="usb_msd_title">Накопитель</string>
     <string name="usb_msd_summary">Позволяет передавать файлы на Windows и Mac</string>
     <string name="usb_msd_driver_installer_title">Установщик драйверов (MSD)</string>

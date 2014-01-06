@@ -115,6 +115,7 @@
     <string name="button_next">Далее</string>
     <string name="button_last">Старт</string>
     <string name="share_text">MIUI V5 поддерживает передачу данных не по сети. Не-MIUI V5 пользователи могут загрузить: %1$s</string>
+	<string name="mishare_app_name">Трансфер</string>
 	<string name="apk">Приложение</string>
     <string name="pic">Фото</string>
     <string name="doc">Документ</string>
