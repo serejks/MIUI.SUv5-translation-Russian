@@ -23,13 +23,18 @@
     <string name="notification_need_wifi_for_size">Размер файла требует Wi-Fi</string>
     <string name="notification_paused_in_background">Пауза в фоне</string>
     <string name="wifi_required_title">Слишком большой размер для загрузки по сети</string>
-    <string name="wifi_required_body" formatted="false">Вы должны использовать Wi-Fi для завершения загрузки \"%s\". Нажмите %s что бы начать загрузку через Wi-Fi.</string>
+    <string name="wifi_required_body" formatted="false">"Вы должны использовать Wi-Fi для завершения загрузки \"%s\".
+
+Нажмите %s что бы начать загрузку через Wi-Fi."</string>
     <string name="wifi_recommended_title">Напоминание о расходе трафика</string>
-    <string name="wifi_recommended_body" formatted="false">Загрузка файла через мобильную сеть: %s(%s) Загрузка файла может привести к росту затрат на трафик</string>
+    <string name="wifi_recommended_body" formatted="false">"Загрузка файла через мобильную сеть:
+
+%s(%s)
+
+Загрузка файла может привести к росту затрат на трафик."</string>
     <string name="button_queue_for_wifi">В очередь</string>
     <string name="button_cancel_download">Отмена</string>
     <string name="button_start_now">Начать сейчас</string>
-    <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Не хватает памяти на внешнем устройстве</string>
     <string name="dialog_insufficient_space_on_cache">Не хватает места во внутренней памяти</string>
     <string name="auto_restart_under_wifi">Wi-Fi автоматически загрузит данный файл</string>
