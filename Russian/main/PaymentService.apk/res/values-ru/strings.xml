@@ -106,7 +106,6 @@
 	<string name="msg_telecom_picker_hint_2_2">Вы получите текст с подтверждением.</string>
 	<string name="msg_telecom_sending">Подключение к мобильному провайдеру…</string>
 	<string name="next">Далее</string>
-	<string name="order_price">MiCredit: %1$s</string>
 	<string name="password_error">Пожалуйста, введите Ваш пароль</string>
 	<string name="password_hint">Пожалуйста, введите Ваш пароль аккаунта Xiaomi:</string>
 	<string name="pay_record_empty">Нет платежной истории</string>
@@ -200,7 +199,7 @@
 	<string name="micloud_intro_03_part_01">Безопасность в использовании</string>
 	<string name="micloud_intro_03_part_02">Управление данными на \"i.xiaomi.com\".</string>
 	<string name="micloud_dspt">MiCloud управление данными в любое время!</string>
-	<string name="label_balance">Баланс:</string>
+	<string name="label_balance">"Баланс: "</string>
 	<string name="button_call">Вызов</string>
 	<string name="balance_payment">%1$s MiCredit</string>
     <string name="balance_giftcard_payment">%1$s MiCredit (подарочная карта на %2$s MiCredit)</string>
