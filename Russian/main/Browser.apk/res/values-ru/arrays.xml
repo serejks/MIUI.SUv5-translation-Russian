@@ -27,10 +27,6 @@
         <item>Популярные сайты</item>
         <item>Своя установка</item>
     </string-array>
-    <string-array name="pref_homepage_values">
-        <item>miui_home</item>
-        <item>other</item>
-    </string-array>
     <string-array name="pref_text_size_choices">
         <item>Мелкий</item>
         <item>Маленький</item>
