@@ -26,7 +26,7 @@
     <string name="msg_scanning_pty">Сканирование %s…</string>
     <string name="msg_search_title">FM: %1$s</string>
     <string name="msg_searching">Поиск станций для создания списка…</string>
-    <string name="msg_searching_title">Автоматический выбор станций</string>
+    <string name="msg_searching_title">Автовыбор станций</string>
     <string name="msg_weak_searching">Поиск частот…</string>
     <string name="msg_headsetpluggedin">Отключите гарнитуру.</string>
     <string name="msg_callactive">FM трансмиттер не поддерживается, когда активен голосовой вызов.</string>
