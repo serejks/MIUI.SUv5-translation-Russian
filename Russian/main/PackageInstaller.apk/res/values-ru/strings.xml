@@ -69,7 +69,7 @@
 Доверять этому приложению?"</string>
     <string name="auto_startup_dialog_msg">"MIUI позволит этому приложению запускаться автоматически. Это может вызвать повышенное потребление энергии и трафика.
 Разрешить автозапуск?"</string>
-    <string name="low_risk_perms">Слабо опасные разрешения</string>
+    <string name="low_risk_perms">Мало опасные разрешения</string>
     <string name="high_risk_perms">Опасные разрешения</string>
     <string name="perm_privacy_app_finish">Готово</string>
     <string name="perm_privacy_app_launch">Открыть</string>

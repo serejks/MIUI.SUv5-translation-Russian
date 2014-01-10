@@ -1400,8 +1400,8 @@
     <string name="call_reject_no_name">Нет имени</string>
     <string name="lable_call_barring">Запрет вызова</string>
     <string name="lable_all_outgoing">Все исходящие вызовы</string>
-    <string name="lable_all_outgoing_international">Исходящие международные вызовы</string>
-    <string name="lable_all_out_except">Исходящие международные вызовы, за исключением НМСОП</string>
+    <string name="lable_all_outgoing_international">Исх.международные вызовы</string>
+    <string name="lable_all_out_except">Исх.междун.вызовы,кроме НМСОП</string>
     <string name="lable_all_incoming">Все входящие вызовы</string>
     <string name="lable_incoming_calls_except">Входящие вызовы в роуминге</string>
     <string name="deactivate_all">Отменить все</string>
