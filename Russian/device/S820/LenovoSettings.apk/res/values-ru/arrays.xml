@@ -266,11 +266,11 @@
     <string-array name="wifi_sleep_policy_entries_smart">
         <item>Всегда</item>
         <item>Только при подключении</item>
-        <item>Никогда (Увеличивает использование моб.интернета)</item>
+        <item>Никогда (Увеличивает расход трафика)</item>
         <item>Умный режим</item>
     </string-array>
     <string-array name="entries_smart_rotation">
-        <item>Умный автоповорот(поворот экрана по глазам)</item>
+        <item>Умный автоповорот (Поворот экрана по глазам)</item>
         <item>Автоповорот</item>
         <item>Нет</item>
     </string-array>
