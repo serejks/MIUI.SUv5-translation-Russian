@@ -618,8 +618,8 @@
     <string name="wifi_disabled_help">Сеть не используется из-за плохого подключения. Отключите этот параметр в меню \"Параметры\" > \"Wi-Fi\" > \"Дополнительно\"</string>
     <string name="wifi_disabled_password_failure">Произошла ошибка проверки подлинности</string>
     <string name="wifi_not_in_range">Вне диапазона</string>
-    <string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
-    <string name="wifi_wps_available_second_item">Доступна защищенная сеть</string>
+    <string name="wifi_wps_available_first_item">Доступен WPS</string>
+    <string name="wifi_wps_available_second_item">" (Доступен WPS)"</string>
     <string name="wifi_secured_first_item">Защищено %s</string>
     <string name="wifi_secured_second_item">, защита %1$s</string>
     <string name="wifi_secured">Защищенная</string>

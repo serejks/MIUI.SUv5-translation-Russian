@@ -302,6 +302,6 @@
     <string name="pref_camera_antibanding_value_50hz">50 КГц</string>
     <string name="pref_camera_antibanding_value_60hz">60 КГц</string>
     <string name="pref_camera_antibanding_value_off">Выкл</string>
-    <string name="no_image">Не найдено изображений.</string>
-    <string name="no_action">Не задано действий.</string>
+    <string name="no_image">Изображений не найдено</string>
+    <string name="no_action">Не задано действий</string>
 </resources>
