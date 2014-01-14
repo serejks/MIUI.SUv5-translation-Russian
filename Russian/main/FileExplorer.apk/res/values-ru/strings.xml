@@ -231,7 +231,7 @@
     <string name="choose_send_type">Выберите метод отправки</string>
     <string name="download_link_completed">"Я открыл доступ к %1$s через KuaiPan. Ссылка: "</string>
     <string name="transing">Отправка</string>
-    <string name="finished">Заверешено</string>
+    <string name="finished">Завершено</string>
     <string name="uploading">Загрузка</string>
     <string name="downloading">Загрузка</string>
     <string name="waiting">Ожидание</string>
