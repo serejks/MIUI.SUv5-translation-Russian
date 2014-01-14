@@ -980,8 +980,8 @@
     <string name="resource_list_title">Последние выбранные</string>
     <string name="resource_get_auth_checking">Проверка авторизации…</string>
     <string name="resource_get_auth_retrieving">Повтор авторизации…</string>
-	<string name="resource_import_successful">Загрузка завершена.</string>
-    <string name="resource_get_auth_missing">Темы загруженные из сторонних источников не поддерживаются.</string>
+	<string name="resource_import_successful">Загрузка завершена</string>
+    <string name="resource_get_auth_missing">Темы загруженные из сторонних источников не поддерживаются</string>
     <string name="resource_get_auth_exceed_max_limit_title">Достигнут лимит авторизаций</string>
     <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте</string>
     <string name="resource_server_out_of_service">Сервер недоступен, попробуйте позже.</string>
