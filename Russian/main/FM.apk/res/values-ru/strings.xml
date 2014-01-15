@@ -277,5 +277,5 @@
     <string name="station_format_error">Ошибка форматирования</string>
     <string name="station_name">Название станции</string>
     <string name="toast_delete_station_fail">Ошибка удаления станции!</string>
-    <string name="toast_edit_save_station_fail">Ошибка сохранения станцииn!</string>
+    <string name="toast_edit_save_station_fail">Ошибка сохранения станции!</string>
 </resources>
