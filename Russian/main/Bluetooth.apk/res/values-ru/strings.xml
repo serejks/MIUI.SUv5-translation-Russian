@@ -4,7 +4,7 @@
 	<string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
 	<string name="permlab_bluetoothWhitelist">Доступ к белому списку Bluetooth устройств.</string>
 	<string name="permdesc_bluetoothWhitelist">Разрешить приложению добавлять устройство Bluetooth в белый список, что позволяет отправлять на это устройство файлы без пользовательского согласия.</string>
-	<string name="permlab_handoverStatus">Получать сообщения о хэндовер по BT.</string>
+	<string name="permlab_handoverStatus">Получать сообщения о хэндовер по Bluetooth.</string>
 	<string name="permdesc_handoverStatus">Позволяет получать от Bluetooth информацию о статусе передачи сессии.</string>
 	<string name="bt_share_picker_label">Bluetooth</string>
 	<string name="unknown_device">Неизвестное устройство</string>

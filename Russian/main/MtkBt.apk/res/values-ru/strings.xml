@@ -25,7 +25,7 @@
     <string name="bt_opps_push_toast_invalid_request">Неверный запрос от удаленного устройства.</string>
     <string name="permlab_bluetoothWhitelist">Белый список Bluetooth.</string>
     <string name="permdesc_bluetoothWhitelist">Список устройств Bluetooth, которым разрешено отправлять файлы на ваше устройство без подтверждения пользователя.</string>
-    <string name="permlab_handoverStatus">Получение BT передачи трансляции.</string>
+    <string name="permlab_handoverStatus">Получение Bluetooth передачи трансляции.</string>
     <string name="permdesc_handoverStatus">Позволяет получать информацию о состоянии передачи от Bluetooth.</string>
     <string name="bluetooth_pan_GN_authorize_confirm_title">Позволить Group Ad-hoc Network авторизировать запрос</string>
     <string name="bluetooth_pan_NAP_authorize_confirm_title">Позволить Network Access Points авторизировать запрос</string>

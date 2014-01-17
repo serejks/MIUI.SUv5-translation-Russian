@@ -55,7 +55,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Отменить все</string>
     <string name="delete">Удалить</string>
-    <string name="send_by_bt">Отправить по BT</string>
+    <string name="send_by_bt">Отправить по Bluetooth</string>
     <string name="pref_video_circulate_mode_title">Автоматически повторять</string>
     <string name="pref_video_circulate_mode_summary">Автоматически повторять</string>
     <string name="pref_video_play_settings">НАСТРОЙКИ ПЛЕЕРА</string>

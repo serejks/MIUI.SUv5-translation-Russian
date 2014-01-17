@@ -3128,7 +3128,7 @@ Android File Transfer
     <string name="drm_reset_dialog_msg">Эта операция удалит все лицензии на этом устройстве. Продолжить?</string>
     <string name="drm_reset_toast_msg">Все лицензии были успешно удалены.</string>
     <string name="gemini_sim_management_title">Управление SIM картой</string>
-    <string name="gemini_sim_info_title">Инофрмация о SIM карте</string>
+    <string name="gemini_sim_info_title">Информация о SIM карте</string>
     <string name="gemini_default_sim_title">Настройки по умолчанию</string>
     <string name="gemini_general_settings_title">Общие настройки</string>
     <string name="gemini_roaming_settings_title">Роуминг</string>

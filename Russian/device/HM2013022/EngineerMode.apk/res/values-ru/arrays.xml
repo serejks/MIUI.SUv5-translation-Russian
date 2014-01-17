@@ -95,9 +95,9 @@
         <item>Нормальный режим</item>
         <item>Режим гарнитуры</item>
         <item>Режим громкоговорителя</item>
-        <item>Режим BT-гарнитуры</item>
-        <item>Режим BT-наушников</item>
-        <item>Режим BT-barkit</item>
+        <item>Режим Bluetooth-гарнитуры</item>
+        <item>Режим Bluetooth-наушников</item>
+        <item>Режим Bluetooth-barkit</item>
         <item>Режим AUX1</item>
         <item>Режим AUX2</item>
     </string-array>
