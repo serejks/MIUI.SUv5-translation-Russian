@@ -256,7 +256,7 @@
     <string name="storage_internal">Внутренняя память</string>
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопитель</string>    
-    <string name="bind_account">Синхронизировать существующий аккаунт</string>
+    <string name="bind_account">Синхр. существующий аккаунт</string>
     <string name="bind_account_summary">Синхронизировать аккаунт Kuaipan с аккаунтом Xiaomi.</string>
     <string name="binded_accout_title">Аккаунты синхронизированы</string>
     <string name="binded_accout_description">Аккаунт Xiaomi синхронизирован с аккаунтом KuaiPan. Для входа в KuaiPan Вы можете использовать аккаунт Xiaomi.</string>
