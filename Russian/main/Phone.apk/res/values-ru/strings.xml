@@ -1180,7 +1180,7 @@
     <string name="alert_device_error">Ошибка аудиоустройства</string>
     <string name="ext_media_badremoval_notification_title">SD карта неожиданно удалена</string>
     <string name="error_sdcard_access">Не удается получить доступ к SD карте</string>
-    <string name="confirm_device_info_full">SD карта заполена, запись была сохранена.</string>
+    <string name="confirm_device_info_full">SD карта заполнена, запись была сохранена.</string>
     <string name="confirm_save_info_saved">Запись была сохранена</string>
     <string name="sim_toolkit">Инструменты SIM</string>
     <string name="activity_not_found">Приложение не установлено на вашем устройстве.</string>
@@ -1262,7 +1262,7 @@
     <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
     <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
     <string name="pref_camera_coloreffect_entry_solarize">Передержка</string>
-    <string name="pref_camera_coloreffect_entry_posterize">Постеризация</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Пастеризация</string>
     <string name="pref_camera_coloreffect_entry_whiteboard">Белая Доска</string>
     <string name="pref_camera_coloreffect_entry_blackboard">Черная Доска</string>
     <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
@@ -1294,10 +1294,10 @@
     <string name="pin2_name">PIN2</string>
     <string name="simlock_newsim">Новая SIM карта</string>
     <string name="simlock_nocard">Нет</string>
-    <string name="simlock_emergency">Экстренный вызов.</string>
-    <string name="simlock_wrongcode">Неправильный код.</string>
-    <string name="simlock_input4_8digits">4-8 цифр.</string>
-    <string name="simlock_input8digits">8 цифр.</string>
+    <string name="simlock_emergency">Экстренный вызов</string>
+    <string name="simlock_wrongcode">Неправильный код</string>
+    <string name="simlock_input4_8digits">4-8 цифр</string>
+    <string name="simlock_input8digits">8 цифр</string>
     <string name="simlock_entersimmelock">Введите SIM ME lock</string>
     <string name="simlock_for">для</string>
     <string name="simlock_enterpin2code">Введите PIN2 код</string>
@@ -1332,7 +1332,7 @@
     <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Ответ на этот вызов завершит текущий вызов и будет отвергать другие входящие вызовы.</string>
     <string name="onscreenCdmaManageCallext">Управление звонками</string>
     <string name="onscreenCdmaMergeCallext">Слияние звонков</string>
-    <string name="end_call_because_can_not_hold">"Завершить текущий вызов, так как он не может быть поставлен на удержание."</string>
+    <string name="end_call_because_can_not_hold">Завершить текущий вызов, так как он не может быть поставлен на удержание.</string>
     <string name="ring_only_once_title">Звонить только один раз</string>
     <string name="ring_only_once_summary">Звонит только один раз при выборе принять видеовызов в режиме голосового вызова</string>
     <string name="fdn_contact_name_number_invalid">Название и номер не могут быть пустыми.</string>
@@ -1422,7 +1422,7 @@
     <string name="cb_menu_delete">Удалить</string>
     <string name="cb_error_channel_num">Введите номер канала (0-65534).</string>
     <string name="cb_error_channel_name">Длина названия канала некорректна (1-10 символов).</string>
-    <string name="cb_error_language_select">Необхоимо выбрать как минимум один язык</string>
+    <string name="cb_error_language_select">Необходимо выбрать как минимум один язык</string>
     <string name="cb_error_channel_id_exist">Идентификатор канала уже существует.</string>
     <string name="cb_all_languages">Все языки</string>
     <string name="cb_default_new_channel_name">Новый канал</string>
@@ -1476,7 +1476,7 @@
     <string name="mt_code_on_hold_call_released">Отбой вызова</string>
     <string name="mt_code_forward_check_received">Проверить полученное SS сообщение</string>
     <string name="mt_code_call_connecting_ect">Передача звонка</string>
-    <string name="mt_code_call_connected_ect">Предача звонка активна</string>
+    <string name="mt_code_call_connected_ect">Передача звонка активна</string>
     <string name="mt_code_deflected_call">Это отклоненный вызов</string>
     <string name="mt_code_additional_call_forwarded">Дополнительные входящий вызов направляется</string>
     <string name="mt_code_forwarded_cf">Переадресованный вызов</string>
@@ -1492,7 +1492,7 @@
     <string name="sim_manage_call_via">Вызов через</string>
     <string name="pch_data_prefer_title">Предпочтительная передача данных</string>
     <string name="pch_data_prefer_summary">Увеличить скорость передачи данных за счет снижения качества вызовов</string>
-    <string name="pch_data_prefer_message">"Предпочтильная передача данных используется для повышения эффективности передачи данных за счет снижения качества и скорости приема вызовов. Не рекомендуется включать эту функцию.
+    <string name="pch_data_prefer_message">"Предпочтительная передача данных используется для повышения эффективности передачи данных за счет снижения качества и скорости приема вызовов. Не рекомендуется включать эту функцию.
 
 Включить данную функцию?"</string>
     <string name="manual_select_title">Выбрать вручную</string>
@@ -1508,13 +1508,13 @@
     <string name="gemini_data_connection">Подключение для передачи данных</string>
     <string name="plmn_list_setting_title">Предпочтительные сети</string>
     <string name="network_id">ID Сети</string>
-    <string name="dialog_network_priority_title">Приоитет</string>
+    <string name="dialog_network_priority_title">Приоритет</string>
     <string name="plmn_list_setting_add_plmn">Новый PLMN</string>
     <string name="international_dialing_title">Международный телефонный помошник</string>
     <string name="international_dialing_select_country">"Похоже, что вы совершаете международный вызов. Пожалуйста, выберите пункт назначения."</string>
     <string name="international_dialing_add_country_code" formatted="false">"Похоже, что вы набираете номер другой страны: %s. Добавить код страны (+%s)?"</string>
     <string name="international_dialing_add_country_code_and_area_code">"Похоже, что вы набираете номер другой страны: %1$s, %2$s. Добавить код страны и код города (+%3$s)?"</string>
-    <string name="international_dialing_change_country_prefix">"Похоже, что вы непраильно набираете номер %s. Добавить префикс международного вызова '+'?"</string>
+    <string name="international_dialing_change_country_prefix">"Похоже, что вы неправильно набираете номер %s. Добавить префикс международного вызова '+'?"</string>
     <string name="international_dialing_add_country_code_input_area_code">"Похоже, что вы набираете номер другой страны: %s. Если это так, пожалуйста, введите код страны."</string>
     <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Похоже, что вы набираете номер другой страны: %s. Если ваше местоположение не: %s, введите код страны."</string>
     <string name="international_dialing_need_area_code">Для вызова необходим код вашего города.</string>
@@ -1558,5 +1558,5 @@
     <string name="call_ring_stepup_title">Нарастающий вызов</string>
     <string name="call_ring_stepup_summary">Постепенно увеличивать громкость рингтона для входящих вызовов</string>
     <string name="card_itself_for_voice">Карта</string>
-    <string name="suspect_info">Будьте осторожны: всегда необходимо проверять личность контакта по телфону или видео перед тем, как отвечать на вопросы, связанные с Вашими финансами.</string>
+    <string name="suspect_info">Будьте осторожны: всегда необходимо проверять личность контакта по телефону или видео перед тем, как отвечать на вопросы, связанные с Вашими финансами.</string>
 </resources>
