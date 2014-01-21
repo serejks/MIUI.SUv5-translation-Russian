@@ -128,7 +128,7 @@
 	<string name="auto_backup_setting">Настройки авто-бэкапа</string>
 	<string name="auto_backup_open">Авто-бэкап</string>
 	<string name="auto_backup_only_wifi">Только при подключенном Wi-Fi</string>
-	<string name="auto_backup_date">Переодичность</string>
+	<string name="auto_backup_date">Периодичность</string>
 	<string name="auto_backup_time">Запланировать бэкап</string>
 	<string name="auto_backup_choose_title">Выбрать данные</string>
 	<string name="auto_backup_choose">Объекты для бэкапа</string>
