@@ -2303,7 +2303,7 @@
     <string name="nearby_wifi">Доступные сети</string>
     <string name="unlock_set_enter_system">Доступ к системе напрямую</string>
     <string name="unlock_set_enter_system_summary">При включении системный экран блокировки будет проигнорирован</string>
-    <string name="forget_wifi_message">Убирает сеть из автоподключения и, потребуется повторно ввести пароль для подключиться</string>
+    <string name="forget_wifi_message">Удаление сети из автоподключения. Для повторного подключения потребуется ввести пароль.</string>
     <string name="button_disconnect_network">Отключено от сети</string>
     <string name="no_nearby_wifi">Не найдено доступных сетей</string>
     <string name="manually_add_network">Добавить сеть</string>

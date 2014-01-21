@@ -764,10 +764,10 @@
 	<string name="areacode_required_miui">Необходим код региона</string>
 	<string name="areacode_required_accept_miui">OK</string>
 	<string name="auto_answer_summary_not_enabled">Не включено</string>
-	<string name="auto_answer_summary_delay">(задержка: %s сек.)</string>
-	<string name="auto_answer_delay_entries_delay_10s_miui">10 сек</string>
-	<string name="auto_answer_delay_entries_delay_3s_miui">3 сек</string>
-	<string name="auto_answer_delay_entries_delay_5s_miui">5 сек</string>
+	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
+	<string name="auto_answer_delay_entries_delay_10s_miui">10 секунд</string>
+	<string name="auto_answer_delay_entries_delay_3s_miui">3 секунды</string>
+	<string name="auto_answer_delay_entries_delay_5s_miui">5 секунд</string>
 	<string name="auto_answer_delay_entries_immediately_miui">Нет задержки</string>
 	<string name="auto_answer_delay_title_miui">Задержка автоответа</string>
 	<string name="auto_answer_pref_summary_miui">Отвечать на звонки автоматически</string>

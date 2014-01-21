@@ -275,10 +275,10 @@
     <string name="select_audio">Выбор аудио</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
     <string name="copy_to_sdcard_success">Вложение сохранено как %s</string>
-    <string name="copy_to_sdcard_fail">Вложение не сохранено.</string>
+    <string name="copy_to_sdcard_fail">Вложение не сохранено</string>
     <string name="save_ringtone">Сохранить как мелодию звонка</string>
-    <string name="saved_ringtone">Мелодия сохранена.</string>
-    <string name="saved_ringtone_fail">Мелодия не сохранена.</string>
+    <string name="saved_ringtone">Мелодия сохранена</string>
+    <string name="saved_ringtone_fail">Мелодия не сохранена</string>
     <string name="menu_insert_smiley">Вставить смайл</string>
     <string name="select_link_title">Выбор действия</string>
     <string name="slide_number">Слайд %s</string>
@@ -293,10 +293,10 @@
     <string name="search_hint">Поиск сообщений</string>
     <string name="search">Сообщения</string>
     <string name="search_setting_description">Текст в сообщениях</string>
-    <string name="search_empty">Ничего не найдено.</string>
+    <string name="search_empty">Ничего не найдено</string>
     <string name="search_history">Результатов для \"%2$s\": %1$s</string>
     <string name="confirm_clear_search_title">Очистить</string>
-    <string name="confirm_clear_search_text">История поиска будет удалена.</string>
+    <string name="confirm_clear_search_text">История поиска будет удалена</string>
     <string name="pref_mms_clear_search_history_title">Очистить историю поиска</string>
     <string name="pref_mms_clear_search_history_summary">Не показывать предыдущие сообщения в поле поиска</string>
     <string name="save">Сохранить</string>

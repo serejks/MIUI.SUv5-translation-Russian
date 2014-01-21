@@ -13,8 +13,8 @@
 	<string name="backup_theme_name">Мои бэкапы</string>
 	<string name="theme_description_title_default">По умолчанию</string>
 	<string name="theme_description_title_customized">Обычный</string>
-	<string name="component_category_finest_title">ОСНОВНОЕ</string>
-	<string name="component_category_more_title">ОСТАЛЬНОЕ</string>
+	<string name="component_category_finest_title">Основное</string>
+	<string name="component_category_more_title">Остальное</string>
 	<string name="theme_component_title_framework">Стили</string>
 	<string name="theme_component_title_mms">Сообщения</string>
 	<string name="theme_component_title_wallpaper">Обои</string>
@@ -132,7 +132,7 @@
 	<string name="resource_comment_account_need_activitied">Активируйте аккаунт Xiaomi.</string>
 	<string name="resource_comment_rate">Оценка:</string>
 	<string name="resource_comment_entry_tips">Показать комментарии</string>
-	<string name="fail_to_add_account">Ошибка добавления аккаунта.</string>
+	<string name="fail_to_add_account">Ошибка добавления аккаунта</string>
 	<string name="menu_refresh">Обновить</string>
 	<string name="mi_wallpaper_title">Обои</string>
 	<string name="mi_wallpaper_loading">Загрузка обоев…</string>
@@ -170,7 +170,7 @@
 	<string name="online_search_hint">Поиск онлайн ресурсов.</string>
 	<string name="loading">Загрузка…</string>
 	<string name="download_failed">Сбой загрузки.</string>
-	<string name="download_preview_failed">Ошибка загрузки предпросмотра.</string>
+	<string name="download_preview_failed">Ошибка загрузки предпросмотра</string>
 	<string name="resource_delete_confirm">Удалить ресурсы?</string>
 	<string name="resource_delta_update_failed">Ошибка обновления: повторная загрузка темы…</string>
 	<string name="resource_delta_update_successful">Успешно обновлено</string>
@@ -182,7 +182,7 @@
 	<string name="resource_system_title">Системные ресурсы</string>
 	<string name="resource_downloaded_title">Загруженные ресурсы</string>
 	<string name="resource_see_more">Еще</string>
-	<string name="resource_no_result">Нет результатов.</string>
+	<string name="resource_no_result">Нет результатов</string>
 	<string name="resource_list_title">Последние выбранные</string>
 	<string name="resource_get_auth_checking">Авторизация…</string>
 	<string name="resource_get_auth_retrieving">Восстановление авторизации…</string>
@@ -215,7 +215,7 @@
     <string name="resource_pack_confirm">Вы уже купили компонентов темы: %1$d, будет выгоднее купить полный комплект, чем допукать по одному еомпоненту.</string>
     <string name="resource_pack_warning">Вы уже купили компонентов темы: %1$d, будет выгоднее купить остальные компоненты по одному, чем полный комплект.</string>
     <string name="resource_delta_update_total">%1$d обновления сохранены %2$s</string>
-    <string name="resource_detail_window_title">%1$s инфо</string>
+    <string name="resource_detail_window_title">%1$s детали</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_comment_title">Комментарии</string>
     <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора %1$s</string>
@@ -271,7 +271,7 @@
     <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
     <string name="resource_exchange_success">Готово!</string>
     <string name="resource_exchange_share_code_dlg_title">Отправка…</string>
-    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы преобреди для темы %1$sis: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$sis: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
     <string name="resource_comment_score_count">Пользователей: %1$s</string>
