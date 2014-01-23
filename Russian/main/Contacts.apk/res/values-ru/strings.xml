@@ -298,7 +298,7 @@
     <string name="sms_disambig_title">Выберите номер</string>
     <string name="make_primary">Запомнить выбор</string>
     <string name="quickcontact_missing_app">Нет приложения для выполнения этого действия</string>
-    <string name="missing_name">Имя не указано</string>
+    <string name="missing_name">Мои группы</string>
     <string name="menu_accounts">Аккаунты</string>
     <string name="menu_clear_frequents">Очистить часто используемые</string>
     <string name="menu_contacts_filter">Фильтр контактов</string>
