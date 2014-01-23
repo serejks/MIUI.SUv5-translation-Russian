@@ -37,7 +37,7 @@
     <string name="act_city_find_gps_error">Выберите город вручную</string>
     <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления.</string>
     <string name="act_weather_cycle_update">Обновление…</string>
-    <string name="act_weather_update_time">Обновлено %s</string>
+    <string name="act_weather_update_time">Обновлено: %s</string>
     <string name="act_weather_cycle_low_temp">низкая</string>
     <string name="act_weather_range_title">Прогноз погоды</string>
     <string name="act_weather_range_select">Выберите город</string>
@@ -120,4 +120,5 @@
     <string name="menu_more">Информация</string>
 	<string name="share_button_text">Поделиться</string>
     <string name="share_choice_titile">Поделиться</string>
+	<string name="weather_unit_middle">" | "</string>
 </resources>
