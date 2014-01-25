@@ -1362,7 +1362,7 @@
     <string name="install_text">Установить</string>
     <string name="disable_text">Отключить</string>
     <string name="enable_text">Включить</string>
-    <string name="clear_user_data_text">Стереть данные</string>
+    <string name="clear_user_data_text">Очистить данные</string>
     <string name="app_factory_reset">Удалить обновления</string>
     <string name="auto_launch_enable_text">Это приложение по умолчанию используется для некоторых действий.</string>
     <string name="always_allow_bind_appwidgets_text">Вы разрешили этому приложению создавать виджеты и получать доступ к данным.</string>
@@ -1408,8 +1408,8 @@
     <string name="clear_data_failed">Не удалось удалить данные приложения.</string>
     <string name="app_factory_reset_dlg_title">Удалить обновления?</string>
     <string name="app_factory_reset_dlg_text">Все обновления для этого приложения будут удалены.</string>
-    <string name="clear_failed_dlg_title">Стереть данные</string>
-    <string name="clear_failed_dlg_text">Не удалось удалить данные.</string>
+    <string name="clear_failed_dlg_title">Очистить данные</string>
+    <string name="clear_failed_dlg_text">Не удалось удалить данные</string>
     <string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
     <string name="security_settings_desc_multi">Для увеличения быстродействия и уменьшения потребления памяти некоторые из разрешиний доступны %1$s, т.к. он запущен одним процессом с %2$s:</string>
     <string name="join_two_items">%1$s и %2$s</string>
