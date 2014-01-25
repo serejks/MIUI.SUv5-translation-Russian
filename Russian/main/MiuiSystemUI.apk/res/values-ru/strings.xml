@@ -54,7 +54,7 @@
     <string name="screenshot_saved_title">Скриншот сохранен</string>
     <string name="screenshot_saved_text">Нажмите, для просмотра скриншота.</string>
     <string name="screenshot_failed_title">Невозможно сделать скриншот</string>
-    <string name="screenshot_failed_text">Невозможно сохранить скриншот. Накопитель уже используется.</string>
+    <string name="screenshot_failed_text">Невозможно сохранить скриншот. Возможно накопитель уже используется или недостаточно памяти.</string>
     <string name="usb_preference_title">Настройки передачи файлов по USB</string>
     <string name="use_mtp_button_title">Подключить как медиаплеер (MTP)</string>
     <string name="use_ptp_button_title">Подключить как камеру (PTP)</string>
