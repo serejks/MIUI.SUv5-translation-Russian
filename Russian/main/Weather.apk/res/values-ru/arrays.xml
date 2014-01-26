@@ -101,7 +101,7 @@
         <item>Идет небольшой дождь, не забудьте взять зонтик.</item>
         <item>На улице очень сильная песчаная буря, не забудьте надеть максу.</item>
         <item>На улице очень сильная песчаная буря, не забудьте надеть максу.</item>
-        <item>На улице! Гуляйте с осторожностью!</item>
+        <item>На улице град! Гуляйте с осторожностью!</item>
     </string-array>
     <string-array name="weather_sms_content">
         <item>Не забудьте нанести солнцезащитный крем.</item>
@@ -188,7 +188,7 @@
         <item>15</item>
         <item>Легкая куртка</item>
         <item>16</item>
-        <item>Remember to bring additional layers!</item>
+        <item>Не забудьте одеть теплую одежду!</item>
         <item>17</item>
         <item>Наденьте куртку!</item>
         <item>18</item>
