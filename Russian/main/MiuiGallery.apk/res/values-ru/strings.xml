@@ -212,7 +212,7 @@
     <string name="cant_delete_cloud_album">Ошибка удаления: %s системный альбом или создан другим пользователем.</string>
     <string name="cannot_delete_sharer_photo">Невозможно удалить элементов: %s. Файл загружен другим пользователем.</string>
     <string name="click_to_enter_camera">Альбом камеры пуст. Для того, чтобы сделать снимки нажмите на экран</string>
-    <string name="camera_view_none_message">Используйте Камеру для создания фото и видео.</string>
+    <string name="camera_view_none_message">Используйте Камеру для создания фото и видео</string>
 	<string name="can_modified">Разрешить получателю добавлять картинки</string>
     <string name="none_picture">Нет изображений</string>
     <string name="cancel_hint">Операция отменена</string>

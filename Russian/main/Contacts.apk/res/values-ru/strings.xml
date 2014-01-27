@@ -814,7 +814,7 @@
     <string name="picker_all_list_empty">Нет контактов</string>
     <string name="picker_favorites_list_empty">Нет избранных</string>
     <string name="picker_groups_list_empty">Нет групп</string>
-    <string name="contact_edit_title_insert">Создать контакт в \"%s\"</string>
+    <string name="contact_edit_title_insert">Создать %s контакт</string>
     <string name="contact_edit_title_edit">Редактировать контакт</string>
     <string name="contact_edit_title_readonly">Контакт только для чтения</string>
     <string name="account_container_title">Импортировано из</string>
