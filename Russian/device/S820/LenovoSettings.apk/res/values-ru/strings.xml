@@ -1571,7 +1571,7 @@
     <string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
     <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений.</string>
     <string name="verify_apps_over_usb_title">Проверять приложения через USB</string>
-    <string name="verify_apps_over_usb_summary">Проверять пиложения с помощью ADB/ADT на вредоностное ПО.</string>
+    <string name="verify_apps_over_usb_summary">Проверять приложения с помощью ADB/ADT на вредоносное ПО.</string>
     <string name="enforce_read_external_title">Защита USB накопителя</string>
     <string name="enforce_read_external_summary">Приложения должны посылать запрос для доступа к USB накопителю</string>
     <string name="enforce_read_external_confirm_title">Защитить USB накопитель?</string>
@@ -1602,7 +1602,7 @@
 "<li><ul>"Панорамирование: Перетащите двумя или более пальцами по экрану.
 "<li>Регулировка уровня масштабирования: Зажмите два или более пальца вместе или разведите их в стороны.</li></ul></li>"
 
-Можно также временно увеличить то, что под пальцем тройным нажтием и удерживая. В этом увеличенном виде, можно двигать пальцем, чтобы увидеть различные части экрана. Поднимите палец, чтобы вернуться к предыдущему состоянию.
+Можно также временно увеличить то, что под пальцем тройным нажатием и удерживая. В этом увеличенном виде, можно двигать пальцем, чтобы увидеть различные части экрана. Поднимите палец, чтобы вернуться к предыдущему состоянию.
 
 Заметка: Тройное нажатие для увеличения работает везде кроме клавиатуры и навигации."</string>
     <string name="accessibility_global_gesture_preference_title">Доступный ярлык</string>
@@ -1772,7 +1772,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">вкл</string>
     <string name="gadget_state_off">выкл</string>
-    <string name="gadget_state_turning_on">включени</string>
+    <string name="gadget_state_turning_on">включение</string>
     <string name="gadget_state_turning_off">выключение</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gadget_bluetooth">Bluetooth</string>
@@ -1952,7 +1952,7 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
     <string name="enable_traces_title">Включить трассировку</string>
     <string name="enable_traces_dialog_title">Выбрать трассировки</string>
-    <string name="enable_traces_summary_none">Нет включеной трассировки</string>
+    <string name="enable_traces_summary_none">Трассировки не включены</string>
     <string name="enable_traces_summary_num">%1$d включенных трассировок</string>
     <string name="enable_traces_summary_all">Все трассировки активированы</string>
     <string name="enable_opengl_traces_title">Включить OpenGL трассировку</string>
@@ -1963,12 +1963,12 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
     <string name="force_hw_ui">Ускорить работу GPU</string>
     <string name="force_hw_ui_summary">Использовать аппаратное ускорение 2D в приложениях</string>
     <string name="force_msaa">Усилить 4x MSAA</string>
-    <string name="force_msaa_summary">Включиьт 4x MSAA в OpenGL ES 2.0 приложениях</string>
+    <string name="force_msaa_summary">Включить 4x MSAA в OpenGL ES 2.0 приложениях</string>
     <string name="track_frame_time">Профиль GPU рендеринга</string>
     <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Окно: масштаб</string>
     <string name="transition_animation_scale_title">Переход: масштаб</string>
-    <string name="trust_switch_dialog_msg">MIUI не будет спрашивать разрешения на действия этого приложения связанных с безопасностью и конфиденциаьностью.\nДоверять этому приложению?</string>
+    <string name="trust_switch_dialog_msg">MIUI не будет спрашивать разрешения на действия этого приложения связанных с безопасностью и конфиденциальностью.\nДоверять этому приложению?</string>
     <string name="animator_duration_scale_title">Скорость анимации</string>
     <string name="overlay_display_devices_title">Имитация дополнительных дисплеев</string>
 	<string name="antispam_quiet_mode_title">Тихий режим</string>
