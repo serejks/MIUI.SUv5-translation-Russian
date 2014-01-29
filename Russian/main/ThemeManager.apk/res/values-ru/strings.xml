@@ -215,7 +215,7 @@
     <string name="resource_pack_confirm">Вы уже купили компонентов темы: %1$d, будет выгоднее купить полный комплект, чем допукать по одному еомпоненту.</string>
     <string name="resource_pack_warning">Вы уже купили компонентов темы: %1$d, будет выгоднее купить остальные компоненты по одному, чем полный комплект.</string>
     <string name="resource_delta_update_total">%1$d обновления сохранены %2$s</string>
-    <string name="resource_detail_window_title">%1$s детали</string>
+    <string name="resource_detail_window_title">%1$s: детали</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_comment_title">Комментарии</string>
     <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора %1$s</string>

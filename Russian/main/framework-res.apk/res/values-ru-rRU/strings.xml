@@ -301,9 +301,9 @@
     <string name="safeMode">Безопасный режим</string>
     <string name="android_system_label">Система Android</string>
     <string name="policylab_limitPassword">Установка правил паролей</string>
-    <string name="policydesc_limitPassword">Регулировка длинны и содержания пароля для разблокировки экрана</string>
+    <string name="policydesc_limitPassword">Регулировка длины и содержания пароля для разблокировки экрана</string>
     <string name="policylab_watchLogin">Отслеживать попытки снятия блокировки экрана</string>
-    <string name="policydesc_watchLogin">Отслеживать количество неверно введенных паролей для снятия блокировки экрана и блокировать телефон либо уничтожить все данные на нем, если было введено слишком много неверных паролей.</string>
+    <string name="policydesc_watchLogin">Отслеживать количество неверно введенных паролей для снятия блокировки экрана и блокировать телефон либо уничтожить все данные на нем, если было введено слишком много неверных паролей</string>
     <string name="policylab_resetPassword">Изменение пароля разблокировки экрана</string>
     <string name="policydesc_resetPassword">Изменение пароля разблокировки экрана</string>
     <string name="policylab_forceLock">Экран блокировки</string>
@@ -311,9 +311,9 @@
     <string name="policylab_wipeData">Удаление всех данных</string>
     <string name="policydesc_wipeData">Удаление всех данных телефона без предупреждения для восстановления заводских настроек</string>
     <string name="policylab_setGlobalProxy">Установление глобального прокси устройства</string>
-    <string name="policydesc_setGlobalProxy">Установление глобального прокси устройства, если политика сети включена. Только администратор устанавливает эффективный глобальный прокси.</string>
+    <string name="policydesc_setGlobalProxy">Установление глобального прокси устройства, если политика сети включена. Только администратор устанавливает эффективный глобальный прокси</string>
     <string name="policylab_expirePassword">Установка продолжительности действия пароля для разблокировки экрана</string>
-    <string name="policydesc_expirePassword">Контролирует, как часто пароль для разблокировки экрана должен изменяться</string>
+    <string name="policydesc_expirePassword">Контроль частоты изменения пароля для разблокировки</string>
     <string name="policylab_encryptedStorage">Установка шифрования</string>
     <string name="policydesc_encryptedStorage">Шифрование данных приложения</string>
     <string name="policylab_disableCamera">Отключить камеры</string>
