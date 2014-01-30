@@ -2193,9 +2193,9 @@ Step 2: Нажмите и удерживайте двумя пальцами, п
 	<string name="change_password">Сменить пароль</string>
 	<string name="change_security_lock">Другие способы разблокировки</string>
     <string name="do_not_disturb_mode">Тихий режим</string>
-    <string name="dndm_notification">Тихий режим активен.</string>
+    <string name="dndm_notification">Тихий режим активен</string>
     <string name="dndm_open">Тихий режим</string>
-    <string name="dndm_summary">Когда тихий режим активен звук всех вызовов и уведомлений, во время блокировки телефона, будет отключен.</string>
+    <string name="dndm_summary">Когда тихий режим активен, звук вызовов и уведомлений, во время блокировки телефона, будет отключен.</string>
     <string name="dndm_auto_setting_group">По расписанию</string>
     <string name="dndm_auto_button_title">Время</string>
     <string name="dndm_auto_time_setting">Настройки времени</string>
