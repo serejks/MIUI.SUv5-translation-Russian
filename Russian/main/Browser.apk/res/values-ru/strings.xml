@@ -467,7 +467,7 @@
 	<string name="pref_volume_key_operation">Действия клавиш громкости</string>
 	<string name="pref_gesture_title">Жесты</string>
 	<string name="pref_fling_on_border_enabled">Переключение вкладок жестом</string>
-	<string name="pref_fling_on_border_enabled_title_summary">Слайд от левого или правог края экрана для переключения между вкладками</string>
+	<string name="pref_fling_on_border_enabled_title_summary">Слайд от левого или правого края экрана для переключения между вкладками</string>
 	<string name="pref_fling_on_border_operation">Действие при отпускании на границе</string>
 	<string name="is_page_top">Верх страницы</string>
 	<string name="is_page_bottom">Низ страницы</string>
