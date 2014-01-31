@@ -293,4 +293,5 @@
     <string name="resource_trial_end_message">Пробный период %1$s окончен. Если вам понравилось, вы можете приобрести полную версию.</string>
     <string name="resource_trial_end_restore">Отмена</string>
     <string name="resource_trial_end_purchase">Приобрести</string>
+    <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
 </resources>
