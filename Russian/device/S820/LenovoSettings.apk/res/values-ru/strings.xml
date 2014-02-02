@@ -2870,7 +2870,7 @@ Android File Transfer
     <string name="safe_relative">Связанные с безопасностью</string>
     <string name="privacy_relative">Связанные с конфиденциальностью</string>
     <string name="other_relative">Другие разрешения</string>
-    <string name="permission_manage_title">%s данные разрешения</string>
+    <string name="permission_manage_title">Разрешения %1$s</string>
     <string name="filter_apps_cached">Кэш</string>
     <string name="screen">Экран</string>
     <string name="system">Система</string>
@@ -3634,8 +3634,8 @@ Android File Transfer
     <string name="title_permission_no">Монитор разрешений выключен</string>
     <string name="title_permission_yes">Монитор разрешений включен</string>
     <string name="summary_permission">Защита личных данных от сторонних приложений</string>
-    <string name="title_mms_no">Фильтр сообщенией отключен</string>
-    <string name="title_mms_yes">Фильтр сообщенией включен</string>
+    <string name="title_mms_no">Фильтр сообщений отключен</string>
+    <string name="title_mms_yes">Фильтр сообщений включен</string>
     <string name="summary_mms">Фильтр нежелательных сообщений (продажи, рекламы и т.д.)</string>
     <string name="title_usb_no">USB отладка включена</string>
     <string name="title_usb_yes">USB отладка отключена</string>

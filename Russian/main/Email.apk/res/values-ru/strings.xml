@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permission_read_attachment_label">Открывать вложения</string>
-    <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в почте.</string>
+    <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в электронной почте.</string>
     <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
     <string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли.</string>
     <string name="app_name">Почта</string>

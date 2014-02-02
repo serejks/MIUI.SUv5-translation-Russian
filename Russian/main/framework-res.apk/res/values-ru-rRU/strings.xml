@@ -532,7 +532,7 @@
     <string name="searchview_description_search">Поиск</string>
     <string name="searchview_description_query">Что ищем?</string>
     <string name="searchview_description_clear">Удалить запрос</string>
-    <string name="searchview_description_submit">Отправить запрос</string>
+    <string name="searchview_description_submit">Отправка запроса</string>
     <string name="searchview_description_voice">Голосовой поиск</string>
     <string name="enable_explore_by_touch_warning_title">Включить навигацию касанием?</string>
     <string name="enable_explore_by_touch_warning_message">%1$s пытается включить навигацию касанием. Если ее включить, вы сможете видеть описание того, что находится под вашим пальцем.</string>

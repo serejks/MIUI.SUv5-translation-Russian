@@ -5,7 +5,7 @@
     <string name="permdesc_downloadManager">Приложение сможет получить доступ к менеджером закачек и использовать его для загрузки файлов. Вредоносные программы могут использовать эту функцию, чтобы сорвать загрузки и получить доступ к личной информации.</string>
     <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера</string>
     <string name="permdesc_downloadManagerAdvanced">Приложение сможет получить доступ к расширенным функциям загрузки менеджера. Вредоносные программы могут использовать эту функцию, чтобы сорвать загрузки и получить доступ к личной информации.</string>
-    <string name="permlab_downloadCompletedIntent">Отправить оповещение о загрузке</string>
+    <string name="permlab_downloadCompletedIntent">Отправка оповещения о загрузке</string>
     <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы могут использовать эту функцию, чтобы запутать других приложений, которые скачивают файлы.</string>
     <string name="permlab_seeAllExternal">Показать все загрузки на USB накопитель</string>
     <string name="permdesc_seeAllExternal">Разрешить приложению доступ к загрузкам на SD карте, независимо от того, какие приложения сделали их</string>
