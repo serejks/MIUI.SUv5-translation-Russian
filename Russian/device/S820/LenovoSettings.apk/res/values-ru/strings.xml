@@ -254,10 +254,10 @@
     <string name="device_info_default">Неизвестно</string>
     <string name="show_dev_on">Теперь вы разработчик!</string>
     <string name="show_dev_already">Не требуется, вы уже разработчик.</string>
-    <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
-    <string name="header_category_device">УСТРОЙСТВО</string>
-    <string name="header_category_personal">ПЕРСОНАЛИЗАЦИЯ</string>
-    <string name="header_category_system">СИСТЕМА</string>
+    <string name="header_category_wireless_networks">Беспроводные сети</string>
+    <string name="header_category_device">Устройство</string>
+    <string name="header_category_personal">Персонализация</string>
+    <string name="header_category_system">Система</string>
     <string name="turn_on_radio">Включить радио</string>
     <string name="turn_off_radio">Выключить радио</string>
 	<string name="turn_off_security_lock">Отключить блокировку</string>
@@ -287,7 +287,7 @@
     <string name="radioInfo_unknown">неизвестно</string>
     <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_display_bytes">байт</string>
-    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_display_dbm">дБм</string>
     <string name="radioInfo_display_asu">asu</string>
     <string name="sdcard_unmount">Извлечь USB накопитель</string>
     <string name="sdcard_format">Очистить USB накопитель</string>
@@ -1606,20 +1606,20 @@
 
 Заметка: Тройное нажатие для увеличения работает везде кроме клавиатуры и навигации."</string>
     <string name="accessibility_global_gesture_preference_title">Доступный ярлык</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Вкл.</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Выкл.</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Вкл</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Выкл</string>
     <string name="accessibility_global_gesture_preference_description">"Когда эта функция включена, вы можете быстро включить функции для людей с ограниченными возможностями в два этапа:
 
-Step 1: Нажмите и удерживайте кнопку питания, пока не услышите звук или почувствуете вибрацию.
+Шаг 1: Нажмите и удерживайте кнопку питания, пока не услышите звук или почувствуете вибрацию.
 
-Step 2: Нажмите и удерживайте двумя пальцами, пока не услышите звук подтверждения.
+Шаг 2: Нажмите и удерживайте двумя пальцами, пока не услышите звук подтверждения.
 
-Если устройство имеет несколько пользователей, используя этот ярлык на экране блокировки позволяет временно доступности, пока устройство не будет разблокировано."</string>
+Если устройство имеет несколько пользователей, кнопка на экране блокировки позволит получить временный доступ."</string>
     <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Увеличение изображения</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автообновление увеличения экрана</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Обновления экрана на увеличение при переходе в приложение</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания заверш. вызов</string>
     <string name="accessibility_toggle_speak_password_preference_title">Произносить пароль</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка нажатия и удерживания</string>
     <string name="accessibility_toggle_script_injection_preference_title">Повышение доступности веб-сайтов</string>
@@ -2922,10 +2922,10 @@ Android File Transfer
     <string name="phone_call_noise_suppression">Подавление шумов при разговоре</string>
 	<string name="sync_wifi_only">Только по Wi-Fi</string>
     <string name="line_breaking_title">Оптимизация текста</string>
-    <string name="line_breaking_summary">оптимизировать нарушения пунктов абзаца</string>
+    <string name="line_breaking_summary">Оптимизировать нарушения пунктов абзаца</string>
     <string name="nfc_se_route_title">Безопасные позиции элемента</string>
     <string name="current_use_uicc_se">Использование безопасных элементов на SIM карте</string>
-    <string name="current_use_ese">Использоват встроенные защищенные элементы</string>
+    <string name="current_use_ese">Использовать встроенные защищенные элементы</string>
     <string name="bluetooth_advanced_settings">Дополнительные настройки</string>
     <string name="bluetooth_profile_ftp">Передача файлов</string>
     <string name="bluetooth_ftp_profile_summary_use_for">Использовать для передачи данных</string>
@@ -3134,7 +3134,7 @@ Android File Transfer
     <string name="gemini_roaming_settings_title">Роуминг</string>
     <string name="gemini_data_roaming_title">Данные в роуминге</string>
     <string name="gemini_data_roaming_summary">Использование передачи данных в роуминге</string>
-    <string name="gemini_roaming_reminder_title">Показывать напоминание о роуминге</string>
+    <string name="gemini_roaming_reminder_title">Уведомление о роуминге</string>
     <string name="gemini_roaming_reminder_summary">Показывать предложения, основанные на использовании SIM карты</string>
     <string name="gemini_contacts_sim_title">Контакты SIM</string>
     <string name="gemini_contacts_sim_summary">Привязка контактов к конкретной SIM карте</string>

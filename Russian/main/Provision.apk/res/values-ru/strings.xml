@@ -5,7 +5,7 @@
     <string name="shutdown">Выключить</string>
     <string name="other_service_label">Прочие сервисы</string>
     <string name="other_service_location">Определение местоположения</string>
-    <string name="other_service_location_summary">Сервис определения местоположения позоляет карте и другим приложениям получать данные о вашем местоположении по GPS</string>
+    <string name="other_service_location_summary">Сервис определения местоположения позволяет картам и другим приложениям получать данные о вашем местоположении по GPS</string>
     <string name="other_service_google_location">Сервис местоположения Google</string>
     <string name="other_service_google_location_use">Местоположение и поиск Google</string>
     <string name="other_service_google_location_use_summary">Разрешить Google использовать ваше местоположение для улучшения результатов поиска</string>
@@ -15,8 +15,8 @@
     <string name="other_service_user_experience">Программа улучшения качества</string>
     <string name="other_service_user_experience_summary0">"При использовании нашего продукта мы надеемся, что вы поможете, обеспечить обратную связь. Ваши отзывы будут отправлены согласно с "</string>
     <string name="other_service_user_experience_summary1">Политикой конфиденциальности</string>
-    <string name="sim_card_detection_dialog_message">Обнаружение SIM карты. Подождите.</string>
-    <string name="sim_card_detection_label">SIM карта обнаружена</string>
+    <string name="sim_card_detection_dialog_message">Обнаружение SIM карты…</string>
+    <string name="sim_card_detection_label">SIM карта</string>
     <string name="sim_card_detection_info">Мы не можем настроить аккаунт Xiaomi без SIM карты. Вам необходима SIM карта для использования сервисов, как например синхронизация контактов, поиск телефона и т.д.</string>
     <string name="sim_card_detection_status_absent">SIM карта не обнаружена!</string>
     <string name="setup_complete_label">Спасибо</string>
@@ -25,8 +25,8 @@
     <string name="setup_complete_summary">Настройка завершена! Наслаждайтесь MIUI!</string>
     <string name="traffic_protection_label">Регулировка трафика</string>
     <string name="traffic_protection_summary">Регулировка трафика напомнит Вам когда закончится трафик на вашем тарифном плане во избежание превышения расходов.</string>
-    <string name="traffic_protection_unknown"><u>Я не знаю… Введу позже.</u></string>
-    <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика.</string>
+    <string name="traffic_protection_unknown"><u>Ввести позже</u></string>
+    <string name="traffic_protection_text_hint">Введите лимит трафика</string>
     <string name="data_usage_summary">Если вы еще не выбрали тарифный план, рекомендуется выключить передачу данных. В противном случае оператор может взимать плату.</string>
     <string name="use_data">Передача данных включена</string>
     <string name="input_method_category">Выберите способ ввода по умолчанию</string>

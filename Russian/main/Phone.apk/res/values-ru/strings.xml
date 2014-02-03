@@ -1505,7 +1505,7 @@
     <string name="no_service_msg_title_gemini">Нет сети для \"%s\"</string>
     <string name="no_service_msg_title">Нет сети</string>
     <string name="data_conn_under_roaming_hint">Включите роуминг данных в Настройках -> Беспроводные сети -> Мобильные сети -> Данные в роуминге</string>
-    <string name="gemini_data_connection">Подключение для передачи данных</string>
+    <string name="gemini_data_connection">Передача данных</string>
     <string name="plmn_list_setting_title">Предпочтительные сети</string>
     <string name="network_id">ID Сети</string>
     <string name="dialog_network_priority_title">Приоритет</string>

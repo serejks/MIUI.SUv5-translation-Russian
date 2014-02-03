@@ -50,9 +50,9 @@
     <string name="no">Нет</string>
     <string name="create">Создать</string>
     <string name="device_info_default">Неизвестно</string>
-    <string name="header_category_wireless_networks">Сеть</string>
+    <string name="header_category_wireless_networks">Беспроводные сети</string>
     <string name="header_category_device">Устройство</string>
-    <string name="header_category_personal">Личное</string>
+    <string name="header_category_personal">Персонализация</string>
     <string name="header_category_system">Система</string>
     <string name="turn_on_radio">Включить радио</string>
     <string name="turn_off_radio">Выключить радио</string>
