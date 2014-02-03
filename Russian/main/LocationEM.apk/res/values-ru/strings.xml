@@ -141,7 +141,7 @@
     <string name="pde_port">PDE Порт</string>
     <string name="epo_functionality">EPO Функциональность</string>
     <string name="epo_enable">Вкл. EPO</string>
-    <string name="epo_disabled">EPO Откл.</string>
+    <string name="epo_disabled">EPO выкл.</string>
     <string name="epo_auto_download">Автозагрузка</string>
     <string name="epo_downloading">EPO (Загрузка)</string>
     <string name="minute">Мин.</string>

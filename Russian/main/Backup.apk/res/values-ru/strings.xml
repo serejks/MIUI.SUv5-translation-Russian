@@ -180,7 +180,7 @@
 	<string name="exchange_account">Валютный счет</string>
 	<string name="system_backup">Бэкап</string>
 	<string name="backup_empty_info">" Бэкап ваших данных, настроек и приложений"</string>
-	<string name="system_backup_info">Настройки системы, рабочий стол и т.д.</string>
+	<string name="system_backup_info">Настройки системы, Домашний экран и т.д.</string>
 	<string name="software_backup_info">Программы и их данных</string>
 	<string name="account_contact_backup_info">Аккаунт Google, Xiaomi и данные контактов</string>
 	<string name="select_backup_item">Выберите бэкапы</string>

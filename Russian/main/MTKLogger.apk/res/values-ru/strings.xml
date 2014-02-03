@@ -4,7 +4,7 @@
     <string name="notification_title_network">Отчеты сети</string>
     <string name="notification_title_mobile">Отчеты телефона</string>
     <string name="notification_title_modem">Отчеты модема</string>
-    <string name="notification_title">Прилодение MTK-Отчеты запущено</string>
+    <string name="notification_title">Приложение MTK-Отчеты запущено</string>
     <string name="notification_on_summary_suffix">включено.</string>
     <string name="notification_on_summary_suffixes">включены</string>
     <string name="notification_off_summary_suffix">выключено.</string>
@@ -24,8 +24,7 @@
     <string name="log_free_storage">свободно</string>
     <string name="log_start">Записано: %s</string>
     <string name="log_stop">Остановлено: %s</string>
-    <string name="log_unselected">Отключено: %s</string>
-    <string name="time_default">0:00:00</string>
+    <string name="log_unselected">Выключено: %s</string>
     <string name="phone_storage">Память телефона</string>
     <string name="sd_card">SD карта</string>
     <string name="log_path_not_exist">Патч %s не существует!</string>
@@ -41,9 +40,9 @@
     <string name="advanced_settings_title">Расширенные настройки</string>
     <string name="enable_tag_log_title">Отчеты тэгов</string>
     <string name="enable_tag_log_summary">Включить/выключить отчеты тэгов</string>
-    <string name="enable_exception_reporter_title">Отчет искючений</string>
-    <string name="enable_exception_reporter_summary">Включить/выключить отчет искючений</string>
-    <string name="enable_ui_debug_mode_title">Режим откладки</string>
+    <string name="enable_exception_reporter_title">Отчет исключений</string>
+    <string name="enable_exception_reporter_summary">Включить/выключить отчет исключений</string>
+    <string name="enable_ui_debug_mode_title">Режим отладки</string>
     <string name="enable_ui_debug_mode_summary">Включить/выключить режим отладки интерфейса</string>
     <string name="log_storage_location_title">Место хранения</string>
     <string name="run_command_title">Команды запуска</string>
@@ -53,10 +52,10 @@
     <string name="enable_kernel_log_title">Отчеты ядра</string>
     <string name="enable_kernel_log_summary">Включить/выключить Отчеты ядра</string>
     <string name="enable_bluetooth_log_title">Bluetooth Отчеты</string>
-    <string name="enable_bluetooth_log_summary">Включить/выключить bluetooth Отчеты</string>
+    <string name="enable_bluetooth_log_summary">Включить/выключить Bluetooth отчеты</string>
     <string name="limit_log_size_title">Лимит Отчетов(Мб)</string>
     <string name="limit_log_size_summary">Очищать отчеты после превышения заданного максимального размера</string>
-    <string name="limit_log_size_dialog_message" formatted="false">Лимит размера отчетов %s должен быть между %dMB и %dMB(Размер %s).</string>
+    <string name="limit_log_size_dialog_message" formatted="false">Лимит размера отчетов %s должен быть между %d Мб и %d Мб (Размер %s).</string>
     <string name="start_automatically_title">Начинать автоматически</string>
     <string name="start_automatically_mobile_summary">Начинать запись отчетов автоматически после следующего включения</string>
     <string name="log_mode_title">Режим отчетов</string>
@@ -71,7 +70,7 @@
     <string name="clear_all_dlg_title">Очистить все</string>
     <string name="message_delete_all_log">Очистить все отчеты?</string>
     <string name="cancel_button">Отмена</string>
-    <string name="ok_button">Ок</string>
+    <string name="ok_button">ОК</string>
     <string name="clear_dialog_title">Очистка отчетов</string>
     <string name="clear_dialog_content">Пожалуйста, подождите…</string>
     <string name="selected_item_count">Выбрано: %d</string>
@@ -83,27 +82,27 @@
     <string name="message_deletelog">Очистить выбранные отчеты?</string>
     <string name="error_deamon_unable">NativeUnable</string>
     <string name="error_storage_not_ready">Память недоступна</string>
-    <string name="error_storage_full">Память заполена</string>
+    <string name="error_storage_full">Память заполнена</string>
     <string name="error_send_cmd_fail">Ошибка</string>
     <string name="error_deamon_die">Native is dead</string>
-    <string name="error_unsupport_log">Неподдерживаемы формат отчета</string>
+    <string name="error_unsupport_log">Неподдерживаемые формат отчета</string>
     <string name="error_storage_unavailable">Отчет недоступны.</string>
     <string name="error_log_folder_deleted">Запущенная папка отчетов удалена.</string>
     <string name="error_cmd_timeout">Тайм-аут истек.</string>
     <string name="error_create_log_folder_fail">Ошибка создания папки отчетов.</string>
-    <string name="error_common">Ошибка.</string>
+    <string name="error_common">Ошибка</string>
     <string name="taglog">Отчеты тэгов</string>
     <string name="taglog_title">Отчеты тэгов</string>
     <string name="taglog_title_warning">Ошибка отчета тэгов!</string>
     <string name="taglog_title_no_space">Недостаточно места!</string>
-    <string name="taglog_msg_no_space">"%sМб и больше места должно быть свободно для создания отчета.
+    <string name="taglog_msg_no_space">"%s Мб и больше места должно быть свободно для создания отчета.
  Очистить другие отчеты или отменить создание?"</string>
     <string name="taglog_msg_input">"Отчет тэгов будет сжимать текущие журналы, чтобы сохранить место хранения.
 
 Ввседите имя тэга:"</string>
     <string name="taglog_msg_logtool_stopped">Запись остановлена! Хотели бы вы запустить запись отчетов?</string>
     <string name="taglog_msg_zip_log_fail">Ошибка сжатия!</string>
-    <string name="taglog_msg_no_sdcard">"SD карта недоступна!"</string>
+    <string name="taglog_msg_no_sdcard">SD карта недоступна!</string>
     <string name="taglog_msg_sdcard_not_writtable">Запись на SD карту невозможна!</string>
     <string name="taglog_msg_compress_log">Сжатие отчетов…</string>
     <string name="taglog_run_in_background_button">Запущено в фоне</string>

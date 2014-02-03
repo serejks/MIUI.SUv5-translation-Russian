@@ -174,7 +174,7 @@
     <string name="remove_hidden_album">Отображать альбом</string>
     <string name="photos">Фото</string>
     <string name="tab_lockscreen_text">Экран блок-ки</string>
-    <string name="tab_wallpaper_text">Рабочий стол</string>
+    <string name="tab_wallpaper_text">Домашний экран</string>
     <string name="tab_all_text">Все</string>
     <string name="cloud_gallery_space_full">Облачный альбом переполнен. Удалите ненужные изображения.</string>
 	<string name="share_album_space_full">Этот альбом полон. Удалите ненужные фотографии.</string>

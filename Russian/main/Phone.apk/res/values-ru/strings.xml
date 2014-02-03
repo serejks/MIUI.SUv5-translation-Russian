@@ -366,9 +366,9 @@
 	<string name="fdn_failed">Активация услуги \"Детский контроль\" не удалась.</string>
 	<string name="simContacts_emptyLoading">Считывание с SIM карты…</string>
 	<string name="exportContacts">Экспорт контактов на SIM карту…</string>
-	<string name="simContacts_empty">На SIM карте нет контактов.</string>
+	<string name="simContacts_empty">Нет контактов на SIM карте</string>
 	<string name="simContacts_title">Управление контактами SIM</string>
-	<string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM карты, отключите режим \"В самолете\".</string>
+	<string name="simContacts_airplaneMode">Отключите режим \"В самолете\" для импорта контактов с SIM карты</string>
 	<string name="enable_pin">Включить/выключить запрос PIN SIM карты</string>
 	<string name="change_pin">Изменить PIN SIM карты</string>
 	<string name="enter_pin_text">PIN SIM карты:</string>
@@ -945,7 +945,7 @@
 	<string name="handon_ringer_title_miui">Не вибрировать</string>
 	<string name="hangup_sms_miui">Отклонить с SMS</string>
 	<string name="ignore_miui">Игнорировать</string>
-	<string name="importing_sim_contacts_miui">Импортирование контактов SIM…</string>
+	<string name="importing_sim_contacts_miui">Импорт контактов с SIM карты…</string>
 	<string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
 	<string name="import_all_sim_entries_miui">Импорт всех контактов</string>
 	<string name="import_sim_entries_finish">Импорт контактов SIM завершен</string>
@@ -1185,7 +1185,7 @@
     <string name="sim_toolkit">Инструменты SIM</string>
     <string name="activity_not_found">Приложение не установлено на вашем устройстве.</string>
     <string name="no_sim_card_inserted">Вставьте SIM карту для запуска приложения.</string>
-    <string name="airplane_mode_on">Невозможно запустить приложения, когда активен режим полета.</string>
+    <string name="airplane_mode_on">Невозможно запустить приложения, когда активен режим В самолете.</string>
     <string name="lable_sim_not_ready">Приложение не готово или не поддерживается</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="callFailed_dsac_vt_incompatible_destination">Видео вызов не может быть установлен. Видео вызов не поддерживается устройством на которое вы звоните, совершить голосовой вызов?</string>
@@ -1363,7 +1363,7 @@
     <string name="confirm_3g_switch">Установить 3G сеть на эту SIM карту? Эта SIM карта будет автоматически использоваться для видеовызовов.</string>
     <string name="modem_switching">Смена SIM карт может занять некоторое время. Пожалуйста подождите…</string>
     <string name="confirm_3g_switch_to_off">Отключить 3G сеть? Видеовызовы будут также отключены.</string>
-    <string name="service_3g_off">Откл.</string>
+    <string name="service_3g_off">Выкл.</string>
     <string name="enable_3G_service">Включить 3G</string>
     <string name="setting_for_3G_service">3G сеть</string>
     <string name="network_forbidden">Запрещено</string>

@@ -273,7 +273,7 @@
 	<string name="first_back_long_press_message">Долгое нажатие клавиши Назад остановит процесс приложения.\n\nВключение: Настройки &lt; Устройство &lt; Настройка кнопок</string>
 	<string name="fools_day">День дураков</string>
 	<string name="force_exit_message">Закрыто \"%1$s\"</string>
-	<string name="global_action_privacy_mode_dialog_message">В режиме защиты невозможно редактировать рабочий стол и будут скрыты вызовы, заметки, данные галереи и текстовых сообщений. Вы можете установить пароль для режима защиты</string>
+	<string name="global_action_privacy_mode_dialog_message">В режиме защиты невозможно редактировать Домашний экран и будут скрыты вызовы, заметки, данные галереи и текстовых сообщений. Вы можете установить пароль для режима защиты</string>
 	<string name="global_action_toggle_privacy_mode">Защита</string>
 	<string name="grain_buds">неизвестно</string>
 	<string name="grain_in_ear">неизвестно</string>

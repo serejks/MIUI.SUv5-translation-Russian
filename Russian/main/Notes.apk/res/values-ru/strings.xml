@@ -29,11 +29,11 @@
 	<string name="menu_font_size">Размер шрифта</string>
 	<string name="menu_folder_change_name">Переименовать</string>
 	<string name="folder_exist">Папка уже существует, введите другое имя</string>
-	<string name="menu_send_to_desktop">На рабочий стол</string>
+	<string name="menu_send_to_desktop">На Домашний экран</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
 	<string name="menu_move_parent_folder">Основная папка</string>
 	<string name="menu_rename_folder">Переименовать</string>
-	<string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
+	<string name="info_note_enter_desktop">Заметка добавлена на Домашний экран</string>
 	<string name="alert_title_delete">Удаление выбранных заметок</string>
 	<string name="alert_message_delete_notes">Удалить выбранные заметки (%1$s шт.)?</string>
 	<string name="alert_message_delete_folders">Удалить выбранные папки (%1$s шт.)?</string>
@@ -49,7 +49,7 @@
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD карту</string>
 	<string name="error_note_not_exist">Заметка отсутствует</string>
 	<string name="error_note_empty_for_clock">Заметка пуста. Невозможно установить напоминание</string>
-	<string name="error_note_empty_for_send_to_desktop">Заметка пуста. Невозможно отправить на рабочий стол</string>
+	<string name="error_note_empty_for_send_to_desktop">Заметка пуста. Невозможно отправить на Домашний экран</string>
 	<string name="error_widget_exist_for_send_to_desktop">Заметка уже есть на рабочем столе</string>
 	<string name="success_sdcard_export">Экспорт завершен</string>
 	<string name="failed_sdcard_export">Экспорт прерван</string>

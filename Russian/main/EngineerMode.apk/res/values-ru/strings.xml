@@ -710,7 +710,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="desense_mempll_set">MEMPLL установлен</string>
     <string name="modem_test_operator">Оператор</string>
     <string name="modem_test_factory">Заводской</string>
-    <string name="modem_test_integrity_off">Целостность откл.</string>
+    <string name="modem_test_integrity_off">Целостность выкл.</string>
     <string name="cmmb_off">ВЫКЛ</string>
     <string name="cmmb_on">ВКЛ</string>
     <string name="cmmb_internal_ft">Внутренний тест</string>
@@ -797,7 +797,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="radioInfo_phone_idle">Пустой</string>
     <string name="radioInfo_phone_ringing">Посылка вызова</string>
     <string name="radioInfo_phone_offhook">Идет разговор</string>
-    <string name="radioInfo_data_disconnected">Отключено</string>
+    <string name="radioInfo_data_disconnected">Выключено</string>
     <string name="radioInfo_data_connecting">Подключение…</string>
     <string name="radioInfo_data_connected">Подключено</string>
     <string name="radioInfo_data_suspended">Удержание</string>
@@ -881,7 +881,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="set_fail_message">Ошибка установки</string>
     <string name="set_fail_text">Выйти</string>
     <string name="rat_query_preferred_type">Ошибка запроса привилегированного типа</string>
-    <string name="rat_3g_status">3G откл.</string>
+    <string name="rat_3g_status">3G выкл.</string>
     <string name="rat_wcdmapreferred_support">Не поддерживается предпочтение WCDMA</string>
     <string name="rat_tdcdmapreferred_support">Не поддерживается предпочтение TD-SCDMA</string>
     <string name="networkinfo_check">Проверка информации</string>

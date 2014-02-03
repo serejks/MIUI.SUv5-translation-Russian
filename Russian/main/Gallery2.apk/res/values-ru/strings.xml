@@ -621,7 +621,7 @@
     <string name="rotate_image">Поворот</string>
     <string name="edit_image">Правка</string>
     <string name="crop_image">Кадрировать</string>
-    <string name="set_wallpaper_home">Рабочий стол</string>
+    <string name="set_wallpaper_home">Домашний экран</string>
     <string name="set_wallpaper_lock">Экран блокировки</string>
     <string name="set_wallpaper_both">Оба экрана</string>
     <string name="custom">Персонализация</string>

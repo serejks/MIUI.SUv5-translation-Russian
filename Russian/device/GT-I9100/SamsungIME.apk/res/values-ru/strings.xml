@@ -56,7 +56,7 @@
     <string name="recapture_summary">Включить предложения XT9</string>
     <string name="use_trace">Непрерывный ввод</string>
     <string name="trace_summary">Введите текст, проведя пальцем по клавиатуре. Эта функция рассчитана на клавиатуру Qwerty</string>
-    <string name="trace_Keyboard_popup">При непрерывном вводе управление курсором будет отключено</string>
+    <string name="trace_Keyboard_popup">При непрерывном вводе управление курсором будет выключено</string>
     <string name="cursor_Control">Управление курсором</string>
     <string name="cursor_Control_summary">Для перемещения курсора проведите пальцем по клавиатуре</string>
     <string name="cursor_Control_popup">При управлении курсором непрерывный ввод будет отключен</string>
@@ -66,7 +66,7 @@
     <string name="use_full_handwriting">Во весь экран</string>
     <string name="use_full_handwriting_summary">Использовать рукописный ввод на всем экране в S Memo и приложениях для обмена сообщениями</string>
     <string name="swipe_disable_continuous_popup">При проведении пальцем по клавиатуре непрерывный ввод будет отключен</string>
-    <string name="continuous_disable_swipe_popup">При непрерывном вводе проведение пальцем по клавиатуре будет отключено</string>
+    <string name="continuous_disable_swipe_popup">При непрерывном вводе проведение пальцем по клавиатуре будет выключено</string>
     <string name="s_pen_detection">Определение пера</string>
     <string name="s_pen_detection_summary">Включать режим распознавания рукописных данных при определении пера</string>
     <string name="pen_detection_dialog_msg">При обнаружении пера S Pen режим ввода текста будет автоматически изменяться на распознавание рукописных данных. Вы можете отключить определение пера в параметрах клавиатуры</string>
@@ -245,7 +245,7 @@ ABC"</string>
     <string name="additional_keyboards">Выбрать язык</string>
     <string name="update">Обновить</string>
     <string name="enable">Включено</string>
-    <string name="disable">Отключено</string>
+    <string name="disable">Выключено</string>
     <string name="cancel">Отмена</string>
     <string name="remove">Удалить</string>
     <string name="removed">Удалено</string>

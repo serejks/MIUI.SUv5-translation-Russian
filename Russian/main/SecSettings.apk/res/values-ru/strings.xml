@@ -381,7 +381,7 @@
     <string name="unlock_set_unlock_mode_pattern">Защищено с помощью рисунка</string>
     <string name="unlock_set_unlock_mode_pin">Защищено с помощью PIN-кода</string>
     <string name="unlock_set_unlock_mode_password">Защищено с помощью пароля</string>
-    <string name="unlock_disable_lock_title">Откл. блокировку экрана</string>
+    <string name="unlock_disable_lock_title">Выкл. блокировку экрана</string>
     <string name="unlock_disable_lock_pattern_summary">Удалить рисунок</string>
     <string name="unlock_disable_lock_pin_summary">Удалить PIN-код</string>
     <string name="unlock_disable_lock_password_summary">Удалить пароль</string>
@@ -2018,14 +2018,14 @@ or visit CS center."</string>
     <string name="data_usage_disclaimer">Измеряется на устройстве. Оператор может учитывать данные об использовании по-другому</string>
     <string name="btn_tmo">Обновление службы данных</string>
     <string name="data_usage_disclaimer_tmo">Нажмите на ссылку ниже, чтобы изучить варианты обновления для вашего тарифного плана</string>
-    <string name="data_usage_disable_mobile">Отключить мобильное подключение для передачи данных?</string>
+    <string name="data_usage_disable_mobile">Выключить мобильное подключение для передачи данных?</string>
     <string name="data_usage_disable_mobile_limit">Ограничение мобильных данных</string>
     <string name="data_usage_disable_4g_limit">Настроить ограничение данных 4G</string>
     <string name="data_usage_disable_3g_limit">Настроить огранич. трафика 2G/3G</string>
     <string name="data_usage_disable_wifi_limit">Настроить огранич. трафика Wi-Fi</string>
-    <string name="data_usage_disable_mobile_warning_skt">При отключении мобильной сети использование служб MMS и 3G будет ограничено. Отключить?</string>
-    <string name="data_usage_disable_mobile_warning_ktt">При отключении мобильной сети использование служб MMS и 3G будет ограничено. Отключить?</string>
-    <string name="data_usage_disable_mobile_warning_lgt">При отключении мобильной сети использование служб MMS и 3G будет ограничено. Отключить?</string>
+    <string name="data_usage_disable_mobile_warning_skt">При отключении мобильной сети использование служб MMS и 3G будет ограничено. Выключить?</string>
+    <string name="data_usage_disable_mobile_warning_ktt">При отключении мобильной сети использование служб MMS и 3G будет ограничено. Выключить?</string>
+    <string name="data_usage_disable_mobile_warning_lgt">При отключении мобильной сети использование служб MMS и 3G будет ограничено. Выключить?</string>
     <string name="data_usage_enable_confirmation">Проверьте подключение к сети</string>
     <string name="data_usage_enable_mobile_warning_skt">За подключение к мобильной сети может взиматься дополнительная плата (в зависимости от вашего тарифного плана). Продолжить?</string>
     <string name="data_usage_enable_mobile_warning_ktt">За подключение к мобильной сети может взиматься дополнительная плата (в зависимости от вашего тарифного плана). Продолжить?</string>
@@ -2071,7 +2071,7 @@ or visit CS center."</string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">ограничение</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
-    <string name="data_usage_received_sent">Получено: %1$s, отправлено: %2$s</string>
+    <string name="data_usage_received_sent" formatted="false">Получено: %1$s, отправлено: %2$s</string>
     <string name="data_usage_total_during_range">%2$s: использовано около %1$s</string>
     <string name="data_usage_total_during_range_mobile">%2$s: использовано около %1$s (измерено устройством). Оператор может учитывать данные об использовании по-другому</string>
     <string name="data_usage_metered_title">Мобильные точки доступа</string>
@@ -2968,7 +2968,7 @@ or visit CS center."</string>
 звук"</string>
     <string name="accessibility_widget_assistive_light">Фонарик</string>
     <string name="accessibility_widget_negative_color">Негатив</string>
-    <string name="accessibility_widget_turnoff_allsounds">Откл. все звуки</string>
+    <string name="accessibility_widget_turnoff_allsounds">Выкл. все звуки</string>
     <string name="accessibility_widget_led_notification">LED уведомления</string>
     <string name="accessibility_widget_zoom">Масштаб</string>
     <string name="accessibility_power_button_ends_call_summary">Нажмите клавишу питания, чтобы завершить вызов при включенном экране. Экран не погаснет</string>
@@ -3199,7 +3199,7 @@ Activating this setting disables any other use of USB except data transfering."<
     <string name="wifi_search_networks">Поиск сети…</string>
     <string name="voice_input_control_widget_title">Голосовые команды</string>
     <string name="rcs_settings_title">Службы joyn</string>
-    <string name="all_sound_off">Откл. все звуки</string>
+    <string name="all_sound_off">Выкл. все звуки</string>
     <string name="all_sound_off_summary">Отключить все звуки, включая голос вызываемого абонента</string>
     <string name="waiting_tone_volume_title">Сигнал ожидания вызова</string>
     <string name="lgt_service_global_auto_roaming">Международный роуминг</string>
@@ -3208,7 +3208,7 @@ Activating this setting disables any other use of USB except data transfering."<
     <string name="home_settings_header">Изменить главный экран</string>
     <string name="home_settings_message">%s будет применена на вашем рабочем столе</string>
     <string name="home_settings_customer_mode">DoCoMo палитра UI</string>
-    <string name="home_settings_customer_mode_summary">Сделайте свой телефон более простым и интуитивно понятным используя рабочий стол DoCoMo</string>
+    <string name="home_settings_customer_mode_summary">Сделайте свой телефон более простым и интуитивно понятным используя лаунчер DoCoMo</string>
     <string name="home_settings_basic_mode">TouchWiz Основной режим</string>
     <string name="home_settings_basic_mode_summary">Наслаждайтесь новыми впечатлениями с новейшими функциями Galaxy</string>
     <string name="home_settings_easy_mode">TouchWiz Простой режим</string>
