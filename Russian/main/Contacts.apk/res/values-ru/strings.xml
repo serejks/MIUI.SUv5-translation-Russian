@@ -1016,7 +1016,7 @@
 	<string name="confirm_delete_sim_entry_miui">Удалить контактов с SIM карты (%d шт.)?</string>
 	<string name="activity_not_found_uri">Приложения для открытия файлов данного формата не найдено</string>
     <string name="sim_capacity">Емкость SIM карты</string>
-    <string name="sim_capacity_content" formatted="false">Всего доступно: %d | Занято: %d</string>
+    <string name="sim_capacity_content" formatted="false">Доступно: %d | Занято: %d</string>
     <string name="has_double_phone_number">Не удается сохранить тот же тип номера дважды, проверьте правильность введенных данных.</string>
     <string name="phone_book_busy">Телефонная книга сейчас занята, попробуйте позже.</string>
     <string name="sim_invalid">Невозможно сохранить контакт, SIM карта недействительна.</string>

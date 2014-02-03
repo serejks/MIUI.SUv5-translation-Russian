@@ -23,7 +23,7 @@
     <string name="pref_key_sim_manage">Управление SIM</string>
     <string name="select_groups">Выбор групп</string>
     <string name="sim_capacity">Емкость SIM карты</string>
-    <string name="sim_capacity_content" formatted="false">Всего доступно: %d | Занято: %d</string>
+    <string name="sim_capacity_content" formatted="false">Доступно: %d | Занято: %d</string>
     <string name="sim_contact_existing">Этот контакт на SIM уже существует</string>
     <string name="sim_contact_number_missing">Контакт не найден</string>
     <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
