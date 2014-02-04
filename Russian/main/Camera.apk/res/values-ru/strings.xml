@@ -42,8 +42,6 @@
     <string name="pref_camera_sound_title">Звуки камеры</string>
     <string name="pref_camera_sound_title_entry_off">Выкл</string>
     <string name="pref_camera_sound_title_entry_on">Вкл</string>
-    <string name="pref_camera_sound_entry_off">Выкл</string>
-    <string name="pref_camera_sound_entry_on">Вкл</string>
     <string name="pref_camera_auto_focus_title">Автофокус</string>
     <string name="pref_camera_auto_focus_title_entry_off">Выкл</string>
     <string name="pref_camera_auto_focus_title_entry_on">Вкл</string>
@@ -288,7 +286,6 @@
     <string name="pref_camera_iso_entry_auto">Авто</string>
     <string name="pref_camera_iso_entry_isodeblur">Авто ISO(HJR)</string>
     <string name="pref_camera_preview_title">Предпросмотр</string>
-    <string name="pref_camera_preview_entry_off">Выкл</string>
     <string name="pref_camera_preview_entry_1000">1 сек.</string>
     <string name="pref_camera_preview_entry_2000">2 сек.</string>
     <string name="pref_camera_preview_entry_5000">5 сек.</string>
