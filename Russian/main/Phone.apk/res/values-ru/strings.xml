@@ -1567,5 +1567,4 @@
     <string name="oldman_reject_call_button_text">отклонить</string>
     <string name="oldman_end_call_button_text">конец</string>
     <string name="oldman_dialpad_button_text">клавиатура</string>
-    <string name="suspect_info">Советы по безопасности: Это число автоматически распознанные системой, включая информацию о свойствах, пожалуйста, позвоните, чтобы удостоверить личность друг друга.</string>
 </resources>

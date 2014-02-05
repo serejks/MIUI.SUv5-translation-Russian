@@ -625,7 +625,6 @@
     <string name="sim_no_contact">На SIM карте нет контактов</string>
     <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM карте не допустима: должно быть между %2$d м %3$d.</string>
     <string name="sim_contact_search_error">Произошла ошибка</string>
-    <string name="empty_divider_title"></string>
     <string name="contacts_unavailable_add_xiaomi_account">Синхронизация контактов Xiaomi</string>
     <string name="noContactHelpTextAccountsInfo">Синхронизация Xiaomi, Google и обмен контактами</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановление данных с помощью аккаунта Xiaomi</string>
