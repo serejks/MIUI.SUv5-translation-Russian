@@ -463,4 +463,5 @@
 	<string name="v5_date_time_picker_dialog_title">Время напоминания</string>
 	<string name="text_copied">Текст скопирован</string>
 	<string name="text_cut">Текст вырезан</string>
+    <string name="login_website_in_case_forget_password">Для сброса пароля посетите i.xiaomi.com.</string>
 </resources>
