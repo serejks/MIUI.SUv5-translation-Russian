@@ -268,7 +268,7 @@
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен.</string>
     <string name="roaming_turn_it_on_button">Включить</string>
-    <string name="roaming_warning">Когда выразрешите интернет-роуминг, возможны высокие расходы за использование роуминга.</string>
+    <string name="roaming_warning">Когда вы разрешите интернет-роуминг, возможны высокие расходы за использование роуминга.</string>
     <string name="roaming_warning_multiuser">"Включение передачи данных в роуминге может повлечь за собой значительные расходы на услуги связи!
 
 Эта настройка влияет на всех пользователей на этом телефоне."</string>
@@ -388,7 +388,7 @@
     <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">Для подключения к устройству &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введите PIN код:</string>
     <string name="bluetooth_enter_pin_msg_hs">"
-Введите PIN код для сопряжения с \"%1$s\". [Высокий уровень безхопасности: необходим 16 символьный ключ]"</string>
+Введите PIN код для сопряжения с \"%1$s\". [Высокий уровень безопасности: необходим 16 символьный ключ]"</string>
     <string name="bluetooth_enter_passkey_msg">Для подключения к устройству &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введите пароль:</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN код содержит буквы или символы</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
@@ -512,7 +512,7 @@
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
     <string name="wifi_suspend_optimizations">Wi-Fi оптимизация</string>
-    <string name="wifi_suspend_optimizations_summary">Уменьшить исползование батареи когда Wi-Fi включен</string>
+    <string name="wifi_suspend_optimizations_summary">Уменьшить использование батареи когда Wi-Fi включен</string>
     <string name="wifi_add_network">Добавить сеть</string>
     <string name="wifi_access_points">Сети Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">WPS Push кнопка</string>
@@ -590,8 +590,8 @@
     <string name="wifi_show_advanced">Дополнительно</string>
     <string name="wifi_network_setup">WPS</string>
     <string name="wifi_wps_pin">Введите код точки доступа</string>
-    <string name="wifi_wps_setup_title">Щащищенная настройка Wi-Fi</string>
-    <string name="wifi_wps_pin_output">Ввтедите код %1$s на точке доступа</string>
+    <string name="wifi_wps_setup_title">Защищенная настройка Wi-Fi</string>
+    <string name="wifi_wps_pin_output">Введите код %1$s на точке доступа</string>
     <string name="wifi_wps_setup_msg">Запуск WPS…</string>
     <string name="wifi_wps_onstart_pbc">Нажмите кнопку защищенной настройки Wi-Fi на вашем роутере. Она может быть названа \"WPS\" или содержать этот символ:</string>
     <string name="wifi_wps_onstart_pin">Введите ПИН %1$s в вашем Wi-Fi роутере. Настройка может занять до двух минут.</string>
@@ -667,7 +667,7 @@
     <string name="wifi_gateway">Шлюз</string>
     <string name="wifi_network_prefix_length">Длина префикса сети</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
-    <string name="wifi_p2p_settings_summary">Создат соединение \"точка-точка\"</string>
+    <string name="wifi_p2p_settings_summary">Создать соединение \"точка-точка\"</string>
     <string name="wifi_p2p_device_info">Информация об устройстве</string>
     <string name="wifi_p2p_persist_network">Запомнить это соединение</string>
     <string name="wifi_p2p_menu_search">Поиск устройств</string>
@@ -721,7 +721,7 @@
     <string name="macaddr_label">"MAC адрес: "</string>
     <string name="networkid_label">"Network ID: "</string>
     <string name="link_speed_label">"Скорость передачи: "</string>
-    <string name="scan_list_label">"Резулльтаты сканирования: "</string>
+    <string name="scan_list_label">"Результаты сканирования: "</string>
     <string name="wifi_state_disabling">Отключение</string>
     <string name="wifi_state_disabled">Отключено</string>
     <string name="wifi_state_enabling">Включение</string>
@@ -844,7 +844,7 @@
     <string name="device_status">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
     <string name="device_additional_status_summary">Номер телефона, уровень сигнала, IMEI и т.д.</string>
-    <string name="device_additional_status">Доп. инф. о статусе</string>
+    <string name="device_additional_status">Доп. инфо о статусе</string>
     <string name="storage_settings">Память</string>
     <string name="storage_settings_title">Настройки хранилища</string>
     <string name="storage_settings_summary">Отключение USB накопителя, сведения о доступной памяти</string>
@@ -953,7 +953,7 @@
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
     <string name="master_clear_title">Сброс данных</string>
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
-    <string name="master_clear_desc">"Будут удалены все данные из "<b>внутренного хнакопителя</b>", включая:
+    <string name="master_clear_desc">"Будут удалены все данные из "<b>внутреннего накопителя</b>", включая:
 
 "<li>Ваш аккаунт Google</li>"
 "<li>Настройки и приложения</li>"
@@ -2166,7 +2166,7 @@
     <string name="search_airplane">\"В самолете\"</string>
     <string name="search_network">Сеть</string>
     <string name="search_wifi">Wi-Fi</string>
-    <string name="search_bluetooth">Blutooth</string>
+    <string name="search_bluetooth">Bluetooth</string>
     <string name="search_android_beam">Beam</string>
     <string name="search_vpn">VPN</string>
     <string name="search_tether">Модем</string>
@@ -2559,7 +2559,7 @@
     <string name="msd_install_next">Далее</string>
     <string name="msd_install">Переустановите драйвера.</string>
     <string name="msd_install_finish">OK</string>
-    <string name="msd_install_windows_xp_step_2_1">Следуйте казаниям Мастера Настройки, для завершения установки.</string>
+    <string name="msd_install_windows_xp_step_2_1">Следуйте указаниям Мастера Настройки, для завершения установки.</string>
     <string name="msd_install_retry_windows_xp">"Если компьютер не обнаружит телефон,
 попробуйте следующее:
 "<li>1) Отключить и подключить USB кабель заново.</li>"
@@ -2624,7 +2624,7 @@ Android File Transfer
     <string name="drive_mode_only_contact_reply">Отвечать только известным номерам</string>
     <string name="drive_mode_auto_sms_reply_content">Я сейчас за рулем. Перезвоню позже.</string>
     <string name="drive_mode_auto_sms_reply_content_title">Быстрый ответ</string>
-    <string name="clear_activities_summary">Разрешить этой программе некоторые действия поумолчанию</string>
+    <string name="clear_activities_summary">Разрешить этой программе некоторые действия по умолчанию</string>
     <string name="permission_detail_info">Просмотреть все разрешения</string>
     <string name="permission_detail_info_summary">Все разрешения: Безопасность %1$d, Конфиденциальность %2$d, Другое %3$d</string>
     <string name="permission_manage">Управление разрешениями</string>
@@ -2716,8 +2716,8 @@ Android File Transfer
     <string name="agps_str_notify">Уведомления</string>
     <string name="EM_NotifyDialog_title">EM уведомления</string>
     <string name="agps_OK">OK</string>
-    <string name="agps_str_allow">РАЗРЕШИТЬ</string>
-    <string name="agps_str_deny">ЗАПРЕТИТЬ</string>
+    <string name="agps_str_allow">Разрешить</string>
+    <string name="agps_str_deny">Запретить</string>
     <string name="agps_str_error">Ошибка</string>
     <string name="AGPS_DEFAULT_STRING">A-GPS Строка по умолчанию</string>
     <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Сбой создания сети</string>
@@ -2787,7 +2787,7 @@ Android File Transfer
     <string name="epo_expire_time_title">Время истечения</string>
     <string name="epo_expire_time_summary">Недоступно</string>
     <string name="epo_about_title">Подробнее об EPO</string>
-    <string name="epo_about_message">"\u0009EPO (Extended Prediction Orbit) является одной из инновационных функциий MediaTek в собственности автономного сервера на базе A-GPS технологий. 
+    <string name="epo_about_message">"\u0009EPO (Extended Prediction Orbit) является одной из инновационных функций MediaTek в собственности автономного сервера на базе A-GPS технологий. 
 \u0009It поддерживает до 30 дней прогнозирования положения спутников на орбите, которое может быть использовано, чтобы значительно повысить удобство работы за счет улучшения GPS Time To First Fix(TTFF)."</string>
     <string name="Network_Local_and_Roaming_Summary">Использовать A-GPS как в домашнем регионе так и в роуминге</string>
     <string name="Network_Only_Local_Summary">Использовать A-GPS только в домашнем регионе</string>
@@ -2879,9 +2879,9 @@ Android File Transfer
     <string name="mtk_thememanager_title">Тема</string>
     <string name="default_name">Стандартная</string>
     <string name="custom_theme_name">Новая [%1$s]</string>
-    <string name="loading">Загузка…</string>
+    <string name="loading">Загрузка…</string>
     <string name="sim_enter_pin_hints">(4-8 цифр)</string>
-    <string name="sim_remain">(Остаток:%d)</string>
+    <string name="sim_remain">(Осталось:%d)</string>
     <string name="gps_time_sync_attention_gps_on">"Получение корректных данных GPS займет около 1 минуты. Кроме того, GPS может отображать неверное время из-за слабого сигнала.
 
 Использовать синхронизацию времени через GPS?"</string>
@@ -2907,7 +2907,7 @@ Android File Transfer
     <string name="gemini_video_call">Видеовызов</string>
     <string name="gemini_data_connection">Передача данных</string>
     <string name="gemini_msg">Сообщения</string>
-    <string name="gemini_default_sim_always_ask">Всегда спршивать</string>
+    <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="gemini_intenet_call">Интернет-вызов</string>
     <string name="gemini_default_sim_never">Выкл</string>
     <string name="gemini_default_sim_3g_off">Выкл</string>
@@ -2999,7 +2999,7 @@ Android File Transfer
     <string name="data_conn_category_title">Передача данных</string>
     <string name="wifi_gprs_selector_title">Селектор сети</string>
     <string name="data_enabler_title">Передача данных</string>
-    <string name="data_enabler_summary">Включить пеедачу данных через мобильную сеть</string>
+    <string name="data_enabler_summary">Включить передачу данных через мобильную сеть</string>
     <string name="data_enabler_waiting_message">Подождите…</string>
     <string name="wifi_tether_fix_channel_width_text">20 МГц</string>
     <string name="wifi_tether_auto_channel_text">Авто</string>
@@ -3119,7 +3119,7 @@ Android File Transfer
     <string name="voice_unlock_backup_info_summary">Какой тип разблокировки предлагать, если не удается распознать ваш голос?</string>
     <string name="unlock_set_unlock_mode_voice_weak">Разблокировка голосом</string>
     <string name="voice_ui_title">Голосовое управление</string>
-    <string name="voice_ui_app_category">Для пиложений</string>
+    <string name="voice_ui_app_category">Для приложений</string>
     <string name="voice_ui_setting_category">Настройки</string>
     <string name="voice_ui_language_title">Язык для голосового управления</string>
     <string name="incoming_call_app_name">Входящий вызов</string>
@@ -3131,12 +3131,11 @@ Android File Transfer
     <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s для создания фото.</string>
     <string name="music_command_summary_format">Вы можете сказать %1$s или %2$s для управления воспроизведением музыки.</string>
     <string name="lock_screen_notifications_title">Уведомления на экране блокировки</string>
-    <string name="lock_screen_notifications_summary">Отображать уведомления на экане блокировки</string>
+    <string name="lock_screen_notifications_summary">Отображать уведомления на экране блокировки</string>
     <string name="lock_screen_style_title">Стиль экрана блокировки</string>
     <string name="current_suffix">(Текущий)</string>
     <string name="lockscreen_style_set">Выбрать экран блокировки</string>
     <string name="lockscreen_style_default_desc">Быстрый доступ к приложениям на экране блокировки</string>
-    <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">Защита отключена</string>
     <string name="lockdown_vpn_already_connected">Всегда на VPN уже включена для подключения.</string>
     <string name="wifi_ap_no_connected">Нет подключенных пользователей</string>
@@ -3150,7 +3149,7 @@ Android File Transfer
     <string name="wifi_connect_ap_summary">Укажите тип сетевого соединения</string>
     <string name="wifi_connect_type_title">Тип автоподключения</string>
     <string name="select_ssid_type_title">Тип сетевого соединения</string>
-    <string name="wifi_signal_found_msg">Текущий сигнал связи слабый, ииспользовать другую сеть Wi-Fi?</string>
+    <string name="wifi_signal_found_msg">Текущий сигнал связи слабый, использовать другую сеть Wi-Fi?</string>
     <string name="confirm_title">Подтведить</string>
     <string name="msg_wlan_signal_found">Найдена сеть %s, использовать эту сеть? Использование текущей сети может привести к потере данных.</string>
     <string name="data_connection_dialog_title">Изменить тип соединения</string>
@@ -3461,7 +3460,7 @@ Android File Transfer
 	<string name="virus_scan_app_stop">Остановить</string>
     <string name="virus_scan_app_solve">Проверить все</string>
 	<string name="firewall_settings_tab_title">Правила</string>
-    <string name="black_white_list_tab_title">Фильты</string>
+    <string name="black_white_list_tab_title">Фильтры</string>
     <string name="call_log_tab_title">Журнал вызовов</string>
     <string name="mms_log_tab_title">Журнал сообщений</string>
     <string name="fw_blacklist">Черный список</string>
@@ -3499,7 +3498,7 @@ Android File Transfer
     <string name="act_action_reject_reject">Переадресация вызовов и сообщений</string>
     <string name="act_action_reject_mute">Переадресация вызовов и сообщения без уведомлений</string>
     <string name="act_action_reject_accept">Переадресация вызовов</string>
-    <string name="act_action_mute_reject">Вызовы без уведомелний и переадресация сообщений</string>
+    <string name="act_action_mute_reject">Вызовы без уведомлений и переадресация сообщений</string>
     <string name="act_action_mute_mute">Вызовы и сообщения без уведомлений</string>
     <string name="act_action_mute_accept">Вызовы без уведомлений</string>
     <string name="act_action_accept_reject">Переадресация сообщений</string>
@@ -3607,7 +3606,7 @@ Android File Transfer
     <string name="cache_garbage">Кэш</string>
     <string name="optimize_done">Все готово!</string>
     <string name="work_done">Готово</string>
-    <string name="last_checked_date">Требуется проверка. Последнее скаирование было более 30 дней назад.</string>
+    <string name="last_checked_date">Требуется проверка. Последнее сканирование было более 30 дней назад.</string>
     <string name="last_checked_date_mark">%</string>
     <string name="last_checked_date2">Последняя проверка: %d дн. назад</string>
     <string name="just_checked">Все отлично!</string>
@@ -3697,14 +3696,14 @@ Android File Transfer
     <string name="virus_scan_lib_update_time">Последнее обновление: %s</string>
     <string name="virus_scan_lib_unknow">Последнее обновление: неизвестно</string>
     <string name="virus_scan_others_title">Другие настройки</string>
-    <string name="virus_scan_risk_list_empty">Угроз не найдно</string>
+    <string name="virus_scan_risk_list_empty">Угроз не найдено</string>
     <string name="virus_scan_virus_list_empty">Вирусов не найдено</string>
     <string name="virus_scan_description">Это приложение представляет серьезную угрозу для безопасности вашего телефона.</string>
 	<string name="virus_scanner_stop_title">Остановить</string>
     <string name="virus_scan_risk_button_name">Угроза</string>
     <string name="virus_scan_package_label_unknown">неизвестно</string>
-    <string name="virus_scan_not_found_virus">вирус не найден</string>
-    <string name="virus_scan_not_found_risk">угроза не найдена</string>
+    <string name="virus_scan_not_found_virus">вирусов не найдено</string>
+    <string name="virus_scan_not_found_risk">угроз не найдено</string>
     <string name="virus_scan_last_scan_today">"Последнее сканирование: сегодня "</string>
     <string name="virus_scan_last_scan_yesterday">"Последнее сканирование: вчера "</string>
     <string name="virus_scan_last_scan_date">Последняя проверка: %d дн. назад.</string>
