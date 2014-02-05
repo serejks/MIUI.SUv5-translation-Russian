@@ -564,4 +564,17 @@
         <item>Музыка</item>
         <item>Почта</item>
     </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ничего</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ничего</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi и 1920x1080 xhdpi</item>
+    </string-array>
 </resources>
