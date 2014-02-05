@@ -1565,6 +1565,6 @@
     <string name="sim_slot_alert_cancel">Продолжить использование</string>
     <string name="oldman_answer_call_button_text">ответить</string>
     <string name="oldman_reject_call_button_text">отклонить</string>
-    <string name="oldman_end_call_button_text">конец</string>
+    <string name="oldman_end_call_button_text">отбой</string>
     <string name="oldman_dialpad_button_text">клавиатура</string>
 </resources>
