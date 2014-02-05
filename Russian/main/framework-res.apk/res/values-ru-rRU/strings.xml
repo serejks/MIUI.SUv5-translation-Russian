@@ -688,7 +688,7 @@
     <string name="usb_storage_button_mount">Включить USB накопитель</string>
     <string name="usb_storage_error_message">При использовании USB накопителя в качестве запоминающего устройства USB возникла неполадка.</string>
     <string name="usb_storage_notification_title">USB подключение установлено</string>
-    <string name="usb_storage_notification_message">Выберите фалы для копирования на/с вашего компьютера.</string>
+    <string name="usb_storage_notification_message">Выберите файлы для копирования на/с вашего компьютера.</string>
     <string name="usb_storage_stop_notification_title">Отключить USB накопитель</string>
     <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB накопитель.</string>
     <string name="usb_storage_stop_title">USB накопитель используется</string>
