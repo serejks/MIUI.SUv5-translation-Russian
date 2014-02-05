@@ -66,7 +66,7 @@
     <string name="filter_by_duration_format">%2$dмин%5$2dсек</string>
     <string name="filter_by_folder">По папкам</string>
     <string name="filter_by_folder_summary_on">Редактировать фильтр</string>
-    <string name="filter_by_folder_summary_off">Нажмите для настройки</string>
+    <string name="filter_by_folder_summary_off">Нажмите, для настройки</string>
     <string name="select_folder">Выбрать папку</string>
     <string name="shake_and_skip">Встряхните, чтобы пропустить</string>
     <string name="shake_settings">Встряхните, чтобы пропустить</string>

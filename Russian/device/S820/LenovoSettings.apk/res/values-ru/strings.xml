@@ -2210,7 +2210,7 @@
     <string name="dndm_mute_all">Отключить звук звонков и сообщений</string>
     <string name="dndm_special_call_setting_group">Исключения</string>
     <string name="dndm_vip_call_setting_title">Настройки исключений</string>
-    <string name="dndm_vip_call_summary_none">Нажмите для настройки</string>
+    <string name="dndm_vip_call_summary_none">Нажмите, для настройки</string>
     <string name="dndm_vip_call_summary_custom">Исключений: %d</string>
     <string name="dndm_vip_call_summary_contact">Все контакты</string>
     <string name="dndm_vip_call_button_title">Разрешить вызовы для исключений</string>
@@ -2843,7 +2843,7 @@ Android File Transfer
     <string name="device_name">Имя устройства</string>
 	<string name="device_name_input_error">Не удалось сохранить имя устройства.</string>
 	<string name="dirac_mode_general">Общие</string>
-	<string name="open_wifi_connect_summary">Нажмите для настройки</string>
+	<string name="open_wifi_connect_summary">Нажмите, для настройки</string>
 	<string name="open_wifi_connect_title">Подключение к сети %1$s</string>
     <string name="device_edit_title">Переименовать устройство</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
@@ -3104,12 +3104,12 @@ Android File Transfer
     <string name="tv_system_title">TV система</string>
     <string name="hdmi_toggler">HDMI</string>
     <string name="hdmi_settings">Настройки HDMI</string>
-    <string name="hdmi_settings_summary">Нажмите для настройки HDMI</string>
+    <string name="hdmi_settings_summary">Нажмите, для настройки HDMI</string>
     <string name="hdmi_audio_toggler">Аудио</string>
     <string name="hdmi_video_toggler">Видео</string>
     <string name="hdmi_video_resolution">Разрешение видео</string>
     <string name="hdmi_notification_title">HDMI кабель подключен</string>
-    <string name="hdmi_notification_content">Нажмите для настройки HDMI</string>
+    <string name="hdmi_notification_content">Нажмите, для настройки HDMI</string>
     <string name="display_settings_scences_title">Сцены</string>
     <string name="mtk_thememanager_title">Тема</string>
     <string name="default_name">Стандартная</string>

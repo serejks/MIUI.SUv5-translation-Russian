@@ -19,7 +19,7 @@
 Однако при включении экрана могут прийти скопившиеся push-данные"</string>
     <string name="smart_network_guide_check">Не показывать снова</string>
     <string name="text_empty">Сообщение пусто</string>
-    <string name="tap_to_configure">Нажмите для настройки</string>
+    <string name="tap_to_configure">Нажмите, для настройки</string>
     <string name="adv_vpn">Продвинутый IPsec VPN</string>
     <string name="basic_vpn_settings">Стандартный VPN</string>
     <string name="font_change_popup">Огромный шрифт будет применяться только в некоторых приложениях. В остальных будет использоваться крупный шрифт</string>

@@ -703,7 +703,7 @@
     <string name="usb_ptp_notification_title">Подключен как камера</string>
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_accessory_notification_title">USB устройство подключено</string>
-    <string name="usb_notification_message">Нажмите для настройки</string>
+    <string name="usb_notification_message">Нажмите, для настройки</string>
     <string name="extmedia_format_title">Форматировать SD-карту?</string>
     <string name="extmedia_format_message">Все данные, находящиеся на SD-карте, будут удалены.</string>
     <string name="extmedia_format_button_format">Формат</string>
@@ -773,7 +773,7 @@
     <string name="car_mode_disable_notification_title">Включен режим \"Автомобиль\"</string>
     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
     <string name="tethered_notification_title">USB модем/точка дост.Wi-Fi используется</string>
-    <string name="tethered_notification_message">Нажмите для настройки</string>
+    <string name="tethered_notification_message">Нажмите, для настройки</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Далее</string>
     <string name="skip_button_label">Пропустить</string>
