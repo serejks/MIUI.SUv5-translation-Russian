@@ -1559,4 +1559,13 @@
     <string name="call_ring_stepup_summary">Постепенно увеличивать громкость рингтона для входящих вызовов</string>
     <string name="card_itself_for_voice">Карта</string>
     <string name="suspect_info">Будьте осторожны: всегда необходимо проверять личность контакта по телефону или видео перед тем, как отвечать на вопросы, связанные с Вашими финансами.</string>
+    <string name="sim_slot_alert_title">Советы по слотам SIM карты</string>
+    <string name="sim_slot_alert_message">Вставьте %s SIM карту в первый слот и наслаждайтесь высокоскоростной 3G сетью.</string>
+    <string name="sim_slot_alert_shutdown">Выключить</string>
+    <string name="sim_slot_alert_cancel">Продолжить использование</string>
+    <string name="oldman_answer_call_button_text">ответить</string>
+    <string name="oldman_reject_call_button_text">отклонить</string>
+    <string name="oldman_end_call_button_text">конец</string>
+    <string name="oldman_dialpad_button_text">клавиатура</string>
+    <string name="suspect_info">Советы по безопасности: Это число автоматически распознанные системой, включая информацию о свойствах, пожалуйста, позвоните, чтобы удостоверить личность друг друга.</string>
 </resources>

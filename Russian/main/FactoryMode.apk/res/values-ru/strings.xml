@@ -233,5 +233,6 @@
     <string name="satellite_signal">Сигналы спутников:</string>
     <string name="satellite_elevation">Высота:</string>
     <string name="satellite_azimuth">Азимут:</string>
+    <string name="Bat_test">Батарея</string>
     <string name="nothing">Нет</string>
 </resources>

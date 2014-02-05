@@ -5,6 +5,9 @@
     <string name="button_cancel">Отмена</string>
     <string name="confirm_radio_title">SIM карта отключена</string>
     <string name="confirm_radio_msg">%1$s отключена. Включить SIM карту?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Режим \"В самолете\" включен и</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s выключен. Вы хотите выключить режим \"В самолете\" и включить эту SIM карту?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Режим \"В самолете\" включен. Выключить этот режим?</string>
     <string name="confirm_radio_msg_single">Режим В самолете, отключить?</string>
     <string name="confirm_pin_title">SIM карта заблокирована</string>
     <string name="confirm_pin_msg">Выбранная SIM карта заблокирована. Требуется разблокировка.</string>

@@ -65,4 +65,5 @@
     <string name="main_menu_not_initialized">Главное меню не инициализировано</string>
     <string name="lable_busy_on_call">Телефон занят вызовом, сначала нужно закончить разговор</string>
     <string name="lable_on_flight_mode">Это приложение не может быть использовано в режиме В самолете</string>
+    <string name="lable_sim_not_ready">Инструменты SIM не готов или не поддерживается</string>
 </resources>

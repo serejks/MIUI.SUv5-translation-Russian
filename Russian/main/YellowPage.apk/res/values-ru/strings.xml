@@ -165,4 +165,12 @@
 	<string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки SMS. Проверьте состояние SIM-карты.</string>
 	<string name="nearby_yellow_page_title">Поблизости</string>
     <string name="nearby_no_yellow_page">Нет результатов</string>
+    <string name="mark_title_null_hint">Ввод не может быть пустым</string>
+    <string name="recharge_history_empty">Нет истории</string>
+    <string name="login_before_use">Перед использованием необходимо войти.</string>
+    <string name="express_inquiry_internal_failure">"Произошла ошибка.
+Проверьте трек номер."</string>
+    <string name="express_inquiry_history">История</string>
+    <string name="express_inquiry_delivered">Доставлено</string>
+    <string name="express_inquiry_no_history">Нет истории</string>
 </resources>

@@ -219,4 +219,7 @@
     <string name="month_medium_october">Октябрь</string>
     <string name="month_medium_november">Ноябрь</string>
     <string name="month_medium_december">Декабрь</string>
+    <string name="copy_email">Копировать адрес эл.почты</string>
+    <string name="copy_number">Копировать номер телефона</string>
+    <string name="done">Готово</string>
 </resources>

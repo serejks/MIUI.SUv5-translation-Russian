@@ -1099,7 +1099,7 @@
     <string name="ringtone_volume_mute">Звук выключен</string>
     <string name="pref_key_sim_manage">Управление SIM</string>
     <string name="accessibility_calllog_detail">Журнал</string>
-    <string name="select_groups">Выбрать групп</string>
+    <string name="select_groups">Выбрать группы</string>
     <string name="sim_contact_existing">Контакт на SIM карте уже существует.</string>
     <string name="sim_contact_number_missing">Номер контакта на SIM карте отсутствует.</string>
     <string name="sim_error_generic_failure">Ошибка.</string>
@@ -1187,4 +1187,6 @@
 	<string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
     <string name="delete_call_log_selected_title">Удалить выбранные вызовы?</string>
 	<string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на Домашний экран</string>
+    <string name="empty_divider_title">Вы можете</string>
+    <string name="hint_distance">держать дистанцию</string>
 </resources>
