@@ -1348,7 +1348,7 @@
     <string name="app_name_label">Приложение</string>
     <string name="launch_count_label">Подсчет</string>
     <string name="usage_time_label">Время использования</string>
-    <string name="accessibility_settings">Специальные возможности</string>
+    <string name="accessibility_settings">Спец. возможности</string>
     <string name="accessibility_settings_title">Настройка спец. возможностей</string>
     <string name="accessibility_services_title">Службы</string>
     <string name="accessibility_system_title">Система</string>
