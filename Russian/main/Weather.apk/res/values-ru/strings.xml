@@ -92,7 +92,7 @@
     <string name="format_date_wmd">d MMMM EEE</string>
     <string name="format_date_md">d MMMM kk:mm</string>
     <string name="format_date_week">EEE</string>
-    <string name="format_date_trend_md">d MMMM</string>
+    <string name="format_date_trend_md">d MMM</string>
     <string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
     <string name="act_weather_main_aqi_index">Чистота воздуха: %s</string>
     <string name="act_weather_aqi_share">Поделиться</string>
