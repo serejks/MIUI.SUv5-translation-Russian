@@ -928,7 +928,7 @@
 	<string name="enable_proximity_title_miui">Предотвращение ошибок</string>
 	<string name="enable_sim_pin_miui">Включить SIM PIN</string>
 	<string name="enable_telocation_title_miui">Показать местоположение</string>
-	<string name="enforce_proximity_summary_miui">Предотвращение случайных нажатий, пока телефон находится в кармане</string>
+	<string name="enforce_proximity_summary_miui">Предотвращение случайных нажатий пока телефон находится в кармане</string>
 	<string name="enforce_proximity_title_miui">Датчик приближения</string>
 	<string name="fdn_change_pin_sum_miui">Изменить PIN для доступа к фиксированному набору</string>
 	<string name="fdn_disabled_miui">Фиксированный набор выключен</string>

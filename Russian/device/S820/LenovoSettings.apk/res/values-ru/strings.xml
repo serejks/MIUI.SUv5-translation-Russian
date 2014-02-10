@@ -2475,13 +2475,13 @@
     <string name="launcher_settings_title">Лаунчер</string>
     <string name="screen_timeout_title">Спящий режим</string>
     <string name="touch_title">Тач</string>
-    <string name="touch_sensitive_title">Режим \"в перчатках\"</string>
+    <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
     <string name="touch_sensitive_summary">Увеличить чувствительность сенсора для работы с телефоном в перчатках, предотвращение случайного включения экрана в кармане.</string>
-    <string name="touch_sensitive_turn_off_title">Отключить режим "в перчатках"</string>
+    <string name="touch_sensitive_turn_off_title">Отключить режим \"В перчатках"\</string>
     <string name="touch_sensitive_turn_off_summary">Отключить предотвращение случайного включения экрана в кармане?</string>
 	<string name="screen_never_timeout_title">Никогда</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
-    <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий, пока телефон находится в кармане</string>
+    <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий пока телефон находится в кармане</string>
     <string name="preferred_launcher_title">Предпочитаемый лаунчер</string>
     <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
     <string name="preferred_launcher_warning_message">Замена стандартного лаунчера может повлечь за собой большее потребление энергии, ухудшение скорости работы, ухудшить безопасность личных данных и т.д.</string>
