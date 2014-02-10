@@ -2233,7 +2233,7 @@
     <string name="touch_title">Тач</string>
     <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
     <string name="touch_sensitive_summary">Увеличить чувствительность сенсора для работы с телефоном в перчатках, предотвращение случайного включения экрана в кармане.</string>
-    <string name="touch_sensitive_turn_off_title">Отключить режим \"В перчатках"\</string>
+    <string name="touch_sensitive_turn_off_title">Отключить режим \"В перчатках\"</string>
     <string name="touch_sensitive_turn_off_summary">Отключить предотвращение случайного включения экрана в кармане?</string>
     <string name="touch_sensitive_turn_off_confirm">ОК</string>
     <string name="touch_sensitive_turn_off_cancel">Отмена</string>
