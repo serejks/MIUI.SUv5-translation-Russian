@@ -107,7 +107,7 @@
 	<string name="labelCallerId">АОН</string>
 	<string name="sum_loading_settings">Загрузка настроек…</string>
 	<string name="sum_hide_caller_id">Скрывать номер при исходящих вызовах</string>
-	<string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
+	<string name="sum_show_caller_id">Номер, отображаемый при исходящих вызовах</string>
 	<string name="sum_default_caller_id">При исходящих вызовах использовать для отображения моего номера настройки, предоставляемые оператором</string>
 	<string name="labelCW">Параллельный вызов</string>
 	<string name="sum_cw_enabled">Извещать меня о входящих вызовах во время разговора</string>

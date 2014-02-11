@@ -146,8 +146,8 @@
 	<string name="cloud_no_backup">Нет облачных бэкапов</string>
 	<string name="current_account">Привет, %s</string>
 	<string name="current_sim">Текущая SIM карта</string>
-	<string name="date_format">dd.MM.yyyy HH:mm:ss</string>
-	<string name="dir_date_format">dd.MM.yyyy_HH-mm-ss</string>
+	<string name="date_format">yyyy.MM.dd HH:mm:ss</string>
+	<string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
 	<string name="no_network">Сетевая ошибка: проверьте настройки подключения и повторите заново</string>
 	<string name="retry">Повтор</string>
 	<string name="select_all">Выбрать все</string>

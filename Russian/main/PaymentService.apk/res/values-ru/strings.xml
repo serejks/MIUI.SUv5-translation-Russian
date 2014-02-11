@@ -109,11 +109,9 @@
 	<string name="password_error">Пожалуйста, введите Ваш пароль</string>
 	<string name="password_hint">Пожалуйста, введите Ваш пароль аккаунта Xiaomi:</string>
 	<string name="pay_record_empty">Нет платежной истории</string>
-	<string name="paytool_alipay">Alipay</string>
 	<string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
 	<string name="paytool_error_msp">%1$s ошибка пополнения</string>
 	<string name="paytool_msp_not_installed">Вы не установили плагин защиты %1$s. Установить его сейчас?</string>
-	<string name="paytool_tenpay">Tenpay</string>
 	<string name="prepaid_china_mobile">Оператор 1</string>
 	<string name="prepaid_china_telcom">Оператор 2</string>
 	<string name="prepaid_china_unicom">Оператор 3</string>

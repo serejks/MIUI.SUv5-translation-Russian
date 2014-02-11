@@ -42,14 +42,14 @@
     <string name="load_album_artist_in_process">Загрузка альбома и списка исполнителей…</string>
     <string name="correct_id3_settings">Редактировать ID3</string>
     <string name="correct_id3_summary">Может увеличить расходы на связь</string>
-    <string name="player_display_settings">ЭКРАН ПЛЕЕРА</string>
+    <string name="player_display_settings">Экран плеера</string>
     <string name="lyric_display_settings">Отображать тексты песен</string>
     <string name="lyric_display_summary">Отображать тексты песен в окне плеера</string>
     <string name="album_display_settings">Отображать обложку</string>
     <string name="album_display_summary">Отображать обложку в окне плеера</string>
     <string name="spectrogram_display_settings">Отображать спектрограмму</string>
     <string name="spectrogram_display_summary">Может негативно влиять на производительность.</string>
-    <string name="lyric_and_album">ТЕКСТЫ ПЕСЕН И АЛЬБОМЫ</string>
+    <string name="lyric_and_album">Тексты песен и альбомы</string>
     <string name="android_album_settings">Отображать встроенные обложки</string>
     <string name="android_album_summary">Отображать встроенные файлы изображений</string>
     <string name="auto_correct_id3_settings">Автокорректировка ID3</string>

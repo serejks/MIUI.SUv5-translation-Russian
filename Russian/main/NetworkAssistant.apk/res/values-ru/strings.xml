@@ -59,7 +59,7 @@
     <string name="carrier_query_number_carrier">Оператор</string>
     <string name="carrier_query_number_brand">Тип сети</string>
     <string name="unknown_location">Не установлено</string>
-    <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
+    <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем потребляемого трафика</string>
     <string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
     <string name="unknown_free_traffic_title">Неизвестен порог бесплатного трафика</string>
     <string name="unknown_free_traffic_hint">Если вы не знаете об объемах пакетов трафика и о их стоимости, пожалуйста обратитесь к своему оператору</string>
@@ -96,7 +96,7 @@
     <string name="finish_traffic_settings_message">"Использовано трафика: %s. Данные верны?
 Вы можете изменить настройки."</string>
     <string name="dialog_button_adjust">Настройка</string>
-    <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
+    <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегулировка трафика отключена</string>
     <string name="settings_page_traffic_summary">Доступно: %1$s \nПорог предупреждения: %2$s \nДата начала учета: %3$d</string>
     <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, дата учета: %d</string>
     <string name="sync_traffic_ing">Получение информации от оператора, пожалуйста, подождите…</string>
