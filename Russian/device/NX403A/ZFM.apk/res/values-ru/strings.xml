@@ -138,7 +138,7 @@
     <string name="enter_sigth">Ввод Signal Th</string>
     <string name="fm_list_same_name">Такое название уже используется</string>
     <string name="fm_list_input_name">Введите название</string>
-    <string name="fm_starting_service">Запуск радио...</string>
+    <string name="fm_starting_service">Запуск радио…</string>
     <string name="fm_frequency_picker_set">Установить</string>
     <string name="fm_frequency_picker_cancel">Отмена</string>
     <string name="fm_channel_name_more">Еще</string>

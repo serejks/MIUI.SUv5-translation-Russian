@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_encryption_desc">In order to proceed with your device upgrade you must decrypt previously encrypted apps. Click continue to unlock your credential store and decrypt your apps. Once complete you will have the option to enable full device encryption.</string>
-    <string name="app_encryption_button_text">Continue</string>
+    <string name="app_encryption_button_text">Продолжить</string>
     <string name="nfc_toggle_disabled">IT has disabled NFC</string>
     <string name="cantDeactivate3LM">3LM deactivation is not allowed</string>
     <string name="sd_encrypt_dialog">Encrypting your SD card will erase any data. Non-encrypted cards will be mounted read-only. Press OK to enable encryption or choose Skip to mount as read-only.</string>
@@ -83,6 +83,10 @@
     <string name="radioInfo_unknown">Неизвестно</string>
     <string name="sdcard_unmount">Отключить карту памяти</string>
     <string name="sdcard_format">Форматировать карту SD</string>
+    <string name="clear_font_title">Повышение четкости</string>
+    <string name="clear_font_summary">Повышение четкости текста</string>
+    <string name="increase_legibility_popup">Повышение четкости будет включено. Это позволит повысить четкость текста</string>
+    <string name="increase_legibility_popup_title">Включить повышение четкости</string>
     <string name="small_font">Небольшой</string>
     <string name="medium_font">Средняя</string>
     <string name="large_font">Крупный</string>
@@ -1102,7 +1106,7 @@ Wi-Fi и Мобильная точка доступа не могут быть �
     <string name="sim_perso_bad_passwd">Incorrect Password!</string>
     <string name="sim_perso_enter_old">Old password (4 digits)</string>
     <string name="sim_perso_pw_change_succeeded">Password changed successfully</string>
-    <string name="sim_perso_checking">USIM Personalization checking...</string>
+    <string name="sim_perso_checking">USIM Personalization checking…</string>
     <string name="sim_no_pin_entered">No PIN entered. Please input your PIN password.</string>
     <string name="sim_wrong_pin_length">"PIN should be at least 4
 and at most 8 digits"</string>
@@ -2174,6 +2178,8 @@ or visit CS center."</string>
     <string name="vibration_intensity">Интенсивность вибрации</string>
     <string name="display_saving">Автонастр. яркости экрана</string>
     <string name="display_saving_mode_summary">Для экономии энергии настройте параметры экрана в соответствии с результатами анализа изображений</string>
+    <string name="auto_adjust_touch_title">High touch sensitivity</string>
+    <string name="auto_adjust_touch_summary">"Increase the screen's sensitivity so you can touch it while wearing gloves"</string>
     <string name="software_update_settings_list_item_title">Обновление ПО</string>
     <string name="samsung_update">Обновить</string>
     <string name="update_summary">Проверка обновлений</string>
@@ -3746,8 +3752,8 @@ Enable data roaming?"</string>
     <string name="wimax_status_initializing">Initializing</string>
     <string name="wimax_status_scanning">Scanning</string>
     <string name="wimax_status_ready">Ready</string>
-    <string name="wimax_connecting_summary">Connecting...</string>
-    <string name="wimax_obtaining_ip">Obtaining IP address...</string>
+    <string name="wimax_connecting_summary">Connecting…</string>
+    <string name="wimax_obtaining_ip">Obtaining IP address…</string>
     <string name="wimax_status_active">Active</string>
     <string name="wimax_status_idle">Idle</string>
     <string name="wimax_status_disconnecting">Disconnecting</string>
