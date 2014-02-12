@@ -3803,4 +3803,5 @@ Android File Transfer
     <string name="title_show_notification_no">Отображение уведомлений отключено</string>
     <string name="system_storage">Внутренняя память</string>
     <string name="dirac_control">Оптимизировать качество аудио</string>
+    <string name="virus_scan_clean_dialog_message">Очистка…</string>
 </resources>
