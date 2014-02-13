@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string-array nam="send_item">
+    <string-array name="send_item">
         <item>SMS</item>
         <item>E-mail</item>
     </string-array>
