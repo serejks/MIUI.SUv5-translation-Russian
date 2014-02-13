@@ -4,7 +4,7 @@
         <item>SMS</item>
         <item>E-mail</item>
     </array>
-    <array name="act_weather_main_listview_key">
+    <string-array name="act_weather_main_listview_key">
         <item>Скорость ветра:</item>
         <item>UV индекс:</item>
         <item>Индекс одежды:</item>
