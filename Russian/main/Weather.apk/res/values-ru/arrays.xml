@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <array name="send_item">
+    <string-array nam="send_item">
         <item>SMS</item>
         <item>E-mail</item>
-    </array>
+    </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Скорость ветра:</item>
         <item>UV индекс:</item>
