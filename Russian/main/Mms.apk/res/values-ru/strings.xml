@@ -192,7 +192,7 @@
     <string name="stick">Закрепить</string>
     <string name="unstick">Открепить</string>
     <string name="stick_conversation">Закрепить диалог</string>
-    <string name="unstick_conversation">Открепить диалога</string>
+    <string name="unstick_conversation">Открепить диалог</string>
     <string name="sticked_conversation">Диалог закреплен</string>
     <string name="unsticked_conversation">Диалог откреплен</string>
 	<string name="invalid_conversation">Неверный диалог</string>
