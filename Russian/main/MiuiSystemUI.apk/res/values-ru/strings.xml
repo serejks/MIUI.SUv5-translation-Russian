@@ -178,7 +178,7 @@
     <string name="return_to_incall_screen">Вернуться к вызову</string>
     <string name="call_status_dialing">Вызывается</string>
     <string name="status_bar_toggle_ac">Доступ</string>
-    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
     <string name="status_bar_toggle_data">Данные</string>
     <string name="status_bar_toggle_divider">Еще</string>
