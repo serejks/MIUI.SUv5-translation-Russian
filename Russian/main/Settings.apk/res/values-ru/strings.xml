@@ -2587,7 +2587,7 @@ Android File Transfer
     <string name="msd_driver_windows_xp_download">Скачайте на ваш ПК драйвера и запустите Setup.exe.\nСкачать: http://miui.com/win</string>
     <string name="msd_driver_mac_download">Скачайте на ваш MAC драйвера и запустите AndroidFileTransfer.dmg\nСкачать: http://miui.com/mac</string>
     <string name="msd_install_status_undo">Установка драйвера</string>
-    <string name="password_guard">Пароль</string>
+    <string name="password_guard">Защита</string>
     <string name="vpn_safe">Защита</string>
     <string name="vpn_configure">Настройка</string>
     <string name="vpn_dns_servers_hint">например 8.8.8.8</string>
