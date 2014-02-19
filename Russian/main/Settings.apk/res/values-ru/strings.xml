@@ -2399,7 +2399,7 @@
     <string name="master_clear_all">Вернуться к заводским установкам?\nВнимание! Операция необратима!</string>
     <string name="master_clear_erase_application_progress">Удаление приложений…</string>
     <string name="erase_internal_storage">Очистить внутренний накопитель</string>
-    <string name="erase_internal_storage_description">Удалить музыка, фото, видео и прочее</string>
+    <string name="erase_internal_storage_description">Удалить музыку, фото, видео и прочее</string>
     <string name="storage_format">Форматирование</string>
     <string name="device_default_name">Устройство MIUI.SU</string>
     <string name="bluetooth_default_name">Устройство Xiaomi</string>
