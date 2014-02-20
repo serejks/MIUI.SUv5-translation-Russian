@@ -55,7 +55,6 @@
     <string name="rename">Переименовать</string>
     <string name="send_to">Отправить</string>
     <string name="status_bar_anti_disturb">Звук отключен</string>
-    <string name="status_bar_back">Нажмите, для возврата в Диктофон</string>
     <string name="status_bar_recording_pause">Запись на паузе</string>
     <string name="status_bar_recording">Запись…</string>
     <string name="delete">Удалить</string>
