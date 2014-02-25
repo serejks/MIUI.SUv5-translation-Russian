@@ -3174,7 +3174,7 @@ Android File Transfer
     <string name="button_text_a_key_optimize">Оптимизировать</string>
     <string name="button_text_done">Готово</string>
     <string name="button_text_cancel">Отмена</string>
-    <string name="deep_cleaning">Дополнительно</string>
+    <string name="deep_cleaning">Файлы</string>
     <string name="rubbish_cleaning">Очистка системы</string>
     <string name="storage_size_title">Память</string>
     <string name="storage_size_content">Использовано: %1$s | Доступно: %2$s</string>
