@@ -699,8 +699,8 @@
     <string name="frequency_weekly">Каждую неделю</string>
     <string name="frequency_none">Никогда</string>
     <string name="dirty_contacts_notification_title">Синхронизировать контакты?</string>
-    <string name="dirty_contacts_notification_description">Изменений, которые не были синхронизированы с аккаунтом Xiaomi: %d</string>
-    <string name="dirty_contacts_notification_message">(Вы можете изменить напоминание в настройках контакта)</string>
+    <string name="dirty_contacts_notification_description">Изменений, не синхронизированные с аккаунтом Xiaomi: %d</string>
+    <string name="dirty_contacts_notification_message">" (Вы можете изменить напоминание в настройках)"</string>
     <string name="remind_btn_sync_now">Синхронизировать</string>
     <string name="remind_btn_ignore">Игнорировать</string>
     <string name="display_only_phones">Только контакты с номерами</string>
