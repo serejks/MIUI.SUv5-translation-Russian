@@ -205,8 +205,8 @@
     <string name="screen_button_notification_text">Нажатие \"Домой\"+\"Выключение\" для активации</string>
     <string name="status_bar_style_settings">Настройки уведомлений</string>
     <string name="settings_toggle_layout_style">Стиль переключателей</string>
-    <string name="settings_toggle_layout_style_compact">Компакт</string>
-    <string name="settings_toggle_layout_style_single_page">Страница</string>
+    <string name="settings_toggle_layout_style_compact">Строка</string>
+    <string name="settings_toggle_layout_style_single_page">Сетка</string>
     <string name="settings_toggle_layout_style_applying">Меняю стиль переключателей…</string>
     <string name="settings_toggle">Переключатели</string>
     <string name="settings_toggle_position">Расположение переключателей</string>
@@ -216,7 +216,7 @@
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="settings_notification_icon">Уведомления в статусбаре</string>
     <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
-    <string name="settings_show_network_speed">Скорость соединения</string>
+    <string name="settings_show_network_speed">Скорость сети</string>
     <string name="settings_expanded_view">Панель уведомлений</string>
     <string name="settings_expandable_under_keyguard">На экране блокировки</string>
     <string name="settings_expandable_under_keyguard_summary">Работает, если для разблокировки не установлен пароль</string>

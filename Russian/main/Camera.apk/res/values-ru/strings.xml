@@ -649,7 +649,7 @@
     <string name="pref_camera_exposuretime_entry_250">1/250 с.</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000 с.</string>
     <string name="pref_camera_exposuretime_entry_5000">1/5000 с.</string>
-    <string name="face_analyze_info">%1$s %2$s г.</string>
+    <string name="face_analyze_info">Возраст: %2$s | Пол: %1$s</string>
     <string name="face_analyze_info_male">Мужской</string>
     <string name="face_analyze_info_female">Женский</string>
     <string name="face_beauty_intelligent_title">Авторегулировка лица</string>
@@ -659,7 +659,7 @@
     <string name="face_beauty_intelligent_level_1">Низкая</string>
     <string name="face_beauty_intelligent_level_2">Средняя</string>
     <string name="face_beauty_intelligent_level_3">Высокая</string>
-    <string name="pref_camera_show_gender_age_title">Отчет Facial Regornization</string>
+    <string name="pref_camera_show_gender_age_title">Распознавание лиц</string>
     <string name="pref_camera_show_gender_age_entry_off">Выкл</string>
     <string name="pref_camera_show_gender_age_entry_on">Показывать возраст и пол</string>
     <string name="pref_camera_show_gender_age_entry_alias">Показывать возрастной диапазон</string>
@@ -814,7 +814,7 @@
     <string name="SHARPNESS">Четкость</string>
     <string name="OK_STRING">Да</string>
     <string name="Title_SceneMode">Сюжет</string>
-    <string name="Title_SetUp">Настройка</string>
+    <string name="Title_SetUp">Настройки</string>
     <string name="Title_Timer">Таймер</string>
     <string name="Title_Resolution">Разрешение</string>
     <string name="Title_ShootAndShare">Параметры обмена</string>
@@ -987,4 +987,14 @@
     <string name="HDR_Strong">Интенсивн.</string>
 	<string name="wifi_connect_not_found">Нет доступных сетей Wi-Fi</string>
     <string name="wifi_connect_current_connetion">Сеть Wi-Fi подключена</string>
+	<string name="pref_camera_picturesize_entry_3264x1836">Широкоформатный 16:9</string>
+	<string name="pref_camera_picturesize_entry_4160x2336">Широкоформатный  16:9</string>
+	<string name="pref_camera_picturesize_entry_2880x2160">Стандартный 4:3</string>
+    <string name="pref_camera_picturesize_entry_2880x1616">Широкоформатный 16:9</string>
+	<string name="pref_camera_picturesize_professional_entry_4160x2336">10 Mп (4160x2336)</string>
+    <string name="pref_camera_picturesize_professional_entry_3264x2448">8 Mп (3264x2448)</string>
+	<string name="pref_camera_picturesize_professional_entry_2880x2160">6 Мп (2880x2160)</string>
+    <string name="pref_camera_picturesize_professional_entry_2880x1616">5 Мп (2880x1616)</string>
+	<string name="pref_camera_preview_entry_off">Выкл.</string>
+	<string name="pref_camera_ae_bracket_hdr_value_off">Выкл.</string>
 </resources>

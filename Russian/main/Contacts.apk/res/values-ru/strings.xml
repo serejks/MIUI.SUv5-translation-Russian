@@ -471,7 +471,7 @@
     <string name="list_filter_customize">Настроить</string>
     <string name="list_filter_phones">Все контакты с номерами телефонов</string>
     <string name="list_filter_single">Контакт</string>
-    <string name="custom_list_filter">Настройка отображения</string>
+    <string name="custom_list_filter">Настройки отображения</string>
     <string name="contact_list_loading">Загрузка…</string>
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_contacts_filter">Фильтр контактов</string>
@@ -566,7 +566,7 @@
     <string name="primary_indicator">Основной</string>
     <string name="contactDetailCalllog">История звонков</string>
     <string name="ringLabelsGroup">Мелодия</string>
-    <string name="default_ringtone">Мелодия по умолчанию</string>
+    <string name="default_ringtone">Рингтон по умолчанию</string>
     <string name="callNoAnswerTimeFormat">Вызов: %s гудков</string>
     <string name="menu_send_to_desktop">Отправить на домашний экран</string>
     <string name="send_contact_shortcut_todesktop_success">Добавлено на Домашний экран.</string>
@@ -935,7 +935,7 @@
     <string name="sdcard_status_changed_dialog_title">Изменен статус SD карты</string>
     <string name="sdcard_status_changed_dialog_message">Приложение будет выключено.\nЗапустите снова это приложение, чтобы обновить ресурсы.</string>
     <string name="resource_mute">Ничего</string>
-    <string name="resource_default">Мелодия по умолчанию</string>
+    <string name="resource_default">Рингтон по умолчанию</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>

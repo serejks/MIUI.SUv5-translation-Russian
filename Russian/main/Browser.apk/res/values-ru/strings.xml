@@ -486,7 +486,7 @@
 	<string name="pref_content_auto_light_mode">Автоподсветка</string>
 	<string name="pref_clear_cache_for_exit">Очистка кэша</string>
 	<string name="pref_clear_history_for_exit">Очистка истории</string>
-	<string name="pref_content_fontsize_setting">Настройка шрифта</string>
+	<string name="pref_content_fontsize_setting">Настройки шрифта</string>
 	<string name="recover_from_crash">Восстановить последнюю сессию</string>
 	<string name="recover">Восстановить</string>
 	<string name="crash_recovcery_message">Браузер был экстренно закрыт. Восстановить последние вкладки?</string>
@@ -508,8 +508,8 @@
 	<string name="find_on_page">Найти на странице</string>
 	<string name="selection_all">Выбрать все</string>
 	<string name="url_copy_done">URL скопирован.</string>
-	<string name="pref_setting_title">Настройка страницы</string>
-	<string name="pref_general_setting_title">Настройка</string>
+	<string name="pref_setting_title">Настройки страницы</string>
+	<string name="pref_general_setting_title">Настройки</string>
 	<string name="return_to_homepage">Вернуться на домашнюю страницу</string>
 	<string name="notif_install_successful">Загрузка завершена</string>
 	<string name="in_incognito">Вы вошли в режим инкогнито, история сохраняться не будет</string>

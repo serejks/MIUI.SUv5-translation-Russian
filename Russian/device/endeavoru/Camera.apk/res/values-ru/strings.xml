@@ -243,7 +243,7 @@
   <string name="settings_flash">Вспышка</string>
   <string name="settings_geo_tags">Фотоснимки с геометками</string>
   <string name="settings_grid">Сетка</string>
-  <string name="settings_image_adjustments">Настройка изображения</string>
+  <string name="settings_image_adjustments">Настройки изображения</string>
   <string name="settings_iso">ISO</string>
   <string name="settings_mode_group_shot">Групповой портрет</string>
   <string name="settings_mode_normal_camera">Обычная камера</string>

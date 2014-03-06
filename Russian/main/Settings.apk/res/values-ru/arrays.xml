@@ -123,14 +123,14 @@
         <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Всегда</item>
-        <item>Только при питании от сети</item>
-        <item>Никогда (Увеличивает расход трафика)</item>
+        <item>Включен</item>
+        <item>Включен при зарядке</item>
+        <item>Выключен</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Всегда</item>
-        <item>Только при питании от сети</item>
-        <item>Никогда</item>
+        <item>Включен</item>
+        <item>Включен при зарядке</item>
+        <item>Выключен</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Авто</item>
@@ -285,6 +285,11 @@
         <item>Подписка 2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
+        <item>Сильный</item>
+        <item>Средний</item>
+        <item>Слабый</item>
+    </string-array>
+	<string-array name="media_feedback_level_entries">
         <item>Сильный</item>
         <item>Средний</item>
         <item>Слабый</item>
@@ -564,6 +569,78 @@
         <item>Музыка</item>
         <item>Почта</item>
     </string-array>
+	<string-array name="app_ops_categories">
+        <item>Местоположение</item>
+        <item>Личность</item>
+        <item>Обмен сообщениями</item>
+        <item>Устройство</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>неточное определение местоположения</item>
+        <item>точное определение местоположения</item>
+        <item>GPS</item>
+        <item>вибрация</item>
+        <item>чтение контактов</item>
+        <item>изменение контактов</item>
+        <item>чтение журнала вызовов</item>
+        <item>изменение журнала вызовов</item>
+        <item>чтение календаря</item>
+        <item>изменение календаря</item>
+        <item>сканирование wi-fi</item>
+        <item>уведомления</item>
+        <item>поиск сети</item>
+        <item>вызов</item>
+        <item>чтение сообщений</item>
+        <item>изменение сообщений</item>
+        <item>получение сообщений</item>
+        <item>получение экстренных сообщений</item>
+        <item>получение MMS</item>
+        <item>получение WAP push</item>
+        <item>отправка сообщений</item>
+        <item>чтение ICC SMS</item>
+        <item>изменение ICC SMS</item>
+        <item>изменение настроек</item>
+        <item>рисунок сверху</item>
+        <item>доступ к уведомлениям</item>
+        <item>камера</item>
+        <item>запись аудио</item>
+        <item>воспроизведение аудио</item>
+        <item>чтение буфера обмена</item>
+        <item>изменение буфера обмена</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибрация</item>
+        <item>Чтение контактов</item>
+        <item>Изменение контактов</item>
+        <item>Чтение журнала вызовов</item>
+        <item>Изменение журнала вызовов</item>
+        <item>Чтение календаря</item>
+        <item>Изменение календаря</item>
+        <item>Местоположение</item>
+        <item>Уведомления</item>
+        <item>Местоположение</item>
+        <item>Вызов</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Изменение настроек</item>
+        <item>Рисунок сверху</item>
+        <item>Уведомления</item>
+        <item>Камера</item>
+        <item>Запись аудио</item>
+        <item>Воспроизведение аудио</item>
+        <item>Чтение буфера</item>
+        <item>Изменение буфера</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ничего</item>
         <item>Logcat</item>
@@ -576,5 +653,15 @@
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xhdpi</item>
         <item>1280x720 tvdpi и 1920x1080 xhdpi</item>
+    </string-array>
+	<string-array name="miracast_policies">
+        <item>Небольшая задержка</item>
+        <item>По умолчанию</item>
+        <item>Лучшее качество</item>
+    </string-array>
+	<string-array name="show_non_rect_clip_entries">
+        <item>Отключено</item>
+        <item>Подсвечивать фон синим цветом</item>
+        <item>Протестированные команды отображаются красным цветом</item>
     </string-array>
 </resources>

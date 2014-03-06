@@ -175,4 +175,12 @@
     <string name="express_inquiry_no_history">Нет истории</string>
 	<string name="call">Вызов</string>
 	<string name="no_more_result">Ничего не найдено</string>
+	<string name="sina_share_pendding">Отправка…</string>
+    <string name="sina_share_success">Отправлено</string>
+    <string name="sina_share_fail">Ошибка отправки</string>
+    <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
+    <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
+	<string name="notify_connect_every_time">Спрашивать доступ сети каждый раз</string>
+    <string name="do_not_remind_me">Не напоминать</string>
+	<string name="recharge_phone_number_empty">Номер не может быть пустым</string>
 </resources>

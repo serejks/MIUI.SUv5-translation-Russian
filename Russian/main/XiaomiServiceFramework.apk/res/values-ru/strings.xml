@@ -101,7 +101,7 @@
     <string name="check_phone_error_title">Ошибка включения синхронизации</string>
     <string name="check_phone_io_error">Сетевая ошибка.</string>
     <string name="other_settings">Прочие настройки</string>
-    <string name="find_device">Найти устройство</string>
+    <string name="find_device">Поиск устройства</string>
     <string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
     <string name="find_device_enabling">Включение…</string>
     <string name="find_device_disabling">Отключение…</string>

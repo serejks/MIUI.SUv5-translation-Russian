@@ -47,7 +47,7 @@
 	<string name="revert">Отмена</string>
 	<string name="delete">Удалить</string>
 	<string name="alarm_volume_title">Громкость будильника</string>
-	<string name="alarm_volume_summary">Настройка громкости будильника и таймера</string>
+	<string name="alarm_volume_summary">Настройки громкости будильника и таймера</string>
 	<string name="silent_alarm_summary">Без звука</string>
 	<string name="alarm_notify_text">Отложить/выключить будильник</string>
 	<string name="alarm_notify_snooze_label">%s отложено</string>
@@ -77,7 +77,7 @@
 	<string name="worldclock_title">Мировое время</string>
 	<string name="stopwatch_title">Секундомер</string>
 	<string name="timer_title">Таймер</string>
-	<string name="menu_add_worldclock">Новый часовой пояс</string>
+	<string name="menu_add_worldclock">Добавить</string>
 	<string name="menu_worldclock_edit">Редактировать мировое время</string>
 	<string name="menu_alarmclock_edit">Редактировать будильник</string>
 	<string name="menu_delete">Удалить</string>
@@ -125,7 +125,7 @@
     <string name="shutdown_alarm_disable_summary">Не включать телефон, если выключен</string>
 	<string name="workday_alarm_clock">По рабочим дням</string>
 	<string name="weekend_alarm_clock">По выходным</string>
-    <string name="system_time_setting">Настройка</string>
+    <string name="system_time_setting">Настройки</string>
     <string name="lap_num">круг</string>
     <string name="hour_unit">Ч</string>
     <string name="minute_unit">М</string>
@@ -140,9 +140,9 @@
     <string name="holiday_data_update_succeed">Проверка завершенных обновлений</string>
     <string name="holiday_data_already_newest">Информация о рабочих днях актуальна</string>
     <string name="holiday_data_no_network">Нет сети, повторите позже</string>
-    <string name="default_alarm_alert">Установить мелодию по умолчанию</string>
-    <string name="default_alarm_screen">Установить свою мелодию по умолчанию</string>
-    <string name="default_alarm_title">Мелодия по умолчанию</string>
+    <string name="default_alarm_alert">Установить рингтон по умолчанию</string>
+    <string name="default_alarm_screen">Установить свой рингтон по умолчанию</string>
+    <string name="default_alarm_title">Рингтон по умолчанию</string>
     <string name="alarm_alert">Установить мелодию</string>
     <string name="alarm_screen">Стиль и мелодия</string>
 	<string name="resource_app_name">Ресурсы браузера</string>

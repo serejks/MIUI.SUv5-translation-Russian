@@ -186,7 +186,7 @@
 	<string name="select_backup_item">Выберите бэкапы</string>
 	<string name="restore_data">Восстановить данные</string>
 	<string name="backup_data">Бэкап данных</string>
-    <string name="cloud_app_backup_title">Бэкап в облако</string>
+    <string name="cloud_app_backup_title">Облачный бэкап</string>
     <string name="cloud_app_just_show_in_current_device">Приложения на этом устройстве</string>
     <string name="cloud_app_mine">Загруженные приложения</string>
     <string name="cloud_app_backup_summary">Автобэкап приложений и пользовательских данных, когда телефон заряжается и подключен к Wi-Fi</string>
