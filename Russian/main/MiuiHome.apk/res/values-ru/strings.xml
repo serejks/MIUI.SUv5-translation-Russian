@@ -34,10 +34,10 @@
 	<string name="loading_desktop">Загрузка лаунчера…</string>
 	<string name="start_activity_failed">Не удалось загрузить.</string>
 	<string name="gadget_error_text">Не удалось загрузить виджет.</string>
-	<string name="menu_edit">Редактировать Домашний экран</string>
+	<string name="menu_edit">Режим редактирования</string>
 	<string name="menu_sort">Сортировка</string>
 	<string name="menu_launcher_setting">Настройки лаунчера</string>
-	<string name="editing_tips">Редактировать Домашний экран</string>
+	<string name="editing_tips">Режим редактирования</string>
 	<string name="cant_remove_system_app">Невозможно удалить системное приложение</string>
 	<string name="cant_remove_retained_app">Невозможно удалить приложение.</string>
 	<string name="uninstall_dialog_title_format">Удалить \"%s\"</string>

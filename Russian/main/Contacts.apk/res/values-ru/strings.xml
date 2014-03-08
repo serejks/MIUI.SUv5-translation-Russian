@@ -33,7 +33,7 @@
     <string name="menu_editContact">Изменить</string>
     <string name="menu_deleteContact">Удалить</string>
     <string name="menu_copy">Копировать</string>
-    <string name="menu_create_contact_shortcut">На Домашний экран</string>
+    <string name="menu_create_contact_shortcut">На домашний экран</string>
     <string name="menu_call">Позвонить</string>
     <string name="menu_sendSMS">Отправить SMS/MMS</string>
     <string name="menu_splitAggregate">Разделить</string>
@@ -67,7 +67,7 @@
     <string name="ghostData_company">Компания</string>
     <string name="ghostData_title">Должность</string>
     <string name="invalidContactMessage">Контакт не существует</string>
-    <string name="createContactShortcutSuccessful">Виджет контакта добавлен на Домашний экран</string>
+    <string name="createContactShortcutSuccessful">Виджет контакта добавлен на домашний экран</string>
     <string name="pickerNewContactHeader">Создать новый контакт</string>
     <string name="pickerNewContactText">Создать новый контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
@@ -569,7 +569,7 @@
     <string name="default_ringtone">Рингтон по умолчанию</string>
     <string name="callNoAnswerTimeFormat">Вызов: %s гудков</string>
     <string name="menu_send_to_desktop">Отправить на домашний экран</string>
-    <string name="send_contact_shortcut_todesktop_success">Добавлено на Домашний экран.</string>
+    <string name="send_contact_shortcut_todesktop_success">Добавлено на домашний экран.</string>
     <string name="summary_kind_title">Основная информация</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин %2$d сек</string>
@@ -650,7 +650,7 @@
     <string name="deselect_all">Снять выбор</string>
     <string name="select_none">Ничего не выбрано</string>
     <string name="toast_finish_delete_call_log">Вызов удален</string>
-    <string name="confirm_delete_contact_all_call_logs">Удалить журнал вызовов?</string>
+    <string name="confirm_delete_contact_all_call_logs">Удалить все вызовы контакта?</string>
     <string name="confirm_delete_selected_all_call_logs">Удалить журнал вызовов?</string>
     <string name="confirm_delete_selected_call_log">Удалить выбранное из журнала?</string>
     <string name="calllog_menu_blacklist">Заблокировать</string>
@@ -1185,7 +1185,7 @@
 	<string name="toast_finish_delete_selected_call_log">Удаление завершено</string>
 	<string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
     <string name="delete_call_log_selected_title">Удалить выбранные вызовы?</string>
-	<string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на Домашний экран</string>
+	<string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на домашний экран</string>
     <string name="empty_divider_title">Вы можете</string>
     <string name="hint_distance">держать дистанцию</string>
 	<string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
