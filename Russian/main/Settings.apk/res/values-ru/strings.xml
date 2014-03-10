@@ -3210,14 +3210,14 @@ Android File Transfer
     <string name="optimize_large_file_list_empty_content">Большие файлы не найдены.</string>
     <string name="deep_clean_tips_cache">iconКэш \nВременные файлы, которые создаются в процессе работы некоторых приложений.</string>
     <string name="deep_clean_tips_residual">iconМусор \nОставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
-    <string name="deep_clean_tips_large_file">iconБольшие файлы \nФайлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
+    <string name="deep_clean_tips_large_file">iconБольшие файлы \nФайлы, размером более 10 Мб.</string>
     <string name="toast_qucik_scan_list_empty">Очистка не требуется!</string>
     <string name="quick_scan_list_loading_hits">Сканирование…</string>
     <string name="app_uninstall_residual">Очистить мусор приложений?</string>
     <string name="residual_cancel">Отмена</string>
     <string name="residual_clean">ОК</string>
     <string name="residual_tips_hints">Мусора приложений найдено: %s</string>
-    <string name="clean_confirm_title">Удалить эти файлы?</string>
+    <string name="clean_confirm_title">Удалить выбранные файлы?</string>
     <string name="button_text_delete">Удалить</string>
     <string name="opt_clean_garbage">Очищено %d Мб</string>
     <string name="opt_killed_process">Остановлено процессов: %d</string>
@@ -3746,7 +3746,7 @@ Android File Transfer
     <string name="deep_clean_tips_residual_title">Мусор:</string>
     <string name="deep_clean_tips_residual_content">Оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов</string>
     <string name="deep_clean_tips_large_file_title">Большие файлы:</string>
-    <string name="deep_clean_tips_large_file_content">Файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
+    <string name="deep_clean_tips_large_file_content">Файлы, размером более 10 Мб.</string>
 	<string name="perm_root_manage_empty">Установленные приложения не имеют ROOT прав</string>
     <string name="perm_app_manage_empty">Нет отслеживаемых приложений</string>
 	<string name="empty_folder_title">Пустые папки (%d)</string>
