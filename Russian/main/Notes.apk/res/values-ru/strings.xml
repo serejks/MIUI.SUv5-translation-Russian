@@ -101,4 +101,6 @@
 	<string name="dlg_title_confirm_alarm_silent">Отключить звук?</string>
 	<string name="dlg_desc_confirm_alarm_silent">Cигналы будильника не будут воспроизводиться в режиме без звука.</string>
 	<string name="close">Закрыть</string>
+	<string name="undo">Отменить изменение</string>
+    <string name="redo">Восстановить изменение</string>
 </resources>
