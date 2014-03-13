@@ -3972,4 +3972,20 @@ Android File Transfer
 	<string name="menu_item_force_stop">Остановить</string>
     <string name="menu_item_uninstall">Удалить</string>
     <string name="menu_item_app_details">Информация</string>
+	<string name="free_wifi_summary">Бесплатный Wi-Fi, предоставляется от %1$s</string>
+    <string name="free_wifi_connect_title">Доступна сеть Wi-Fi</string>
+    <string name="free_wifi_connect_summary">Бесплатный Wi-Fi предоставляется от %1$s. Нажмите для подключения.</string>
+    <string name="free_wifi_connect_dialog_title">Доступен бесплатный Wi-Fi</string>
+    <string name="free_wifi_connect_dialog_summary">Бесплатный Wi-Fi %1$s предоставляется от %2$s.</string>
+    <string name="free_wifi_wiwide_provider">WiWide</string>
+    <string name="free_wifi_connect">Подключить</string>
+    <string name="free_wifi_connecting">Подключение…</string>
+    <string name="free_wifi_connected">Бесплатный Wi-Fi подключен</string>
+    <string name="free_wifi_connect_fail">Не удается подключиться к Wi-Fi</string>
+    <string name="free_wifi_connect_fail2">Не удалось выполнить вход</string>
+    <string name="free_wifi_login_again">Повтор</string>
+    <string name="free_wifi_connected_count">Подключенных пользователей: %1$s</string>
+    <string name="free_wifi_speed_title">Медленное соединение?</string>
+    <string name="free_wifi_connected_time">Время в сети: %1$s</string>
+    <string name="free_wifi_confirm">Подтвердить</string>
 </resources>
