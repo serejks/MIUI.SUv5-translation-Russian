@@ -664,4 +664,9 @@
         <item>Подсвечивать фон синим цветом</item>
         <item>Протестированные команды отображаются красным цветом</item>
     </string-array>
+	<string-array name="network_speed_slow_summary" >
+		<item>Медленная скорость из-за большой нагрузки</item>
+		<item>Медленная скорость из-за слабого сигнала</item>
+		<item>Перемещение…</item>
+	</string-array>
 </resources>
