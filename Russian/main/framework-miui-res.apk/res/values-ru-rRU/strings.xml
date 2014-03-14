@@ -464,4 +464,9 @@
 	<string name="text_copied">Текст скопирован</string>
 	<string name="text_cut">Текст вырезан</string>
     <string name="login_website_in_case_forget_password">Для сброса пароля посетите i.xiaomi.com.</string>
+	<string name="shutdown_progress">Выключение…</string>
+	<string name="global_actions_airplane_mode">Режим полета</string>
+    <string name="global_actions_reboot">Перезагрузка</string>
+    <string name="global_actions_shutdown">Выключение</string>
+    <string name="global_actions_silent_mode">Режим \"Без звука\"</string>
 </resources>

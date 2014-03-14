@@ -96,11 +96,13 @@
 	<string name="pref_title_data_export">Экспорт данных</string>
 	<string name="pref_title_common">Общие настройки</string>
 	<string name="pref_title_alarm_when_silent">Сигнал в режиме \"Без звука\"</string>
-	<string name="pref_desc_alarm_when_silent">Cигналы будильника будут воспроизводиться даже в режиме без звука</string>
+	<string name="pref_desc_alarm_when_silent">Cигналы будильника будут воспроизводиться даже в режиме \"Без звука\".</string>
 	<string name="pref_title_data_export_to_sdcard">Экспорт заметок на SD карту</string>
 	<string name="dlg_title_confirm_alarm_silent">Отключить звук?</string>
-	<string name="dlg_desc_confirm_alarm_silent">Cигналы будильника не будут воспроизводиться в режиме без звука.</string>
+	<string name="dlg_desc_confirm_alarm_silent">Cигналы будильника не будут воспроизводиться в режиме \"Без звука\".</string>
 	<string name="close">Закрыть</string>
 	<string name="undo">Отменить изменение</string>
     <string name="redo">Восстановить изменение</string>
+	<string name="permlab_accessNote">Доступ к заметкам</string>
+    <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
 </resources>
