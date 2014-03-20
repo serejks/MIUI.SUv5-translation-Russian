@@ -331,4 +331,7 @@
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">FullHD</string>
 	<string name="visit_postfix">| недавние</string>
+	<string name="receive_ad_notify">Push-уведомления</string>
+	<string name="receive_ad_notify_summary">Показывать самые новые и популярные видео при запуске.</string>
+	<string name="success_add_waitfornewset">Готово</string>
 </resources>

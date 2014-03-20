@@ -78,7 +78,7 @@
     <string name="start_server">Старт</string>
     <string name="stop_server">Стоп</string>
     <string name="notif_server_starting">Запуск FTP сервера…</string>
-    <string name="notif_title">FTP сервер работает.</string>
+    <string name="notif_title">FTP сервер запущен</string>
     <string name="storage_warning">Внешний носитель недоступен.</string>
     <string name="wifi_state">Статус Wi-Fi</string>
     <string name="instruction_pre">Нажмите \"Старт\" для запуска FTP сервера</string>

@@ -125,4 +125,10 @@
     <string name="sync_only_in_wifi">Только по Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Диктофон будет загружать записи в облако через мобильный интернет, если отключена эта функция.</string>
     <string name="sync_only_in_wifi_alert">После отключения этой функции возможно чрезмерное потребление мобильного трафика.</string>
+	<string name="wifi_recommended_title">Предупреждение о трафике</string>
+    <string name="wifi_recommended_body">При загрузке этого файла возможно чрезмерное потребление мобильного трафика.</string>
+    <string name="button_queue_for_wifi">В очередь</string>
+    <string name="button_start_now">Продолжить</string>
+    <string name="notification_title_all_paused">Загрузка приостановлена</string>
+    <string name="notification_message_all_paused">Возможно чрезмерное потребление трафика</string>
 </resources>
