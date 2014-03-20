@@ -86,7 +86,7 @@
     <string name="HIPS_Perm_ROOT">ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc">Возможность запрашивать ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc_Stable">Недоступно в стабильной версии MIUI</string>
-    <string name="HIPS_Perm_ROOT_Hint">Приложениям разрешено получать ROOT: %1$s</string>
+    <string name="HIPS_Perm_ROOT_Hint">Нет приложений</string>
     <string name="HIPS_Perm_SendSMS_Recipient">Получатель:</string>
     <string name="HIPS_Perm_SendSMS_Content">Содержимое:</string>
     <string name="HIPS_Perm_SendSMS_SMSC">Центр обслуживания SMS:</string>
