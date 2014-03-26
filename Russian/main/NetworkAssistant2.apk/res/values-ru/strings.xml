@@ -171,4 +171,6 @@
     <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
     <string name="traffic_correction_success">Трафик обновлен</string>
     <string name="traffic_correction_failed">Не удается получить информацию о трафике</string>
+	<string name="network_assistant_upgraded_title">Предел трафика не установлен</string>
+    <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
 </resources>

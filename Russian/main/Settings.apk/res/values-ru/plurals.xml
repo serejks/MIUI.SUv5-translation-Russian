@@ -40,4 +40,8 @@
         <item quantity="other">Пароль должен содержать не буквенные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 не буквенный символ.</item>
     </plurals>
+	<plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложений: %d \nДоступ к чтению уведомлений.</item>
+        <item quantity="one">Приложений: %d \nДоступ к чтению уведомлений.</item>
+    </plurals>
 </resources>

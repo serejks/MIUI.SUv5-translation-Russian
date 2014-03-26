@@ -1111,7 +1111,7 @@
     <string name="force_stop">Остановить</string>
     <string name="total_size_label">Всего</string>
     <string name="application_size_label">Приложение</string>
-    <string name="external_code_size_label">Приложение на накопителе</string>
+    <string name="external_code_size_label">Кэш на накопителе</string>
     <string name="data_size_label">Данные</string>
     <string name="external_data_size_label">Данные на накопителе</string>
     <string name="uninstall_text">Удалить</string>
@@ -4052,4 +4052,15 @@ Android File Transfer
     <string name="pref_category_title_module_settings">Общие</string>
 	<string name="empty_folder_title_hints">Пустые папки</string>
 	<string name="pref_summary_garbage_cleanup_check_size">Показывать уведомление, когда количество мусора достигает определенного размера.</string>
+	<string name="pref_title_expand_cache_group">Раскрывать категории кэша</string>
+    <string name="pref_summary_expand_cache_group">Категории кэша будут раскрываться по умолчанию.</string>
+	<string name="garbage_white_list_empty_content">Нет файлов</string>
+    <string name="toast_garbage_cleanup_success">Очистка завершена</string>
+	<string name="Settings_title_garbage_cleanup">Настройки очистки</string>
+    <string name="Settings_title_network_assistants">Настройки трафика</string>
+    <string name="Settings_title_anti_spam">Настройки черного списка</string>
+    <string name="Settings_title_power_center">Настройки энергосбережения</string>
+    <string name="Settings_title_anti_virus">Настройки антивируса</string>
+	<string name="dialog_title_load_cleanup_engine_error">Ошибка очистки</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Движок очистки был поврежден. Повторите попытку.</string>
 </resources>
