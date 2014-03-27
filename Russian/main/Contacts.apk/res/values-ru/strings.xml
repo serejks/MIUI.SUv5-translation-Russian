@@ -1195,4 +1195,5 @@
 	<string name="eventTypeCustom">Пользовательский</string>
 	<string name="pref_key_sim_manage2">Управление SIM2</string>
 	<string name="account_sim2">SIM карта %d</string>
+	<string name="meid_invalid">Неверный MEID</string>
 </resources>
