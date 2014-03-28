@@ -52,7 +52,7 @@
     <string name="screenshot_saving_title">Сохранение скриншота…</string>
     <string name="screenshot_saving_text">Сохранение скриншота</string>
     <string name="screenshot_saved_title">Скриншот сохранен</string>
-    <string name="screenshot_saved_text">Нажмите, для просмотра скриншота.</string>
+    <string name="screenshot_saved_text">Просмотр скриншота</string>
     <string name="screenshot_failed_title">Невозможно сделать скриншот</string>
     <string name="screenshot_failed_text">Невозможно сохранить скриншот. Возможно накопитель уже используется или недостаточно памяти.</string>
     <string name="usb_preference_title">Настройки передачи файлов по USB</string>

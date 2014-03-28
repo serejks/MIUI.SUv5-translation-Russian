@@ -3500,9 +3500,9 @@ Android File Transfer
     <string name="power_chooser_check_box_summary">Выбор режима экономии батареи для продолжительной работы телефона</string>
     <string name="power_chooser_smart_title">Режим по умолчанию</string>
     <string name="power_chooser_smart_summary">Сохранить текущие параметры. Очистка процессов в режиме блокировки.</string>
-    <string name="power_chooser_standby_title">Режим марафон</string>
+    <string name="power_chooser_standby_title">Режим \"Марафон\"</string>
     <string name="power_chooser_standby_summary">Отключение интернет сервисов</string>
-    <string name="power_chooser_sleep_title">Режим сна</string>
+    <string name="power_chooser_sleep_title">Режим \"Сон\"</string>
     <string name="power_chooser_sleep_summary">Отключение всех функций (телефон, сообщения, интернет) за исключением будильника</string>
     <string name="power_chooser_mine_title">Свой режим</string>
     <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>

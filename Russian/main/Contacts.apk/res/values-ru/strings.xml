@@ -433,7 +433,7 @@
     <string name="take_photo">Сфотографировать</string>
     <string name="take_new_photo">Создать новое фото</string>
     <string name="pick_photo">Выбрать фото из галереи</string>
-    <string name="pick_new_photo">Выбрать новое фото из Галереи</string>
+    <string name="pick_new_photo">Выбрать новое фото из галереи</string>
     <string name="locale_change_in_progress">Список контактов обновляется после смены языка интерфейса.</string>
     <string name="upgrade_in_progress">Список контактов обновляется…</string>
     <string name="upgrade_out_of_memory">Список контактов обновляется. \n\nДля обновления требуется около %s Мб встроенной памяти.\n\nВыберите один из следующих вариантов:</string>
