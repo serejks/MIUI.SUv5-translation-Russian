@@ -216,4 +216,13 @@
     <string name="express_address_name">Имя</string>
     <string name="express_address_region">Регион</string>
     <string name="express_address_deleted">Адрес удален</string>
+	<string name="download_failed">Ошибка загрузки</string>
+    <string name="download_failed_storage">Ошибка загрузки. Проверьте состояние внешней памяти.</string>
+    <string name="download_failed_network">Ошибка загрузки. Проверьте параметры сети.</string>
+    <string name="download_failed_gone">Ошибка загрузки. Файл не существует.</string>
+    <string name="download_failed_server">Ошибка загрузки. Попробуйте позже.</string>
+    <string name="download_failed_cannot_resume">Ошибка загрузки. Попробуйте позже.</string>
+    <string name="download_failed_file_exists">Файл уже существует</string>
+    <string name="download_failed_space">Ошибка загрузки. Недостаточно свободного места.</string>
+    <string name="download_failed_blocked">Ошибка загрузки. Невозможно подключиться к сети.</string>
 </resources>

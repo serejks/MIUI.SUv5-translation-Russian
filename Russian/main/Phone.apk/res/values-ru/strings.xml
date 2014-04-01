@@ -701,12 +701,14 @@
 	<string name="card_02">Карта 2</string>
 	<string name="place_a_call1">Подписка 1</string>
 	<string name="place_a_call2">Подписка 2</string>
+	<string name="place_a_call3">Подписка 3</string>
 	<string name="count_down">Секунд:</string>
 	<string name="call_number">Кому:</string>
 	<string name="cancel_call">Отмена</string>
 	<string name="set_subscription_error_atleast_one">Выберите хотя бы одну подписку</string>
 	<string name="sub_1">SUB 1</string>
 	<string name="sub_2">SUB 2</string>
+	<string name="sub_3">SUB 3</string>
 	<string name="set_uicc_subscription_progress">Установка подписки…</string>
 	<string name="set_sub_success">Подписка установлена</string>
 	<string name="set_sub_failed">Установить подписку не удалось</string>

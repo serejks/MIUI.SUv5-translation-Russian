@@ -997,4 +997,7 @@
     <string name="pref_camera_picturesize_professional_entry_2880x1616">5 Мп (2880x1616)</string>
 	<string name="pref_camera_preview_entry_off">Выкл.</string>
 	<string name="pref_camera_ae_bracket_hdr_value_off">Выкл.</string>
+	<string name="pref_camera_picturesize_entry_fullscreen">Широкоформатный 16:9</string>
+	<string name="pref_camera_picturesize_professional_entry_2592x1936">5 Мп (2592x1936)</string>
+    <string name="pref_camera_picturesize_professional_entry_2592x1456">4 Мп (2592x1456)</string>
 </resources>
