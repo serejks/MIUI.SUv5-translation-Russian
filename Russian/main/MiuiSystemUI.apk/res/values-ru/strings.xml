@@ -355,4 +355,6 @@
     <string name="settings_show_carrier_summary">Только на экране блокировки</string>
     <string name="settings_basic_settings">Основные настройки</string>
     <string name="settings_advanced">Дополнительные настройки</string>
+    <string name="accessibility_search_light">Поиск</string>
+    <string name="accessibility_camera_button">Камера</string>
 </resources>
