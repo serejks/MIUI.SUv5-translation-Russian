@@ -2350,7 +2350,7 @@
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="silent_mode_title">Без звука</string>
-    <string name="media_feedback_enable_title">Vibrate with the beat</string>
+    <string name="media_feedback_enable_title">Вибрация в такт</string>
     <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте еще раз</string>
     <string name="please_type_passphrase">Пароль сети</string>
     <string name="wifi_certificate">Сертификат</string>
