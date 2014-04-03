@@ -13,8 +13,8 @@
 	<string name="autumn_equinox">Точка осеннего равноденствия</string>
 	<string name="callNoAnswerTimeFormat">Гудки %s раз</string>
 	<string name="caller_info_name_delimiter">или</string>
-	<string name="check_phone_error_title">Ошибка запуска службы синхронизации</string>
-	<string name="check_phone_io_error">Сетевая ошибка.</string>
+	<string name="check_phone_error_title">Служба синхронизации не запущена</string>
+	<string name="check_phone_io_error">Сетевая ошибка</string>
 	<string name="childrens_day">День детей</string>
 	<string name="chinese_youth_day">День молодежи</string>
 	<string name="christmas_day">Рождество</string>
@@ -316,7 +316,7 @@
 	<string name="national_father_day">Китайский день отца</string>
 	<string name="never">Никогда</string>
 	<string name="new_years_day">Новый Год</string>
-	<string name="no_sim">=SIM карта не обнаружена</string>
+	<string name="no_sim">SIM карта не обнаружена</string>
 	<string name="partys_day">День веселья</string>
 	<string name="payphone">Телефонный автомат</string>
 	<string name="peace_day">Международный день мира</string>
@@ -345,7 +345,7 @@
 	<string name="sd_not_available_saved_to_internal_storage">Сохранение во внутреннюю память</string>
 	<string name="sd_not_available_use_internal_storage">SD карта недоступна: сохранено во внутреннюю память</string>
 	<string name="select">Выбрать</string>
-	<string name="select_all">Удалить все</string>
+	<string name="select_all">Выбрать все</string>
 	<string name="send_sms_for_sync_notice">Для активации нужно отправить SMS, продолжить?</string>
 	<string name="send_sms_for_sync_title">Сервис активации не запущен</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется отправить SMS, продолжить?</string>
