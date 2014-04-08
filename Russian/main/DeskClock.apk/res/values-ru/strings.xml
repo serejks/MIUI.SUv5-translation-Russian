@@ -32,7 +32,7 @@
 	<string name="minute">1 мин.</string>
 	<string name="minutes">%s мин.</string>
 	<string name="every_day">Каждый день</string>
-    <string name="legal_workday">Трудовые будни</string>
+    <string name="legal_workday">Рабочие дни</string>
 	<string name="never">Никогда</string>
 	<string name="day_concat">", "</string>
 	<string name="clock_instructions">Выберите часы</string>
