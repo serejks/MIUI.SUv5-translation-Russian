@@ -37,12 +37,12 @@
     <string name="open_xiaomi_web">Посетите Xiaomi.com</string>
     <string name="phone_to_tag">Для редактирования ярлыка,</string>
     <string name="edit_tag_content">прислоните его к задней части вашего телефона</string>
-    <string name="bump_start">"Нля того, чтобы начать
-прикоснитесь задней частью телефона с ярлыком"</string>
+    <string name="bump_start">"Для того, чтобы начать
+прикоснитесь задней частью телефона к ярлыку"</string>
     <string name="bump_write">"Для записи ярлыка,
-прикоснитесь задней частью телефона с ярлыком"</string>
+прикоснитесь задней частью телефона к ярлыку"</string>
     <string name="bump_erase">"Для очистки ярлыка,
-прикоснитесь задней частью телефона с ярлыком"</string>
+прикоснитесь задней частью телефона к ярлыку"</string>
     <string name="start_configuration">Настроить ярлык</string>
     <string name="detect_empty_tag">Обнаружен пустой ярлык</string>
     <string name="empty_tag">Этот ярлык пустой</string>
@@ -58,8 +58,8 @@
     <string name="btn_install">Установить</string>
     <string name="failed_install">Установка не удалась</string>
     <string name="unavailable_net">Установка не удалась: нет подключения к сети</string>
-    <string name="unavailable_storage">Установка не удалась: не удалось использовать SD карту</string>
-    <string name="no_available_xiaomi_shop">Не удалось открыть Xiaomi market</string>
+    <string name="unavailable_storage">Установка не удалась: не удалось использовать SD-карту</string>
+    <string name="no_available_xiaomi_shop">Не удалось открыть маркет Xiaomi</string>
     <string name="task">Триггер задачи</string>
     <string name="null_task">Нет задач</string>
     <string name="create_configs_prompt">Для добавления задачи, нажмите Добавить</string>
@@ -69,7 +69,7 @@
     <string name="save_btn">Сохранить</string>
     <string name="not_save_btn">Нет</string>
     <string name="saving">Сохранение…</string>
-    <string name="bump_write_alert">Для применения этих настроек, touch the back of your phone to the tile</string>
+    <string name="bump_write_alert">Для применения этих настроек, прикоснитесь задней частью телефона к ярлыку.</string>
     <string name="pwd_pref">Защита ярлыка от перезаписи</string>
     <string name="pwd_pref_desc">寫入貼紙時將激活貼紙的寫保護功能，他人改寫你的貼紙需要提供密碼</string>
     <string name="pwd_prot_on">ВКЛ</string>
@@ -166,11 +166,11 @@
     <string name="car_mode">В машине</string>
     <string name="disturb_mode">Не беспокоить</string>
     <string name="open_web">Открыть вэб страницу</string>
-    <string name="web_label">Описание вэб страницы (Не обязательно)</string>
+    <string name="web_label">Описание вэб страницы (не обязательно)</string>
     <string name="hint_input_web_label">Название вэб сайта</string>
     <string name="set_alarm">Установить будильник</string>
     <string name="alarm_time">Время будильника</string>
-    <string name="alarm_label">Описание будильника (Не обязательно)</string>
+    <string name="alarm_label">Описание будильника (не обязательно)</string>
     <string name="hint_input_alarm_label">Введите описание будильника</string>
     <string name="torch">Фонарик</string>
     <string name="music">Воспроизвести музыку</string>
@@ -188,7 +188,7 @@
     <string name="xiaomi_update_dialog_message_diff">"Новая версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Недостаточно места, проверьте карту памяти.</string>
-    <string name="xiaomi_bytes_unit">%1$s Б</string>
+    <string name="xiaomi_bytes_unit">%1$s б</string>
     <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
     <string name="xiaomi_megabytes_unit">%1$s Мб</string>
 </resources>
