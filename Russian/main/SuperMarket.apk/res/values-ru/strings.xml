@@ -389,4 +389,26 @@
 	<string name="tab_download_history">История</string>
 	<string name="no_download_history">Нет загруженных приложений</string>
 	<string name="download_history_login_hint">Войдите в аккаунт Xiaomi для просмотра истории установленных приложений.</string>
+	<string name="guess_tag">Предложения</string>
+    <string name="search_tag">Поиск</string>
+    <string name="searchview_hint">Поиск предложений</string>
+    <string name="ad_indicator">Реклама</string>
+    <string name="recommendation_app">Рекомендации</string>
+    <string name="show_more">Еще</string>
+    <string name="cate_game">Игры</string>
+    <string name="cate_app">Приложения</string>
+    <string name="pref_title_show_report_data">Показать отчет</string>
+    <string name="pref_title_use_pad">Use Pad</string>
+    <string name="comment_count_hint">Нажмите, для оценки:</string>
+    <string name="send">отправить</string>
+    <string name="delete">удалить</string>
+    <string name="holding">Holding…</string>
+    <string name="button_search_pad">Pad</string>
+    <string name="button_search_all">Universal</string>
+    <string name="search_recommend_ignore">Игнорировать</string>
+    <string name="search_recommend_ignored_text">Не рекомендуем</string>
+    <string name="tab_download_history">История</string>
+    <string name="activate_now">Activate_now</string>
+    <string name="no_download_history">Вы еще не загружали приложения</string>
+    <string name="download_history_login_hint">Авторизуйтесь в аккаунте Xiaomi для просмотра истории загрузок</string>
 </resources>

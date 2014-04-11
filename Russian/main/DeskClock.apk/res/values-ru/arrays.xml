@@ -62,4 +62,20 @@
         <item>С ПН по ПТ</item>
         <item>Своя установка</item>
     </string-array>
+	<string-array name="sw_share_strings">
+        <item>"You're quite the speed demon."</item>
+        <item>Enjoy the fruits of your labor.</item>
+        <item>Androids are known to be fast, but not as fast as you!</item>
+        <item>Phew.</item>
+        <item>L33t times.</item>
+        <item>Such prodigious velocity.</item>
+        <item>"Let's do the time warp again."</item>
+        <item>Just a jump to the left.</item>
+        <item>You have a palette for haste.</item>
+        <item>Photonic velocity.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Аналоговые</item>
+        <item>Цифровые</item>
+    </string-array>
 </resources>

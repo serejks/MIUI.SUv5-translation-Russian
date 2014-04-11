@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+	<string-array name="preferences_skip_reminders_labels">
+        <item>Если снизился</item>
+        <item>Если отказался или не ответил</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>каждое первое воскресенье</item>
+        <item>каждое второе воскресенье</item>
+        <item>каждое третье воскресенье</item>
+        <item>каждое четвертое воскресенье</item>
+        <item>каждое последнее воскресенье</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>каждый первый понедельник</item>
+        <item>каждый второй понедельник</item>
+        <item>каждый третий понедельник</item>
+        <item>каждый четвертый понедельник</item>
+        <item>каждый последний понедельник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>каждый первый вторник</item>
+        <item>каждый второй вторник</item>
+        <item>каждый третий вторник</item>
+        <item>каждый четвертый вторник</item>
+        <item>каждый последний вторник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>каждая первая среда</item>
+        <item>каждая вторая среда</item>
+        <item>каждая третья среда</item>
+        <item>каждая четвертая среда</item>
+        <item>каждая последняя среда</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>каждый первый четверг</item>
+        <item>каждый второй четверг</item>
+        <item>каждый третий четверг</item>
+        <item>каждый четвертый четверг</item>
+        <item>каждый последний четверг</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>каждую первую пятницу</item>
+        <item>каждую вторую пятницу</item>
+        <item>каждую третью пятницу</item>
+        <item>каждую четвертую пятницу</item>
+        <item>каждую последнюю пятницу</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>каждую первую субботу</item>
+        <item>каждую вторую субботу</item>
+        <item>каждую третью субботу</item>
+        <item>каждую четвертую субботу</item>
+        <item>каждую последнюю субботу</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Синт-Мартен</item>
+        <item>Карибские Нидерланды</item>
+        <item>Кюрасао</item>
+        <item>Южный Судан</item>
+    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
         <item>E-mail</item>

@@ -29,4 +29,6 @@
     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
     <string name="no_cert_file_found">На USB накопителе отсутствует файл сертификата.</string>
     <string name="sdcard_not_present">USB накопитель отсутствует.</string>
+	<string name="only_primary_user_allowed">Только владелец устройства может устанавливать сертификаты.</string>
+    <string name="credential_usage_label">Использование учетных данных:</string>
 </resources>

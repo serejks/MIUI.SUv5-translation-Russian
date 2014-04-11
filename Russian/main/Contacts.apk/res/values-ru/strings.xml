@@ -1196,4 +1196,8 @@
 	<string name="pref_key_sim_manage2">Управление SIM2</string>
 	<string name="account_sim2">SIM карта %d</string>
 	<string name="meid_invalid">Неверный MEID</string>
+	<string name="expand_collapse_name_fields_description">Развернуть или свернуть информацию</string>
+    <string name="menu_export_database">Экспорт базы данных</string>
+    <string name="contact_detail_picture_description">Нажмите на фото для изменения</string>
+    <string name="unknown_caller">Неизвестный абонент</string>
 </resources>
