@@ -490,5 +490,6 @@
 	<string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Превышен предел изображений</string>
     <string name="error_share_with_creator">Вы уже участник этого альбома</string>
-    <string name="folder_holder_file">необходимо удалить этот файл позже</string>
+    <string name="folder_holder_file">Необходимо удалить этот файл позже</string>
+	<string name="yellow_page">Сервисы</string>
 </resources>
