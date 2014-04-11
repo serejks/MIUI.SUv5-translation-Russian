@@ -38,8 +38,8 @@
         <item quantity="one">Сообщение удалено</item>
     </plurals>
     <plurals name="message_moved_toast">
-        <item quantity="other">Сообщения (%1$d) перемещены в %2$s</item>
-        <item quantity="one">Сообщение (%1$d) перемещено в %2$s</item>
+        <item quantity="other">Сообщений перемещено в %2$s: %1$d</item>
+        <item quantity="one">Сообщений перемещено в %2$s: %1$d</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d Б</item>
