@@ -402,13 +402,9 @@
     <string name="comment_count_hint">Нажмите, для оценки:</string>
     <string name="send">отправить</string>
     <string name="delete">удалить</string>
-    <string name="holding">Holding…</string>
-    <string name="button_search_pad">Pad</string>
-    <string name="button_search_all">Universal</string>
+    <string name="button_search_pad">Планшет</string>
+    <string name="button_search_all">Универсальная</string>
     <string name="search_recommend_ignore">Игнорировать</string>
     <string name="search_recommend_ignored_text">Не рекомендуем</string>
-    <string name="tab_download_history">История</string>
     <string name="activate_now">Activate_now</string>
-    <string name="no_download_history">Вы еще не загружали приложения</string>
-    <string name="download_history_login_hint">Авторизуйтесь в аккаунте Xiaomi для просмотра истории загрузок</string>
 </resources>
