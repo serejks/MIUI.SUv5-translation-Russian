@@ -667,8 +667,8 @@
     <string name="menu_add_slideshow_title">Слайд-шоу</string>
     <string name="menu_crop_title">Обрезать</string>
     <string name="deleting">Удаление</string>
-    <string name="copy_done">%1$d файлов было скопировано в %2$s</string>
-    <string name="move_done">%1$d файлов было перемещено в %2$s</string>
+    <string name="copy_done">Файлов скопировано в %2$s: %1$d</string>
+    <string name="move_done">Файлов перемещено в %2$s: %1$d</string>
     <string name="default_folder_name">Без имени</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1000">1 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1500">1.5 сек.</string>
