@@ -37,7 +37,7 @@
   <string name="cit_charger_plugout_check_title">Отключение зарядного устройства</string>
   <string name="cit_charger_waiting_in">Пожалуйста, подключите зарядное устройство</string>
   <string name="cit_charger_waiting_out">Пожалуйста отключите зарядное устройство</string>
-  <string name="cit_display_check_summary">Тест будет изменять цвет экрана. Если вы хотите использовать свои изображения, положите их в корень SD-карты с расширением *.bmp</string>
+  <string name="cit_display_check_summary">Тест будет изменять цвет экрана. Если вы хотите использовать свои изображения, положите их в корень SD карты с расширением *.bmp</string>
   <string name="cit_display_check_title">Экран</string>
   <string name="cit_display_continue">Коснитесь экрана</string>
   <string name="cit_exit_test_summary">Все тесты будут сброшены, продолжить?</string>
@@ -112,8 +112,8 @@
   <string name="cit_notificationlight_off">Включить</string>
   <string name="cit_notificationlight_on">Выключить</string>
   <string name="cit_pass">ОК</string>
-  <string name="cit_play_sd_mp3_summary">Проверка звука. Положите файл с именем music.mp3 в корень SD-карты</string>
-  <string name="cit_play_sd_mp3_title">Воспроизведение MP3 с SD-карты</string>
+  <string name="cit_play_sd_mp3_summary">Проверка звука. Положите файл с именем music.mp3 в корень SD карты</string>
+  <string name="cit_play_sd_mp3_title">Воспроизведение MP3 с SD карты</string>
   <string name="cit_playing_sd_mp3">Воспроизведение Music.mp3…</string>
   <string name="cit_pointer_location_title">Сенсор</string>
   <string name="cit_power_check_summary">Заряд батареи</string>
@@ -124,17 +124,17 @@
   <string name="cit_reset_check_title">Сброса</string>
   <string name="cit_reset_test">Сброс</string>
   <string name="cit_sd_fail">Произошла ошибка, возможен сбой операции</string>
-  <string name="cit_sd_mount">Подключить SD-карту</string>
-  <string name="cit_sd_mount_sucess">SD-карта готова к использованию</string>
-  <string name="cit_sd_mp3_not_existed">Music.mp3 в корневом каталоге SD-карты отсутствует</string>
-  <string name="cit_sd_plugged_in">SD-карта подключена</string>
-  <string name="cit_sd_plugged_out">SD-карта отключена</string>
-  <string name="cit_sd_plugin_check_summary">Проверка SD-карты</string>
-  <string name="cit_sd_plugin_check_title">SD-карта</string>
-  <string name="cit_sd_plugout_check_summary">Проверка отключения SD-карты</string>
-  <string name="cit_sd_plugout_check_title">Отключение SD-карты</string>
-  <string name="cit_sd_unmount">Отключить SD-карту</string>
-  <string name="cit_sd_unmount_sucess">SD-карта отключена</string>
+  <string name="cit_sd_mount">Подключить SD карту</string>
+  <string name="cit_sd_mount_sucess">SD карта готова к использованию</string>
+  <string name="cit_sd_mp3_not_existed">Music.mp3 в корневом каталоге SD карты отсутствует</string>
+  <string name="cit_sd_plugged_in">SD карта подключена</string>
+  <string name="cit_sd_plugged_out">SD карта отключена</string>
+  <string name="cit_sd_plugin_check_summary">Проверка SD карты</string>
+  <string name="cit_sd_plugin_check_title">SD карта</string>
+  <string name="cit_sd_plugout_check_summary">Проверка отключения SD карты</string>
+  <string name="cit_sd_plugout_check_title">Отключение SD карты</string>
+  <string name="cit_sd_unmount">Отключить SD карту</string>
+  <string name="cit_sd_unmount_sucess">SD карта отключена</string>
   <string name="cit_sim_check_summary">Статус SIM-карты</string>
   <string name="cit_sim_check_title">SIM-карта</string>
   <string name="cit_sim_error_unknown">Неизвестно</string>
@@ -217,7 +217,7 @@
   <string name="cit_gyroscope_sensor_check_title">Датчик гироскопа</string>
   <string name="cit_gyroscope_sensor_check_summary">Датчик гироскопа. Ниже показаны значения: x y z</string>
   <string name="cit_pressure_sensor_check_summary">Ниже отображаются значения атмосферного давления</string>
-  <string name="cit_camera_sdcard_error">SD-карта заполнена, фото не может быть сохранено.</string>
+  <string name="cit_camera_sdcard_error">SD карта заполнена, фото не может быть сохранено.</string>
   <string name="cit_usb_OTG_in">USB-OTG устройство подключено</string>
   <string name="cit_OTG_waiting_in">Пожалуйста, подключите USB-OTG устройство.</string>
   <string name="cit_OTG_waiting_out">Пожалуйста, отключите USB-OTG устройство.</string>
@@ -225,7 +225,7 @@
   <string name="cit_otg_not_supported">Эта модель телефона не поддерживает тестирование OTG</string>
   <string name="cit_calibration_pass">Калибровка выполнена успешно</string>
   <string name="cit_calibration_fail">Не удалось откалибровать</string>
-  <string name="cit_tool_log_no_sdcard">Ошибка операции. Пожалуйста, вставьте SD-карту.</string>
+  <string name="cit_tool_log_no_sdcard">Ошибка операции. Пожалуйста, вставьте SD карту.</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Проверка заднего микрофона</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Проверка основного микрофона</string>
   <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
@@ -265,5 +265,5 @@
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Проверка верхнего микрофона на обратную связь.
 
 Говорите в верхний микрофон и вы должны услышать свой голос из динамика."</string>
-  <string name="cit_main_camera_sdcard_error">SD-карта заполнена</string>
+  <string name="cit_main_camera_sdcard_error">SD карта заполнена</string>
 </resources>

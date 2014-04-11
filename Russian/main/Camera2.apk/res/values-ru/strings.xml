@@ -51,9 +51,9 @@
     <string name="cannot_connect_camera">Не удалось подключиться к камере</string>
     <string name="camera_disabled">Камера отключена из-за политики безопасности</string>
     <string name="wait">Подождите…</string>
-    <string name="no_storage">Подключите SD-карту перед использованием камеры.</string>
-    <string name="preparing_sd">Подготовка SD-карты…</string>
-    <string name="access_sd_fail">Нет доступа к SD-карте.</string>
+    <string name="no_storage">Подключите SD карту перед использованием камеры.</string>
+    <string name="preparing_sd">Подготовка SD карты…</string>
+    <string name="access_sd_fail">Нет доступа к SD карте.</string>
     <string name="time_lapse_title">Режим замедленной съемки</string>
     <string name="capturing">Захват</string>
     <string name="pref_camera_id_title">Выберите камеру</string>

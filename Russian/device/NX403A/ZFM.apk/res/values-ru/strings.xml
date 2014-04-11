@@ -7,7 +7,7 @@
     <string name="menu_record_start">Запись</string>
     <string name="menu_record_stop">Стоп</string>
     <string name="button_ok">ОК</string>
-    <string name="error_sdcard_access">Нет доступа к SD-карте</string>
+    <string name="error_sdcard_access">Нет доступа к SD карте</string>
     <string name="fm_service_started">FM Сервис</string>
     <string name="menu_sleep">Режим сна</string>
     <string name="menu_sleep_cancel">Отменить режим сна</string>
@@ -87,11 +87,11 @@
     <string name="factory_reset_dialog_message">При сбросе настроек будут удалены все станции</string>
     <string name="station_move">Переместить</string>
     <string name="station_edit">Изменить</string>
-    <string name="no_storage">Подключите SD-карту перед записью.</string>
-    <string name="preparing_sd">Подготовка SD-карты</string>
-    <string name="access_sd_fail">SD-карта недоступна</string>
-    <string name="spaceIsLow_content">SD-карта недоступна</string>
-    <string name="FMRecording_reach_size_limit">SD-карта заполнена</string>
+    <string name="no_storage">Подключите SD карту перед записью.</string>
+    <string name="preparing_sd">Подготовка SD карты</string>
+    <string name="access_sd_fail">SD карта недоступна</string>
+    <string name="spaceIsLow_content">SD карта недоступна</string>
+    <string name="FMRecording_reach_size_limit">SD карта заполнена</string>
     <string name="delete_station_title">Удалить</string>
     <string name="find_af_station">Поиск</string>
     <string name="menu_add_list">Добавить список</string>

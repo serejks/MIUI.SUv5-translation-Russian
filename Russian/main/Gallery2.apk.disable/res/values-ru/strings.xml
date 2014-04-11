@@ -519,7 +519,7 @@
     <string name="servernoreturncontent">Сервер не отвечает</string>
     <string name="gallery_camera_bucket_name">Снимки камеры</string>
     <string name="gallery_camera_videos_bucket_name">Видео</string>
-    <string name="not_enough_space">Ваша SD-карта заполнена</string>
+    <string name="not_enough_space">Ваша SD карта заполнена</string>
     <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
     <string name="review_play">Воспроизвести</string>
     <string name="review_retake">Другой снимок</string>
@@ -654,7 +654,7 @@
     <string name="marked">Отмечено</string>
     <string name="no_photo">Нет фото</string>
     <string name="no_video">Нет видео</string>
-    <string name="external_storage_unavailable">USB-накопитель недоступен</string>
+    <string name="external_storage_unavailable">USB накопитель недоступен</string>
     <string name="battery_too_low">Низкий заряд батареи, продолжить воспроизведение?</string>
     <string name="set_wallpaper_failed">Ошибка установки</string>
     <string name="photo_sdcard_str">Карта памяти</string>

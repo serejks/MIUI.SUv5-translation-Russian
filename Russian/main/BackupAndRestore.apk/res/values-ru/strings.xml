@@ -3,7 +3,7 @@
     <string name="app_name">Бэкап</string>
     <string name="backup">Бэкап</string>
     <string name="restore">Восстановление</string>
-    <string name="backuptosd">Бэкап на SD-карту</string>
+    <string name="backuptosd">Бэкап на SD карту</string>
     <string name="selectall">Выбрать все</string>
     <string name="unselectall">Снять выбор</string>
     <string name="contact_module">Контакты</string>
@@ -30,8 +30,8 @@
     <string name="restore_confirm_notice">Восстановить данные?</string>
     <string name="backup_confirm_overwrite_notice">Папка уже существует, перезаписать?</string>
     <string name="contitue">Продолжить</string>
-    <string name="sdcard_removed">SD-карта извлечена!</string>
-    <string name="sdcard_is_full">SD-карта заполена!</string>
+    <string name="sdcard_removed">SD карта извлечена!</string>
+    <string name="sdcard_is_full">SD карта заполена!</string>
     <string name="backup_result">Результат бэкапа:</string>
     <string name="restore_result">Результат восстановления:</string>
     <string name="result_success">Готово</string>

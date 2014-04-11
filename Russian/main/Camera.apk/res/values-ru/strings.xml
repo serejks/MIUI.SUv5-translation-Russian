@@ -878,7 +878,7 @@
     <string name="media_scanner_running">Выполняется поиск медиафайлов…</string>
     <string name="close_camera_when_mmc_inserted">Вставлена карта памяти SD. Приложение %s закрыто в связи с выполнением поиска медиафайлов на карте памяти SD</string>
     <string name="close_camera_when_media_mounted">Камера выключена на время сканирования медиафайлов</string>
-    <string name="close_camera_for_unmounted_memory">Перед использованием камеры отключите USB-накопитель</string>
+    <string name="close_camera_for_unmounted_memory">Перед использованием камеры отключите USB накопитель</string>
     <string name="message_size_limited">Достигнут максимальный размер сообщения</string>
     <string name="crop_save_text">Сохранить</string>
     <string name="crop_discard_text">Отмена</string>

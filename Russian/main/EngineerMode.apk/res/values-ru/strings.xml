@@ -808,8 +808,8 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">CID</string>
-    <string name="sdcard_unmount">Размонтировать SD-карту</string>
-    <string name="sdcard_format">Форматировать SD-карту</string>
+    <string name="sdcard_unmount">Размонтировать SD карту</string>
+    <string name="sdcard_format">Очистить SD карту</string>
     <string name="small_font">Маленький</string>
     <string name="font_size_preview_text">Servez ce monsieur une bière et des kiwis.</string>
     <string name="font_size_save">OK</string>
@@ -1003,7 +1003,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmssSSS"</string>
     <string name="no_storage">Вставьте карту памяти.</string>
     <string name="access_sd_fail">"Нет доступа к карте памяти."</string>
-    <string name="preparing_sd">Подготовка SD-карты…</string>
+    <string name="preparing_sd">Подготовка SD карты…</string>
     <string name="pref_camera_scenemode_default">Авто</string>
     <string name="not_selectable_in_scene_mode">Нельзя выбрать в этом режимме.</string>
     <string name="pref_camera_whitebalance_default">Авто</string>

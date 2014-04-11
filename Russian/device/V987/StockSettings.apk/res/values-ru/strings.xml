@@ -33,8 +33,8 @@
     <string name="cancel">Отмена</string>
     <string name="sure_restart">Перезагрузить телефон без завершения процессов?</string>
     <string name="storage_title">Место хранения по умолчанию</string>
-    <string name="ex_sdcard">внешняя SD-карта</string>
-    <string name="in_sdcard">внутренняя SD-карта</string>
+    <string name="ex_sdcard">внешняя SD карта</string>
+    <string name="in_sdcard">внутренняя SD карта</string>
     <string name="reboot_confirm">Выполнить быструю перезагрузку?</string>
     <string name="reboot_ok">Перезагрузка</string>
     <string name="now">Сейчас:</string>

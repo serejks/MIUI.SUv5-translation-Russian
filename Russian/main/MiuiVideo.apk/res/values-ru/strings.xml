@@ -169,7 +169,7 @@
     <string name="reloading_tip">Не удается подключиться к сети</string>
     <string name="retry">Повторить</string>
     <string name="review_success">Отправлено</string>
-    <string name="sdcard_storage">SD-карта</string>
+    <string name="sdcard_storage">SD карта</string>
     <string name="search">Поиск</string>
     <string name="search_result_recommend_hint">Видео по теме не найдено. Попробуйте другие ключевые слова.</string>
     <string name="search_result_recommend_title">Все смотрят</string>
