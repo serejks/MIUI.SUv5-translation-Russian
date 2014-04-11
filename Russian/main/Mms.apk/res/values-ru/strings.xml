@@ -561,5 +561,4 @@
     <string name="pref_summary_mx_feedback">Помогите сделать MIUI лучше! \nОтправляйте отчеты о багах разработчикам напрямую.</string>
     <string name="feedback_description_hint">Введите отчет</string>
     <string name="feedback_submit">Отправить</string>
-    <string name="confirm_send_mms">Один из получателей указан, как адрес электронной почты. Это сообщение будет отправлено как MMS, что может повлечь за собой дополнительные расходы.</string>
 </resources>
