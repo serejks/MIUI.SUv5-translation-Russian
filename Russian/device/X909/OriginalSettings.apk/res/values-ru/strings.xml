@@ -23,7 +23,6 @@
     <string name="radioInfo_service_in">В зоне обслуживания</string>
     <string name="radioInfo_service_out">Вне зоны обслуживания</string>
     <string name="radioInfo_service_emergency">Только экстренные вызовы</string>
-    <string name="radioInfo_service_off">Радио отключено</string>
     <string name="radioInfo_roaming_in">Роуминг</string>
     <string name="radioInfo_roaming_not">Отключен</string>
     <string name="radioInfo_phone_idle">Не работает</string>
