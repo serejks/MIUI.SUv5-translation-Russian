@@ -704,7 +704,7 @@
     <string name="error_suggest_refresh">Время ожидания подключения вышло</string>
     <string name="error_wifi_state_enabled">Включено</string>
     <string name="error_wifi_state_disable">Отключено</string>
-    <string name="miuichromium_save_password_message">Вы хотите, что бы браузер запомнил пароль?</string>
+    <string name="miuichromium_save_password_message">Запомнить пароль?</string>
     <string name="miuichromium_save_password_notnow">Не сейчас</string>
     <string name="miuichromium_save_password_remember">Запомнить</string>
     <string name="miuichromium_save_password_never">Никогда</string>
@@ -769,4 +769,26 @@
     <string name="color_picker_button_yellow">Желтый</string>
     <string name="color_picker_button_black">Черный</string>
     <string name="color_picker_button_white">Белый</string>
+	<string name="save_image_success">Изображение сохранено</string>
+    <string name="save_image_failed">Ошибка сохранения изображения</string>
+    <string name="pref_version_summary">Версия: %s</string>
+    <string name="pref_category_title_version">Версия</string>
+    <string name="js_disable_confirm_title">Отключить JavaScript?</string>
+    <string name="js_disable_confirm_message">При отключении JavaScript некоторые сайты могут отображаться некорректно.</string>
+    <string name="cloud_tab">Облако</string>
+    <string name="sync_item_browser_title">Синхронизация данных</string>
+    <string name="sync_item_browser_summary">Синхронизировать данные браузера.</string>
+    <string name="sub_sync_item_browser_title_history">История</string>
+    <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю браузера.</string>
+    <string name="sub_sync_item_browser_title_novel">Книги</string>
+    <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера.</string>
+    <string name="sub_sync_item_browser_title_cloud_tab">Вкладки</string>
+    <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизации открытых вкладок браузера.</string>
+	<string name="miui_content_select">Выбрать</string>
+    <string name="miui_content_select_all">Выбрать все</string>
+    <string name="miui_content_cut">Вырезать</string>
+    <string name="miui_content_copy">Копировать</string>
+    <string name="miui_content_paste">Вставить</string>
+    <string name="miui_content_web_search">Поиск</string>
+    <string name="miui_content_share">Отправить</string>
 </resources>

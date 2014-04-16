@@ -280,4 +280,5 @@
     <string name="toast_edit_save_station_fail">Ошибка сохранения станции!</string>
 	<string name="toast_fm_error_startfailed">Ошибка записи. Возможно, запись запущена в другом приложении.</string>
     <string name="toast_fm_recorder_access_error">Невозможно записывать радио в режиме гостя</string>
+	<string name="msg_fm_starting">Запуск…</string>
 </resources>

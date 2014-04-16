@@ -981,4 +981,18 @@
 	<string name="pref_camera_picturesize_entry_fullscreen">Широкоформатный 16:9</string>
 	<string name="pref_camera_picturesize_professional_entry_2592x1936">5 Мп (2592x1936) 4:3</string>
     <string name="pref_camera_picturesize_professional_entry_2592x1456">4 Мп (2592x1456) 16:9</string>
+	<string name="pref_camera_coloreffect_entry_vivid">Ярко</string>
+    <string name="pref_camera_coloreffect_entry_yesteryear">Ретро</string>
+    <string name="pref_camera_coloreffect_entry_brannan">Рассвет</string>
+    <string name="pref_camera_coloreffect_entry_sketch">Рисунок</string>
+    <string name="pref_camera_coloreffect_entry_seventy">1970</string>
+    <string name="pref_camera_coloreffect_entry_fisheye">Рыбий глаз</string>
+    <string name="pref_camera_coloreffect_entry_jstyle">Япония</string>
+    <string name="pref_camera_coloreffect_entry_xproii">X-Pro II</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Мозаика</string>
+    <string name="pref_camera_coloreffect_entry_earlybird">Осень</string>
+    <string name="pref_camera_coloreffect_entry_nashvile">Индиго</string>
+    <string name="pref_camera_coloreffect_entry_planet">Маленький мир</string>
+    <string name="pref_camera_coloreffect_entry_mirror">Зеркало</string>
+    <string name="pref_camera_coloreffect_entry_gaussianblur">Размытие</string>
 </resources>
