@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="additional_system_update" />
-    <string name="additional_system_update_menu" />
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="locale_change_enabled_key">localeChangeEnabled</string>
     <string name="locale_notifications_enabled">Notifications</string>
     <string name="locale_notifications_enabled_summary">Enable or disable sending of notifications</string>
     <string name="locale_notifications_enabled_blurb">State: %s</string>
@@ -173,7 +166,6 @@
     <string name="bluetooth_disconnected">Disconnected</string>
     <string name="bluetooth_disconnecting">Disconnecting…</string>
     <string name="bluetooth_connecting">Connecting…</string>
-    <string name="bluetooth_unknown" />
     <string name="bluetooth_pairing">Pairing…</string>
     <string name="bluetooth_device">Unnamed Bluetooth device</string>
     <string name="progress_scanning">Searching</string>
@@ -349,7 +341,6 @@ This setting affects all users on this phone."</string>
     <string name="lock_after_timeout_summary">%1$s after sleep</string>
     <string name="show_owner_info_on_lockscreen_label">Show owner info on lock screen</string>
     <string name="owner_info_settings_title">Owner info</string>
-    <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
     <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
     <string name="user_info_settings_title">User info</string>
@@ -389,7 +380,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="unlock_set_unlock_launch_picker_enable_summary">Choose a method to lock the screen</string>
     <string name="unlock_backup_info_summary">"When Face Unlock can't see you, how do you want to unlock?"</string>
     <string name="unlock_set_unlock_off_title">None</string>
-    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Slide</string>
     <string name="unlock_set_unlock_none_summary">No security</string>
     <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
@@ -454,7 +444,6 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Type on it:&lt;br>&lt;b>%2$s&lt;/b>, then press Return or Enter.</string>
     <string name="bluetooth_pairing_accept">Pair</string>
     <string name="bluetooth_pairing_decline">Cancel</string>
-    <string name="bluetooth_error_title" />
     <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
@@ -761,7 +750,6 @@ Phone setup can require significant network activity."</string>
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Sound</string>
     <string name="ringtone_title">Phone ringtone</string>
-    <string name="ringtone_summary" />
     <string name="all_volume_title">Volumes</string>
     <string name="musicfx_title">Music effects</string>
     <string name="ring_volume_title">Ringer volume</string>
@@ -827,7 +815,6 @@ Phone setup can require significant network activity."</string>
     <string name="screensaver_settings_button">Settings</string>
     <string name="automatic_brightness">Automatic brightness</string>
     <string name="title_font_size">Font size</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Font size</string>
     <string name="sim_lock_settings">SIM card lock settings</string>
     <string name="sim_lock_settings_category">Set up SIM card lock</string>
@@ -854,7 +841,6 @@ Possibly incorrect PIN."</string>
     <string name="sim_enter_cancel">Cancel</string>
     <string name="device_info_settings">Phone status</string>
     <string name="system_update_settings_list_item_title">System updates</string>
-    <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Android version</string>
     <string name="model_number">Model number</string>
     <string name="fcc_equipment_id">Equipment ID</string>
@@ -871,15 +857,8 @@ Possibly incorrect PIN."</string>
     <string name="storage_settings">Storage</string>
     <string name="storage_settings_title">Storage settings</string>
     <string name="storage_settings_summary">Unmount SD card, view available storage</string>
-    <string name="status_imei">IMEI</string>
-    <string name="status_imei_sv">IMEI SV</string>
-    <string name="status_number">My phone number</string>
-    <string name="status_min_number">MIN</string>
-    <string name="status_msid_number">MSID</string>
-    <string name="status_prl_version">PRL version</string>
-    <string name="status_meid_number">MEID</string>
-    <string name="status_icc_id">ICCID</string>
-    <string name="status_network_type">Mobile network type</string>
+    <string name="status_number">Мой номер телефона</string>
+    <string name="status_network_type">Типмобильной сети</string>
     <string name="status_data_state">Mobile network state</string>
     <string name="status_service_state">Service state</string>
     <string name="status_signal_strength">Signal strength</string>
@@ -908,7 +887,6 @@ Possibly incorrect PIN."</string>
     <string name="sd_eject_summary">Извлечь SD карту</string>
     <string name="sd_insert_summary">Подсоедините SD карту для подключения</string>
     <string name="sd_mount">Подключить SD карту</string>
-    <string name="sd_mount_summary" />
     <string name="sd_format">Очистить SD карту</string>
     <string name="sd_format_summary">Удаление всех данных, например музыки и фотографий, с SD карты</string>
     <string name="memory_clear_cache_title">Clear cached data?</string>
@@ -916,7 +894,6 @@ Possibly incorrect PIN."</string>
     <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
     <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
     <string name="dlg_confirm_unmount_text">If you unmount the SD card, some apps you are using will stop and may be unavailable until you remount the SD card.</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">"Couldn't unmount SD card. Try again later."</string>
     <string name="unmount_inform_text">SD card will be unmounted.</string>
     <string name="sd_ejecting_title">Unmounting</string>
@@ -944,15 +921,9 @@ Possibly incorrect PIN."</string>
     <string name="apn_user">Username</string>
     <string name="apn_password">Password</string>
     <string name="apn_server">Server</string>
-    <string name="apn_mmsc">MMSC</string>
     <string name="apn_mms_proxy">MMS proxy</string>
     <string name="apn_mms_port">MMS port</string>
-    <string name="apn_mcc">MCC</string>
-    <string name="apn_mnc">MNC</string>
     <string name="apn_auth_type">Authentication type</string>
-    <string name="apn_auth_type_none">None</string>
-    <string name="apn_auth_type_pap">PAP</string>
-    <string name="apn_auth_type_chap">CHAP</string>
     <string name="apn_auth_type_pap_chap">PAP or CHAP</string>
     <string name="apn_type">APN type</string>
     <string name="apn_protocol">APN protocol</string>
@@ -965,7 +936,6 @@ Possibly incorrect PIN."</string>
     <string name="menu_new">New APN</string>
     <string name="menu_save">Save</string>
     <string name="menu_cancel">Discard</string>
-    <string name="error_title" />
     <string name="error_name_empty">"The Name field can't be empty."</string>
     <string name="error_apn_empty">"The APN can't be empty."</string>
     <string name="error_mcc_not3">MCC field must be 3 digits.</string>
@@ -1076,9 +1046,7 @@ To clear music, pictures, and other user data, the "<b>internal storage</b> need
     <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
     <string name="lockpattern_change_lock_pin_label">Change unlock PIN</string>
     <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
-    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_need_to_unlock_wrong">Try again:</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Draw an unlock pattern</string>
     <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
     <string name="lockpattern_recording_inprogress">Release finger when done.</string>
@@ -1183,7 +1151,6 @@ Ready to start? Touch Next."</string>
     <string name="clear_data_dlg_text">"All this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancel</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
     <string name="clear_data_failed">"Couldn't clear app data."</string>
     <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
@@ -1213,7 +1180,6 @@ Ready to start? Touch Next."</string>
     <string name="system_package">"System updates can't be installed on external media."</string>
     <string name="force_stop_dlg_title">Force stop?</string>
     <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
-    <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
     <string name="app_install_location_title">Preferred install location</string>
     <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
@@ -1231,11 +1197,9 @@ Ready to start? Touch Next."</string>
     <string name="cached">Cached background process</string>
     <string name="no_running_services">Nothing running.</string>
     <string name="service_started_by_app">Started by app.</string>
-    <string name="service_client_name">%1$s</string>
     <string name="service_background_processes">%1$s free</string>
     <string name="service_foreground_processes">%1$s used</string>
     <string name="memory">RAM</string>
-    <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">User: %1$s</string>
     <string name="running_process_item_removed_user_label">Removed user</string>
     <string name="running_processes_item_description_s_s">%1$d process and %2$d service</string>
@@ -1262,7 +1226,6 @@ Ready to start? Touch Next."</string>
     <string name="language_settings_category">Language settings</string>
     <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
     <string name="phone_language">Language</string>
-    <string name="phone_language_summary" />
     <string name="auto_replace">Auto-replace</string>
     <string name="auto_replace_summary">Correct mistyped words</string>
     <string name="auto_caps">Auto-capitalization</string>
@@ -1271,7 +1234,6 @@ Ready to start? Touch Next."</string>
     <string name="hardkeyboard_category">Physical keyboard settings</string>
     <string name="auto_punctuate_summary">Press Space key twice to insert \".\"</string>
     <string name="show_password">Make passwords visible</string>
-    <string name="show_password_summary" />
     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
     <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
     <string name="spellchecker_quick_settings">Settings</string>
@@ -1290,7 +1252,6 @@ Ready to start? Touch Next."</string>
     <string name="user_dict_settings_titlebar">User dictionary</string>
     <string name="user_dict_single_settings_title">Personal dictionary</string>
     <string name="user_dict_multiple_settings_title">Personal dictionaries</string>
-    <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_add_menu_title">Add</string>
     <string name="user_dict_settings_add_dialog_title">Add to dictionary</string>
     <string name="user_dict_settings_add_screen_title">Phrase</string>
@@ -1566,7 +1527,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="trusted_credentials_summary">Display trusted CA certificates</string>
     <string name="credentials_install_gesture_prompt">Draw your unlock pattern</string>
     <string name="credentials_install_gesture_explanation">You need to draw your unlock pattern to confirm credential installation.</string>
-    <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Type the password for credential storage.</string>
     <string name="credentials_old_password">Current password:</string>
     <string name="credentials_reset_hint">Remove all the contents?</string>
@@ -1596,7 +1556,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="local_backup_password_toast_success">New backup password set</string>
     <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
     <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_erase_dialog_message">Stop backing up your Wi-Fi passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
     <string name="device_admin_settings_title">Device administration settings</string>
     <string name="active_device_admin_msg">Device administrator</string>
@@ -1878,7 +1837,6 @@ This setting affects all users on this phone."</string>
     <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
     <string name="backup_pw_set_button_text">Set backup password</string>
     <string name="backup_pw_cancel_button_text">Cancel</string>
-    <string name="percentage">%d%%</string>
     <string name="sel_sub_title">Configure Subscriptions</string>
     <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>
     <string name="select_subscription">Select Subscription</string>
@@ -1941,21 +1899,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="global_font_change_title">Change font size</string>
     <string name="app_notifications_switch_label">Show notifications</string>
     <string name="help_label">Help</string>
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
-    <string name="help_url_dreams" />
-    <string name="help_url_users" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
     <string name="user_account_title">Account for content</string>
     <string name="user_picture_title">Photo ID</string>
     <string name="cell_broadcast_settings">Cell broadcasts</string>
@@ -2031,7 +1974,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="meeting_summary">Call and message vibrate, other media volume silent exclude alarm clock</string>
     <string name="sleep_title">Sleep</string>
     <string name="sleep_summary">Some incoming call and messages will be prevented</string>
-    <string name="powersave_title">Powersave</string>
+    <string name="powersave_title">Энергосбережение</string>
     <string name="restrict_cpu_title">CPU Save Power</string>
     <string name="restrict_cpu_summary">Restrict CPU</string>
     <string name="screen_save_title">Screen Save Power</string>
@@ -2051,12 +1994,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="notify_favorite_summary">Messages and calls from contacts that not added in Favorites will not be notified but received again in 3 minutes</string>
     <string name="snooze_title">Enter Snooze when wave you hands</string>
     <string name="dialog_powersave_title">Turn on strongest powersave</string>
-    <string name="power_per_5">5%</string>
-    <string name="power_per_10">10%</string>
-    <string name="power_per_15">15%</string>
-    <string name="power_per_20">20%</string>
-    <string name="power_per_25">25%</string>
-    <string name="power_per_30">30%</string>
     <string name="snooze_entry_header">Enter Snooze</string>
     <string name="snooze_entry_details">When alarm rings, enter snooze mode after shaking hand over screen</string>
     <string name="sleep_music_quiet_night">Quiet Night</string>
@@ -2065,51 +2002,48 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="sleep_music_dream_angelparty">"Angel's Party"</string>
     <string name="profile_widget_string">Profile</string>
     <string name="profile_sleep_time_settings">Sleep Time</string>
-    <string name="sleep_time_start">23:00</string>
-    <string name="sleep_time_end">07:00</string>
-    <string name="sleep_time_separator">—</string>
     <string name="sleep_time_warning">Start time should not be the same with end time!</string>
     <string name="avoid_mistouch_title">Avoid mistouch in pocket</string>
     <string name="avoid_mistouch_summary">Prevent some misuse when the phone is inside the pocket.</string>
     <string name="maxring_vibrate_title">Ringtone volume highest and vibrate.</string>
     <string name="maxring_vibrate_summary">When the telephone call is coming, ringtone volume becomes highest and vibrates when inside the pocket.</string>
     <string name="font_size_example">"
-This is a font size test example
+Это пример размера шрифта
 
-这是一个字体大小效果测试示例"</string>
-    <string name="font_size_cancel">Cancel</string>
-    <string name="font_size_ok">OK</string>
-    <string name="summary_font_size_v5">Will affect Phone,Message,Contact and Settings</string>
-    <string name="font_size_note">Will affect the font size of Phone,Message,Contact and Settings</string>
-    <string name="led_light_title">Breath Light</string>
-    <string name="led_charge_title">Charge</string>
-    <string name="led_charge_summary">Breath light on when charging</string>
-    <string name="led_battery_low_title">Battery low</string>
-    <string name="led_battery_low_summary">Breath light on when battery low</string>
-    <string name="led_event_miss_title">Event miss</string>
-    <string name="led_event_miss_summary">Breath light on when have missed call or unread message</string>
-    <string name="led_all_on">Breath light on when charging,battery low and event miss</string>
-    <string name="led_charge_battery_low_on">Breath light on when charging and battery low</string>
-    <string name="led_charge_event_miss_on">Breath light on when charging and event miss</string>
-    <string name="led_battery_low_event_miss_on">Breath light on when battery low and event miss</string>
-    <string name="led_charge_on">Breath light on when charging</string>
-    <string name="led_battery_low_on">Breath light on when battery low</string>
-    <string name="led_event_miss_on">Breath light on when event miss</string>
-    <string name="led_all_off">Off</string>
-    <string name="image_enhance_title">Image enhance</string>
-    <string name="image_enhance_settings">Image enhance Settings</string>
-    <string name="image_enhance_weak">Soft</string>
-    <string name="image_enhance_normal">Standard</string>
-    <string name="image_enhance_improve">Glow</string>
-    <string name="summary_image_enhance_on">On</string>
-    <string name="summary_image_enhance_off">Off</string>
-    <string name="screen_timeout_v5">Screen timeout</string>
-    <string name="screen_timeout_30_sec">15sec</string>
-    <string name="screen_timeout_1_min">30sec</string>
-    <string name="screen_timeout_2_min">2min</string>
-    <string name="screen_timeout_5_min">5min</string>
-    <string name="screen_timeout_10_min">10min</string>
-    <string name="screen_timeout_30_min">never</string>
+Проверочный текст MIUI Russia"</string>
+    <string name="font_size_cancel">Отмена</string>
+    <string name="font_size_ok">ОК</string>
+    <string name="summary_font_size_v5">Повлияет на Телефон, Сообщения, Контакты и Настройки</string>
+    <string name="font_size_note">Изменит размер шрифта Телефона, Сообщений, Контактов и Настроек</string>
+    <string name="led_light_title">LED индикация</string>
+    <string name="led_charge_title">Зарядка</string>
+    <string name="led_charge_summary">Индикация во время зарядки</string>
+    <string name="led_battery_low_title">Низкий заряд батареи</string>
+    <string name="led_battery_low_summary">Индикация при низком заряде батареи</string>
+    <string name="led_event_miss_title">Пропущенное событие</string>
+    <string name="led_event_miss_summary">Индикация при пропущенном вызове или непрочитанном сообщении</string>
+    <string name="led_all_on">Индикация во время зарядки, низком заряде батареии и при пропущенном событии</string>
+    <string name="led_charge_battery_low_on">Индикация во время зарядки и низком заряде батареи</string>
+    <string name="led_charge_event_miss_on">Индикация во время зарядки и пропущенном событии</string>
+    <string name="led_battery_low_event_miss_on">Индикация при низком заряде батареи и пропущенном событии</string>
+    <string name="led_charge_on">Индикация во время зарядки</string>
+    <string name="led_battery_low_on">Индикация при низком заряде батареи</string>
+    <string name="led_event_miss_on">Индикация при пропущенном событии</string>
+    <string name="led_all_off">Выкл</string>
+    <string name="image_enhance_title">Улучшение изображения</string>
+    <string name="image_enhance_settings">Настройки улучшения изображения</string>
+    <string name="image_enhance_weak">Мягкий</string>
+    <string name="image_enhance_normal">Стандарт</string>
+    <string name="image_enhance_improve">Свечение</string>
+    <string name="summary_image_enhance_on">Вкл</string>
+    <string name="summary_image_enhance_off">Выкл</string>
+    <string name="screen_timeout_v5">Таймаут экрана</string>
+    <string name="screen_timeout_30_sec">15 сек.</string>
+    <string name="screen_timeout_1_min">30 сек.</string>
+    <string name="screen_timeout_2_min">2 мин.</string>
+    <string name="screen_timeout_5_min">5 мин.</string>
+    <string name="screen_timeout_10_min">10 мин.</string>
+    <string name="screen_timeout_30_min">никогда</string>
     <string name="festival_wallpaper_title">Festival wallpaper</string>
     <string name="festival_wallpaper_summary">Set festival wallpaper</string>
     <string name="font_size_min">A-</string>
@@ -2123,9 +2057,9 @@ This is a font size test example
     <string name="missed_event_vibrate_title">Missed event vibrate tips</string>
     <string name="missed_event_vibrate_summary">Vibrate when have missed calls and unread messages</string>
     <string name="sound_effect_enhance_title">Dolby Digital Plus</string>
-    <string name="sound_effect_srs_title">DTS Audio Effect</string>
-    <string name="sound_effect_enhance_summary_on">Enabled</string>
-    <string name="sound_effect_enhance_summary_off">Disabled</string>
+    <string name="sound_effect_srs_title">DTS аудио эффект</string>
+    <string name="sound_effect_enhance_summary_on">Включен</string>
+    <string name="sound_effect_enhance_summary_off">Выключен</string>
     <string name="haptic_feedback_enable_summary">Vibrate on touch</string>
     <string name="unlock_sounds_enable_title">Screen unlock sound</string>
     <string name="motion_settings">Motion Settings</string>
