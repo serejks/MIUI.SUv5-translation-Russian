@@ -858,7 +858,7 @@ Possibly incorrect PIN."</string>
     <string name="storage_settings_title">Storage settings</string>
     <string name="storage_settings_summary">Unmount SD card, view available storage</string>
     <string name="status_number">Мой номер телефона</string>
-    <string name="status_network_type">Типмобильной сети</string>
+    <string name="status_network_type">Тип мобильной сети</string>
     <string name="status_data_state">Mobile network state</string>
     <string name="status_service_state">Service state</string>
     <string name="status_signal_strength">Signal strength</string>
@@ -2184,6 +2184,6 @@ Any user can accept updated app permissions on behalf of all other users."</stri
 
 To clear music, pictures, and other user data, the "<b>Internal storage</b> needs to be erased.</string>
     <string name="motion_intro_tip">"Don't display again"</string>
-    <string name="led_app_msg_title">Notification message</string>
-    <string name="led_app_msg_summary">Breath light on when have unread messages of MiCloud, SuperMarket, weibo, WeChat, QQ and email</string>
+    <string name="led_app_msg_title">Сообщения уведомлений</string>
+    <string name="led_app_msg_summary">Индикация при пепрочитанных сообщениях MiCloud, Mi-Маркет, Weibo, WeChat, QQ и e-mail</string>
 </resources>
