@@ -970,7 +970,7 @@
 Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить "<b>USB накопитель</b>.</string>
     <string name="erase_external_storage">Очистить USB накопитель</string>
     <string name="erase_external_storage_description">Удалить с USB накопителя все данные, в том числе музыку и фотографии</string>
-    <string name="master_clear_button_text">Сбросить настройки телефона</string>
+    <string name="master_clear_button_text">Сброс настроек телефона</string>
     <string name="master_clear_final_desc">Удалить всю личную информацию и загруженные приложения без возможности восстановления?</string>
     <string name="master_clear_final_button_text">Стереть все</string>
     <string name="master_clear_gesture_prompt">Начертить графический ключ</string>
