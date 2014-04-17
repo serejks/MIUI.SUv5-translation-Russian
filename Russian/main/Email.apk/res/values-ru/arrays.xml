@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array name="general_preference_auto_advance_summary_array">
+        <item>Переходить к новому сообщению после удаления</item>
+        <item>Переходить к старому сообщению после удаления</item>
+        <item>Переходить к списку сообщений после удаления</item>
+     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Мелкий</item>
         <item>Небольшой</item>
-        <item>Обычный</item>
-        <item>Большой</item>
+        <item>Средний</item>
+		<item>Большой</item>
         <item>Огромный</item>
-    </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Показывать новые сообщения после удаления письма</item>
-        <item>Показывать старые сообщения после удаления письма</item>
-        <item>Показывать список сообщений после удаления письма</item>
     </string-array>
     <string-array name="compose_modes">
         <item>Ответить</item>
         <item>Ответить всем</item>
-        <item>Forward</item>
+        <item>Переслать</item>
     </string-array>
     <string-array name="sync_status">
-        <item>Success</item>
-        <item>No connection.</item>
-        <item>"Couldn't sign in."</item>
-        <item>Security error.</item>
-        <item>"Couldn't sync."</item>
-        <item>Internal Error</item>
+        <item>Готово</item>
+        <item>Нет соединения</item>
+        <item>Невозможно авторизироваться</item>
+        <item>Ошибка безопасности</item>
+        <item>Невозможно синхронизировать</item>
+        <item>Внутренняя ошибка</item>
     </string-array>
     <string-array name="moveto_folder_sections">
-        <item>System</item>
-        <item>Frequently Used</item>
-        <item>All Folders</item>
+        <item>Система</item>
+        <item>Недавние</item>
+        <item>Все папки</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Newer</item>
-        <item>Older</item>
-        <item>Conversation list</item>
+        <item>Новые</item>
+        <item>Старые</item>
+        <item>Список разговоров</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
-        <item>Show newer conversation after you delete</item>
-        <item>Show older conversation after you delete</item>
-        <item>Show conversation list after you delete</item>
+        <item>Показывать новые диалоги после удаления</item>
+        <item>Показывать старые диалоги после удаления</item>
+        <item>Показывать список диалогов после удаления</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Show archive only</item>
-        <item>Show delete only</item>
-        <item>Show archive &amp; delete</item>
+        <item>Показывать архивы</item>
+        <item>Показывать удаленные</item>
+        <item>Показывать архивы и удаленные</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Show archive only</item>
-        <item>Show delete only</item>
-        <item>Show archive &amp; delete</item>
+        <item>Показывать архивы</item>
+        <item>Показывать удаленные</item>
+        <item>Показывать архивы и удаленные</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>По умолчанию</item>
