@@ -8,7 +8,7 @@
     <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
     <string name="pref_camera_scenemode_entry_sports">Действие</string>
-    <string name="pref_camera_scenemode_entry_backlight">Задний свет</string>
+    <string name="pref_camera_scenemode_entry_backlight">Подсветка</string>
     <string name="camera_error_title">Ошибка камеры</string>
     <string name="cannot_connect_camera">Не удалось подключиться к камере.</string>
     <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности.</string>

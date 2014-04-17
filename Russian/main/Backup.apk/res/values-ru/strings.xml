@@ -197,7 +197,7 @@
     <string name="cloud_app_delete_data">Удалить бэкап</string>
     <string name="cloud_app_backup_date">"Создан бэкап "</string>
     <string name="cloud_app_total_size">Общий размер бэкапа: %1$s</string>
-    <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
+    <string name="cloud_app_version_size">Версия: %1$s, Размер: %2$s</string>
     <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные данные пользователя вместе с данными в облаке.</string>
     <string name="cloud_app_remove_prompt">%1$s данные будут удалены. Продолжить?</string>
     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>

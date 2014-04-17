@@ -22,8 +22,17 @@
     <string name="network_summary">Облегчить сервисы Сети/Безопасности</string>
     <string name="other">Прочее</string>
     <string name="other_summary">Облегчить прочие сервисы</string>
-    <string name="application_version">gtbluesky</string>
-    <string name="application_copyright">Подписаться на Weibo http://weibo.com/gtbluesky</string>
     <string name="lowmem">Управление памятью</string>
     <string name="lowmem_summary">Выберите режим управления памятью</string>
+    <string name="fast_power_on_title">Быстрая загрузка</string>
+    <string name="fast_power_on_summary">Бключите, для быстрого включения телефона</string>
+    <string name="project_menu_title">project menu</string>
+    <string name="storage_enable_title">Использовать внешнюю SD карту</string>
+    <string name="storage_enable_summary">Использовать внешнюю SD карту как основной накопитель (Необходима перезагрузка)</string>
+    <string name="dts_mode">Режим DTS</string>
+    <string name="dts_mode_summary">Включение/Выключение звуковых режимов DTS</string>
+    <string name="main_storage">Основной накопитель (Перезагрузка для активации)</string>
+    <string name="internal_sdcard">Внутренняя SD карта</string>
+    <string name="external_sdcard">Внешняя SD карта (Авто-ота не поддерживается)</string>
+    <string name="main_network">Основная сеть (Перезагрузка для активации)</string>
 </resources>

@@ -260,7 +260,7 @@
     <string name="pref_camera_scenemode_entry_fireworks">Фейерверк</string>
     <string name="pref_camera_scenemode_entry_sports">Спорт</string>
     <string name="pref_camera_scenemode_entry_party">Вечеринка</string>
-    <string name="pref_camera_scenemode_entry_candlelight">Свет свечей</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Слабое освещение</string>
     <string name="pref_camera_scenemode_entry_backlight">Подсветка</string>
     <string name="pref_camera_scenemode_entry_flowers">Цветы</string>
     <string name="pref_camera_scenemode_entry_ar">AR</string>

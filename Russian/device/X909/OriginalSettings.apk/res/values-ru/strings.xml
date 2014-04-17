@@ -903,7 +903,7 @@
     <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
     <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\".</string>
     <string name="lockpattern_recording_inprogress">По завершению отпустите палец.</string>
-    <string name="lockpattern_recording_incorrect_too_short">Соедините точки (как минимум%d). Повторите попытку:</string>
+    <string name="lockpattern_recording_incorrect_too_short">Соедините точки (минимум %d)</string>
     <string name="lockpattern_pattern_entered_header">Графический ключ сохранен.</string>
     <string name="lockpattern_need_to_confirm">Для подтверждения начертите графический ключ повторно:</string>
     <string name="lockpattern_pattern_confirmed_header">Новый графический ключ разблокировки:</string>

@@ -1385,7 +1385,7 @@ or visit CS center."</string>
     <string name="lockpattern_recording_intro_header">Нарисуйте рисунок разблокировки</string>
     <string name="lockpattern_recording_intro_footer">Для справки нажмите «Меню».</string>
     <string name="lockpattern_recording_inprogress">По завершении уберите палец</string>
-    <string name="lockpattern_recording_incorrect_too_short">Соедините как минимум %d точки. Попытайтесь снова:</string>
+    <string name="lockpattern_recording_incorrect_too_short">Соедините точки (минимум %d)</string>
     <string name="lockpattern_pattern_entered_header">Рисунок записан</string>
     <string name="lockpattern_need_to_confirm">Повторно нарисуйте рисунок для подтверждения:</string>
     <string name="lockpattern_pattern_confirmed_header">Новый рисунок разблокировки:</string>

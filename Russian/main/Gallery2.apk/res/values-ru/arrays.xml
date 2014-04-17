@@ -17,12 +17,6 @@
         <item>Стиль альбома</item>
         <item>Компания</item>
     </string-array>
-    <string-array name="camera_pic_size_array">
-        <item>2592x1944</item>
-        <item>2048x1536</item>
-        <item>1600x1200</item>
-        <item>1280x960</item>
-    </string-array>
     <string-array name="camera_scence_array">
         <item>Авто</item>
         <item>Текст</item>
@@ -34,11 +28,6 @@
         <item>Лампа накал.</item>
         <item>Дневн. свет</item>
         <item>Пасмурно</item>
-    </string-array>
-    <string-array name="camera_video_size_array">
-        <item>1280x720</item>
-        <item>1080x720</item>
-        <item>720x480</item>
     </string-array>
     <string-array name="camera_cameramenu_array">
         <item>Режим сцены</item>
@@ -65,13 +54,6 @@
         <item>Размер видео</item>
         <item>Режим сцены</item>
         <item>Баланс белого</item>
-    </string-array>
-    <string-array name="camera_mx_pic_size_array">
-        <item>3264x2448</item>
-        <item>2560x1920</item>
-        <item>2048x1536</item>
-        <item>1600x1200</item>
-        <item>1280x960</item>
     </string-array>
     <string-array name="camera_mx_white_balance">
         <item>Авто</item>
@@ -121,12 +103,6 @@
         <item>Низкий</item>
         <item>Средний</item>
         <item>Высокий</item>
-    </string-array>
-    <string-array name="camera_mx_video_size_array">
-        <item>1920x1080</item>
-        <item>1280x720</item>
-        <item>1080x720</item>
-        <item>720x480</item>
     </string-array>
     <string-array name="camera_mx_menu_other_array">
         <item>Местоположение</item>
