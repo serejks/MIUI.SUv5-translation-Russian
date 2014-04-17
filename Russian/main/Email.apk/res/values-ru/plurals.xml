@@ -62,20 +62,20 @@
         <item quantity="one">Результатов: %1$d из %2$s</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="one">1 selected</item>
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: 1</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Move %1$d conversations</item>
-        <item quantity="one">Move conversation</item>
+        <item quantity="other">Переместить переписок: %1$d</item>
+        <item quantity="one">Переместить одну переписку</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Drafts</item>
         <item quantity="one">Draft</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete these %1$d conversations?</item>
-        <item quantity="one">Delete this conversation?</item>
+        <item quantity="other">Удалить переписок: %1$d?</item>
+        <item quantity="one">Удалить эту переписку?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">These conversations has Merged items,are you sure to delete them all?</item>

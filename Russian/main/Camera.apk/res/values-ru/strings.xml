@@ -984,12 +984,10 @@
 	<string name="pref_camera_coloreffect_entry_vivid">Ярко</string>
     <string name="pref_camera_coloreffect_entry_yesteryear">Ретро</string>
     <string name="pref_camera_coloreffect_entry_brannan">Рассвет</string>
-    <string name="pref_camera_coloreffect_entry_sketch">Рисунок</string>
     <string name="pref_camera_coloreffect_entry_seventy">1970</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Рыбий глаз</string>
     <string name="pref_camera_coloreffect_entry_jstyle">Япония</string>
     <string name="pref_camera_coloreffect_entry_xproii">X-Pro II</string>
-    <string name="pref_camera_coloreffect_entry_mosaic">Мозаика</string>
     <string name="pref_camera_coloreffect_entry_earlybird">Осень</string>
     <string name="pref_camera_coloreffect_entry_nashvile">Индиго</string>
     <string name="pref_camera_coloreffect_entry_planet">Маленький мир</string>

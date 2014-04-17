@@ -784,9 +784,9 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
     <string name="preference_swipe_title_archive">Свайп, для архивирования</string>
     <string name="preference_swipe_title_delete">Свайп, для удаления</string>
-    <string name="preference_swipe_description">В списке бесед</string>
+    <string name="preference_swipe_description">В списке переписок</string>
     <string name="preference_sender_image_title">Иконка контакта</string>
-    <string name="preference_sender_image_description">Отображать рядом с именем в списке бесед</string>
+    <string name="preference_sender_image_description">Отображать рядом с именем в списке переписок</string>
     <string name="swipe_down_to_refresh">Свайп вниз, для обновления</string>
     <string name="checking_for_mail">Проверка почты</string>
     <string name="empty_trash">Очистить корзину</string>
@@ -795,8 +795,8 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="empty_spam_dialog_title">Очистить спам?</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
-    <string name="conversation_photo_welcome_text">Нажмите на иконку контакта, для выбора этой беседы.</string>
-    <string name="long_press_to_select_tip">Нажмите и удерживайте, для выбора одной беседы, далее выберите остальные.</string>
+    <string name="conversation_photo_welcome_text">Нажмите на иконку контакта, для выбора этой переписки.</string>
+    <string name="long_press_to_select_tip">Нажмите и удерживайте, для выбора одной переписки, далее выберите остальные.</string>
     <string name="folder_icon_desc">Иконка папки</string>
     <string name="add_account">Добавить аккаунт</string>
     <string name="attached_message">Прикрепленное сообщение</string>

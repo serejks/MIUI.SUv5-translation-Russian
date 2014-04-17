@@ -256,9 +256,6 @@
     <string name="recurrence_end_date">До %s</string>
     <string name="recurrence_end_count_label">Для номера события</string>
     <string name="acessibility_recurrence_choose_end_date_description">изменить дату окончания</string>
-    <string name="lunar_calendar">农历</string>
-    <string name="lunar_yue">月</string>
-    <string name="year_label">年</string>
     <string name="hint_time_zone_search">Введите страну</string>
     <string name="searchview_description_clear">Удалить запрос</string>
     <string name="no_results_found">Нет результатов</string>
@@ -277,4 +274,6 @@
     <string name="color_picker_default_title">Выбрать цвет</string>
     <string name="color_swatch_description">Цвет %1$d</string>
     <string name="color_swatch_description_selected">Цвет %1$d выбран</string>
+    <string name="event_date_format">d MMMM</string>
+    <string name="event_full_date_format">MM.dd.yyyy</string>
 </resources>
