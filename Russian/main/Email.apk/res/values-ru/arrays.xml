@@ -31,13 +31,13 @@
         <item>Все папки</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Новые</item>
-        <item>Старые</item>
-        <item>Список разговоров</item>
+        <item>Перейти к новому сообщению</item>
+        <item>Перейти к старому сообщению</item>
+        <item>Перейти к списоку диалогов</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
-        <item>Показывать новые диалоги после удаления</item>
-        <item>Показывать старые диалоги после удаления</item>
+        <item>Показывать новое сообщение после удаления</item>
+        <item>Показывать старое сообщение после удаления</item>
         <item>Показывать список диалогов после удаления</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
