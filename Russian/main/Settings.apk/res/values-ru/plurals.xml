@@ -44,4 +44,20 @@
         <item quantity="other">Приложений: %d \nДоступ к чтению уведомлений.</item>
         <item quantity="one">Приложений: %d \nДоступ к чтению уведомлений.</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s printers found</item>
+        <item quantity="one">%1$s printer found</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">You are now %1$d steps away from entering cit.</item>
+        <item quantity="one">You are now %1$d step away from entering cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">You are now %1$d steps away from bugreporting.</item>
+        <item quantity="one">You are now %1$d step away from bugreporting.</item>
+    </plurals>
 </resources>

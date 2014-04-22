@@ -48,9 +48,13 @@
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
         <item>Медленная</item>
-        <item>Обычная</item>
+        <item>Нормальная</item>
         <item>Быстрая</item>
+        <item>Быстрее</item>
         <item>Очень быстрая</item>
+        <item>Скоростная</item>
+        <item>Очень скорост ная</item>
+        <item>Самая быстрая</item>
     </string-array>
     <string-array name="change_security_lock_picker">
 		<item>Фейсконтроль</item>
@@ -674,5 +678,46 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Very small</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Very large</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>None</item>
+        <item>Outline</item>
+        <item>Drop shadow</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>White on black</item>
+        <item>Black on white</item>
+        <item>Yellow on black</item>
+        <item>Yellow on blue</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Use Dalvik</item>
+        <item>Use ART</item>
+        <item>Use ART debug build</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>On screen as lines</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+        <item>Show overdraw counter</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Ask</item>
+        <item>Never allow</item>
+        <item>Always allow</item>
     </string-array>
 </resources>
