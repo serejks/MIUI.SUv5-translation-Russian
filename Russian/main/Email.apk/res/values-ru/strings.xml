@@ -898,4 +898,20 @@
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="updated_just_now">Только что обновлено</string>
     <string name="time_error">Ошибка времени</string>
+	<string name="mailbox_name_server_inbox">Inbox</string>
+    <string name="mailbox_name_server_outbox">Outbox</string>
+    <string name="mailbox_name_server_drafts">Drafts</string>
+    <string name="mailbox_name_server_trash">Trash</string>
+    <string name="mailbox_name_server_sent">Sent</string>
+    <string name="mailbox_name_server_junk">Junk</string>
+    <string name="mailbox_name_server_starred">Starred</string>
+    <string name="mailbox_name_server_all_unread">Unread</string>
+	<string name="contact_select">Выбрать контакты</string>
+	<string name="request_entity_large">Запрашиваемый файл слишком большой</string>
+	<string name="conversation_item_mark_read">Прочитано</string>
+    <string name="conversation_item_mark_unread">Не прочитано</string>
+	<string name="outbox_alert_title_sent_failed">Ошибка отправки сообщения</string>
+    <string name="outbox_alert_description_sent_failed">Размер прикрепленного файла слишком большой</string>
+    <string name="outbox_alert_button_confirm">Изменить</string>
+    <string name="blank_feedback_toast">Невозможно отправить пустой отзыв</string>
 </resources>
