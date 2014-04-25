@@ -4322,4 +4322,9 @@ Android File Transfer
     <string name="status_bar_screen_key_home">Клавиша \"Домой\"</string>
     <string name="status_bar_screen_key_recent_apps">Клавиша недавних приложений</string>
     <string name="status_bar_screen_key_back">Клавиша \"Назад\"</string>
+	<string name="preferred_application_warning_use_system">Использовать %s</string>
+    <string name="preferred_sms_warning_message">При использовании приложения \"%1$s\" по умолчанию для сообщений может взыматься дополнительная оплата.</string>
+    <string name="preferred_sms_warning_use_system">Отмена</string>
+    <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для создания и чтения сообщений.</string>
+    <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
 </resources>
