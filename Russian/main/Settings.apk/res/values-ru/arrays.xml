@@ -680,44 +680,44 @@
         <item>GID</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Very small</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Very large</item>
+        <item>Очень маленький</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
     </string-array>
-    <string-array name="captioning_edge_type_selector_titles">
-        <item>None</item>
-        <item>Outline</item>
-        <item>Drop shadow</item>
+	<string-array name="captioning_edge_type_selector_titles">
+        <item>Нет</item>
+        <item>Контур</item>
+        <item>Тень</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>White on black</item>
-        <item>Black on white</item>
-        <item>Yellow on black</item>
-        <item>Yellow on blue</item>
-        <item>Custom</item>
+        <item>Белый на черном</item>
+        <item>Черный на белом</item>
+        <item>Желтый на черном</item>
+        <item>Желтый на синем</item>
+        <item>Пользовательский</item>
     </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Use Dalvik</item>
-        <item>Use ART</item>
-        <item>Use ART debug build</item>
+	<string-array name="select_runtime_summaries">
+        <item>Использовать Dalvik</item>
+        <item>Использовать ART</item>
+        <item>Использовать отладочный ART</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Отключить</item>
+        <item>На экране в виде полос</item>
+        <item>На экране в виде линий</item>
+        <item>В adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-        <item>Show overdraw counter</item>
+        <item>Выключено</item>
+        <item>Показывать область отрисовывания</item>
+        <item>Показывать область Deuteranomaly</item>
+        <item>Показывать контур отрисовывания</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
+        <item>Спрашивать</item>
+        <item>Запретить</item>
+        <item>Разрешить</item>
     </string-array>
 </resources>

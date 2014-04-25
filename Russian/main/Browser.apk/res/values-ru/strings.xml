@@ -790,6 +790,6 @@
     <string name="miui_content_copy">Копировать</string>
     <string name="miui_content_paste">Вставить</string>
     <string name="miui_content_web_search">Поиск</string>
-    <string name="miui_content_share">Отправить</string>
+    <string name="miui_content_share">Отправка</string>
 	<string name="url_visit_confirm">Вы посетите</string>
 </resources>
