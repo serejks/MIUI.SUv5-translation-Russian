@@ -3725,7 +3725,6 @@ Android File Transfer
     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
     <string name="preferred_application_warning_message">Замена стандартного приложения \"%1$s\" может увеличить потребление энергии, снизить скорость работы устройства и подвергнуть систему риску. \nРекомендуется использовать стандартное приложение \"%2$s\".</string>
     <string name="preferred_application_warning_replace">Заменить</string>
-    <string name="preferred_application_warning_use_system">Отмена</string>
 	<string name="preferred_app_settings">Приложения по умолчанию</string>
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
