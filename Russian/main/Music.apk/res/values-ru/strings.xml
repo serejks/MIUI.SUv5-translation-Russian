@@ -352,4 +352,11 @@
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
 	<string name="source_from">Источник: %1$s</string>
 	<string name="no_music_to_play">Музыка отсутствует</string>
+	<string name="load_recommend_in_process">Загрузка…</string>
+    <string name="load_recommend_failed">Ошибка загрузки списка</string>
+	<string name="click_to_play_all">Нажмите для воспроизведения</string>
+    <string name="collect_topic_success">Альбом добавлен в избранное</string>
+    <string name="collect_bill_success">Добавлено в избранное</string>
+    <string name="collect_fm_success">Добавлено в избранное</string>
+    <string name="uncollect_success">Удалено из избранного</string>
 </resources>
