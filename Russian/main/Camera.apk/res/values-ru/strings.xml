@@ -993,4 +993,18 @@
     <string name="pref_camera_coloreffect_entry_planet">Маленький мир</string>
     <string name="pref_camera_coloreffect_entry_mirror">Зеркало</string>
     <string name="pref_camera_coloreffect_entry_gaussianblur">Размытие</string>
+	<string name="pref_camera_ubi_focus_title">UbiFocus</string>
+	<string name="pref_camera_opti_zoom_title">OptiZoom</string>
+    <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
+    <string name="simple_mode_button_text_ubi_focus">Закрыть режим UbiFocus</string>
+    <string name="simple_mode_button_text_chroma_flash">Закрыть режим Chroma Flash</string>
+    <string name="simple_mode_button_text_opti_zoom">Закрыть режим OptiZoom</string>
+    <string name="ubi_focus_exit_button_text">Выйти из режима UbiFocus</string>
+    <string name="chroma_flash_exit_button_text">Выйти из режима Chroma Flash</string>
+    <string name="opti_zoom_exit_button_text">Выйти из режима OptiZoom</string>
+    <string name="pref_camera_auto_opti_zoom_title">Использовать OptiZoom, когда коофициент больше 2.</string>
+    <string name="confirm_enable_opti_zoom_message">Включить OptiZoom на фото?</string>
+    <string name="enable_feature">ОК</string>
+    <string name="not_enable_feature">Отмена</string>
+    <string name="accessibility_opti_zoom_button">OptiZoom</string>
 </resources>

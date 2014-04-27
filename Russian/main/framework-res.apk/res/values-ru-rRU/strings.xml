@@ -1836,4 +1836,18 @@
     <string name="webviewchromium_low_memory_error">Не удается завершить предыдущую операцию из-за нехватки памяти</string>
     <string name="webviewchromium_opening_file_error">Не удается открыть выбранный файл</string>
     <string name="webviewchromium_private_browsing_warning">Эта возможность не поддерживается в этой версии Android.</string>
+	<string name="storage_uicc">UICC-накопитель</string>
+	<string name="mediasize_na_letter">Письмо</string>
+    <string name="mediasize_na_gvrnmt_letter">Письмо правительства</string>
+    <string name="mediasize_na_legal">Юридическое</string>
+    <string name="mediasize_na_junior_legal">Младшее юридическое</string>
+    <string name="mediasize_na_ledger">Регистр</string>
+    <string name="mediasize_na_tabloid">Таблоид</string>
+    <string name="mediasize_na_index_3x5">Индекс-карта 3x5</string>
+    <string name="mediasize_na_index_4x6">Индекс-карта 4x6</string>
+    <string name="mediasize_na_index_5x8">Индекс-карта 5x8</string>
+    <string name="mediasize_na_monarch">Монарх</string>
+    <string name="mediasize_na_quarto">Кварто</string>
+    <string name="mediasize_na_foolscap">Формат</string>
+	<string name="transient_navigation_confirmation_long">Проведите палцем от края экрана, чтобы открыть панель уведомлений.</string>
 </resources>
