@@ -9,9 +9,9 @@
     <string name="leftParenDesc">открывающая скобка</string>
     <string name="rightParenDesc">закрывающая скобка</string>
     <string name="factorialDesc">факториал числа</string>
-    <string name="lnDesc">натуральный логарифм числа</string>
-    <string name="lgDesc">логарифм числа</string>
-    <string name="sqrtDesc">квадратный корень из числа</string>
+    <string name="lnDesc">натуральный логарифм</string>
+    <string name="lgDesc">логарифм</string>
+    <string name="sqrtDesc">квадратный корень</string>
     <string name="divDesc">деление</string>
     <string name="mulDesc">умножение</string>
     <string name="plusDesc">плюс</string>
@@ -24,8 +24,8 @@
     <string name="sinDesc">синус</string>
     <string name="cosDesc">косинус</string>
     <string name="eDesc">число Эйлера</string>
-    <string name="piDesc">число \"пи\"</string>
+    <string name="piDesc">пи</string>
     <string name="equalDesc">равно</string>
 	<string name="switch_to_scientific_pad">научный режим</string>
-	<string name="switch_to_standard_pad">базовый режим</string>
+	<string name="switch_to_standard_pad">обычный режим</string>
 </resources>
