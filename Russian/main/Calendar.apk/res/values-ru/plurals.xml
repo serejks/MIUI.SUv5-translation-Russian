@@ -24,12 +24,12 @@
         <item quantity="one">+1</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d событий</item>
-        <item quantity="one">1 событие</item>
+        <item quantity="other">Событий: %d</item>
+        <item quantity="one">Событий: 1</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d событий</item>
-        <item quantity="one">+1 событие</item>
+        <item quantity="other">Событий: +%d</item>
+        <item quantity="one">Событий: +1</item>
     </plurals>
 	<plurals name="endByCount">
         <item quantity="other">; %d раз</item>

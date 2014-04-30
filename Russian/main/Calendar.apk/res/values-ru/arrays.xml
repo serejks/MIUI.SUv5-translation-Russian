@@ -215,7 +215,7 @@
     </string-array>
     <string-array name="change_response_labels">
         <item>Только в этот раз</item>
-        <item>Все мероприятия в серии</item>
+        <item>Все события в серии</item>
     </string-array>
     <string-array name="buttons_list">
         <item>День</item>

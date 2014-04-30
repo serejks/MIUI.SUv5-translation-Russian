@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Черный список</string>
     <string name="bl_block_info" formatted="false">Вызовов: %d | SMS: %d</string>
-    <string name="bl_no_blacklist">Нет контактов</string>
+    <string name="bl_no_blacklist">Нет заблокированных контактов</string>
     <string name="bl_no_block_call">Нет заблокированных вызовов</string>
     <string name="bl_no_block_sms">Нет заблокированных сообщений</string>
     <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
@@ -30,9 +30,9 @@
     <string name="dlg_retore">Восстановить в сообщения?</string>
     <string name="dlg_retore_ok">ОК</string>
     <string name="fw_blocked">Черный список</string>
-    <string name="fw_blocked_count">"Заблокировано "</string>
-    <string name="marked_by_others">%d пользователи отметили как</string>
-    <string name="marked_by_user">вы отметили как</string>
+    <string name="fw_blocked_count" formatted="false">"Заблокировано вызовов: %d, сообщений: %d"</string>
+    <string name="marked_by_others">"%d пользователи отметили как "</string>
+    <string name="marked_by_user">"вы отметили как "</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_add_into_contact">Добавить к существующему контакту</string>
     <string name="menu_add_new_contact">Новый контакт</string>
@@ -170,8 +170,8 @@
     <string name="block_phone_number">Блокировано: %d</string>
 	<string name="fw_blocked_count_call">"вызовов: %d | "</string>
     <string name="fw_blocked_count_sms">SMS: %d</string>
-	<string name="wl_no_whitelist">Нет номеров</string>
-	<string name="user_define_title">Добавление режима</string>
+	<string name="wl_no_whitelist">Нет белых номеров</string>
+	<string name="user_define_title">Свой режим</string>
     <string name="blacklist_prefix_add_hint">Добавить все номера с префиксом в черный список</string>
     <string name="whitelist_prefix_add_hint">Добавить все номера с префиксом в белый список</string>
     <string name="customizer_mode_user_define_name">Мой режим</string>

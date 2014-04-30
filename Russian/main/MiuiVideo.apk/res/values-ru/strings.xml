@@ -35,9 +35,9 @@
      <string name="clear_cache">Очистить кэш</string>
      <string name="clear_cache_success">Кэш очищен</string>
      <string name="clear_cache_summary">Очистить кэш медиафайлов</string>
-     <string name="clear_history">Очистить историю</string>
-     <string name="clear_playhistory">Очистка истории</string>
-     <string name="clear_playhistory_tip">Очистить историю просмотра?</string>
+     <string name="clear_history">Удалить историю</string>
+     <string name="clear_playhistory">Удалить историю просмотра</string>
+     <string name="clear_playhistory_tip">Удалить историю просмотра?</string>
      <string name="clearplayhistory">Очистить историю</string>
      <string name="comment">Комментарии</string>
      <string name="comment_can_input_prefix">Можно так же ввести</string>
