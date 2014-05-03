@@ -771,7 +771,7 @@
     <string name="notification_action_undo_archive">Архивировано</string>
     <string name="notification_action_undo_remove_label">Метки удалены</string>
     <string name="notification_action_undo_delete">Удалено</string>
-    <string name="new_messages">Новыйх сообщений: %1$d</string>
+    <string name="new_messages">Новых сообщений: %1$d</string>
     <string name="silent_ringtone">Без звука</string>
     <string name="preference_removal_action_title">Архивация и удаление</string>
     <string name="prefDialogTitle_removal_action">Aрхивация и удаление</string>

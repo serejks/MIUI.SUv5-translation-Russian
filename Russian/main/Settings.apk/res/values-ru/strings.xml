@@ -4099,9 +4099,9 @@ Android File Transfer
     <string name="sms_change_default_dialog_text" formatted="false">Использовать приложение \"%s\" по умолчанию вместо \"%s\"?</string>
     <string name="sms_change_default_no_previous_dialog_text">Использовать приложение \"%s\" по умолчанию для SMS?</string>
 	<string name="location_mode_title">Режим</string>
-    <string name="location_mode_high_accuracy_title">Высокая точность</string>
-    <string name="location_mode_battery_saving_title">Экономия батареи</string>
-    <string name="location_mode_sensors_only_title">Только сенсор устройства</string>
+    <string name="location_mode_high_accuracy_title">По сетям и GPS</string>
+    <string name="location_mode_battery_saving_title">Только по сетям</string>
+    <string name="location_mode_sensors_only_title">Только по GPS</string>
     <string name="location_mode_location_off_title">Выключить местоположение</string>
     <string name="location_category_recent_location_requests">Последние запросы о местоположении</string>
     <string name="location_no_recent_apps">Нет приложений</string>
@@ -4111,7 +4111,7 @@ Android File Transfer
     <string name="location_mode_screen_title">Режим местоположения</string>
     <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильную сеть для определения местоположения.</string>
     <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильную сеть для определения местоположения.</string>
-    <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения.</string>
+    <string name="location_mode_sensors_only_description">Использовать только GPS для определения местоположения.</string>
     <string name="location_loading_injected_setting">Получение…</string>
     <string name="location_category_enhanced_location">Точное местоположение</string>
 	<string name="app_ops_settings_summary">Управление разрешениями для приложений</string>
