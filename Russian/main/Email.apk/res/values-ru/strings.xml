@@ -616,7 +616,7 @@
     <string name="forward">Переслать</string>
     <string name="menu_compose">Создать</string>
     <string name="menu_change_folders">Изменить папки</string>
-    <string name="menu_move_to">Переместить</string>
+    <string name="menu_move_to">"Переместить "</string>
     <string name="menu_move_to_inbox">Переместить в папку "Входящие"</string>
     <string name="menu_manage_folders">Настройки папок</string>
     <string name="report_rendering_problem">Выглядит плохо</string>

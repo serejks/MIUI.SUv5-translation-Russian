@@ -728,7 +728,7 @@
     <string name="ext_media_safe_unmount_notification_title">USB можно отсоединить</string>
     <string name="ext_media_safe_unmount_notification_message">Отсоедините USB накопитель.</string>
     <string name="ext_media_nomedia_notification_title">USB накопитель отсоединен</string>
-    <string name="ext_media_nomedia_notification_message">USB накопитель отсоединен.</string>
+    <string name="ext_media_nomedia_notification_message">USB накопитель отсоединен. Подключите новое медиа устройство.</string>
     <string name="activity_list_empty">Подходящих действий не найдено</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
     <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
