@@ -142,8 +142,8 @@
     <string name="download_completed">Загружено</string>
     <string name="download_batch_start">Начать все загрузки</string>
     <string name="delete_file_from_sdcard">Так же удалить файл с SD карты</string>
-    <string name="recommend">Рекомендации</string>
-    <string name="billboard">Афиша</string>
+    <string name="recommend">Новые</string>
+    <string name="billboard">Популярные</string>
     <string name="new_albums">Новые альбомы</string>
     <string name="hot_artists">Популярные исполнители</string>
     <string name="search_suggestion">Искать в предложениях:</string>
@@ -264,6 +264,7 @@
     <string name="filter_by_size_max">2Мб</string>
     <string name="filter_by_size_min">0Кб</string>
     <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+	<string name="channel">Радио</string>
     <string name="channel_postfix">МГц</string>
     <string name="channel_format" formatted="false">"%s  %s МГц"</string>
     <string name="project_device_mobile">Сотовый телефон</string>
@@ -276,6 +277,11 @@
     <string name="dirac_mode_earbuds">Наушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Пистоны Xiaomi</string>
     <string name="dirac_mode_general">Обычные наушники</string>
+	<string name="dirac_mode_general_earbuds">Обычные наушники</string>
+    <string name="dirac_mode_general_inear">Обычные вкладыши</string>
+    <string name="dirac_mode_piston_1">Пистоны Xiaomi-1</string>
+    <string name="dirac_mode_piston_2">Пистоны Xiaomi-2</string>
+    <string name="dirac_mode_piston_youth">Пистоны Xiaomi-youth</string>
     <string name="eq_flat">Легкая</string>
     <string name="eq_rock">Рок</string>
     <string name="eq_jazz">Джаз</string>
@@ -359,4 +365,10 @@
     <string name="collect_bill_success">Добавлено в избранное</string>
     <string name="collect_fm_success">Добавлено в избранное</string>
     <string name="uncollect_success">Удалено из избранного</string>
+	<string name="sync_alert_title">Синхронизация музыки</string>
+    <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
+    <string name="not_now">Отмена</string>
+    <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
+    <string name="login_and_enable">Синхронизировать</string>
+    <string name="sync_enable_toast">Вы можете изменить эту функцию через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
 </resources>
