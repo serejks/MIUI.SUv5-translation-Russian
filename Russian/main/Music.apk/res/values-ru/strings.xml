@@ -143,7 +143,7 @@
     <string name="download_batch_start">Начать все загрузки</string>
     <string name="delete_file_from_sdcard">Так же удалить файл с SD карты</string>
     <string name="recommend">Новые</string>
-    <string name="billboard">Популярные</string>
+    <string name="billboard">Категории</string>
     <string name="new_albums">Новые альбомы</string>
     <string name="hot_artists">Популярные исполнители</string>
     <string name="search_suggestion">Искать в предложениях:</string>

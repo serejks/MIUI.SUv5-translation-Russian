@@ -1200,4 +1200,5 @@
     <string name="menu_export_database">Экспорт базы данных</string>
     <string name="contact_detail_picture_description">Нажмите на фото для изменения</string>
     <string name="unknown_caller">Неизвестный абонент</string>
+	<string name="resource_delete">Удалить</string>
 </resources>
