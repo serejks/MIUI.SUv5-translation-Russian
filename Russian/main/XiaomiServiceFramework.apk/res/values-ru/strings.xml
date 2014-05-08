@@ -110,9 +110,10 @@
     <string name="find_device_error_network">Сетевая ошибка.</string>
     <string name="find_device_error_server">Ошибка сервера.</string>
     <string name="find_device_success_title">Поиск устройств включен</string>
-    <string name="find_device_notice_p1">Посетите</string>
-    <string name="find_device_notice_p3">чтобы найти, заблокировать, или удалить данные.</string>
-    <string name="i_know">Я знаю</string>
+    <string name="find_device_notice_p1">Для поиска и управления телефоном используйте сервис</string>
+	<string name="find_device_notice_p3">""</string>
+	<string name="find_device_notice_p4">Когда SIM-карта будет заменена, будет отправлена SMS активации для дальнейшего отслеживания местоположения телефона.</string>
+    <string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Поиск устройств отключен</string>
     <string name="find_device_disabled_notice">Вы можете включить его снова в Настройки &lt; Аккаунты &lt;\n- MiCloud</string>
     <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации.</string>
