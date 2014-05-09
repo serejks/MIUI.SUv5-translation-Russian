@@ -7,7 +7,7 @@
     <string name="login">Войти</string>
     <string name="next">Далее</string>
     <string name="prev">Назад</string>
-    <string name="forget_password"><u>Забыли пароль?</u></string>
+    <string name="forget_password">[восстановить]</string>
     <string name="password">Пароль</string>
 	<string name="captcha">Код на картинке</string>
     <string name="vcode">Проверочный код</string>
@@ -547,4 +547,5 @@
     <string name="activate_desc_mixed_sim_cards">Для активации аккаунта Xiaomi на двух SIM-картах будут отправлены SMS</string>
     <string name="activate_desc_2_sim_cards">Для активации аккаунта Xiaomi на двух SIM-картах будут отправлены SMS</string>
     <string name="activate_desc_2_intl_sim_cards">Для активации аккаунта Xiaomi на двух SIM-картах будут отправлены интернациональные SMS</string>
+	<string name="foreign_login"><u>Страна</u></string>
 </resources>

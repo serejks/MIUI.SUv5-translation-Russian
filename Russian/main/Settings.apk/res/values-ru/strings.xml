@@ -4337,6 +4337,6 @@ Android File Transfer
     <string name="msd_pc_system_install_finish_summary_xp">После установки драйверов \"%1$s\" будет отображаться при подключении к ПК как USB-накопитель.</string>
     <string name="msd_pc_system_install_finish_summary_vista">Для версий Windows Vista и новее, музыкальный плеер \"%1$s\" будет автоматически отображаться на ПК.</string>
 	<string name="dialog_title_auto_start_tips">Информация об автозапуске</string>
-    <string name="dialog_message_auto_start_tips">Некоторые приложения могут работать в фоне некорректно без автозапуска. Чтобы проверить, каким приложениям разрешен автозапуск, перейдите в \"Безопасность\" > \"Разрешения\" > \"Автозапуск\".</string>
+    <string name="dialog_message_auto_start_tips">Некоторые приложения могут работать в фоне некорректно без автозапуска. Вы можете добавить необходимые приложения вручную в список автозапуска.</string>
     <string name="button_text_known">ОК</string>
 </resources>
