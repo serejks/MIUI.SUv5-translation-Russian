@@ -241,7 +241,7 @@
     <string name="SMS_MODENAME">Черный список</string>
     <string name="SMS_KEYWORDS">Ключевые слова</string>
     <string name="SMS_ADRESS">Регионы</string>
-    <string name="Call_BLACKLIST">Вызововы</string>
+    <string name="Call_BLACKLIST">Вызов</string>
     <string name="Call_PREFIX">Префиксы</string>
     <string name="Call_MODENAME">Черный список</string>
     <string name="Call_ADRESS">Регионы</string>
