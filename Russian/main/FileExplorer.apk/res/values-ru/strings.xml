@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Файлы</string>
+    <string name="app_name">Проводник</string>
     <string name="confirm">ОК</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_cleanup">Очистка файлов</string>
@@ -12,7 +12,7 @@
     <string name="menu_item_sort_date">Дата</string>
     <string name="menu_item_sort_type">Тип</string>
     <string name="operation_favorite">Избранное</string>
-    <string name="operation_unfavorite">Удалить из избранного</string>
+    <string name="operation_unfavorite">Из избранного</string>
     <string name="operation_copy">Копировать</string>
     <string name="operation_paste">Вставить</string>
     <string name="operation_move">Вырезать</string>
@@ -24,8 +24,8 @@
     <string name="operation_refresh">Обновить</string>
     <string name="operation_selectall">Выбрать все</string>
     <string name="operation_cancel_selectall">Убрать выделенные</string>
-    <string name="operation_show_sys">Показать скрытые</string>
-    <string name="operation_hide_sys">Не показывать скрытые</string>
+    <string name="operation_show_sys">Показывать скрытые файлы</string>
+    <string name="operation_hide_sys">Не показывать скрытые файлы</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_cleanup">Отмена очистки</string>
     <string name="background">Загрузить в фоне</string>
@@ -40,19 +40,19 @@
     <string name="category_theme">Темы</string>
     <string name="category_document">Документы</string>
     <string name="category_zip">Архивы</string>
-    <string name="category_apk">Приложения</string>
+    <string name="category_apk">APK</string>
     <string name="category_other">Прочее</string>
     <string name="category_favorite">Избранное</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Лог</string>
-    <string name="operation_rename_message">Введите название</string>
+    <string name="operation_rename_message">Название папки</string>
     <string name="operation_create_folder_message">Название папки</string>
     <string name="operation_delete_confirm_message">Удалить</string>
-    <string name="operation_delete_confirm_message_folder">Удаление папки удалит все данные в папке.\n</string>
-    <string name="delete_folder">Удалить?</string>
-    <string name="delete_folders">Удалить выбранные папки (%1$d шт.)?</string>
+    <string name="operation_delete_confirm_message_folder">Все содержимое папки будет удалено.\n</string>
+    <string name="delete_folder">Удалить папку?</string>
+    <string name="delete_folders">Удалить папки (%1$d шт.)?</string>
     <string name="delete_file">Удалить файл?</string>
-    <string name="delete_files">Удалить выбранные файлы (%1$d шт.)?</string>
+    <string name="delete_files">Удалить файлы (%1$d шт.)?</string>
     <string name="delete_files_and_folders">Удалить выбранные файлы (%1$d шт.) и папки (%2$d шт.)?</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="sd_card_size">SD карта: %1$s</string>

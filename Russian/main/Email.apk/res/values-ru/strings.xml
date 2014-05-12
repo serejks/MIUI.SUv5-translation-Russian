@@ -411,7 +411,7 @@
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
 	<string name="long_string">Это очень длинная строка, дальше не будет ничего интересного! Поверьте, вы просто зря тратите свое бесценное время, вчитываясь в этот бред…уточка - три, корова - два, сколько лошадь?</string>
-    <string name="default_signature">Отправлено с MiPhone</string>
+    <string name="default_signature">Отправлено через Xiaomi</string>
     <string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге.</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
@@ -445,7 +445,7 @@
     <string name="account_setup_index_label">Добавьте аккаунт</string>
     <string name="account_setup_index_other_mails">Другие почтовые сервисы</string>
     <string name="account_setup_basic_label">Заполните информацию для почтового ящика %s:</string>
-    <string name="account_setup_basic_name_label">Имя (не обязательно)</string>
+    <string name="account_setup_basic_name_label">Ваше имя (не обязательно)</string>
     <string name="account_setup_basic_description_label">Имя аккаунта (не обязательно)</string>
     <string name="add_quick_responses_action">Создать новый</string>
     <string name="account_security_waiting_policy_key_message">\"%s\" запрашивает настройки безопасности с сервера, подождите.</string>

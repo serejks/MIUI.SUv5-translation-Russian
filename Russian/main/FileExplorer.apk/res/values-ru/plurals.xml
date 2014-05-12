@@ -9,20 +9,20 @@
         <item quantity="many">файлов: %d</item>
     </plurals>
 	<plurals name="delete_files_confirm">
-		<item quantity="other">Удалить файлы (%1$d)</item>
-        <item quantity="zero">Удалить файлы (%1$d)</item>
-        <item quantity="one">Удалить файлы (%1$d)</item>
-        <item quantity="two">Удалить файлы (%1$d)</item>
-        <item quantity="few">Удалить файлы (%1$d)</item>
-        <item quantity="many">Удалить файлы (%1$d)</item>
+		<item quantity="other">Удалить файлы (%1$d шт.)</item>
+        <item quantity="zero">Удалить файлы (%1$d шт.)</item>
+        <item quantity="one">Удалить файлы (%1$d шт.)</item>
+        <item quantity="two">Удалить файлы (%1$d шт.)</item>
+        <item quantity="few">Удалить файлы (%1$d шт.)</item>
+        <item quantity="many">Удалить файлы (%1$d шт.)</item>
 	</plurals>
 	<plurals name="delete_folders_confirm">
-		<item quantity="other">" и папки (%1$d)?"</item>
-        <item quantity="zero">" и папки (%1$d)?"</item>
-        <item quantity="one">" и папки (%1$d)?"</item>
-        <item quantity="two">" и папки (%1$d)?"</item>
-        <item quantity="few">" и папки (%1$d)?"</item>
-        <item quantity="many">" и папки (%1$d)?"</item>
+		<item quantity="other">" и папки (%1$d шт.)?"</item>
+        <item quantity="zero">" и папки (%1$d шт.)?"</item>
+        <item quantity="one">" и папки (%1$d шт.)?"</item>
+        <item quantity="two">" и папки (%1$d шт.)?"</item>
+        <item quantity="few">" и папки (%1$d шт.)?"</item>
+        <item quantity="many">" и папки (%1$d шт.)?"</item>
 	</plurals>
 	<plurals name="ui_bar_txt_download_progress">
 		<item quantity="other">Осталось скачать файлов: %1$d</item>

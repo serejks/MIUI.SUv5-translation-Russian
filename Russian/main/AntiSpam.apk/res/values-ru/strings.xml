@@ -241,11 +241,7 @@
     <string name="SMS_MODENAME">По умолчанию</string>
     <string name="SMS_KEYWORDS">Ключевые слова</string>
     <string name="SMS_ADRESS">Регионы</string>
-<<<<<<< HEAD
     <string name="Call_BLACKLIST">Вызовы</string>
-=======
-    <string name="Call_BLACKLIST">Вызов</string>
->>>>>>> d537e0f3bb28e4823a62a524a578843bb2c139b0
     <string name="Call_PREFIX">Префиксы</string>
     <string name="Call_MODENAME">По умолчанию</string>
     <string name="Call_ADRESS">Регионы</string>
