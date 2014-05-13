@@ -249,8 +249,8 @@
     <string name="must_pick_file">Выберите изображение</string>
     <string name="set_lock_or_wallpaper">Установить как обои</string>
     <string name="set_lock_and_wallpaper">Установка в качестве обоев…</string>
-    <string name="set_wallpaper">Установка как обои рабочего стола…</string>
-    <string name="set_lockscreen">Установка как обои экрана блокировки…</string>
+    <string name="set_wallpaper">Установка обоев рабочего стола…</string>
+    <string name="set_lockscreen">Установка обоев экрана блокировки…</string>
     <string name="wallpaper">Обои рабочего стола</string>
     <string name="contact_photo">Установить как фото контакта</string>
     <string name="context_menu_add_contact">Добавить в контакты</string>
