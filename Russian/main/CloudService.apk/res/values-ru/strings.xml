@@ -21,14 +21,14 @@
     <string name="check_phone_error_title">Служба синхронизации не запущена</string>
     <string name="check_phone_io_error">Сетевая ошибка</string>
     <string name="send_sms_for_sync_title">Сервис активации не запущен</string>
-    <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS, продолжить?</string>
+    <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="activate">Активация</string>
-    <string name="activate_fail_notification_title">Повтор активации служб Xiaomi</string>
-    <string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется отправить SMS, продолжить?</string>
-    <string name="sim_changed_reactivate_int_notice">Текущая SIM не активирована. Для активация сервиса необходимо повторно отправить запрос, сделать это сейчас?</string>
+    <string name="activate_fail_notification_title">Повторная активации</string>
+    <string name="sim_changed_reactivate_notice">Текущая SIM карта не активирована. Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
+    <string name="sim_changed_reactivate_int_notice">Текущая SIM карта не активирована. Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="no_sim">SIM карта не обнаружена.</string>
     <string name="sim_unavailable">SIM карта недоступна.</string>
     <string name="sim_locked">SIM карта заблокирована.</string>
     <string name="sim_not_ready">SIM карта используется. Повторите позже.</string>
-    <string name="sim_in_airplane_mode">Необходимо отключить режим \"В самолете\".</string>
+    <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
 </resources>

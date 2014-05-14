@@ -84,7 +84,7 @@
     <string name="sync_sub_dspt">При активации через SMS возможны дополнительные расходы.</string>
     <string name="sync_sub_int_dspt">При активации через SMS возможны дополнительные расходы на роуминг.</string>
     <string name="send_sms_for_sync_title">Отправить сообщение</string>
-    <string name="send_sms_for_sync_notice">При активации через SMS возможны дополнительные расходы.</string>
+    <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
 	<string name="title">Название</string>
     <string name="send_int_sms_for_sync_notice">При активации через SMS возможны дополнительные расходы на роуминг.</string>
     <string name="failed_to_send_activate_email">Сбой при отправке активационного письма.</string>

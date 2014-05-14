@@ -454,7 +454,7 @@
     <string name="lockscreen_sound_on_label">Звук вкл</string>
     <string name="lockscreen_sound_off_label">Звук выкл</string>
     <string name="lockscreen_access_pattern_start">Ввод графического ключа</string>
-    <string name="lockscreen_access_pattern_cleared">Графический ключ удален</string>
+    <string name="lockscreen_access_pattern_cleared">Графический ключ стерт</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
     <string name="lockscreen_access_pattern_detected">Графический ключ установлен</string>
     <string name="keyguard_accessibility_add_widget">Добавить виджет</string>
@@ -523,7 +523,7 @@
     <string name="save_password_remember">Запомнить</string>
     <string name="save_password_never">Никогда</string>
     <string name="open_permission_deny">У вас нет разрешения на открытие этой страницы</string>
-    <string name="text_copied">Текст скопирован в буфер обмена</string>
+    <string name="text_copied">Текст скопирован</string>
     <string name="more_item_label">Еще</string>
     <string name="prepend_shortcut_label">Меню+</string>
     <string name="menu_space_shortcut_label">пробел</string>
@@ -617,14 +617,14 @@
     <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
     <string name="volume_call">Громкость при разговоре</string>
     <string name="volume_bluetooth_call">Громкость при разговоре по Bluetooth</string>
-    <string name="volume_alarm">Громкость будильника</string>
+    <string name="volume_alarm">Будильник</string>
     <string name="volume_notification">Громкость уведомления</string>
     <string name="volume_unknown">Громкость</string>
-    <string name="volume_icon_description_bluetooth">Громкость Bluetooth</string>
-    <string name="volume_icon_description_ringer">Громкость мелодии</string>
-    <string name="volume_icon_description_incall">Громкости мелодии вызова</string>
-    <string name="volume_icon_description_media">Громкость мультимедиа</string>
-    <string name="volume_icon_description_notification">Громкость уведомлений</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_ringer">Мелодия</string>
+    <string name="volume_icon_description_incall">Вызов</string>
+    <string name="volume_icon_description_media">Мультимедиа</string>
+    <string name="volume_icon_description_notification">Уведомления</string>
     <string name="ringtone_default">Рингтон по умолчанию</string>
     <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
     <string name="ringtone_silent">Без звука</string>
@@ -1032,7 +1032,7 @@
     <string name="storage_external_usb">Внешний USB накопитель</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Разблокировка голосом.</string>
     <string name="reboot_title">Перезагрузить телефон?</string>
-    <string name="reboot_confirm">Перезапуск телефона удалит временные файлы из памяти. Перезагрузить ​​телефон?</string>
+    <string name="reboot_confirm">Телефон будет перезагружен</string>
     <string name="global_action_reboot_summary">Закрыть все программы и перезагрузить телефон</string>
 	<string name="permlab_accessCoarseLocation">Местоположение по сети</string>
     <string name="permlab_accessFineLocation"> Местоположение по GPS</string>
@@ -1610,7 +1610,7 @@
     <string name="lockscreen_unknown_song">Неизвестная песня</string>
     <string name="lockscreen_unknown_singer">Неизвестный исполнитель</string>
     <string name="private_num">Приватный номер</string>
-    <string name="payphone">Платный телефон</string>
+    <string name="payphone">Телефон-автомат</string>
     <string name="enquire_nexttime_checkbox">Больше не спрашивать</string>
     <string name="keyguard_password_enter_password_code_pin">Введите цифры для разблокировки</string>
     <string name="sms_dialog_look">Вид</string>
@@ -1674,7 +1674,7 @@
     <string name="sim_unavailable">SIM-карта отсутствует</string>
     <string name="sim_locked">SIM-карта заблокирована</string>
     <string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
-    <string name="sim_in_airplane_mode">Пожалуйста, отключить режим полета.</string>
+    <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
     <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
     <string name="resolver_guide_title">Настройки по умолчанию</string>
 	<string name="permgrouplab_screenlock">Экран блокировки</string>

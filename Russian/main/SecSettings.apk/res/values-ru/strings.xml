@@ -1363,7 +1363,7 @@ or visit CS center."</string>
     <string name="settings_license_activity_loading">Загрузка…</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
-    <string name="settings_safetylegal_activity_unreachable">Отсутствует подключение для передачи данных. Чтобы просмотреть эту информацию, перейдите на сайт %s с любого компьютера, подключенного к Интернету</string>
+    <string name="settings_safetylegal_activity_unreachable">Невозможно подключиться к сети. Перейдите по ссылке %s с любого устройства, подключенного к Интернету.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
     <string name="lockpassword_choose_your_password_header">Введите пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Для разблокировки экрана нарисуйте рисунок</string>

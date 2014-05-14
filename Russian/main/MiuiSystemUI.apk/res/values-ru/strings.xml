@@ -173,7 +173,7 @@
     <string name="move_data_to_sdcard_message">Все Ваши данные из внутренней памяти (фото, контакты) будут перемещены на SD карту.</string>
     <string name="user_guide_for_notification">Получено новое уведомление, потяните вниз статусную строку для получения деталей</string>
     <string name="user_guide_for_toggle">Список переключателей можно прокручивать горизонтально</string>
-    <string name="user_guide_for_toggle_list">Упраление переключателями</string>
+    <string name="user_guide_for_toggle_list">Управление переключателями</string>
     <string name="user_guide_for_call">Для возврата в интерфейс телефона потяните вниз статусную строку и нажмите на уведомление о вызове</string>
     <string name="return_to_incall_screen">Вернуться к вызову</string>
     <string name="call_status_dialing">Вызывается</string>
@@ -201,8 +201,8 @@
     <string name="screen_rotation_freeze_message">Автоповорот отключен.</string>
     <string name="screen_button_disabled_message">Функции кнопок на нижнем экране отключены. Для активации нажмите \"Домой\" и \"Выключение\".</string>
     <string name="screen_button_enabled_message">Функции кнопок на нижнем экране включены</string>
-    <string name="screen_button_notification_title">Экранные кнопки отключены</string>
-    <string name="screen_button_notification_text">Нажатие \"Домой\"+\"Выключение\" для активации</string>
+    <string name="screen_button_notification_title">Навигационные клавиши отключены</string>
+    <string name="screen_button_notification_text">Для включения клавиш нажмите \"Домой\"+\"Включение\"</string>
     <string name="status_bar_style_settings">Настройки уведомлений</string>
     <string name="settings_toggle_layout_style">Стиль переключателей</string>
     <string name="settings_toggle_layout_style_compact">Строка</string>

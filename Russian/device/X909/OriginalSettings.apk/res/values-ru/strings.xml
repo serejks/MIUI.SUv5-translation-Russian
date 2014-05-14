@@ -881,7 +881,7 @@
     <string name="settings_license_activity_loading">Идет загрузка…</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
-    <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
+    <string name="settings_safetylegal_activity_unreachable">Невозможно подключиться к сети. Перейдите по ссылке %s с любого устройства, подключенного к Интернету.</string>
     <string name="settings_safetylegal_activity_loading">Идет загрузка…</string>
     <string name="lockpassword_choose_your_password_header">Выберите пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>

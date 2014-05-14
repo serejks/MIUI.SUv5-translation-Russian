@@ -838,7 +838,7 @@
 	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена: SD карта недоступна</string>
 	<string name="call_record_notification_title_error_miui">Ошибка записи</string>
 	<string name="call_record_notification_title_miui">Запись завершена</string>
-	<string name="call_record_sample_prefix_miui">Запись вызовов</string>
+	<string name="call_record_sample_prefix_miui">Записи вызовов</string>
 	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD карте</string>
 	<string name="call_record_sd_space_low_miui">На SD недостаточно места</string>

@@ -151,7 +151,7 @@
 	<string name="no_network">Сетевая ошибка: проверьте настройки подключения и повторите заново</string>
 	<string name="retry">Повтор</string>
 	<string name="select_all">Выбрать все</string>
-	<string name="reverse_all">Очистить все</string>
+	<string name="reverse_all">Снять все</string>
 	<string name="refresh">Обновить</string>
 	<string name="cloud_item_info_summary">" (Лок.: %1$s | Онл.: %2$s)"</string>
 	<string name="total_num">Всего записей: %d</string>

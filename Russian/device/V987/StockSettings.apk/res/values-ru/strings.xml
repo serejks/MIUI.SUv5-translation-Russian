@@ -35,7 +35,7 @@
     <string name="storage_title">Место хранения по умолчанию</string>
     <string name="ex_sdcard">внешняя SD карта</string>
     <string name="in_sdcard">внутренняя SD карта</string>
-    <string name="reboot_confirm">Выполнить быструю перезагрузку?</string>
+    <string name="reboot_confirm">Телефон будет перезагружен</string>
     <string name="reboot_ok">Перезагрузка</string>
     <string name="now">Сейчас:</string>
     <string name="reboot_cancel">Отмена</string>

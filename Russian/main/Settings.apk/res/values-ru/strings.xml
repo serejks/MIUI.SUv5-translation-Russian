@@ -1040,7 +1040,7 @@
     <string name="settings_license_activity_loading">Загрузка…</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
-    <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
+    <string name="settings_safetylegal_activity_unreachable">Невозможно подключиться к сети. Перейдите по ссылке %s с любого устройства, подключенного к Интернету.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
     <string name="lockpassword_choose_your_password_header">Придумайте пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
@@ -2238,7 +2238,7 @@
     <string name="touch_sensitive_turn_off_confirm">ОК</string>
     <string name="touch_sensitive_turn_off_cancel">Отмена</string>
 	<string name="screen_never_timeout_title">Никогда</string>
-    <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
+    <string name="screen_on_proximity_sensor_title">Предотвращение случайных нажатий</string>
     <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий пока телефон находится в кармане</string>
     <string name="preferred_launcher_title">Предпочитаемый лаунчер</string>
     <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
