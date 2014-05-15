@@ -295,7 +295,7 @@
     <string name="resource_trial_end_purchase">Приобрести</string>
     <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
 	<string name="resource_delete">Удалить</string>
-	<string name="apply_default_font_tip">Продолжить использовать текущий шрифт системы?</string>
+	<string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
     <string name="theme_yes">ОК</string>
     <string name="theme_no">Отмена</string>
 	<string name="theme_fresh_man_notifaction">Доступны новые темы</string>

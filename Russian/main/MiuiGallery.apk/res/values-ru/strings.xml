@@ -56,26 +56,26 @@
     <string name="crop_save_text">Сохранить</string>
     <string name="multiface_crop_help">Нажмите на лицо, чтобы начать.</string>
     <string name="saving_image">Сохранение изображения…</string>
-    <string name="save_error">Невозможно сохранить обрезанное изображение.</string>
+    <string name="save_error">Не удалось сохранить изображение</string>
     <string name="crop_label">Обрезать</string>
-    <string name="select_image">Выбор фото</string>
-    <string name="select_video">Выбор видео</string>
+    <string name="select_image">Выбрать фото</string>
+    <string name="select_video">Выбрать видео</string>
     <string name="select_item">Режим редактирования</string>
     <string name="select_album">Режим редактирования</string>
-    <string name="set_image">Установить изображение как</string>
+    <string name="set_image">Применить</string>
     <string name="camera_setas_wallpaper">Обои</string>
     <string name="delete">Удалить</string>
-    <string name="confirm_delete">Удалить выбранное (%s шт.)?</string>
-    <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить фото (%s шт.) в альбомах (%s шт.)?</string>
+    <string name="confirm_delete">Удалить выбранное? \n\nВыбрано: %s</string>
+    <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить выбранные альбомы и изображения? \n\nИзображений:%s \nАльбомов: %s</string>
     <string name="delete_fail_too_many_items">Ошибка удаления. Возможно отмечено слишком много.</string>
 	<string name="delete_file">Удалить выбранные файлы (%1$d)?</string>
 	<string name="delete_files_and_folders">Удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
 	<string name="delete_folder">Удалить выбранные папки (%1$d шт.)</string>
-    <string name="action_fail_unknown_error">Произошла неизвестная ошибка.</string>
-    <string name="add_to_cloud_fail_too_many_items">Выбрано слишком много элементов.</string>
+    <string name="action_fail_unknown_error">Произошла неизвестная ошибка</string>
+    <string name="add_to_cloud_fail_too_many_items">Выбрано слишком много элементов</string>
 	<string name="comfirm_delete_current_album">Удалить выбранный альбом?</string>
 	<string name="add_to_cloud_failed_message_with_count" formatted="false">%2$s элементов не могут быть добавлены в облачные альбомы: %s</string>
-    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы (%s шт.)? (Включая вложений: %s шт.)?</string>
+    <string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы с изображениями? \n\nАльбомов: %s \nИзображений: %s</string>
     <string name="confirm_delete_system_album">Удалить %s?</string>
     <string name="confirm_delete_folders_and_pictures">Удалить (%s шт.)?</string>
     <string name="confirm_delete_pictures">Фото: %s</string>
@@ -90,7 +90,7 @@
     <string name="details_title">%1$d из %2$d:</string>
     <string name="close">Закрыть</string>
     <string name="show_on_map">Показать на карте</string>
-    <string name="no_map_app">Нет приложения для выполнения этого действия.</string>
+    <string name="no_map_app">Нет приложения для выполнения этого действия</string>
     <string name="no_such_item">Невозможно найти элемент</string>
     <string name="edit">Редактировать</string>
     <string name="activity_not_found">Нет приложения для выполнения этого действия</string>

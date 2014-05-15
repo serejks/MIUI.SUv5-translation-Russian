@@ -427,7 +427,7 @@
     <string name="bluetooth_profile_pan">Интернет доступ</string>
     <string name="bluetooth_profile_pan_nap">Раздача интернета</string>
     <string name="bluetooth_profile_sap">SIM доступ</string>
-    <string name="bluetooth_profile_dun">Dial-up додступ к сети</string>
+    <string name="bluetooth_profile_dun">Dial-up доступ к сети</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s будет отключено от мультимедийного аудиодиоустройства.</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s будет отключено от гарнитуры.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s будет отключено от устройства ввода.</string>
