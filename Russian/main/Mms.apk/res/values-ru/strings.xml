@@ -380,10 +380,10 @@
     <string name="phrase_empty">Нет шаблонов.</string>
     <string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
     <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщений на экране блокировки и в статусбаре</string>
-    <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме гостя.</string>
+    <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме \"Гость\".</string>
     <string name="pref_title_new_message_popup">Всплывающие окна</string>
     <string name="pref_summary_new_message_popup">Всплывающее окно при получении сообщений</string>
-    <string name="pref_summary_new_message_popup_when_secure">Всплывающие окна запрещены в режиме гостя</string>
+    <string name="pref_summary_new_message_popup_when_secure">Всплывающие окна запрещены в режиме \"Гость\"</string>
     <string name="pref_title_wake_up_screen">Включение экрана</string>
     <string name="pref_summary_wake_up_screen">Включать экран при получении сообщений</string>
     <string name="pref_title_delivery_reports">Отчеты о доставке</string>
@@ -439,7 +439,7 @@
     <string name="text_in_popup_saved_to_clipboard">Скопировано в буфер</string>
     <string name="guild_add_recipients">Нажмите, чтобы добавить получателей</string>
     <string name="guild_add_attachments">Нажмите, чтобы добавить вложение или смайл</string>
-    <string name="privacy_mode_hint">Не удается отправить сообщение в режиме гостя</string>
+    <string name="privacy_mode_hint">Не удается отправить сообщение в режиме \"Гость\"</string>
     <string name="message_too_big_for_audio">Слишком большое сообщение.</string>
     <string name="add_timing">Время</string>
     <string name="menu_view_original_message">Показать оригинальное сообщение</string>

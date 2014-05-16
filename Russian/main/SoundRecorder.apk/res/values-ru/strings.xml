@@ -107,7 +107,7 @@
 	<string name="cloud_record">Записи в MiCloud (%d)</string>
 	<string name="loading_recording">Нет записей</string>
 	<string name="status_bar_back">Нажмите здесь для возврата</string>
-	<string name="access_error">Запись невозможна в режиме гостя</string>
+	<string name="access_error">Запись невозможна в режиме \"Гость\"</string>
 	<string name="record_download">Скачать запись из MiCloud?</string>
     <string name="record_download_msg">Для воспроизведения записи необходимо ее скачать.</string>
     <string name="record_download_msg_reload">Запись не существует</string>

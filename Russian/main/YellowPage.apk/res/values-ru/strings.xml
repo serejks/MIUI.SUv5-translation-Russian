@@ -109,7 +109,7 @@
     <string name="login_ok">Вход</string>
     <string name="login_before_recharging">Сначала надо авторизоваться.</string>
     <string name="unable_send_sms">Не удается отправить сообщение.</string>
-    <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя.</string>
+    <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме \"Гость\".</string>
     <string name="express_inquiry">Отслеживание</string>
     <string name="express_inquiry_indication">Номер отслеживания</string>
     <string name="express_inquiry_button_text">Трек</string>

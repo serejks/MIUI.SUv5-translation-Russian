@@ -1569,7 +1569,7 @@
     <string name="oldman_reject_call_button_text">отклонить</string>
     <string name="oldman_end_call_button_text">отбой</string>
     <string name="oldman_dialpad_button_text">клавиатура</string>
-	<string name="call_record_error_access">Невозможно записывать вызовы в режиме гостя</string>
+	<string name="call_record_error_access">Невозможно записывать вызовы в режиме \"Гость\"</string>
 	<string name="call_waiting_tone_stop_summary">" (нажмите клавишу изменения громкости, чтобы остановить воспроизведение)."</string>
 	<string name="tty_mode_entries_full_miui">Полнофункциональный</string>
 	<string name="tty_mode_entries_hco_miui">С возможностью слышать собеседника</string>
