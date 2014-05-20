@@ -787,9 +787,7 @@
     <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
     <string name="webview_js_dialog_before_unload_positive_button">Покинуть страницу</string>
     <string name="webview_js_dialog_before_unload_negative_button">Остаться на странице</string>
-    <string name="webview_js_dialog_before_unload">"%s
-
-Покинуть эту страницу?"</string>
+    <string name="webview_js_dialog_before_unload">%s \n\nПокинуть эту страницу?</string>
     <string name="webview_ok">ОК</string>
     <string name="webview_cancel">Отмена</string>
     <string name="webview_js_dialog_title">Страница \"%s\" отвечает:</string>
@@ -804,4 +802,5 @@
 	<string name="ssl_certificate">Сертификат безопасности</string>
 	<string name="ssl_certificate_is_valid">Данный сертификат действителен</string>
 	<string name="pref_content_cloud_speedup">Облачное ускорение</string>
+	<string name="snapshot_successed">Страница успешно сохранена для чтения в режиме оффлайн</string>
 </resources>
