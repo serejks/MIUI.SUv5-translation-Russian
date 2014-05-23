@@ -562,4 +562,6 @@
     <string name="feedback_description_hint">Введите отчет</string>
     <string name="feedback_submit">Отправить</string>
 	<string name="confirm_send_mms">Один из контактов получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, за которое может взыматься дополнительная плата оператором.</string>
+	<string name="context_menu_add_calendar">Показать в календаре</string>
+	<string name="quick_reply">Ответить</string>
 </resources>

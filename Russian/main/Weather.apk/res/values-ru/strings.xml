@@ -123,4 +123,14 @@
 	<string name="weather_unit_middle">" | "</string>
 	<string name="network_unavailable">Ошибка подключения. Сеть недоступна.</string>
 	<string name="weather_data_unreachable">Невозможно получить данные погоды. Пожалуйста, попробуйте позже.</string>
+	<string name="gps_hint">Текущее местоположение</string>
+	<string name="edit_city">Изменить</string>
+	<string name="act_weather_cycle_no_forcast">Неизвестно</string>
+	<string name="button_abandon">Отменить изменения</string>
+	<string name="aqi_quality_index_break">Yikes!</string>
+	<string name="act_weather_find_city_net_no_good">Не удается подключиться к сети</string>
+    <string name="act_weather_find_city_click_retry">Повтор</string>
+	<string name="location_tag">Местоположение</string>
+    <string name="act_weather_find_city_no_result">Нет результатов</string>
+    <string name="act_weather_find_city_added">Город добавлен</string>
 </resources>

@@ -309,4 +309,5 @@
     <string name="select_year">Выберите год</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="deleted_key">Удалено: %1$s</string>
+	<string name="timer_message_with_seconds">%1$d сек.</string>
 </resources>

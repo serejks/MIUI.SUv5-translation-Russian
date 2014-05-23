@@ -802,5 +802,8 @@
 	<string name="ssl_certificate">Сертификат безопасности</string>
 	<string name="ssl_certificate_is_valid">Данный сертификат действителен</string>
 	<string name="pref_content_cloud_speedup">Облачное ускорение</string>
-	<string name="snapshot_successed">Страница успешно сохранена для чтения в режиме оффлайн</string>
+	<string name="snapshot_successed">Страница успешно сохранена для чтения в автономном режиме</string>
+	<string name="dont_remind_again">Запомнить выбор</string>
+	<string name="use_cellular_network_alert_message">Сеть Wi-Fi недоступна, использовать мобильный интернет?</string>
+	<string name="use_cellular_network_alert_title">Предупреждение</string>
 </resources>

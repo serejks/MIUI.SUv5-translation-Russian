@@ -720,4 +720,10 @@
         <item>Запретить</item>
         <item>Разрешить</item>
     </string-array>
+	<string-array name="ram_states">
+        <item>нормальный</item>
+        <item>умеренный</item>
+        <item>низкий</item>
+        <item>критический</item>
+    </string-array>
 </resources>
