@@ -505,7 +505,7 @@
     <string name="modified_time">Время изменения</string>
     <string name="photo_size">Разрешение</string>
 	<string name="bigscreen_video_quit">Нажмите для выхода из режима воспроизведения</string>
-	<string name="fail_to_download_n_items">Ошибка загрузки. Файлов: %s</string>
+	<string name="fail_to_download_n_items">Ошибка загрузки файлов: %s</string>
 	<string name="home_page_tab_photo">Камера</string>
     <string name="home_page_tab_cloud">Облачные</string>
     <string name="home_page_tab_local">Локальные</string>
