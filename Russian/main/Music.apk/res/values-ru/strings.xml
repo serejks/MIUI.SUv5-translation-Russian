@@ -74,7 +74,6 @@
 	<string name="download_processing">Загрузка</string>
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
 	<string name="emptyplaylist">Плейлист пуст</string>
-	<string name="enter_sleep_mode">Таймер сна</string>
 	<string name="lpa_off_hint">Необходимо отключить режим энергосбережения, чтобы включить эквалайзер.</string>
 	<string name="equalizer_enable">Настройки эквалайзера</string>
 	<string name="equalizer">Эквалайзер</string>
