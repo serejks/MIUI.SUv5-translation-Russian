@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transformation_entries">
+     <string-array name="gadget_weather_theme_type_entries">
+        <item>По умолчанию</item>
         <item>Классический</item>
+     </string-array>
+     <string-array name="transformation_entries">
+        <item>Стандарт</item>
         <item>Без эффектов</item>
         <item>Угасание</item>
-        <item>Перекатывание</item>
-        <item>Страницы</item>
-        <item>Каскад</item>
         <item>Поворот</item>
+        <item>Листание</item>
+        <item>Каскад</item>
+        <item>Вращение</item>
         <item>3D куб</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>От темы</item>
-        <item>Центр</item>
-        <item>Лево</item>
-        <item>Право</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>По умолчанию</item>
-        <item>Классика</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
+     </string-array>
+     <string-array name="wallpaper_scroll_entries">
+        <item>Включена</item>
+        <item>Выключена (обои по центру)</item>
+        <item>Выключена (обои слева)</item>
+        <item>Выключена (обои справа)</item>
+     </string-array>
+	 <string-array name="gadget_weather_image">
         <item>Солнечно</item>
         <item>Облачно</item>
         <item>Облачно</item>
@@ -47,10 +47,16 @@
         <item>Грязь</item>
         <item>Смог</item>
     </string-array>
-    <string-array name="editing_mode_entries">
+	<string-array name="editing_mode_entries">
         <item>Сортировка</item>
         <item>Виджеты</item>
         <item>Обои</item>
-        <item>Переходы</item>
+        <item>Эффекты</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
 </resources>
