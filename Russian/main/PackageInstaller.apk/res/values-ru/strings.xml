@@ -20,13 +20,13 @@
     <string name="install_failed_msg">Невозможно установить \"%1$s\".</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
-    <string name="unknown_apps_dlg_text">"Из соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Android-маркета.
-
+    <string name="unknown_apps_dlg_text">"Из соображений безопасности на вашем устройстве заблокирована установка приложений, полученных из непроверенных источников.
+Вы можете снять это ограничение, для установки приложений из любых источников, но ваше устройство и личные данные могут быть подвергнуты риску, и вы должны взять на себя полную ответственность за дальнейшие действия.
 Вы можете изменить это в Настройки->Безопасность->Неизвестные источники."</string>
     <string name="ok">ОК</string>
     <string name="settings">Настройки</string>
     <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-    <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
+    <string name="allow_source_dlg_text">"%1$s хочет устанавливать другие приложения.
 
 Разрешить и запомнить выбор?"</string>
     <string name="manage_applications">Управление приложениями</string>
@@ -34,14 +34,14 @@
     <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит другое приложение.
 
 Все пользовательские данные будут сохранены."</string>
-    <string name="dlg_app_replacement_statement_with_version">"Приложение: %1$s \nУстановленная версия: %3$s \nВерсия обновления: %2$s  \n\nВсе пользовательские данные будут сохранены.\nПродолжить установку?"</string>
+    <string name="dlg_app_replacement_statement_with_version">"Приложение: %1$s\nУстановленная версия: %3$s\nНовая версия: %2$s\n\nВсе пользовательские данные будут сохранены.\nПродолжить установку?"</string>
     <string name="dlg_sys_app_replacement_statement">"Это системное приложение. Заменить?
 
 Все пользовательские данные будут сохранены."</string>
     <string name="lift_ban">Снять запрет</string>
-    <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
+    <string name="uninstall_failed_retained_app_msg">Приложение, измененное администратором, не может быть удалено.</string>
     <string name="out_of_space_dlg_title">Недостаточно места</string>
-    <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
+    <string name="out_of_space_dlg_text">Установка приложения %1$s не удалось. Освободите место и повторите попытку.</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
     <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных приложений.</string>
@@ -56,33 +56,31 @@
     <string name="uninstall_failed">Ошибка при удалении</string>
     <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства.</string>
     <string name="manage_device_administrators">Настройки администрирования</string>
-    <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось.</string>
+    <string name="uninstall_failed_msg">Удаление приложения %1$s не удалось</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка.</string>
     <string name="caller_app">Связь: %1$s</string>
-    <string name="safe_guard_support">Защиту обеспечивает %1$s</string>
+    <string name="safe_guard_support">Техническая поддержка %1$s</string>
     <string name="safe_relative">Личная безопасность</string>
     <string name="privacy_relative">Доступ к личным данным</string>
-    <string name="other_relative">Другие разрешения</string>
+    <string name="other_relative">Прочие разрешения</string>
     <string name="perm_notice">Оповещение безопасности</string>
-    <string name="trust_switch_dialog_msg">"MIUI не будет спрашивать вашего разрешения на любые действия этого приложения.
-Доверять этому приложению?"</string>
-    <string name="auto_startup_dialog_msg">"MIUI позволит этому приложению запускаться автоматически. Это может вызвать повышенное потребление энергии и трафика.
-Разрешить автозапуск?"</string>
+    <string name="trust_switch_dialog_msg">MIUI не будет спрашивать вашего разрешения на любые действия этого приложения.</string>
+    <string name="auto_startup_dialog_msg">MIUI позволит этому приложению запускаться автоматически.</string>
     <string name="low_risk_perms">Мало опасные разрешения</string>
     <string name="high_risk_perms">Опасные разрешения</string>
     <string name="perm_privacy_app_finish">Готово</string>
     <string name="perm_privacy_app_launch">Открыть</string>
-    <string name="perm_privacy_app_installed">Установка завершена!</string>
+    <string name="perm_privacy_app_installed">Установка завершена</string>
     <string name="perm_sysopt_boost_auto_start">Разрешения автозапуска</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Приложение будет запускаться автоматически!</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск</string>
     <string name="perm_privacy_app_trust">Я доверяю этому приложению</string>
-    <string name="perm_privacy_app_trust_summary">Контроль действий приложения</string>
+    <string name="perm_privacy_app_trust_summary">MIUI будет контролировать это приложение</string>
     <string name="perm_action_accept">Разрешить</string>
     <string name="perm_action_prompt">С запросом</string>
     <string name="perm_action_reject">Запретить</string>
     <string name="unknown_installer">Неопознанный инструмент ПК</string>
-	<string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI.</string>
+	<string name="install_failed_system_incompatible">Это приложение не совместимо с MIUI</string>
     <string name="virus_scan_install">" <u>продолжить установку</u> "</string>
     <string name="virus_scan_is_virus">Это приложение содержит вирус.</string>
     <string name="virus_scan_is_risk">Это приложение представляет угрозу для вашего устройства.</string>

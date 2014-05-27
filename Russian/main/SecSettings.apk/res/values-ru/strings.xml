@@ -1418,7 +1418,7 @@ or visit CS center."</string>
     <string name="install_all_warning">Устройство и личные данные более уязвимы для атак, если приложения получены из неизвестных источников. Вы несете ответственность за любые повреждения устройства и потерю данных, вызванные использованием таких приложений</string>
     <string name="advanced_settings">Дополнительно</string>
     <string name="advanced_settings_summary">Включить дополнительные параметры</string>
-    <string name="application_info_label">Сведения о приложении</string>
+    <string name="application_info_label">О приложении</string>
     <string name="storage_label">Память</string>
     <string name="auto_launch_label">Запускать по умолчанию</string>
     <string name="auto_launch_label_generic">По умолчанию</string>

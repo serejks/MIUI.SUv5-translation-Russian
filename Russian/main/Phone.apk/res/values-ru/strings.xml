@@ -1641,4 +1641,5 @@
 	<string name="set_sub_not_supported_phone_in_call">Невозможно активировать или деактивировать подписки во время вызова</string>
 	<string name="open_miui">Открыть</string>
 	<string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
+	<string name="preferred_network_type_pref_entries_4g_preferred_miui">Предпочтительно 4G</string>
 </resources>

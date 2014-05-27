@@ -399,10 +399,10 @@
     <string name="pref_edit_smsc_address">Номер SMS центра</string>
     <string name="pref_title_filter_phone">Только с телефонами</string>
     <string name="pref_summary_filter_phone">Не показывать контакты без телефонов</string>
-    <string name="pref_title_allow_si_sl_push">Разрешить WAP push</string>
+    <string name="pref_title_allow_si_sl_push">WAP push</string>
     <string name="pref_summary_allow_si_sl_push">Разрешить WAP push сообщения (SI/SL)</string>
-    <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
-    <string name="pref_summary_show_recent_contacts">Показать список последних контактов, при создании нового сообщения</string>
+    <string name="pref_title_show_recent_contacts">Недавние контакты</string>
+    <string name="pref_summary_show_recent_contacts">Показывать список последних контактов, при создании нового сообщения</string>
     <string name="pref_title_hide_festival">Скрыть \"Поздравления\"</string>
     <string name="pref_summary_hide_festival">Скрыть вкладку \"Поздравления\" для языков, отличных от китайского.</string>
     <string name="pref_key_append_signature_title">Подпись</string>

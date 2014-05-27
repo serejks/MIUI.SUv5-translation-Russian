@@ -3,7 +3,7 @@
     <string name="app_name">Поиск</string>
     <string name="search_widget">Поиск</string>
     <string name="remove_from_history">Удалить из истории поиска?</string>
-    <string name="remove_from_history_failed">Не удалось удалить объект из истории поиска</string>
+    <string name="remove_from_history_failed">Не удалось удалить объект из истории поиска.</string>
     <string name="corpus_selection_heading">Поиск</string>
     <string name="corpus_label_global">Все</string>
     <string name="corpus_label_web">Интернет</string>
@@ -17,7 +17,7 @@
     <string name="device_settings_category_title">Очистить ярлыки</string>
     <string name="system_search_category_title">Телефон</string>
     <string name="search_sources">Источники поиска</string>
-    <string name="search_sources_summary">Выберите источники, по которым будет осуществляться поиск.</string>
+    <string name="search_sources_summary">Выберите источники, по которым будет осуществляться поиск</string>
     <string name="clear_shortcuts">Очистить ярлыки</string>
     <string name="clear_shortcuts_summary">Очистка ярлыков недавно выбранных результатов поиска</string>
     <string name="clear_shortcuts_prompt">Очистить ярлыки недавно выбранных результатов поиска?\n\nЧтобы очистить историю браузера, воспользуйтесь настройками браузера.</string>
