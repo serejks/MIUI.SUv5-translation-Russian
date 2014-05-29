@@ -1045,13 +1045,11 @@
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
     <string name="lockpassword_choose_your_password_header">Придумайте пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
-    <string name="lockpassword_choose_your_pin_header">Придумайте PIN код</string>
     <string name="lockpassword_confirm_your_password_header">Подтвердите пароль</string>
     <string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
     <string name="lockpassword_confirm_your_pin_header">Подтвердите PIN</string>
 	<string name="lockpassword_confirm_pins_dont_match">PIN не совпадает</string>
     <string name="lockpassword_confirm_passwords_dont_match">Пароли не совпадают</string>
-    <string name="lockpassword_confirm_pins_dont_match">PIN коды не совпадают</string>
     <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
     <string name="lockpassword_password_set_toast">Пароль установлен</string>
     <string name="lockpassword_pin_set_toast">PIN установлен</string>
