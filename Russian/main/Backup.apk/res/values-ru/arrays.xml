@@ -2,15 +2,15 @@
 <resources>
     <string-array name="backup_dialog_content_type">
         <item>Параметры Wi-Fi</item>
-        <item>Все программы</item>
+        <item>Все приложения</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Браузер</item>
         <item>Галерея</item>
-        <item>Суперпользователь</item>
+        <item>Разрешения</item>
         <item>Камера</item>
-        <item>Мониторинг трафика</item>
-        <item>Хранилище погоды</item>
+        <item>Трафик</item>
+        <item>Данные погоды</item>
         <item>Погода</item>
     </string-array>
     <string-array name="system_data_label">
@@ -20,16 +20,16 @@
         <item>Мультимедийные сообщения</item>
         <item>Настройки системы</item>
         <item>Настройки Wi-Fi</item>
-        <item>Домашний экран</item>
+        <item>Рабочий стол</item>
         <item>Будильник</item>
         <item>Заметки</item>
-        <item>Анти-спам</item>
+        <item>Антиспам</item>
         <item>Аккаунты</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>"Данные "</item>
-        <item>"Программы "</item>
-        <item>"Программы и данные "</item>
+        <item>"Приложения "</item>
+        <item>"Приложения и данные "</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Контакты</item>
