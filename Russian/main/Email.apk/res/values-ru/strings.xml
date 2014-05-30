@@ -955,7 +955,7 @@
     <string name="no_sdcard">SD-карта отсутствует</string>
     <string name="download_complete_message">Загрузка завершена, нажмите для обновления.</string>
     <string name="file_size">Размер</string>
-	<string name="menu_resend_all">Переслать все</string>
+	<string name="menu_resend_all">Отправить все</string>
     <string name="outbox_no_mails">Нет исходящих сообщений</string>
 	<string name="device_activity_btn_str">Вернуться к активации</string>
     <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>
