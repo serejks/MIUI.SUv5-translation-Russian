@@ -2156,7 +2156,7 @@
     <string name="perm_sysopt_boost_boot">Запуск</string>
     <string name="perm_sysopt_boost_receiver">Фоновый режим</string>
     <string name="perm_sysopt_boost_auto_start_group">Автозапуск</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск</string>ы
+    <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск</string>
     <string name="perm_sysopt_boost_auto_start">Автозапуск</string>
     <string name="perm_su_enable_dialog">%1$s пытается получить ROOT права, которые по-умолчанию отключены для обеспечения безопасности системы.</string>
     <string name="search_airplane">Режим полета</string>
