@@ -283,5 +283,5 @@
         <item>Комфортно</item>
         <item>Умеренно</item>
         <item>Некомфортно</item>
-    </array>
+    </string-array>
 </resources>

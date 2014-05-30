@@ -2295,7 +2295,6 @@
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
     <string name="security_privacy_settings_title">Безопасность</string>
-    <string name="security_relative">Связанные с безопасностью</string>
     <string name="nearby_wifi">Доступные сети Wi-Fi</string>
     <string name="unlock_set_enter_system">Отключить экран блокировки</string>
     <string name="unlock_set_enter_system_summary">Не использовать системный экран блокировки</string>
