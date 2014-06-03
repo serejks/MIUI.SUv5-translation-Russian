@@ -88,7 +88,7 @@
 	<string name="menu_search">Поиск</string>
 	<string name="menu_settings">Настройки системы</string>
 	<string name="menu_sort">Сортировка</string>
-	<string name="menu_wallpaper">Настройки обоев</string>
+	<string name="menu_wallpaper">Обои</string>
 	<string name="menu_workspace_preview">Режим просмотра</string>
 	<string name="out_of_space">На этом экране нет свободного места</string>
 	<string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя.</string>

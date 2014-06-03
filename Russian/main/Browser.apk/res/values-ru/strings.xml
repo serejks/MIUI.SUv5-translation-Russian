@@ -138,7 +138,7 @@
 	<string name="download_complete">Загрузка завершена</string>
 	<string name="download_dialog_file_length_hint_txt">Размер файла:</string>
 	<string name="download_dialog_file_length_lessthan1kb">менее 1 Кб</string>
-	<string name="download_dialog_file_length_nolength_error_txt">Ошибка загрузки</string>
+	<string name="download_dialog_file_length_nolength_error_txt">неизвестно</string>
 	<string name="download_dialog_file_length_nolength_txt">Загрузка…</string>
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
