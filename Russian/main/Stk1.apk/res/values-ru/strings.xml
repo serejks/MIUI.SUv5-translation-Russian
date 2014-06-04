@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Инструменты SIM</string>
-    <string name="appI_name">Инструменты SIMI</string>
-    <string name="appII_name">Инструменты SIMII</string>
-    <string name="lable_not_available">"Приложение не установлено"</string>
+    <string name="appI_name">Инструменты SIM1</string>
+    <string name="appII_name">Инструменты SIM2</string>
+    <string name="lable_not_available">Приложение не установлено</string>
     <string name="menu_end_session">Окончание сессии</string>
     <string name="help">Помощь</string>
     <string name="menu_back">Назад</string>
@@ -15,7 +15,7 @@
     <string name="button_no">Нет</string>
     <string name="alphabet">Символы</string>
     <string name="digits">Цифры (0-9, *, #, +)</string>
-    <string name="default_call_setup_msg">Идет разговор…</string>
+    <string name="default_call_setup_msg">Идет вызов…</string>
     <string name="stk_app_state">Состояние приложения</string>
     <string name="enable_app">Активно</string>
     <string name="disable_app">Неактивно</string>
@@ -36,7 +36,7 @@
     <string name="lable_setup_call">Настройка вызовов</string>
     <string name="lable_more_time">Больше времени</string>
     <string name="lable_poll_interval">Интервал опроса</string>
-    <string name="lable_polling_off">PОтключить опрос</string>
+    <string name="lable_polling_off">Отключить опрос</string>
     <string name="lable_provide_local_information">Предоставить информацию</string>
     <string name="lable_timer_management">Таймер управления</string>
     <string name="lable_perform_card_apdu">Подготовка карты APDU</string>
@@ -49,11 +49,11 @@
     <string name="lable_close_channel">Закрыть канал</string>
     <string name="lable_receive_data">Прием данных</string>
     <string name="lable_send_data">Передача данных</string>
-    <string name="lable_get_channel_status">Предоставить информацию</string>
+    <string name="lable_get_channel_status">Получить статус канала</string>
     <string name="lable_service_search">Сервисный поиск</string>
-    <string name="lable_get_service_information">Получить информационную службу</string>
-    <string name="lable_declare_service">Объявить службы</string>
-    <string name="lable_set_frame">Набор кадров</string>
+    <string name="lable_get_service_information">Получить информацию сервиса</string>
+    <string name="lable_declare_service">Объявить службу</string>
+    <string name="lable_set_frame">Получить статус рамки</string>
     <string name="lable_get_frame_status">Получить состояние кадра</string>
     <string name="lable_retrieve_multimedia_message">Загрузка мультимедийных сообщений</string>
     <string name="lable_submit_multimedia_message">Отправка мультимедийных сообщений</string>
@@ -64,6 +64,6 @@
     <string name="lable_busy_on_bip">Приложение занято по командам BIP, повторите попытку позже.</string>
     <string name="main_menu_not_initialized">Главное меню не инициализировано</string>
     <string name="lable_busy_on_call">Телефон занят вызовом, сначала нужно закончить разговор</string>
-    <string name="lable_on_flight_mode">Это приложение не может быть использовано в режиме В самолете</string>
+    <string name="lable_on_flight_mode">Это приложение не может быть использовано в режиме \"В самолете\"</string>
     <string name="lable_sim_not_ready">Инструменты SIM не готов или не поддерживается</string>
 </resources>
