@@ -17,7 +17,7 @@
     <string name="menu_compose_new">Новое сообщение</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_add_address_to_contacts">Добавить в контакты: %s</string>
-    <string name="menu_call">Позвонить</string>
+    <string name="menu_call">Вызов</string>
     <string name="menu_search">Поиск</string>
     <string name="menu_delete_all">Удалить все диалоги</string>
     <string name="menu_delete">Удалить диалог</string>
@@ -291,7 +291,7 @@
     <string name="search_hint">Поиск сообщений</string>
     <string name="search">Сообщения</string>
     <string name="search_setting_description">Текст в сообщениях</string>
-    <string name="search_empty">Ничего не найдено</string>
+    <string name="search_empty">Нет результатов поиска</string>
     <string name="search_history">Результатов для \"%2$s\": %1$s</string>
     <string name="confirm_clear_search_title">Очистить</string>
     <string name="confirm_clear_search_text">История поиска будет удалена</string>
@@ -347,7 +347,7 @@
     <string name="context_menu_call">Вызов</string>
     <string name="context_menu_send_sms">Отправить сообщение</string>
     <string name="context_menu_browse_web">Посмотреть</string>
-    <string name="context_menu_send_mail">Отправить e-mail</string>
+    <string name="context_menu_send_mail">Отправить email</string>
     <string name="context_menu_copy">Копировать</string>
     <string name="context_menu_copy_notice">Текст скопирован</string>
     <string name="context_menu_new_contact">Новый контакт</string>

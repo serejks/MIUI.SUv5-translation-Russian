@@ -121,7 +121,7 @@
     <string name="ui_bar_txt_download_progress">Осталось загрузить файлов: %1$d</string>
     <string name="ui_bar_txt_upload_progress">Осталось загрузить файлов: %1$d</string>
     <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
-	<string name="create_kuaipan_shortcut_pref">Отправить на домашний экран</string>
+	<string name="create_kuaipan_shortcut_pref">Отправить на рабочий стол</string>
     <string name="login_reg_content0">Используйте KuaiPan из любого места.</string>
     <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их с другими устройствами</string>
     <string name="login_reg_login_xiaomi">Вход в аккаунт Xiaomi</string>

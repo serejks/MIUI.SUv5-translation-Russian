@@ -49,7 +49,7 @@
     <string name="notification_volume_title_lenovo">Уведомление</string>
     <string name="sound_category_feedback_title_lenovo">Система</string>
     <string name="all_volume_title_lenovo">Громкость</string>
-    <string name="sound_category_calls_title_lenovo">Входящие звонки</string>
+    <string name="sound_category_calls_title_lenovo">Входящие вызовы</string>
     <string name="vibrate_title_lenovo">Вибрация</string>
     <string name="phone_vibrate_summary_lenovo">Вибрировать при входящих звонках и SMS</string>
     <string name="dtmf_tone_enable_title_lenovo">Звук клавиш</string>
@@ -750,7 +750,7 @@
     <string name="wifi_error">Ошибка</string>
     <string name="wifi_in_airplane_mode">В самолете</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
-    <string name="wifi_notify_open_networks">Уведомления о сетях</string>
+    <string name="wifi_notify_open_networks">Уведомлять о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_enable_watchdog_service">Игнорировать сети с плохим сигналом</string>
     <string name="wifi_poor_network_detection">Избегать плохих соединений</string>
@@ -2218,7 +2218,7 @@
     <string name="dndm_vip_list_custom">Исключения</string>
     <string name="dndm_vip_list_contact">Все контакты</string>
     <string name="dndm_vip_list_custom_group">Исключения</string>
-    <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
+    <string name="dndm_repeated_call_setting_title">Повторные вызовы</string>
     <string name="dndm_repeated_call_summary_none">Отключать звук при повторных звонках с одного и того же номера</string>
     <string name="dndm_repeated_call_summary_3min">Если звонящий в течении 3х минут позвонит повторно, звук звонка не будет отключен</string>
     <string name="dndm_twelve_hour_time_format">a h:mm</string>
@@ -2513,7 +2513,7 @@
     <string name="camera_key_action_shortcut_title">Ярлык</string>
     <string name="camera_key_action_toggle_title">Переключатель</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
-    <string name="camera_key_action_shortcut_home">Домашний экран</string>
+    <string name="camera_key_action_shortcut_home">Рабочий стол</string>
     <string name="camera_key_action_shortcut_screenshot">Скриншот</string>
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
@@ -2916,7 +2916,7 @@ Android File Transfer
     <string name="sim_management_title">SIM менеджер</string>
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Информация об IMEI</string>
-	<string name="xiaomi_cloud_service">MiCloud</string>
+	<string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
 	<string name="noise_suppression">Шумоподавление</string>
     <string name="phone_call_noise_suppression">Подавление шумов при разговоре</string>

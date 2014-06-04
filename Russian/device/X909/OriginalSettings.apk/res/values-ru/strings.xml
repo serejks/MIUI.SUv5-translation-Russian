@@ -470,9 +470,9 @@
     <string name="wifi_starting">Включение Wi-Fi…</string>
     <string name="wifi_stopping">Отключение Wi-Fi…</string>
     <string name="wifi_error">Ошибка</string>
-    <string name="wifi_in_airplane_mode">Режим полета</string>
+    <string name="wifi_in_airplane_mode">В самолете</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
-    <string name="wifi_notify_open_networks">Уведомления о сетях</string>
+    <string name="wifi_notify_open_networks">Уведомлять о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_poor_network_detection">Фильтр сетей Wi-Fi</string>
     <string name="wifi_poor_network_detection_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>

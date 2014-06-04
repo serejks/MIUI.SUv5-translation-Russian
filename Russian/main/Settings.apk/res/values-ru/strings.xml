@@ -505,7 +505,7 @@
     <string name="wifi_error">Ошибка</string>
     <string name="wifi_in_airplane_mode">В самолете</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
-    <string name="wifi_notify_open_networks">Уведомления о сетях</string>
+    <string name="wifi_notify_open_networks">Уведомлять о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_enable_watchdog_service">Игнорировать сети с плохим сигналом</string>
     <string name="wifi_poor_network_detection">Избегать плохих соединений</string>
@@ -2267,7 +2267,7 @@
     <string name="camera_key_action_shortcut_title">Функция</string>
     <string name="camera_key_action_toggle_title">Переключатель</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
-    <string name="camera_key_action_shortcut_home">Домашний экран</string>
+    <string name="camera_key_action_shortcut_home">Рабочий стол</string>
     <string name="camera_key_action_shortcut_screenshot">Скриншот</string>
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
@@ -2672,7 +2672,7 @@ Android File Transfer
     <string name="sim_management_title">Управление SIM-картой</string>
     <string name="sim_status_title">Статус SIM-карты</string>
     <string name="slot_status_title">Информация о IMEI</string>
-	<string name="xiaomi_cloud_service">MiCloud</string>
+	<string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
 	<string name="noise_suppression">Шумоподавление</string>
     <string name="phone_call_noise_suppression">Подавление шумов при разговоре</string>
@@ -4356,7 +4356,7 @@ Android File Transfer
 	<string name="wifi_type_approval_title">Подтверждение типа</string>
 	<string name="manage_xiaomi_router">Управление роутером Xiaomi</string>
     <string name="xiaomi_router_notif_title">Уведомлять о роутере Xiaomi</string>
-    <string name="xiaomi_router_notif_summary">Сообщать, когда доступен роутер Xiaomi.</string>
+    <string name="xiaomi_router_notif_summary">Сообщать при обнаружении роутера Xiaomi</string>
     <string name="xiaomi_router_available_notif_title">Доступен роутер Xiaomi</string>
     <string name="xiaomi_router_available_notif_summary">Нажмите для просмотра</string>
 </resources>

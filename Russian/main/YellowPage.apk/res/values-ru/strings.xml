@@ -174,7 +174,7 @@
     <string name="express_inquiry_delivered">Доставлено</string>
     <string name="express_inquiry_no_history">Нет истории</string>
 	<string name="call">Вызов</string>
-	<string name="no_more_result">Ничего не найдено</string>
+	<string name="no_more_result">Нет результатов поиска</string>
 	<string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправлено</string>
     <string name="sina_share_fail">Ошибка отправки</string>

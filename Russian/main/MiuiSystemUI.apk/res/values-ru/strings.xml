@@ -222,7 +222,7 @@
     <string name="settings_expandable_under_keyguard_summary">Работает, если для разблокировки не установлен пароль</string>
     <string name="settings_expandable_under_fullscreen">В полноэкранном режиме</string>
     <string name="settings_expandable_under_fullscreen_summary">Потяните вниз от верхней части экрана</string>
-    <string name="settings_show_flow_info">Показывать трафик</string>
+    <string name="settings_show_flow_info">Трафик</string>
     <string name="notification_icon_filter_settings">Уведомление</string>
     <string name="notification_icon_filter_settings_loading">Идет загрузка, подождите</string>
     <string name="notification_icon_filter">Настройка уведомлений</string>
@@ -282,7 +282,7 @@
     <string name="camera_key_action_shortcut_title">Ссылка</string>
     <string name="camera_key_action_toggle_title">Запуск переключателя</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
-    <string name="camera_key_action_shortcut_home">Вернуться на домашний экран</string>
+    <string name="camera_key_action_shortcut_home">Вернуться на рабочий стол</string>
     <string name="camera_key_action_shortcut_screenshot">Скриншот</string>
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>

@@ -768,7 +768,7 @@
     <string name="S_MMC">Карта памяти</string>
     <string name="RM_NORMAL">Обычный</string>
     <string name="RM_MMS">Видео для MMS</string>
-    <string name="RM_EMAIL">Ограничение для e-mail</string>
+    <string name="RM_EMAIL">Ограничение для email</string>
     <string name="RM_SLOW">Замедленное движение</string>
     <string name="RM_FAST">Быстрое движение</string>
     <string name="CS_PROGRESS_TEXT">Создание изображения. Подождите…</string>

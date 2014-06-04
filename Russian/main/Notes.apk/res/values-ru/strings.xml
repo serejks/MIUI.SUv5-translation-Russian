@@ -14,7 +14,7 @@
 	<string name="file_path">/MIUI/notes/</string>
 	<string name="file_name_txt_format">notes_%s.txt</string>
 	<string name="note_link_tel">Вызов</string>
-	<string name="note_link_email">Отправить e-mail</string>
+	<string name="note_link_email">Отправить email</string>
 	<string name="note_link_web">Открыть в браузере</string>
 	<string name="note_link_other">Открыть карту</string>
 	<string name="note_link_select">Выбрать текст</string>
@@ -29,11 +29,11 @@
 	<string name="menu_font_size">Размер шрифта</string>
 	<string name="menu_folder_change_name">Переименовать</string>
 	<string name="folder_exist">Папка с таким именем уже существует</string>
-	<string name="menu_send_to_desktop">Отправить на домашний экран</string>
+	<string name="menu_send_to_desktop">Отправить на рабочий стол</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
 	<string name="menu_move_parent_folder">Основная папка</string>
 	<string name="menu_rename_folder">Переименовать</string>
-	<string name="info_note_enter_desktop">Заметка добавлена на домашний экран</string>
+	<string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
 	<string name="alert_title_delete">Удаление выбранных заметок</string>
 	<string name="alert_message_delete_notes">Удалить заметки (%1$s шт.)?</string>
 	<string name="alert_message_delete_folders">Удалить папки (%1$s шт.)?</string>
@@ -49,7 +49,7 @@
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD карту</string>
 	<string name="error_note_not_exist">Заметка отсутствует</string>
 	<string name="error_note_empty_for_clock">Невозможно установить напоминание для пустой заметки</string>
-	<string name="error_note_empty_for_send_to_desktop">Невозможно отправить на домашний экран пустую заметку</string>
+	<string name="error_note_empty_for_send_to_desktop">Невозможно отправить на рабочий стол пустую заметку</string>
 	<string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на домашнем экране</string>
 	<string name="success_sdcard_export">Экспорт завершен</string>
 	<string name="failed_sdcard_export">Экспорт прерван</string>

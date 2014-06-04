@@ -2170,7 +2170,7 @@ or visit CS center."</string>
     <string name="monotype_invalid_font">Некорректный шрифт</string>
     <string name="driving_mode_title">Режим \"Вождение\"</string>
     <string name="driving_mode_category_title">Режим гарнитуры</string>
-    <string name="driving_mode_summary">Входящие звонки и новые уведомления будут воспроизводиться автоматически</string>
+    <string name="driving_mode_summary">Входящие вызовы и новые уведомления будут воспроизводиться автоматически</string>
     <string name="driving_mode_summary_without_call">Новые уведомления будут читаться автоматически</string>
     <string name="driving_mode_to_enable_driving_mode_message">Чтобы использовать режим \"Вождение\", сначала включите хотя бы одну функцию</string>
     <string name="insert_sim_card">Вставьте SIM-карту</string>
@@ -2215,7 +2215,7 @@ or visit CS center."</string>
     <string name="incoming_call_notification_summary">Воспроизводить сведения о звонящих при получении входящих вызовов</string>
     <string name="message">Сообщения</string>
     <string name="message_notification_summary">Воспроизводить сведения об отправителях при получении новых сообщений</string>
-    <string name="new_email">Новые сообщения E-mail</string>
+    <string name="new_email">Новые сообщения Email</string>
     <string name="new_email_notification_summary">Прочитывать вслух число новых полученных сообщений электронной почты</string>
     <string name="new_voicemail">Новое сообщение голосовой почты</string>
     <string name="new_voicemail_notification_summary">Уведомлять при поступлении новой голосовой почты</string>
@@ -2466,7 +2466,7 @@ or visit CS center."</string>
     <string name="torch_light_notification_message">Нажмите, чтобы выключить подсветку</string>
     <string name="easy_access_category">Простой доступ</string>
     <string name="answering_end_call_title">Ответ/окончание вызовов</string>
-    <string name="answering_end_call_summary">Управление ответами на звонки и окончанием вызовов</string>
+    <string name="answering_end_call_summary">Управление ответами на вызовы и окончанием вызовов</string>
     <string name="power_key_hold_title">Ярлык спец. возможностей</string>
     <string name="power_key_hold_summary">Нажмите и удерживайте клавишу питания, чтобы использовать ярлык специальных возможностей, заданный в параметрах устройства</string>
     <string name="audio_preference_title">Слух</string>
@@ -2668,7 +2668,7 @@ or visit CS center."</string>
     <string name="motion_disabled_message">Для просмотра руководства включите поддержку движений</string>
     <string name="pick_up_to_call_out_title">Прямой вызов</string>
     <string name="pick_up_to_call_out_summary">Позвонить контакту, который указан на экране</string>
-    <string name="pick_up_to_call_out_content">Звонить контакту, чьи сведения, журнал вызовов или данные о сообщениях отображаются на экране, при поднесении устройства к лицу</string>
+    <string name="pick_up_to_call_out_content">Позвонить контакту, чьи сведения, журнал вызовов или данные о сообщениях отображаются на экране, при поднесении устройства к лицу</string>
     <string name="surface_title">Движения рук</string>
     <string name="surface_summary">Общий движения рук</string>
     <string name="surface_tutorial_settings_title">Справочник по движениям рукой</string>
@@ -2760,8 +2760,8 @@ or visit CS center."</string>
     <string name="air_scroll_web_page_summary">Общий веб-страницы</string>
     <string name="air_scroll_album_and_photo_list_title">Список альбомов / Фото список</string>
     <string name="air_scroll_album_and_photo_list_summary">Список альбомов / фото списку резюме</string>
-    <string name="air_scroll_email_body_title">E-mail тела</string>
-    <string name="air_scroll_email_body_summary">E-mail резюме тела</string>
+    <string name="air_scroll_email_body_title">Email тела</string>
+    <string name="air_scroll_email_body_summary">Email резюме тела</string>
     <string name="air_turn_setting_title">Air свою очередь, установка</string>
     <string name="air_turn_single_photo_view_title">Одной фотографии</string>
     <string name="air_turn_internet_window_title">Интернет окне</string>
@@ -3049,7 +3049,7 @@ or visit CS center."</string>
     <string name="call_block_title">Параметры блокировки вызовов</string>
     <string name="call_block_mode">Блокировка вызовов</string>
     <string name="call_block_list">Список блокировки вызовов</string>
-    <string name="call_block_list_summary">Зарегистрируйте номера, звонки с которых нужно блокировать</string>
+    <string name="call_block_list_summary">Зарегистрируйте номера, вызовы с которых нужно блокировать</string>
     <string name="voice_call_block_title">Параметры блокировки голосовых вызовов</string>
     <string name="voice_call_block_mode">Блокировка голос. вызовов</string>
     <string name="voice_call_block_list">Список блок. голос. выз.</string>
@@ -3651,7 +3651,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="sound_category_calls_title">Входящие вызовы</string>
     <string name="notification_sound_summary">Настройка мелодии уведомления по умолчанию</string>
     <string name="ringtone_summary_ds">Выбор мелодий для входящих вызовов и уведомлений</string>
-    <string name="dsa_help_msg_1">Активный режим двух SIM-карт позволяет принимать звонки на обе SIM-карты даже во время разговора</string>
+    <string name="dsa_help_msg_1">Активный режим двух SIM-карт позволяет принимать вызовы на обе SIM-карты даже во время разговора</string>
     <string name="dsa_help_msg_2">Активный режим двух SIM-карт влияет на параметры ожидания и переадресации вызовов для каждой из SIM-карт, если они недоступны</string>
     <string name="dsa_help_msg_3">Активный режим двух SIM-карт зависит от сети. Периодически могут возникать ошибки сети, влияющие на его работу</string>
     <string name="dsa_help_msg_4">Проверяйте экран состояния, так как может возникнуть ошибка сети</string>

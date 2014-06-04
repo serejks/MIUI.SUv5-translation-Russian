@@ -2,6 +2,6 @@
 <resources>
     <string-array name="new_account_types">
         <item>Регистрация по телефону (Рекомендуется)</item>
-        <item>Регистрация по e-mail</item>
+        <item>Регистрация по email</item>
     </string-array>
 </resources>

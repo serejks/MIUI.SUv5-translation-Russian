@@ -99,7 +99,7 @@
     <string name="S_MMC">Карта памяти</string>
     <string name="RM_NORMAL">Обычный</string>
     <string name="RM_MMS">Видео для MMS</string>
-    <string name="RM_EMAIL">Огранич.для e-mail</string>
+    <string name="RM_EMAIL">Огранич.для email</string>
     <string name="RM_SLOW">Замедленное движение</string>
     <string name="RM_FAST">Ускоренное движение</string>
     <string name="RM_SELF">Снять себя</string>

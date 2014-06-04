@@ -34,7 +34,7 @@
     <string name="menu_deleteContact">Удалить</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_create_contact_shortcut">На рабочий стол</string>
-    <string name="menu_call">Позвонить</string>
+    <string name="menu_call">Вызов</string>
     <string name="menu_sendSMS">Отправить сообщение</string>
     <string name="menu_splitAggregate">Разделить</string>
     <string name="menu_editGroup">Изменить</string>
@@ -534,11 +534,11 @@
     <string name="description_call_log_voicemail">Голосовая почта</string>
     <string name="description_add_contact">Добавить контакт</string>
     <string name="description_view_contact">Показать контакт %1$s</string>
-    <string name="description_call">Позвонить %1$s</string>
+    <string name="description_call">Вызов %1$s</string>
     <string name="description_send_text_message">Отправить сообщение %1$s</string>
     <string name="description_call_log_unheard_voicemail">Непрочитанная голосовая почта</string>
     <string name="description_send_message">Отправить сообщение %1$s</string>
-    <string name="description_dial_phone_number">Позвонить %1$s</string>
+    <string name="description_dial_phone_number">Вызов %1$s</string>
     <string name="description_quick_contact_for">Быстрый вызов %1$s</string>
     <string name="user_profile_contacts_list_header">Я</string>
     <string name="local_profile_title">Мой профиль</string>
@@ -565,7 +565,7 @@
     <string name="ringLabelsGroup">Мелодия</string>
     <string name="default_ringtone">Мелодия по умолчанию</string>
     <string name="callNoAnswerTimeFormat">Гудки %s раз</string>
-    <string name="menu_send_to_desktop">Отправить на домашний экран</string>
+    <string name="menu_send_to_desktop">Отправить на рабочий стол</string>
     <string name="send_contact_shortcut_todesktop_success">Добавлено на рабочий стол</string>
     <string name="summary_kind_title">Основная информация</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
@@ -1020,8 +1020,8 @@
     <string name="AirPlane_mode_on">Невозможно сохранить контакт когда активен режим В самолете.</string>
     <string name="FDNEnabled">Невозможно сохранить контакт когда FDN активен.</string>
     <string name="sim_invalid_number">Невозможно сохранить неправильный номер.</string>
-    <string name="email_invalid">Невозможно сохранить неправильный e-mail.</string>
-    <string name="email_2g_invalid">Невозможно сохранить e-mail на 2G SIM, выберите 3G SIM для сохранения.</string>
+    <string name="email_invalid">Невозможно сохранить неправильный email.</string>
+    <string name="email_2g_invalid">Невозможно сохранить email на 2G SIM, выберите 3G SIM для сохранения.</string>
     <string name="sim_invalid_fix_number">Невозможно сохранить, недопустимое число исправлений.</string>
     <string name="AirPlane_mode_on_edit">Невозможно отредактировать контакт когда активен режим В самолете.</string>
     <string name="msg_loading_sim_contacts_toast">Загрузка SIM контактов в фоновом режиме, подождите минутку.</string>
@@ -1030,7 +1030,7 @@
     <string name="storage_full">Память заполнена.</string>
     <string name="number_too_long">Номер слишком длинный.</string>
     <string name="generic_failure">Общая ошибка.</string>
-    <string name="email_too_long">E-mail слишком длинный.</string>
+    <string name="email_too_long">Email слишком длинный.</string>
     <string name="error_save_usim_contact_email_lost">Не удалось сохранить адрес электронной почты, память USIM для хранения электронной почты заполнена.</string>
     <string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
     <string name="resource_selected">Новые</string>

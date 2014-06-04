@@ -299,7 +299,7 @@
  	<string name="bind_baidu_account_setting">Аккаунт Baidu</string>
 	<string name="bind_baidu_account_summary">Загрузите плейлист из своего аккаунта Baidu music</string>
  	<string name="synchronize_playlist_setting">Синхронизировать плейлист</string>
-	<string name="synchronize_playlist_summary">Синхронизировать плейлист с облаком MiCloud</string>
+	<string name="synchronize_playlist_summary">Синхронизировать плейлист с облаком Mi Cloud</string>
 	<string name="not_login">Вход</string>
 	<string name="download_completed">Загрузка завершена</string>
 	<string name="scan_barcode_to_connect">Сканируйте QR-код консоли KTV</string>
@@ -368,11 +368,11 @@
     <string name="collect_fm_success">Добавлено в избранное</string>
     <string name="uncollect_success">Удалено из избранного</string>
 	<string name="sync_alert_title">Синхронизация музыки</string>
-    <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
+    <string name="sync_alert_message">Синхронизировать музыку с Mi Cloud</string>
     <string name="not_now">Отмена</string>
-    <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
+    <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"Mi Cloud\"</string>
     <string name="login_and_enable">Синхронизировать</string>
-    <string name="sync_enable_toast">Вы можете изменить эту функцию через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
+    <string name="sync_enable_toast">Вы можете изменить эту функцию через \"Настройки\" > \"Аккаунты\" > \"Mi Cloud\"</string>
 	<string name="volume_alert_playback_alert_title">Предупреждение</string>
 	<string name="volume_alert_playback_message">Прослушивание музыки на высокой громкости в течение длительного времени может повредить слух.</string>
 	<string name="select_device">Выбрать устройство</string>

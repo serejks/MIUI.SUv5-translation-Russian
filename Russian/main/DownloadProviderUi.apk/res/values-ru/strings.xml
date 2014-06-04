@@ -44,7 +44,7 @@
     <string name="menu_enter_edit_mode">Редактор</string>
     <string name="delete_downloads_records">Удалить загрузки</string>
     <string name="pause_download">Пауза</string>
-    <string name="resume_download">Старт</string>
+    <string name="resume_download">Запустить</string>
     <string name="restart_download">Еще раз</string>
     <string name="open_download">Открыть</string>
     <string name="paused_by_app">Пауза</string>
@@ -54,7 +54,7 @@
     <string name="paused_unknown">Остановлено по неизвестной причине</string>
     <string name="confirm_delete_downloads_message">Выбранные элементы (%d шт.) будут удалены!</string>
     <string name="confirm_delete_the_download_item_message">Удалить выбранное?</string>
-    <string name="delete_the_downloaded_file">Удалить загруженные элементы</string>
+    <string name="delete_the_downloaded_file">Удалить загруженные файлы.</string>
     <string name="downloads_operating">Загрузка…</string>
     <string name="disable_download_only_in_wifi_title">Выключение \"Загрузка только по Wi-Fi\"</string>
     <string name="confirm_disable_download_only_in_wifi_message">Выключение \"Загрузка только по Wi-Fi\" возможно приведет к дополнительным затратам. Выключить?</string>
@@ -65,7 +65,7 @@
     <string name="pref_summary_enable_max_bytes_popup">Уведомление о превышении лимита на размер файла</string>
     <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="pref_summary_max_bytes_limit_format">Уведомление появится, если размер превысит %s</string>
-    <string name="pref_summary_any_bytes_popup">Всегда только по Wi-Fi</string>
+    <string name="pref_summary_any_bytes_popup">Загрузка только по Wi-Fi</string>
 	<string name="pref_summary_no_limit_popup">Загружать файлы любого размера</string>
     <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="cancel_download_notice">Не уведомлять о загрузках</string>
@@ -78,7 +78,7 @@
     <string name="app_downloads">Загрузки: %s</string>
 	<string name="xunlei_brand">Поддержка: Xunlei</string>
 	<string name="xunlei_switch">Движок загрузки Xunlei</string>
-    <string name="turn_off_xunlei_title">Отключить движкок загрузки Xunlei?</string>
+    <string name="turn_off_xunlei_title">Отключить движок загрузки Xunlei</string>
     <string name="turn_off_xunlei_message">После отключения возможна более низкая скорость загрузки файлов.</string>
 	<string name="paused_insufficient_space">Ожидание свободного места</string>
 	<string name="all_fileter">Все</string>

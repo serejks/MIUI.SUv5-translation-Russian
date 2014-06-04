@@ -444,7 +444,7 @@
     <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
     <string name="lockscreen_glogin_too_many_attempts">Слишком много попыток ввода</string>
     <string name="lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт Google.</string>
-    <string name="lockscreen_glogin_username_hint">Логин (e-mail)</string>
+    <string name="lockscreen_glogin_username_hint">Логин (email)</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_glogin_invalid_input">Неверный логин или пароль.</string>
@@ -998,7 +998,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN коды не совпадают</string>
     <string name="kg_login_too_many_attempts">Слишком много неверных попыток ввода графического ключа</string>
     <string name="kg_login_instructions">Для разблокировки, войдите в Google аккаунт.</string>
-    <string name="kg_login_username_hint">Логин (E-mail)</string>
+    <string name="kg_login_username_hint">Логин (Email)</string>
     <string name="kg_login_password_hint">Пароль</string>
     <string name="kg_login_submit_button">Войти</string>
     <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
@@ -1351,7 +1351,7 @@
     <string name="permgroupdesc_messages">Считывать и записывать SMS, электронные письма и другие сообщения</string>
     <string name="permgroupdesc_network">Позволяет приложению получать доступ к различным сетевым функциям</string>
     <string name="permgroupdesc_personalInfo">Прямой доступ к контактам и событиям календаря, сохраненным в памяти телефона</string>
-    <string name="permgroupdesc_phoneCalls">Отслеживать, записывать и обрабатывать телефонные звонки</string>
+    <string name="permgroupdesc_phoneCalls">Отслеживать, записывать и обрабатывать телефонные вызовы</string>
     <string name="permgroupdesc_storage">Доступ к SD карте</string>
     <string name="permgroupdesc_systemTools">Доступ нижнего уровня и управление системой</string>
     <string name="permgrouplab_accounts">Аккаунты</string>
@@ -1689,8 +1689,8 @@
     <string name="capability_desc_canRequestEnhancedWebAccessibility">При необходимости устанавливать скрипты, чтобы получить больше специальных возможностей.</string>
     <string name="capability_title_canRequestFilterKeyEvents">Следить за печатаньем</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Отслеживать и фильтровать личные данные, например номера кредитных карт и пароли.</string>
-	<string name="permlab_sendRespondViaMessageRequest">Отправка сообщений в ответ на звонки</string>
-    <string name="permdesc_sendRespondViaMessageRequest">Приложение сможет отправлять запросы другим программам обмена сообщениями, чтобы на звонки можно было отвечать текстовыми сообщениями.</string>
+	<string name="permlab_sendRespondViaMessageRequest">Отправка сообщений в ответ на вызовы</string>
+    <string name="permdesc_sendRespondViaMessageRequest">Приложение сможет отправлять запросы другим программам обмена сообщениями, чтобы на вызовы можно было отвечать текстовыми сообщениями.</string>
 	<string name="permlab_getTopActivityInfo">Показ информации о приложении</string>
     <string name="permdesc_getTopActivityInfo">На экране будут отображаться сведения о текущем приложении.</string>
 	<string name="permlab_getAppOpsStats">Получение рабочего журнала приложений</string>

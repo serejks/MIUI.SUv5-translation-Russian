@@ -133,7 +133,7 @@
      <string name="myfavorite_onlylocal">Избранное</string>
      <string name="no_comment_tip">Нельзя отправить пустой комм</string>
      <string name="no_favorite">Пусто</string>
-     <string name="no_filter_media">Ничего не найдено</string>
+     <string name="no_filter_media">Нет результатов поиска</string>
      <string name="no_login_xiaomi_account">Войдите в Xiaomi аккаунт прежде чем комментировать</string>
      <string name="no_media">Нет видео</string>
      <string name="no_myfavorite">Пусто</string>
@@ -141,7 +141,7 @@
      <string name="no_myfavorite_advice_onlylocal">Локальные</string>
      <string name="no_playhistory">Пусто</string>
      <string name="no_reviews">Нет комментариев</string>
-     <string name="no_search_result">Ничего не найдено. Попробуйте другой поиск по ключевым словам.</string>
+     <string name="no_search_result">Нет результатов поиска. Попробуйте другой поиск по ключевым словам.</string>
      <string name="no_special_subject">Пусто</string>
      <string name="no_subject">Нет файлов</string>
      <string name="no_tv">Нет каналов</string>
