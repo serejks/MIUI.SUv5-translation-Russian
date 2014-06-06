@@ -739,7 +739,7 @@
     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="sim_export_loading">Чтение SIM карты…</string>
     <string name="pref_title_account_import">Импорт из аккаунта</string>
-    <string name="pref_title_import_from_account">Импорт из аккаунта Xiaomi</string>
+    <string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
     <string name="pref_summary_import_from_account">Передача контактов из Google и Exchange в аккаунт Xiaomi</string>
     <string name="preference_select_account_display">Отображение аккаунта</string>
     <string name="select_show_contacts">Список контактов</string>
