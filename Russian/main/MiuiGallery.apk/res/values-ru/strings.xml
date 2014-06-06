@@ -30,7 +30,6 @@
 	<string name="albumset_page_title_separator">" | "</string>
 	<string name="alert">Предупреждение</string>
 	<string name="alert_message_open_sync">Включить синхронизацию?</string>
-	<string name="android_tencent_tencent_weibo">Tencent Weibo</string>
 	<string name="androidesk_wallpapers">Обои Android</string>
 	<string name="baidu_flyflow_downloads">Браузер Baidu</string>
 	<string name="aperture">Диафрагма</string>
@@ -516,4 +515,14 @@
 	<string name="photo_page_detail_show_in_the_map">Показывать местоположение на карте</string>
     <string name="start_slide_show">Запуск слайдшоу</string>
 	<string name="confirm_delete_folders_and_pictures">Удалить выбранное? \n\nФайлов: %s</string>
+    <string name="local_time">(Локальное)</string>
+    <string name="click_to_add_picture">Нажмите, чтобы добавить изображения</string>
+    <string name="sync_in_progress_message">Синхронизация в процессе…</string>
+    <string name="alert_init_merged_title">Все ваши фото. Наконец-то вместе.</string>
+    <string name="alert_init_merged_message">Теперь фото на вашем устройстве и фото в Mi Cloud будут отображаться вместе.</string>
+    <string name="picker_tab_photo">Фото</string>
+    <string name="long_press_to_refocus">Продолжайте нажимать для перефокусировки</string>
+    <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
+    <string name="ubifocus_map_error">Некоторые данные повреждены</string>
+    <string name="ubifocus_refocus_fail_tip">Не удалось сделать перефокусировку из за потерянных или поврежденных данных</string>
 </resources>

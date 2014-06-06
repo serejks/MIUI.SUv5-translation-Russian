@@ -806,4 +806,13 @@
 	<string name="dont_remind_again">Запомнить выбор</string>
 	<string name="use_cellular_network_alert_message">Сеть Wi-Fi недоступна, использовать мобильный интернет?</string>
 	<string name="use_cellular_network_alert_title">Предупреждение</string>
+    <string name="date_picker_dialog_other_button_label">Прочее</string>
+    <string name="copy_to_clipboard_failure_message">Не удалось скопировать</string>
+    <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
+    <string name="miuichromium_error_page_reason_network">Показать URL</string>
+    <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
+    <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
+    <string name="miuichromium_error_page_reason_server">Браузер не может загрузить страницу</string>
+    <string name="miuichromium_error_page_reload">Обновить</string>
+    <string name="miuichromium_error_page_url">Показать URL страницы</string>
 </resources>

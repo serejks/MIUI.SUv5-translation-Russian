@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permission_read_attachment_label">Открывать вложения</string>
-    <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в электронной почте.</string>
-    <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
-    <string name="permission_access_provider_desc">Позволяет приложению получать доступ к данным электронной почты, включая полученные и отправленные сообщения, имена пользователей и пароли.</string>
+    <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в электронной почте</string>
+    <string name="permission_access_provider_label">Доступ к данным электронной почты</string>
+    <string name="permission_access_provider_desc">Позволяет приложению получать доступ к данным почты, именам пользователей и паролям</string>
     <string name="app_name">Почта</string>
     <string name="compose_title">Новое сообщение</string>
     <string name="debug_title">Отладка</string>
@@ -36,7 +36,7 @@
     <string name="settings_action">Настройки</string>
     <string name="mailbox_settings_action">Параметры синхронизации</string>
     <string name="mark_as_unread_action">Отметить как непрочитанное</string>
-    <string name="move_action">" Переместить "</string>
+    <string name="move_action">Переместить</string>
     <string name="newer_action">Новые</string>
     <string name="older_action">Старые</string>
     <string name="plus_cc_label">Добавить копию</string>
@@ -47,7 +47,7 @@
     <string name="choose_attachment_dialog_title">Выбрать вложение</string>
     <string name="move_to_folder_dialog_title">Переместить в папку</string>
     <string name="status_loading_messages">Загрузка сообщений…</string>
-    <string name="status_network_error">Ошибка подключения</string>
+    <string name="status_network_error">Ошибка подключения к сети</string>
     <string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое.</string>
     <string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3.</string>
     <string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
@@ -404,7 +404,7 @@
     <string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты.</string>
     <string name="widget_no_mailboxes">Этот аккаунт не синхронизирован. Повторите позже.</string>
     <string name="more_than_999">999+</string>
-    <string name="search_hint">Искать в электронной почте</string>
+    <string name="search_hint">Искать в почте</string>
     <string name="search_mailbox_hint">Поиск \"%1$s\"</string>
     <string name="search_header_text_fmt">Результаты поиска</string>
     <string name="search_slow_warning_title">Ожидание результатов</string>
@@ -438,7 +438,7 @@
     <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
-    <string name="done">Вернуться</string>
+    <string name="done">Готово</string>
     <string name="alert_title_selected">Выбрать все</string>
     <string name="alert_selected_all_message">" содержит сообщений: %d. Выбрать все?"</string>
     <string name="account_setup_index_title">Инструкция по настройке</string>
@@ -616,7 +616,7 @@
     <string name="forward">Переслать</string>
     <string name="menu_compose">Создать</string>
     <string name="menu_change_folders">Изменить папки</string>
-    <string name="menu_move_to">Переместить</string>
+    <string name="menu_move_to">" Переместить "</string>
     <string name="menu_move_to_inbox">Переместить в папку "Входящие"</string>
     <string name="menu_manage_folders">Настройки папок</string>
     <string name="report_rendering_problem">Выглядит плохо</string>
@@ -963,9 +963,16 @@
     <string name="device_activity_lint_str">Включить полное обновление почтового сервиса и активировать службу безопасности</string>
 	<string name="xiaomi_update_dialog_title">%1$s обновлено!</string>
     <string name="xiaomi_update_dialog_message">Доступная версия: %1$s \nРазмер: %2$s</string>
-    <string name="xiaomi_update_dialog_message_diff">Доступная версия: %1$s \nРазмер Delta обновления: %2$s</string>
+    <string name="xiaomi_update_dialog_message_diff">Доступная версия: %1$s \nРазмер Дельта обновления: %2$s</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте состояние SD-карты.</string>
-    <string name="xiaomi_bytes_unit">%1$sб</string>
-    <string name="xiaomi_kilobytes_unit">%1$sКб</string>
-    <string name="xiaomi_megabytes_unit">%1$sМб</string>
+    <string name="xiaomi_bytes_unit">%1$s б</string>
+    <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
+    <string name="xiaomi_megabytes_unit">%1$s Мб</string>
+    <string name="mail">Почта</string>
+    <string name="dialog_insufficient_space_on_external">Не удается закончить загрузку. Недостаточно места во внутренней памяти.</string>
+    <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти.</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Недостаточно места для %s.</string>
+    <string name="dialog_auto_download_failed">Не удалось закончить автозагрузку</string>
+    <string name="att_download_failed_title">Не удалось загрузить вложение</string>
+    <string name="att_download_failed_content">Загрузка завершена</string>
 </resources>

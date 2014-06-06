@@ -276,4 +276,5 @@
     <string name="color_swatch_description_selected">Цвет %1$d выбран</string>
     <string name="event_date_format">d MMMM</string>
     <string name="event_full_date_format">MM.dd.yyyy</string>
+    <string name="pref_error_no_ringtone_select">Ничего не выбрано</string>
 </resources>

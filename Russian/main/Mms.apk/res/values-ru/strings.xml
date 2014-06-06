@@ -564,4 +564,6 @@
 	<string name="confirm_send_mms">Один из контактов получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, за которое может взыматься дополнительная плата оператором.</string>
 	<string name="context_menu_add_calendar">Показать в календаре</string>
 	<string name="quick_reply">Ответить</string>
+    <string name="sp_category_all">Все сервисные сообщения</string>
+    <string name="sp_category_bank">Все банковские сообщения</string>
 </resources>
