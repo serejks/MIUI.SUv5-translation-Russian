@@ -434,7 +434,7 @@
 	<string name="share">Отправить</string>
 	<string name="perm_data_update_lab">Обновление данных</string>
 	<string name="perm_data_update_dspt">Разрешить отправлять отметку об обновлении данных</string>
-    <string name="provider_sougou">Provided by Sogou</string>
+    <string name="provider_sougou">Предоставлено Sogou</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы ввели неверный пароль %d раз. После %d неудачных попыток, Вам будет предложено разблокировать телефон через системный аккаунт.
 
  Повторите через %d сек."</string>
@@ -472,13 +472,13 @@
 	<string name="sync_data_merge_warning_desc">Объединить локальные %s с облачными данными?</string>
     <string name="sync_data_recover_warning_title">Предупреждение</string>
     <string name="sync_data_recover_warning_desc">Восстановить %s из облачного сервиса?</string>
-    <string name="sync_data_merge_warning_ok">ОК</string>
+    <string name="sync_data_merge_warning_ok">Объединить</string>
     <string name="sync_data_merge_warning_cancel">Отмена</string>
-    <string name="sync_data_recover_warning_ok">ОК</string>
+    <string name="sync_data_recover_warning_ok">Восстановить</string>
     <string name="sync_data_recover_warning_cancel">Отмена</string>
     <string name="sync_data_contact">контакты</string>
     <string name="sync_data_mms">сообщения</string>
-    <string name="sync_data_cloud_album">облачные альбомы</string>
+    <string name="sync_data_cloud_album">облачный альбом</string>
     <string name="sync_data_call_log">записи вызовов</string>
     <string name="sync_data_notes">заметки</string>
     <string name="sync_data_loading">Получение информации с сервера</string>
