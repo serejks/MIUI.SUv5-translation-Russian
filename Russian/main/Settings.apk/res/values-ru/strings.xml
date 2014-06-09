@@ -566,7 +566,7 @@
     <string name="hdmi_3d_help_title">Подробнее о HDMI 3D стереоскопической поддержке</string>
     <string name="power_mode_balanced_title">Включить балансировку мощности</string>
     <string name="usb_host_mode_text">Включить режим USB хост</string>
-    <string name="usb_host_mode_subtext">Использование игровых контроллеров и других периферийных устройств от USB-порта может увеличить расход батареи</string>
+    <string name="usb_host_mode_subtext">Использование игровых контроллеров и других периферийных устройств от USB порта может увеличить расход батареи</string>
     <string name="title_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_color_calibration">Коррекция цвета</string>
     <string name="color_calibration_srgb">sRGB</string>
@@ -3879,8 +3879,8 @@ Android File Transfer
 	<string name="user_dict_settings_add_word_hint">Введите слово</string>
     <string name="user_dict_settings_add_shortcut_hint">Дополнительный ярлык</string>
 	<string name="development_settings_not_available">Режим \"Для разработчиков\" не доступен для данного пользователя</string>
-	<string name="clear_adb_keys">Запретить доступ USB-отладки</string>
-	<string name="adb_keys_warning_message">Запретить доступ для USB-отладки на всех компьютерах, на которых вы входили в аккаунт?</string>
+	<string name="clear_adb_keys">Запретить доступ USB отладки</string>
+	<string name="adb_keys_warning_message">Запретить доступ для USB отладки на всех компьютерах, на которых вы входили в аккаунт?</string>
 	<string name="enable_service_title">Включить %1$s?</string>
     <string name="capabilities_list_title">%1$s будет:</string>
     <string name="capability_title_receiveAccessibilityEvents">Обрабатывать действия</string>
@@ -4329,9 +4329,9 @@ Android File Transfer
     <string name="dirac_mode_piston_1">Пистоны Xiaomi-1</string>
     <string name="dirac_mode_piston_2">Пистоны Xiaomi-2</string>
     <string name="dirac_mode_piston_youth">Пистоны Xiaomi-youth</string>
-	<string name="msd_pc_system_install_start_summary_vista">Для версий Windows Vista и новее, \"%1$s\" будет автоматически отображаться как USB-накопитель.</string>
-    <string name="msd_pc_system_install_step_2_summary_xp">2. %1$s будет отображаться как USB-накопитель при подключении к ПК.</string>
-    <string name="msd_pc_system_install_finish_summary_xp">После установки драйверов \"%1$s\" будет отображаться при подключении к ПК как USB-накопитель.</string>
+	<string name="msd_pc_system_install_start_summary_vista">Для версий Windows Vista и новее, \"%1$s\" будет автоматически отображаться как USB накопитель.</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">2. %1$s будет отображаться как USB накопитель при подключении к ПК.</string>
+    <string name="msd_pc_system_install_finish_summary_xp">После установки драйверов \"%1$s\" будет отображаться при подключении к ПК как USB накопитель.</string>
     <string name="msd_pc_system_install_finish_summary_vista">Для версий Windows Vista и новее, музыкальный плеер \"%1$s\" будет автоматически отображаться на ПК.</string>
 	<string name="dialog_title_auto_start_tips">Информация об автозапуске</string>
     <string name="dialog_message_auto_start_tips">Некоторые приложения могут работать в фоне некорректно без автозапуска. Вы можете добавить необходимые приложения вручную в список автозапуска.</string>

@@ -1113,7 +1113,7 @@
     <string name="permlab_manageAccounts">Управление аккаунтами</string>
     <string name="permlab_manageAppTokens">Управление упорядочиванием</string>
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
-    <string name="permlab_manageUsb">Управление USB-устройствами</string>
+    <string name="permlab_manageUsb">Управление USB устройствами</string>
     <string name="permlab_masterClear">Общий сброс</string>
     <string name="permlab_mediaStorageWrite">Данные мультимедиа</string>
     <string name="permlab_modifyAudioSettings">Настройки звука</string>
@@ -1262,7 +1262,7 @@
     <string name="permdesc_manageAccounts">Позволяет приложению управлять аккаунтами.</string>
     <string name="permdesc_manageAppTokens">Позволяет системному приложению создавать собственное упорядочивание.</string>
     <string name="permdesc_manageNetworkPolicy">Позволяет приложению управлять сетевыми политиками и задавать свои правила для приложений.</string>
-    <string name="permdesc_manageUsb">Позволяет приложению управлять настройками и разрешениями для USB-устройств.</string>
+    <string name="permdesc_manageUsb">Позволяет приложению управлять настройками и разрешениями для USB устройств.</string>
     <string name="permdesc_masterClear">Позволяет приложению восстанавливать заводские настройки системы, удалять все данные и приложения.</string>
     <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое мультимедиа во внутренней памяти.</string>
     <string name="permdesc_modifyAudioSettings">Позволяет приложению изменять настройки звука.</string>

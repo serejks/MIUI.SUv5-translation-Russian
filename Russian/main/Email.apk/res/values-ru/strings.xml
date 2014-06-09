@@ -134,7 +134,7 @@
     <string name="message_view_attachment_cancel_action">Стоп</string>
     <string name="message_view_status_attachment_saved">Вложение сохранено как %s</string>
     <string name="message_view_status_attachment_not_saved">Файл не сохранен.</string>
-    <string name="message_view_attachment_background_load">Примечание. Несколько вложений в переадресованном сообщении будут загружены перед отправкой.</string>
+    <string name="message_view_attachment_background_load">Несколько вложений в переадресованном сообщении будут загружены перед отправкой.</string>
     <string name="message_view_show_message_action">Сообщение</string>
     <string name="message_view_show_invite_action">Пригласить</string>
     <string name="message_view_show_pictures_action">Показать изображения</string>
@@ -163,15 +163,15 @@
     <string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Android Маркета.</string>
     <string name="attachment_info_sideload_disabled">Вложение является приложением. Чтобы его можно было установить, в разделе \"Настройки\" &gt; \"Приложения\" выберите \"Неизвестные источники\".</string>
     <string name="attachment_info_apk_install_disabled">Приложения нельзя устанавливать непосредственно из электронной почты. Сохраните файл, перейдите в \"Загрузки\" и выполните установку.</string>
-    <string name="attachment_not_found">Не удалось загрузить вложение.</string>
-    <string name="message_decode_error">При расшифровке сообщения произошла ошибка.</string>
+    <string name="attachment_not_found">Не удалось загрузить вложение</string>
+    <string name="message_decode_error">Не удалось расшифровать сообщение</string>
     <string name="eml_view_title">Просмотр \"%s\"</string>
     <string name="message_discarded_toast">Черновик удален</string>
     <string name="message_saved_toast">Черновик сообщения сохранен</string>
     <string name="message_view_display_attachment_toast">Невозможно отобразить вложение</string>
     <string name="message_view_load_attachment_failed_toast">Не удалось загрузить вложение \"%s\"</string>
     <string name="message_view_parse_message_toast">Сообщение открывается…</string>
-    <string name="forward_download_failed_ticker">Сбой при пересылке вложений</string>
+    <string name="forward_download_failed_ticker">Сбой при пересылке вложений.</string>
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>

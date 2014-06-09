@@ -141,11 +141,11 @@
 	<string name="download_dialog_file_length_nolength_error_txt">неизвестно</string>
 	<string name="download_dialog_file_length_nolength_txt">Загрузка…</string>
 	<string name="download_failed">Ошибка загрузки</string>
-	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
-	<string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
+	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB накопитель.</string>
+	<string name="download_no_sdcard_dlg_title">USB накопитель недоступен</string>
 	<string name="download_pending">Начинается загрузка…</string>
-	<string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
-	<string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
+	<string name="download_sdcard_busy_dlg_msg">USB накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB накопитель\" в панели уведомлений.</string>
+	<string name="download_sdcard_busy_dlg_title">USB накопитель недоступен</string>
 	<string name="dump_counters">Сбросить счетчики V8</string>
 	<string name="dump_display_tree">Дамп дерева отображения в файл</string>
 	<string name="dump_dom_tree">Дамп DOM в файл</string>
@@ -524,7 +524,7 @@
 	<string name="stopping">Остановка…</string>
 	<string name="storage_internal">Внутренняя память</string>
 	<string name="storage_sd_card">SD-карта</string>
-	<string name="storage_usb">USB-накопитель</string>
+	<string name="storage_usb">USB накопитель</string>
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_closed">Вкладка закрыта</string>
 	<string name="tab_history">История</string>
