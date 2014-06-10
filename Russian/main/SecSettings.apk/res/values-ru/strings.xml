@@ -1253,7 +1253,7 @@ or visit CS center."</string>
     <string name="carrier_enabled_summaryOff">Точка доступа отключена</string>
     <string name="bearer">Канал</string>
     <string name="menu_delete">Удалить точку доступа</string>
-    <string name="menu_new">Новая точка доступа</string>
+    <string name="menu_new">Добавить</string>
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
     <string name="error_name_empty">Поле «Имя» не может быть пустым</string>

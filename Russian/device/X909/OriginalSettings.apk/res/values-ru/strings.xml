@@ -862,7 +862,7 @@
     <string name="location_network_based">По координатам сети</string>
     <string name="location_neighborhood_level">Разрешить отправку анонимных данных о местоположении и позволить приложениям определять его с помощью Wi-Fi и мобильных сетей</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется с помощью Wi-Fi</string>
-    <string name="location_gps">По спутникам GPS</string>
+    <string name="location_gps">Спутники GPS</string>
     <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения вашего местоположения</string>
     <string name="assisted_gps">Использовать A-GPS</string>
     <string name="assisted_gps_enabled">Использовать сервер для A-GPS (снимите флажок для менее интенсивного использования сети)</string>

@@ -1184,7 +1184,7 @@
     <string name="carrier_enabled_summaryOff">APN выкл.</string>
     <string name="bearer">Владелец</string>
     <string name="menu_delete">Удалить APN</string>
-    <string name="menu_new">Новая точка доступа</string>
+    <string name="menu_new">Добавить</string>
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
     <string name="error_name_empty">Необходимо указать название.</string>
@@ -1260,7 +1260,7 @@
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется с помощью Wi-Fi</string>
-    <string name="location_gps">По спутникам GPS</string>
+    <string name="location_gps">Спутники GPS</string>
     <string name="location_street_level">Разрешить приложениям использовать GPS для определения местоположения</string>
     <string name="assisted_gps">Использовать A-GPS</string>
     <string name="assisted_gps_enabled">Использовать сервер для A-GPS (снимите флажок для менее интенсивного использования сети)</string>
