@@ -1244,7 +1244,7 @@
     <string name="usb_tethering_available_subtext">USB связь установлена, установите флажок для подключения</string>
     <string name="usb_tethering_active_subtext">Подключено</string>
     <string name="usb_tethering_storage_active_subtext">Невозможно подключиться во время использовании USB накопителя</string>
-    <string name="usb_tethering_unavailable_subtext">USB не подключен</string>
+    <string name="usb_tethering_unavailable_subtext">USB кабель не подключен</string>
     <string name="usb_tethering_errored_subtext">Ошибка подключения USB</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth модем</string>
     <string name="bluetooth_tethering_available_subtext">Включен</string>
