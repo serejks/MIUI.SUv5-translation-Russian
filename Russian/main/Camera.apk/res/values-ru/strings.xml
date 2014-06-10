@@ -768,7 +768,7 @@
     <string name="S_MMC">Карта памяти</string>
     <string name="RM_NORMAL">Обычный</string>
     <string name="RM_MMS">Видео для MMS</string>
-    <string name="RM_EMAIL">Ограничение для email</string>
+    <string name="RM_EMAIL">Ограничение для e-mail</string>
     <string name="RM_SLOW">Замедленное движение</string>
     <string name="RM_FAST">Быстрое движение</string>
     <string name="CS_PROGRESS_TEXT">Создание изображения. Подождите…</string>
@@ -1007,7 +1007,7 @@
     <string name="enable_feature">ОК</string>
     <string name="not_enable_feature">Отмена</string>
     <string name="accessibility_opti_zoom_button">OptiZoom</string>
-	<string name="pref_camera_auto_chroma_flash_title">Авто Chroma Flash</string>
+	<string name="pref_camera_auto_chroma_flash_title">Авто Chroma-вспышка</string>
 	<string name="pref_touch_down_capture_title">Нажмите для съемки</string>
 	<string name="pref_video_fast_speed_title_simple_mode">Скорость съемки</string>
 	<string name="simple_mode_button_text_fast_video">Выйти</string>
