@@ -619,7 +619,7 @@
     <string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
     <string name="date_time_set">Установить</string>
     <string name="sim_no_contact">На SIM карте нет контактов</string>
-    <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM карте недопустима. Позиция должна быть между %2$d м %3$d.</string>
+    <string name="sim_indexed_contact_not_exist">Позиция \"%1$d\" на SIM карте отсутствует. Позиция должна быть между %2$d и %3$d.</string>
     <string name="sim_contact_search_error">Произошла ошибка</string>
     <string name="contacts_unavailable_add_xiaomi_account">Синхронизация контактов Xiaomi</string>
     <string name="noContactHelpTextAccountsInfo">Синхронизация контактов Xiaomi, Google и Exchange</string>
