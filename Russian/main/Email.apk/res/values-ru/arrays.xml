@@ -19,11 +19,11 @@
     </string-array>
     <string-array name="sync_status">
         <item>Готово</item>
-        <item>Нет соединения</item>
-        <item>Невозможно авторизироваться</item>
-        <item>Ошибка безопасности</item>
-        <item>Невозможно синхронизировать</item>
-        <item>Внутренняя ошибка</item>
+        <item>Нет соединения.</item>
+        <item>Не удалось авторизироваться.</item>
+        <item>Ошибка безопасности.</item>
+        <item>Не удалось синхронизировать.</item>
+        <item>Внутренняя ошибка.</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Система</item>
@@ -33,7 +33,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Перейти к новому сообщению</item>
         <item>Перейти к старому сообщению</item>
-        <item>Перейти к списоку диалогов</item>
+        <item>Перейти к списку диалогов</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Показывать новое сообщение после удаления</item>
