@@ -41,13 +41,13 @@
         <item>Показывать список диалогов после удаления</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Показывать архивы</item>
-        <item>Показывать удаленные</item>
+        <item>Показывать только архивы</item>
+        <item>Показывать только удаленные</item>
         <item>Показывать архивы и удаленные</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Показывать архивы</item>
-        <item>Показывать удаленные</item>
+        <item>Показывать только архивы</item>
+        <item>Показывать только удаленные</item>
         <item>Показывать архивы и удаленные</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
