@@ -49,7 +49,7 @@
     <string name="usermode_visible_cu">Обслуживание от China Unicom</string>
     <string name="usermode_interact_cu">Принять расширенное обслуживание от China Unicom?</string>
     <string name="program_crash">Во время загрузки обновления произошла ошибка. Загрузить повторно?</string>
-    <string name="sim_not_register">SIM-карта не зарегистрирована для обновления. Пожалуйста, перезагрузите телефон.</string>
+    <string name="sim_not_register">SIM карта не зарегистрирована для обновления. Пожалуйста, перезагрузите телефон.</string>
     <string name="download_restart">Вы уже скачали обновление. Повторить загрузку?</string>
     <string name="network_detect">Для подключения к серверу необходимо использовать мобильный интернет. Выполняется поиск сети…</string>
     <string name="usermode_visible_cmcc">Расширенное послепродажное обслуживание</string>

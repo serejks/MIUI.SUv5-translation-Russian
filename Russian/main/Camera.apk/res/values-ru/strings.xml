@@ -10,12 +10,12 @@
     <string name="gallery_camera_bucket_name">Фото камеры</string>
     <string name="gallery_camera_videos_bucket_name">Видео камеры</string>
     <string name="wait">Загрузка…</string>
-    <string name="no_storage">Подключите SD-карту перед использованием камеры</string>
+    <string name="no_storage">Подключите SD карту перед использованием камеры</string>
     <string name="not_enough_space">Память заполнена</string>
     <string name="preparing_sd">Подготовка внутренней памяти…</string>
     <string name="access_sd_fail">Нет доступа к USB накопителю</string>
     <string name="access_phone_fail_no_product">Нет доступа к USB накопителю</string>
-    <string name="access_sd_fail_no_product">Нет доступа к SD-карте</string>
+    <string name="access_sd_fail_no_product">Нет доступа к SD карте</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_change_mode_title">Переключить режим</string>
@@ -460,7 +460,7 @@
     <string name="pref_camera_movie_solid_entry_on">Включена</string>
     <string name="pref_camera_storage_external_title">Накопитель</string>
     <string name="pref_camera_storage_external_entry_off">Память телефона</string>
-    <string name="pref_camera_storage_external_entry_on">SD-карта</string>
+    <string name="pref_camera_storage_external_entry_on">SD карта</string>
     <string name="unit_mm">мм</string>
     <string name="share">Поделиться</string>
     <string name="send">Отправить</string>

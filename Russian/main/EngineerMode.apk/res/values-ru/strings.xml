@@ -749,7 +749,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="fd_turn_on">Включить</string>
     <string name="fd_turn_off">Отключить</string>
     <string name="fd_ok">OK</string>
-    <string name="fd_simcard_text">SIM-карта:</string>
+    <string name="fd_simcard_text">SIM карта:</string>
     <string name="fd_sim1_text">SIM1</string>
     <string name="fd_sim2_text">SIM2</string>
     <string name="fd_text_screen_on">Вкл. экран</string>

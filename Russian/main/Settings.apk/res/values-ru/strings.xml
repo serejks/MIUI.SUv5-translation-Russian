@@ -595,7 +595,7 @@
     <string name="wifi_wps_pin_output">Введите код %1$s на точке доступа</string>
     <string name="wifi_wps_setup_msg">Запуск WPS…</string>
     <string name="wifi_wps_onstart_pbc">Нажмите кнопку защищенной настройки Wi-Fi на вашем роутере. Она может быть названа \"WPS\" или содержать этот символ:</string>
-    <string name="wifi_wps_onstart_pin">Введите PIN-код: %1$s на вашем Wi-Fi роутере. Настройка может занять до двух минут.</string>
+    <string name="wifi_wps_onstart_pin">Введите PIN код: %1$s на вашем Wi-Fi роутере. Настройка может занять до двух минут.</string>
     <string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
     <string name="wifi_wps_connected">Подключено к сети Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">WPS уже используется, для завершения потребуется около минуты</string>
@@ -2363,7 +2363,7 @@
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Такое имя уже существует</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания папки</string>
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-карта не содержит AS сертификатов</string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD карта не содержит AS сертификатов</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неверный формат сертификата</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неверный формат сертификата</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите имя сертификата</string>
@@ -2390,7 +2390,7 @@
     <string name="confirm_erase">Удалить</string>
     <string name="master_clear_personal_data">Удалить ваши личные данные? Все данные будут удалены безвозвратно.</string>
     <string name="master_clear_personal_data_application">Удалить ваши личные данные и установленные приложения? Все данные будут удалены безвозвратно.</string>
-    <string name="master_clear_personal_data_sdcard">Удалить ваши личные данные и отформатировать SD-Карту? Все данные будут удалены безвозвратно.</string>
+    <string name="master_clear_personal_data_sdcard">Удалить ваши личные данные и отформатировать SD карту? Все данные будут удалены безвозвратно.</string>
     <string name="master_clear_all">Сбросить все данные до заводских настроек? Все данные будут удалены безвозвратно.</string>
     <string name="master_clear_erase_application_progress">Удаление приложений…</string>
     <string name="erase_internal_storage">Очистить внутреннюю память</string>
@@ -2545,7 +2545,7 @@
     <string name="wfd_wps_keypad">Настройки клавиши</string>
 	<string name="wfd_enable_wifi_diag_title">Включить сеть Wi-Fi для работы функции Wi-Fi дисплей?</string>
 	<string name="wfd_enabler_title">Включить Wi-Fi дисплей</string>
-    <string name="wfd_wps_pbc">Ввод PIN-кода</string>
+    <string name="wfd_wps_pbc">Ввод PIN кода</string>
     <string name="power_mode">Режим питания</string>
     <string name="skip_step">Пропустить</string>
     <string name="msd_help_title">Помощь</string>
@@ -4090,8 +4090,8 @@ Android File Transfer
  SIM/RUIM не поддерживается."</string>
     <string name="sim_pin_attempts">"
 Осталось попыток:"</string>
-<string name="wrong_pin_code_pukked">Неверный PIN-код SIM карты. Вы можете обратиться к вашему оператору для выяснения информации по поводу разблокировки.</string>
-    <string name="pin_failed">Ошибка PIN-кода</string>
+<string name="wrong_pin_code_pukked">Неверный PIN код SIM карты. Вы можете обратиться к вашему оператору для выяснения информации по поводу разблокировки.</string>
+    <string name="pin_failed">Ошибка PIN кода</string>
 	<string name="sms_application_title">Приложение для SMS по умолчанию</string>
     <string name="sms_change_default_dialog_title">Изменить приложение для SMS?</string>
     <string name="sms_change_default_dialog_text" formatted="false">Использовать приложение \"%s\" по умолчанию вместо \"%s\"?</string>
@@ -4251,7 +4251,7 @@ Android File Transfer
     <string name="nfc_payment_set_default_instead_of">Всегда использовать при оплате одним касанием %1$s вместо %2$s?</string>
     <string name="restriction_settings_title">Ограничения</string>
     <string name="restriction_menu_reset">Снять ограничения</string>
-    <string name="restriction_menu_change_pin">Изменить PIN-код</string>
+    <string name="restriction_menu_change_pin">Изменить PIN код</string>
 	<string name="incoming_call_breathing_light_color_title">Цвет индикации вызовов</string>
     <string name="notification_breathing_light_color_title">Цвет индикации уведомлений</string>
     <string name="mms_breathing_light_color_title">Цвет индикации сообщений</string>

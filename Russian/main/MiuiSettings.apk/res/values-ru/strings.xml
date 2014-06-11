@@ -25,7 +25,7 @@
     <string name="lowmem">Управление памятью</string>
     <string name="lowmem_summary">Выберите режим управления памятью</string>
     <string name="fast_power_on_title">Быстрая загрузка</string>
-    <string name="fast_power_on_summary">Бключите, для быстрого включения телефона</string>
+    <string name="fast_power_on_summary">Включите, для быстрого включения телефона</string>
     <string name="project_menu_title">project menu</string>
     <string name="storage_enable_title">Использовать внешнюю SD карту</string>
     <string name="storage_enable_summary">Использовать внешнюю SD карту как основной накопитель (Необходима перезагрузка)</string>

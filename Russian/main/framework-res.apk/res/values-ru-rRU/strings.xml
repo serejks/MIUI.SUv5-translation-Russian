@@ -437,8 +437,8 @@
     <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1 для разблокировки PIN1.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Вы неправильно ввели PIN код %d раз(а). \n\n Новая попытка через %d сек.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Вы неправильно ввели графический ключ %d раз(а). После %d неудачных попыток Вам будет предложено разблокировать телефон с помощью аккаунта Google. \n\n Новая попытка через %d сек.</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (Число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (Число попыток: %d). Будут установлены настройки по умолчанию</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (число попыток: %d). Будут установлены настройки по умолчанию</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Новая попытка через %d сек.</string>
     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
@@ -1288,7 +1288,7 @@
     <string name="permdesc_readNetworkUsageHistory">Позволяет приложению читать журнал использования сетей.</string>
     <string name="permdesc_readPhoneState">Позволяет приложению считывать данные телефона. Приложение с таким разрешением может определять номер телефона и серийный номер устройства, наличие активного вызова, номер абонента и подобную информацию.</string>
     <string name="permdesc_readProfile">Позволяет приложению считывать информацию профиля. Вредоносные приложения могут использовать эту возможность для чтения личной информации.</string>
-    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM-карте.</string>
+    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM карте.</string>
     <string name="permdesc_readSocialStream">Позволяет приложению читать и синхронизировать новости от вас и ваших друзей. Вредоносные программы могут таким образом получить доступ к вашим личным записям в социальных сетях.</string>
     <string name="permdesc_readSyncSettings">Позволяет приложению считывать настройки синхронизации.</string>
     <string name="permdesc_readSyncStats">Позволяет приложению считывать статистику синхронизации, например историю произведенных синхронизаций.</string>
@@ -1665,15 +1665,15 @@
 	<string name="undo">Отмена</string>
 	<string name="wifi_on_vt_not_allowed_msg">Видеосвязь недоступна при включенном Wi-Fi</string>
 	<string name="wifi_p2p_pbc_go_negotiation_request_message">Чтобы принять запрос от устройства %1$s на соединение Wi-Fi Direct, нажмите кнопку \"ОК\"</string>
-    <string name="wifi_p2p_pin_display_message">Чтобы продолжить настройку подключения, введите PIN-код WPS %1$s на обнаруженном устройстве %2$s</string>
-    <string name="wifi_p2p_pin_go_negotiation_request_message">Чтобы продолжить настройку соединения с устройством %1$s через Wi-Fi Direct, введите PIN-код</string>
+    <string name="wifi_p2p_pin_display_message">Чтобы продолжить настройку подключения, введите PIN код WPS %1$s на обнаруженном устройстве %2$s</string>
+    <string name="wifi_p2p_pin_go_negotiation_request_message">Чтобы продолжить настройку соединения с устройством %1$s через Wi-Fi Direct, введите PIN код</string>
 	<string name="zzz_keyguard_password_attempt_count_pin_code">Осталось попыток: %1$d</string>
     <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
 	<string name="keyguard_password_entry_touch_hint">Ввести пароль</string>
 	<string name="candidates_style">Кандидаты</string>
-    <string name="sim_unavailable">SIM-карта отсутствует</string>
-    <string name="sim_locked">SIM-карта заблокирована</string>
-    <string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
+    <string name="sim_unavailable">SIM карта отсутствует</string>
+    <string name="sim_locked">SIM карта заблокирована</string>
+    <string name="sim_not_ready">SIM карта не готова. Попробуйте позже.</string>
     <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
     <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
     <string name="resolver_guide_title">Настройки по умолчанию</string>
@@ -1796,15 +1796,15 @@
     <string name="reason_service_unavailable">Служба печати не включен</string>
     <string name="print_service_installed_title">Служба установлена: %s</string>
     <string name="print_service_installed_message">Нажмите для включения</string>
-    <string name="restr_pin_enter_admin_pin">Введите PIN-код администратора</string>
-    <string name="restr_pin_enter_pin">Введите PIN-код</string>
-    <string name="restr_pin_incorrect">Неверный PIN-код</string>
-    <string name="restr_pin_enter_old_pin">Текущий PIN-код</string>
-    <string name="restr_pin_enter_new_pin">Новый PIN-код</string>
-    <string name="restr_pin_confirm_pin">Подтвердите новый PIN-код</string>
-    <string name="restr_pin_create_pin">Создание нового PIN-код для изменения ограничения</string>
-    <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повторите попытку</string>
-    <string name="restr_pin_error_too_short">PIN-код слишком короткий, должен содержать не менее 4 цифр.</string>
+    <string name="restr_pin_enter_admin_pin">Введите PIN код администратора</string>
+    <string name="restr_pin_enter_pin">Введите PIN код</string>
+    <string name="restr_pin_incorrect">Неверный PIN код</string>
+    <string name="restr_pin_enter_old_pin">Текущий PIN код</string>
+    <string name="restr_pin_enter_new_pin">Новый PIN код</string>
+    <string name="restr_pin_confirm_pin">Подтвердите новый PIN код</string>
+    <string name="restr_pin_create_pin">Создание нового PIN код для изменения ограничения</string>
+    <string name="restr_pin_error_doesnt_match">PIN коды не совпадают. Повторите попытку</string>
+    <string name="restr_pin_error_too_short">PIN код слишком короткий, должен содержать не менее 4 цифр.</string>
     <string name="restr_pin_try_later">Повторить позже</string>
     <string name="immersive_mode_confirmation">Проведите сверху вниз, чтобы выйти из полноэкранного режима.</string>
     <string name="webviewchromium_actionbar_share">Поделиться</string>

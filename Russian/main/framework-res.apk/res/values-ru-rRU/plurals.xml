@@ -92,8 +92,8 @@
         <item quantity="one">1 совпадение</item>
     </plurals>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">Осталось попыток до блокировки SIM-карты: %d.</item>
-        <item quantity="one">Осталось попыток до блокировки SIM-карты: %d.</item>
+        <item quantity="other">Осталось попыток до блокировки SIM карты: %d.</item>
+        <item quantity="one">Осталось попыток до блокировки SIM карты: %d.</item>
     </plurals>
     <plurals name="restr_pin_countdown">
         <item quantity="other">Повторите через %d сек.</item>

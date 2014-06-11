@@ -62,7 +62,7 @@
     <string name="saved_to_sim">Сохранено</string>
     <string name="sim_card_cloud">%s (облачное сообщение)</string>
     <string name="forward_from">От:</string>
-    <string name="add_slide_hint">Нажмите, чтобы добавить</string>
+    <string name="add_slide_hint">Нажмите чтобы добавить</string>
     <string name="discard_slideshow">Отменить слайдшоу</string>
     <string name="slide_show_part">Часть %1$s из %2$s</string>
     <string name="remove_text">Удалить текст</string>

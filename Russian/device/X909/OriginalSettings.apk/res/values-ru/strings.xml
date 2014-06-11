@@ -16,7 +16,7 @@
     <string name="ims_reg_required_off">Обязательная регистрация IMS отключена</string>
     <string name="lte_ram_dump_on">Очищать ОЗУ</string>
     <string name="lte_ram_dump_off">Не очищать ОЗУ</string>
-    <string name="radioInfo_menu_viewADN">Просмотреть адресную книгу на SIM-карте</string>
+    <string name="radioInfo_menu_viewADN">Просмотреть адресную книгу на SIM карте</string>
     <string name="radioInfo_menu_viewFDN">Просм. список разреш. номеров</string>
     <string name="radioInfo_menu_viewSDN">Просмотреть номера служебного набора</string>
     <string name="radioInfo_menu_getPDP">Получить список PDP</string>
@@ -291,16 +291,16 @@
     <string name="security_passwords_title">ПАРОЛЬ</string>
     <string name="crypt_keeper_settings_title">Шифрование</string>
     <string name="crypt_keeper_encrypt_title">Зашифровать данные</string>
-    <string name="crypt_keeper_encrypt_summary">Запрос числового PIN-кода или пароля для дешифрования при каждом включении телефона</string>
+    <string name="crypt_keeper_encrypt_summary">Запрос числового PIN кода или пароля для дешифрования при каждом включении телефона</string>
     <string name="crypt_keeper_encrypted_summary">Зашифровано</string>
-    <string name="crypt_keeper_desc">"Можно зашифровать данные различных типов: аккаунты, настройки, загруженные приложения и их контент, мультимедийные и другие файлы. После этого при каждом включении устройства потребуется вводить PIN-код или пароль. Шифрование снимается только путем сброса настроек, в результате которого удаляются все данные.
+    <string name="crypt_keeper_desc">"Можно зашифровать данные различных типов: аккаунты, настройки, загруженные приложения и их контент, мультимедийные и другие файлы. После этого при каждом включении устройства потребуется вводить PIN код или пароль. Шифрование снимается только путем сброса настроек, в результате которого удаляются все данные.
 
 Шифрование занимает не менее часа. Батарея должна быть полностью заряжена, а устройство подключено к источнику питания, пока шифрование не завершится. Если прервать его, данные на устройстве будут частично или полностью потеряны."</string>
     <string name="crypt_keeper_button_text">Зашифровать данные</string>
     <string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку.</string>
     <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку.</string>
-    <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
-    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана.</string>
+    <string name="crypt_keeper_dialog_need_password_title">Не указан PIN код или пароль блокировки экрана</string>
+    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN код или пароль блокировки экрана.</string>
     <string name="crypt_keeper_confirm_title">Выполнить шифрование?</string>
     <string name="crypt_keeper_final_desc">Если прервать шифрование, данные будут потеряны. Операция займет не менее часа, в течение которого устройство будет перезагружено несколько раз.</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
@@ -316,7 +316,7 @@
     <string name="backup_lock_settings_picker_title">Доп. способ блокировки</string>
     <string name="unlock_set_unlock_launch_picker_title">Блокировки экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN кода и пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
@@ -335,7 +335,7 @@
     <string name="unlock_set_unlock_mode_none">Слайдер</string>
     <string name="unlock_set_unlock_mode_biometric_weak">Фейсконтроль</string>
     <string name="unlock_set_unlock_mode_pattern">Графический ключ</string>
-    <string name="unlock_set_unlock_mode_pin">PIN-код</string>
+    <string name="unlock_set_unlock_mode_pin">PIN код</string>
     <string name="unlock_set_unlock_mode_password">Пароль</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
     <string name="unlock_disable_lock_pattern_summary">Удалить графический ключ разблокировки</string>
@@ -345,13 +345,13 @@
     <string name="unlock_change_lock_pin_title">Изменить ПИН-код разблокировки</string>
     <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
     <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
-    <string name="lockpassword_pin_too_short">PIN-код должен содержать не менее %d символов</string>
+    <string name="lockpassword_pin_too_short">PIN код должен содержать не менее %d символов</string>
     <string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
     <string name="lockpassword_continue_label">Продолжить</string>
     <string name="lockpassword_password_too_long">Пароль должен содержать не более%dсимв.</string>
-    <string name="lockpassword_pin_too_long">PIN-код должен содержать не более%dзн.</string>
-    <string name="lockpassword_pin_contains_non_digits">PIN-код должен состоять из цифр от 0 до 9.</string>
-    <string name="lockpassword_pin_recently_used">Использовать недавний PIN-код запрещено.</string>
+    <string name="lockpassword_pin_too_long">PIN код должен содержать не более%dзн.</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN код должен состоять из цифр от 0 до 9.</string>
+    <string name="lockpassword_pin_recently_used">Использовать недавний PIN код запрещено.</string>
     <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы.</string>
     <string name="lockpassword_password_requires_alpha">Пароль должен содержать хотя бы одну букву.</string>
     <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру.</string>
@@ -371,11 +371,11 @@
     <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
     <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
-    <string name="bluetooth_enter_pin_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>введите PIN-код:</string>
+    <string name="bluetooth_enter_pin_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>введите PIN код:</string>
     <string name="bluetooth_enter_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>введите пароль:</string>
-    <string name="bluetooth_enable_alphanumeric_pin">PIN-код содержит буквы или символы</string>
+    <string name="bluetooth_enable_alphanumeric_pin">PIN код содержит буквы или символы</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
-    <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
+    <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN код на другом устройстве.</string>
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
     <string name="bluetooth_incoming_pairing_msg">Запрос от: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Подключиться к этому устройству?</string>
@@ -383,7 +383,7 @@
     <string name="bluetooth_pairing_accept">Сопряжение</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
-    <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль.</string>
+    <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN код или пароль.</string>
     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$sне разрешает сопряжение.</string>
     <string name="bluetooth_connecting_error_message">Не удалось подключиться к%1$s.</string>
@@ -482,7 +482,7 @@
     <string name="wifi_add_network">Добавить сеть</string>
     <string name="wifi_access_points">Сети Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Кнопка WPS</string>
-    <string name="wifi_menu_wps_pin">Вход по PIN-коду WPS</string>
+    <string name="wifi_menu_wps_pin">Вход по PIN коду WPS</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Поиск</string>
     <string name="wifi_menu_advanced">Дополнительные функции</string>
@@ -498,7 +498,7 @@
     <string name="wifi_wps_setup_title">Безопасная настройка Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Запуск WPS…</string>
     <string name="wifi_wps_onstart_pbc">Нажмите кнопку \"Безопасная настройка Wi-Fi\" на своем маршрутизаторе. Она может называться WPS, а также содержать следующий символ:</string>
-    <string name="wifi_wps_onstart_pin">Введите PIN-код %1$ sна маршрутизаторе Wi-Fi. Для завершения настройки потребуется не более двух минут.</string>
+    <string name="wifi_wps_onstart_pin">Введите PIN код %1$ sна маршрутизаторе Wi-Fi. Для завершения настройки потребуется не более двух минут.</string>
     <string name="wifi_wps_complete">Ошибок нет. Подключение к сети…</string>
     <string name="wifi_wps_connected">Подключено к сети Wi-Fi%s</string>
     <string name="wifi_wps_in_progress">Выполняется настройка WPS. На завершение этого процесса потребуется не более двух минут.</string>
@@ -659,34 +659,34 @@
     <string name="automatic_brightness">Автояркость</string>
     <string name="title_font_size">Размер шрифта</string>
     <string name="dialog_title_font_size">Размер шрифта</string>
-    <string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
+    <string name="sim_lock_settings">Настройки блокировки SIM карты</string>
     <string name="sim_lock_settings_category">Настроить блокировку</string>
-    <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
-    <string name="sim_pin_toggle">Блокировка SIM-карты</string>
-    <string name="sim_lock_on">Для использования телефона необходим PIN-код</string>
-    <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
-    <string name="sim_pin_change">Изменение PIN SIM-карты</string>
-    <string name="sim_enter_pin">PIN-код SIM-карты</string>
-    <string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
-    <string name="sim_disable_sim_lock">Разблокировать SIM-карту</string>
-    <string name="sim_enter_old">Прежний PIN-код SIM-карты</string>
-    <string name="sim_enter_new">Новый PIN SIM-карты</string>
+    <string name="sim_lock_settings_title">Блокировка SIM карты</string>
+    <string name="sim_pin_toggle">Блокировка SIM карты</string>
+    <string name="sim_lock_on">Для использования телефона необходим PIN код</string>
+    <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN код</string>
+    <string name="sim_pin_change">Изменение PIN SIM карты</string>
+    <string name="sim_enter_pin">PIN код SIM карты</string>
+    <string name="sim_enable_sim_lock">Блокировка SIM карты</string>
+    <string name="sim_disable_sim_lock">Разблокировать SIM карту</string>
+    <string name="sim_enter_old">Прежний PIN код SIM карты</string>
+    <string name="sim_enter_new">Новый PIN SIM карты</string>
     <string name="sim_reenter_new">Введите новый PIN повторно</string>
-    <string name="sim_change_pin">PIN-код SIM-карты</string>
-    <string name="sim_bad_pin">Неверный PIN-код</string>
+    <string name="sim_change_pin">PIN код SIM карты</string>
+    <string name="sim_bad_pin">Неверный PIN код</string>
     <string name="sim_pins_dont_match">PIN коды не сравнивают</string>
-    <string name="sim_absent">SIM-карта не вставлена</string>
+    <string name="sim_absent">SIM карта не вставлена</string>
     <string name="sim_change_failed">"Не удается изменить PIN.
 Возможно, код введен неверно."</string>
-    <string name="sim_change_succeeded">PIN-код SIM-карты успешно изменен</string>
-    <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM-карты.
-Возможно, введен неверный PIN-код."</string>
+    <string name="sim_change_succeeded">PIN код SIM карты успешно изменен</string>
+    <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM карты.
+Возможно, введен неверный PIN код."</string>
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
-    <string name="sim_change_failed_enable_sim_lock">"Не изменяется PIN SIM-карты 
- Включите блокировку SIM-карты"</string>
-    <string name="sim_lock_change_not_supported">"Не изменяется блокировка SIM-карты.
- SIM-карта не поддерживает"</string>
+    <string name="sim_change_failed_enable_sim_lock">"Не изменяется PIN SIM карты 
+ Включите блокировку SIM карты"</string>
+    <string name="sim_lock_change_not_supported">"Не изменяется блокировка SIM карты.
+ SIM карта не поддерживает"</string>
     <string name="sim_pin_attempts">"
 Каличество попытки:"</string>
     <string name="sim_pin_enabled">PIN1 включен</string>
@@ -1336,7 +1336,7 @@
     <string name="credentials_erased">Хранилище регистрационных данных очищено.</string>
     <string name="credentials_not_erased">Не удалось очистить хранилище.</string>
     <string name="credentials_enabled">Хранилище регистрационных данных включено.</string>
-    <string name="credentials_configure_lock_screen_hint">Перед использованием хранилища учетных данных необходимо задать PIN-код или пароль блокировки экрана.</string>
+    <string name="credentials_configure_lock_screen_hint">Перед использованием хранилища учетных данных необходимо задать PIN код или пароль блокировки экрана.</string>
     <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
     <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
     <string name="privacy_settings">Восстановление и сброс</string>
@@ -1647,7 +1647,7 @@
     <string name="user_information_heading">Информация о пользователе</string>
     <string name="user_name_title">Имя</string>
     <string name="user_restrictions_heading">Ограничения на контент</string>
-    <string name="user_market_requires_pin">Требуется PIN-код</string>
+    <string name="user_market_requires_pin">Требуется PIN код</string>
     <string name="user_max_content_rating">Рейтинг контента</string>
     <string name="user_system_apps_heading">Системные приложения</string>
     <string name="user_market_apps_heading">Установленные приложения</string>
@@ -1746,7 +1746,7 @@
     <string name="nearme_persional_center">Персональный центр NearMe</string>
     <string name="nearme_cloud">NearMe cloud</string>
     <string name="oppo_security_settings_oppo_guarantee">Электронная гарантия</string>
-    <string name="oppo_sim_toolkit">Инструменты SIM-карты</string>
+    <string name="oppo_sim_toolkit">Инструменты SIM карты</string>
     <string name="oppo_after_service_info">Информация сервиса OPPO</string>
     <string name="restore_default_settings_title">Восстановить настройки по умолчанию</string>
     <string name="restore_default_settings_summary">Восстановить настройки по умолчанию и сохранить важные настройки</string>

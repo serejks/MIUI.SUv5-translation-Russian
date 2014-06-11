@@ -57,7 +57,7 @@
     <string name="detail_format">"Тип: "</string>
 	<string name="dirac_enabled">Dirac включен</string>
     <string name="dirac_disabled">Dirac выключен</string>
-	<string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
+	<string name="delete_file_from_sdcard">Удалить файлы с SD карты</string>
 	<string name="delete_item">Удалить</string>
 	<string name="delete_playlist_menu">Удалить</string>
 	<string name="delete_song_desc">Удалить выбранные треки? \n\n%s </string>
@@ -243,7 +243,7 @@
 	<string name="ringtone_not_support">Данный формат не поддерживается</string>
 	<string name="ringtone_set">Трек \"%s\" установлен на звонок</string>
 	<string name="save">Добавить</string>
-	<string name="scanning">Сканирование SD-карты…</string>
+	<string name="scanning">Сканирование SD карты…</string>
 	<string name="scanning_nosdcard">Сканирование USB накопителя…</string>
 	<string name="service_start_error_title">Ошибка воспроизведения</string>
 	<string name="service_start_error_msg">Невозможно воспроизвести трек</string>
@@ -252,11 +252,11 @@
     <string name="service_start_error_button">ОК</string>
 	<string name="screen_bright_wake">Не выключать экран</string>
 	<string name="screen_bright_wake_summary">Не выключать подсветку экрана во время воспроизведения музыки</string>
-	<string name="sdcard_busy_message">SD-карта используется</string>
+	<string name="sdcard_busy_message">SD карта используется</string>
 	<string name="sdcard_busy_message_nosdcard">USB накопитель используется</string>
-	<string name="sdcard_error_message">Ошибка доступа к SD-карте</string>
+	<string name="sdcard_error_message">Ошибка доступа к SD карте</string>
 	<string name="sdcard_error_message_nosdcard">Ошибка доступа к USB накопителю</string>
-	<string name="sdcard_missing_message">SD-карта отсутствует</string>
+	<string name="sdcard_missing_message">SD карта отсутствует</string>
 	<string name="sdcard_missing_message_nosdcard">USB накопитель отсутствует</string>
 	<string name="search_hint">Поиск музыки</string>
 	<string name="search_settings_description">Исполнители, альбомы и треки.</string>

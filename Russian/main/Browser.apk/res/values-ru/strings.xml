@@ -163,14 +163,14 @@
 	<string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
 	<string name="exit_browser_warning">Выйти из браузера?</string>
 	<string name="export_bookmark">Экспорт закладок</string>
-	<string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту!</string>
-	<string name="export_bookmark_sucess">Экспорт закладок на SD-карту завершeн!</string>
+	<string name="export_bookmark_failure">Не удалось экспортировать закладки на SD карту!</string>
+	<string name="export_bookmark_sucess">Экспорт закладок на SD карту завершeн!</string>
 	<string name="exported_bookmark_file_name">Избранное</string>
 	<string name="file_dir">Папка</string>
 	<string name="file_name">Имя</string>
 	<string name="file_picker">Обзор</string>
 	<string name="file_picker_new_folder">Новая папка</string>
-	<string name="file_picker_sdcard_not_found">SD-карта не подключена</string>
+	<string name="file_picker_sdcard_not_found">SD карта не подключена</string>
 	<string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
 	<string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
 	<string name="find_on_page">Найти на странице</string>
@@ -523,7 +523,7 @@
 	<string name="stop_loading">Остановить</string>
 	<string name="stopping">Остановка…</string>
 	<string name="storage_internal">Внутренняя память</string>
-	<string name="storage_sd_card">SD-карта</string>
+	<string name="storage_sd_card">SD карта</string>
 	<string name="storage_usb">USB накопитель</string>
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_closed">Вкладка закрыта</string>
@@ -594,7 +594,7 @@
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
     <string name="download_default_path_txt">Установить папку загрузок по умолчанию</string>
 	<string name="download_dialog_default_path_invalid">Неверный путь загрузки, будет использован путь по умолчанию.</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg">SD-карта отключена</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg">SD карта отключена</string>
     <string name="pref_file_download_save_title">Загрузка и сохранение файлов</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Сброс настроек</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию?</string>

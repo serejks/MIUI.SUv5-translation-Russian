@@ -68,7 +68,7 @@
     <string name="debug_version_fmt">Версия: %s</string>
     <string name="debug_enable_debug_logging_label">Включить журнал дополнительной отладки?</string>
     <string name="debug_enable_exchange_logging_label">Включить протоколирование анализатора exchange?</string>
-    <string name="debug_enable_exchange_file_logging_label">Включить обмен журнала SD-карты?</string>
+    <string name="debug_enable_exchange_file_logging_label">Включить обмен журнала SD карты?</string>
     <string name="debug_clear_webview_cache">Очистить кэш WebView</string>
     <string name="debug_disable_graphics_acceleration_label">Отключить аппаратное ускорение графики</string>
     <string name="debug_force_one_minute_refresh_label">Обновление в 1-минуту усилено для POP/IMAP</string>
@@ -497,7 +497,7 @@
     <string name="policy_app_whitelist">Разрешать выбранные приложения</string>
     <string name="policy_text_truncation">Ограничить размер сообщения электронной почты</string>
     <string name="policy_html_truncation">Ограничить размер сообщения почты HTML</string>
-    <string name="policy_require_sd_encryption">Требовать шифрование SD-карты</string>
+    <string name="policy_require_sd_encryption">Требовать шифрование SD карты</string>
     <string name="policy_dont_allow_attachments">Не разрешать использовать вложения</string>
     <string name="policy_max_attachment_size">Ограничивать размер вложения</string>
     <string name="policy_require_manual_sync_roaming">Разрешить только ручную синхронизацию при роуминге</string>
@@ -510,7 +510,7 @@
     <string name="menu_folder_options">Настройки синхронизации</string>
 	<string name="mailbox_name_display_starred">Избранные</string>
     <string name="debug_enable_verbose_logging_label">Включить подробную запись лога?</string>
-    <string name="debug_enable_file_logging_label">Включить запись лога SD-карты?</string>
+    <string name="debug_enable_file_logging_label">Включить запись лога SD карты?</string>
 	<string name="message_compose_insert_quick_response_menu_title">Вставить быстрый ответ</string>
 	<string name="account_setup_creating_account_msg">Авторизация аккаунта…</string>
 	<string name="account_setup_incoming_server_label">Сервер</string>
@@ -939,7 +939,7 @@
     <string name="upgrade_title">Обновление</string>
     <string name="download_complete_title">Загрузка завершена</string>
     <string name="no_enough_space">Недостаточно памяти</string>
-    <string name="no_sdcard">SD-карта отсутствует</string>
+    <string name="no_sdcard">SD карта отсутствует</string>
     <string name="download_complete_message">Загрузка завершена, нажмите для обновления.</string>
     <string name="file_size">Размер</string>
 	<string name="menu_resend_all">Отправить все</string>
@@ -951,7 +951,7 @@
 	<string name="xiaomi_update_dialog_title">%1$s обновлено</string>
     <string name="xiaomi_update_dialog_message">Доступная версия: %1$s \nРазмер: %2$s</string>
     <string name="xiaomi_update_dialog_message_diff">Доступная версия: %1$s \nРазмер Delta обновления: %2$s</string>
-    <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте состояние SD-карты.</string>
+    <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте состояние SD карты.</string>
     <string name="xiaomi_bytes_unit">%1$s б</string>
     <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
     <string name="xiaomi_megabytes_unit">%1$s Мб</string>

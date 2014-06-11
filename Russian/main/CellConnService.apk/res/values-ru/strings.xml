@@ -16,8 +16,8 @@
     <string name="confirm_fdn_title">FDN включен</string>
     <string name="confirm_fdn_msg">Функция разрешенных номеров включена.</string>
     <string name="confirm_roaming_title">Роуминг</string>
-    <string name="confirm_roaming_msg">SIM-карта которую вы используете сейчас в роуминговой зоне. Это может повлечь за собой большие расходы на связь. Продолжить?</string>
-    <string name="confirm_roaming_withPrefer_msg">SIM-карта которую вы используете сейчас в роуминговой зоне. Продолжить через локальную SIM карту?</string>
+    <string name="confirm_roaming_msg">SIM карта которую вы используете сейчас в роуминговой зоне. Это может повлечь за собой большие расходы на связь. Продолжить?</string>
+    <string name="confirm_roaming_withPrefer_msg">SIM карта которую вы используете сейчас в роуминговой зоне. Продолжить через локальную SIM карту?</string>
     <string name="confirm_roaming_lbutton">Продолжить</string>
     <string name="confirm_roaming_rbutton">Отменить</string>
     <string name="confirm_roamingWithPrefer_lbutton">Локальная SIM карта</string>
