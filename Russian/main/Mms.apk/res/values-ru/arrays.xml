@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="default_smiley_names">
-        <item>Радость</item>
+        <item>Радостный</item>
         <item>Грустный</item>
         <item>Подмигивает</item>
         <item>Показывает язык</item>
@@ -11,17 +11,17 @@
         <item>Крутой</item>
         <item>Не болтай попусту</item>
         <item>В замешательстве</item>
-        <item>Смущение</item>
+        <item>Смущенный</item>
         <item>Ангел</item>
         <item>Нерешительный</item>
         <item>Плачет</item>
         <item>Не скажу</item>
-        <item>Смех</item>
+        <item>Смеется</item>
         <item>Озадаченный</item>
         <item>Сердце</item>
         <item>Злой</item>
-        <item>Ухмылка</item>
-        <item>Невозмутимость</item>
+        <item>Ухмыляется</item>
+        <item>Невозмутимый</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 раз</item>
@@ -39,9 +39,9 @@
         <item>IM</item>
         <item>Интернет номер</item>
         <item>День рождения</item>
-        <item>Веб-сайт</item>
+        <item>Сайт</item>
         <item>Адрес</item>
-        <item>Примечания</item>
+        <item>Заметка</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Время получения</item>
