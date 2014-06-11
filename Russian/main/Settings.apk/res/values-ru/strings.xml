@@ -3941,9 +3941,9 @@ Android File Transfer
     <string name="miracast_menu_search">Поиск</string>
     <string name="miracast_menu_searching">Поиск</string>
     <string name="miracast_menu_teardown">Демонтаж</string>
-    <string name="miracast_menu_connect">Подключить</string>
-    <string name="miracast_menu_disconnect">Отключить</string>
-    <string name="miracast_menu_forget">Восстановить дисплей</string>
+    <string name="miracast_menu_connect">Запуск вещания</string>
+    <string name="miracast_menu_disconnect">Остановить вещание</string>
+    <string name="miracast_menu_forget">Забыть дисплей</string>
     <string name="miracast_menu_rename">Переименовать дисплей</string>
     <string name="miracast_setup_save">Сохранить</string>
     <string name="miracast_setup_cancel">Отмена</string>
@@ -3954,10 +3954,10 @@ Android File Transfer
     <string name="miracast_sink_connected">Подключено</string>
     <string name="miracast_sink_not_available">Недоступно</string>
     <string name="miracast_sink_connecting">Подключение…</string>
-    <string name="miracast_sink_ready_to_connect">Готово к использованию</string>
+    <string name="miracast_sink_ready_to_connect">Готов к использованию</string>
     <string name="miracast_sink_busy">Используется</string>
-    <string name="miracast_error_already_streaming">Дисплей уже подключен</string>
-    <string name="miracast_error_connection_in_progress">Подключение…</string>
+    <string name="miracast_error_already_streaming">Уже идет вещание на один дисплей</string>
+    <string name="miracast_error_connection_in_progress">Идет подключение. Подождите.</string>
     <string name="miracast_cancelconnect_dialog">Отмена подключения</string>
     <string name="miracast_error_cancelconnect">Подключение уже используется</string>
     <string name="miracast_search_for_displays">Поиск беспроводных дисплеев…</string>
