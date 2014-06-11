@@ -815,4 +815,17 @@
     <string name="miuichromium_error_page_reason_server">Браузер не может загрузить страницу</string>
     <string name="miuichromium_error_page_reload">Обновить</string>
     <string name="miuichromium_error_page_url">Показать URL страницы</string>
+    <string name="webapp_add_to_favorite_toast">Добавить в верх избранного</string>
+    <string name="webapp_webapp_favortes_title">Избранное</string>
+    <string name="webapp_menu_addtodesk">Добавить на рабочий стол</string>
+    <string name="webapp_menu_already_addtodesk">Уже добавлено на рабочий стол</string>
+    <string name="webapp_menu_share">Отправить</string>
+    <string name="webapp_menu_settings">Настройки</string>
+    <string name="webapp_menu_nightmode">Ночной режим</string>
+    <string name="webapp_menu_favorites">Избранное</string>
+    <string name="webapp_menu_exit">Выход</string>
+    <string name="webapp_settings_title">Настройки</string>
+    <string name="pref_webapp_settings_fontsize">Размер шрифта</string>
+    <string name="pref_webapp_settings_savewidth">2G/3G не загружает изображения</string>
+    <string name="pref_webapp_settings_hidebottombar">Всегда прятать нижнюю панель</string>
 </resources>
