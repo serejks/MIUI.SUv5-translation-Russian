@@ -723,11 +723,11 @@
     <string name="sync_item_browser_title">Синхронизация данных</string>
     <string name="sync_item_browser_summary">Синхронизировать данные браузера.</string>
     <string name="sub_sync_item_browser_title_history">История</string>
-    <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю браузера.</string>
+    <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю браузера</string>
     <string name="sub_sync_item_browser_title_novel">Книги</string>
-    <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера.</string>
+    <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Вкладки</string>
-    <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизации открытых вкладок браузера.</string>
+    <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки браузера</string>
     <string name="actionbar_share">Поделиться</string>
     <string name="actionbar_web_search">Поиск</string>
     <string name="accessibility_content_view">Просмотр</string>
@@ -828,4 +828,12 @@
     <string name="pref_webapp_settings_fontsize">Размер шрифта</string>
     <string name="pref_webapp_settings_savewidth">2G/3G не загружает изображения</string>
     <string name="pref_webapp_settings_hidebottombar">Всегда прятать нижнюю панель</string>
+    <string name="sub_sync_item_browser_title_webapp">Вэб приложения</string>
+    <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения и избранное</string>
+    <string name="loading_tips">Потяните вниз, чтобы обновить</string>
+    <string name="up_to_loading_tips">Отпустите, чтобы обновить</string>
+    <string name="cloud_loading_tips">Потяните вниз, чтобы синхронизировать</string>
+    <string name="cloud_up_to_loading_tips">Отпустите, чтобы синхронизировать</string>
+    <string name="cloud_time_tips">Последняя синхронизация</string>
+    <string name="cloud_no_new_data_toast">Нет новых данных, повторите позже</string>
 </resources>
