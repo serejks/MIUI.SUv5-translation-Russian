@@ -4370,5 +4370,6 @@ Android File Transfer
     <string name="google_backup_section_title">Бэкап Google</string>
     <string name="system_backup_section_title">Бэкап системы</string>
     <string name="local_backup_section_title">Локальный бэкап</string>
-    <string name="local_backup_section_summary">Резервные копии данных</string>
+    <string name="local_backup_section_summary">Резервное копирование данных</string>
+	<string name="bluetooth_device_address">Адрес устройства:</string>
 </resources>
