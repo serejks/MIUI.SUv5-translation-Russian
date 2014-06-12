@@ -391,8 +391,8 @@
     <string-array name="touch_key_light_entries">
         <item>1,5 секунды</item>
         <item>6 секунд</item>
-        <item>Всегда выкл.</item>
-        <item>Всегда вкл.</item>
+        <item>Всегда выключена</item>
+        <item>Всегда включена</item>
     </string-array>
     <string-array name="clock_position_entries">
         <item>Вверxу</item>

@@ -435,8 +435,8 @@
     <string name="miui_copyright">Jeejen осуществляет тех. поддержку</string>
     <string name="miss_hint_format">%1$s входящих (звонил %2$s)</string>
     <string name="miss_hint_format_2">%1$s входящий</string>
-    <string name="status_bar_hint">Статусбар</string>
-    <string name="status_bar_expansion">Открытие статусбара</string>
+    <string name="status_bar_hint">Статус бар</string>
+    <string name="status_bar_expansion">Открытие статус бара</string>
     <string name="desk_vertical_hint">Слайд вниз или вверх для перелистывания страниц</string>
     <string name="desk_show_direction">Слайд</string>
     <string name="vertical">Вертикальный</string>

@@ -3357,7 +3357,7 @@ Android File Transfer
     <string name="power_settings_category_title">Индикатор батареи</string>
     <string name="power_settings_shape">Графический</string>
     <string name="power_settings_number">Процентный</string>
-    <string name="power_settings_top">Полоса в статусбаре</string>
+    <string name="power_settings_top">Полоса в статус баре</string>
 	<string name="perm_su_enable_summary">Приложения с ROOT доступом</string>
 	<string name="perm_mian_name">Разрешения</string>
     <string name="perm_manage_tab_title">Разрешения</string>

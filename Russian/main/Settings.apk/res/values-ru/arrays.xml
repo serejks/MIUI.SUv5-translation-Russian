@@ -20,13 +20,13 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 сек.</item>
-        <item>30 сек.</item>
-        <item>1 мин.</item>
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>10 мин.</item>
-        <item>30 мин.</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
@@ -191,7 +191,7 @@
     <string-array name="silent_mode_entries">
         <item>Выкл</item>
         <item>Вибросигнал</item>
-        <item>Вкл.</item>
+        <item>Включен</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>

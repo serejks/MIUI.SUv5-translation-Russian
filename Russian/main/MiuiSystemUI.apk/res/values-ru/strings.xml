@@ -214,7 +214,7 @@
     <string name="settings_toggle_position_divider_list">Переключатели выше отображаются</string>
     <string name="settings_toggle_position_reset">Упорядочить по умолчанию</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
-    <string name="settings_notification_icon">Уведомления в статусбаре</string>
+    <string name="settings_notification_icon">Уведомления в статус баре</string>
     <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
     <string name="settings_show_network_speed">Скорость сети</string>
     <string name="settings_expanded_view">Панель уведомлений</string>
@@ -231,12 +231,12 @@
     <string name="notification_icon_filter_mode">Режим контроля</string>
     <string name="notification_icon_filter_mode_black_list">Черный список</string>
     <string name="notification_icon_filter_mode_white_list">Белый список</string>
-    <string name="notification_icon_filter_show">Показывать уведомления в статусбаре</string>
-    <string name="notification_icon_filter_hide">Не показывать уведомления в статусбаре</string>
+    <string name="notification_icon_filter_show">Показывать уведомления в статус баре</string>
+    <string name="notification_icon_filter_hide">Не показывать уведомления в статус баре</string>
     <string name="notification_icon_filter_list_empty_summary">Текущий список пуст</string>
     <string name="notification_icon_filter_other_list">Список приложений</string>
-    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения в статусбаре</string>
-    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения в статусбаре</string>
+    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения в статус баре</string>
+    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения в статус баре</string>
     <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
     <string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
     <string name="notification_otg_keyboard_in">Клавиатура подключена</string>

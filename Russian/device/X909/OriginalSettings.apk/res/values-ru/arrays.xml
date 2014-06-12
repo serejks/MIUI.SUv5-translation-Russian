@@ -10,34 +10,34 @@
         <item>Все</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 сек</item>
-        <item>30 сек</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 сек</item>
-        <item>30 сек</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 мин</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
-        <item>5 сек</item>
-        <item>15 сек</item>
-        <item>30 сек</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
         <item>5 минут</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
@@ -111,9 +111,9 @@
         <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>1 ч.</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -165,7 +165,7 @@
         <item>Вручную</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Выкл.</item>
+        <item>Выключено</item>
         <item>Оповещение</item>
         <item>Виброзвонок</item>
     </string-array>

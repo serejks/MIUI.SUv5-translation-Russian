@@ -828,7 +828,7 @@
 	<string name="call_log_number_limit_key_title">Максимум</string>
 	<string name="call_log_number_limit_title">Установка размера хранилища журнала вызовов</string>
 	<string name="call_record_setting_miui">Настройки записи</string>
-	<string name="call_recording_notification_summary_miui">Показывать уведомление в статусбаре во время записи</string>
+	<string name="call_recording_notification_summary_miui">Показывать уведомление в статус баре во время записи</string>
 	<string name="call_recording_notification_title_miui">Уведомление записи</string>
 	<string name="call_recording_prompt_miui">Идет запись вызова</string>
 	<string name="call_record_button_label">Запись %s</string>

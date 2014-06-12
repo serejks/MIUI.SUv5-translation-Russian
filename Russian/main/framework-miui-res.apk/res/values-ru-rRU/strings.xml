@@ -325,8 +325,8 @@
 	<string name="perm_payment_lab">Сервис оплаты Xiaomi</string>
 	<string name="perm_send_push_dspt">Позволяет отправлять Xiaomi push-сообщения</string>
 	<string name="perm_send_push_lab">Отправка push-сообщений</string>
-	<string name="perm_tigger_toggle_dspt">Разрешает приложениям управлять переключателями в статусбаре</string>
-	<string name="perm_tigger_toggle_lab">Управление переключателями в статусбаре</string>
+	<string name="perm_tigger_toggle_dspt">Разрешает приложениям управлять переключателями в статус баре</string>
+	<string name="perm_tigger_toggle_lab">Управление переключателями в статус баре</string>
 	<string name="perm_use_find_device">Поиск устройства</string>
 	<string name="permdesc_accessNote">Вредоносные приложения могут использовать это, чтобы получить доступ к вашей личной информации.</string>
 	<string name="permlab_accessNote">Доступ к заметкам</string>
@@ -448,7 +448,7 @@
     <string name="shutdown_confirm_title">Телефон будет выключен</string>
     <string name="reboot_confirm_title">Телефон будет перезагружен</string>
 	<string name="err_resource_leak">\"%1$s\" было остановлено.</string>
-	<string name="app_notificaiton_on_statusBar_and_notificationBar">Статусбар, панель уведомлений</string>
+	<string name="app_notificaiton_on_statusBar_and_notificationBar">Статус бар, панель уведомлений</string>
     <string name="app_no_notification">Скрыть уведомления</string>
     <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
 	<string name="volume_ring_description">Мелодия и уведомления</string>
