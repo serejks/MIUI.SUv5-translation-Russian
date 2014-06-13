@@ -567,4 +567,16 @@
 	<string name="quick_reply">Ответить</string>
     <string name="sp_category_all">Все сервисные сообщения</string>
     <string name="sp_category_bank">Все банковские сообщения</string>
+	<string name="app_name">Управление устройством</string>
+    <string name="manage_permission_app_label">Разрешения управления устройством</string>
+    <string name="send_message_dlg_title">Управление устройством</string>
+    <string name="send_message_dlg_check_hint">Запомнить</string>
+    <string name="send_message_dlg_mgs">Ваше устройство необходимо зарегистрировать на платформе управления устройством для предоставления бесплатных сервисов CMCC. Для регистрации будет отправлена SMS активации. Продолжить?</string>
+    <string name="confirm_dlg_title">Управление устройством</string>
+    <string name="confirm_dlg__msg">Отменить регистрацию?</string>
+    <string name="alert_dlg_ok_button">ОК</string>
+    <string name="alert_dlg_cancel_button">Отмена</string>
+    <string name="send_message_notification_tickerText">Запрос разрешения управления устройством</string>
+    <string name="send_message_notification_title">Управление устройством</string>
+    <string name="send_message_notification_msg">Управление устройством запрашивает разрешение на отправку сообщения</string>
 </resources>
