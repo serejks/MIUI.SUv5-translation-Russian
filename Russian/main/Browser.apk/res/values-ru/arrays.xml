@@ -74,7 +74,7 @@
         <item>Огромный</item>
      </string-array>
      <string-array name="pref_volume_key_choices">
-        <item>Прокрутка страницы</item>
+        <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
      </string-array>
 	 <string-array name="google">

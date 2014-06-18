@@ -138,7 +138,7 @@
 	<string name="download_complete">Загрузка завершена</string>
 	<string name="download_dialog_file_length_hint_txt">Размер файла:</string>
 	<string name="download_dialog_file_length_lessthan1kb">менее 1 Кб</string>
-	<string name="download_dialog_file_length_nolength_error_txt">неизвестно</string>
+	<string name="download_dialog_file_length_nolength_error_txt">Загрузка не удалась</string>
 	<string name="download_dialog_file_length_nolength_txt">Загрузка…</string>
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB накопитель.</string>
@@ -184,7 +184,7 @@
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
 	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы изменить параметры, выберите Настройки > Дополнительно > Данные веб-сайтов.</string>
-	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы изменить параметры, выберите Настройки > Дополнительно > Данные веб-сайтов.</string>
+	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении</string>
 	<string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
 	<string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
 	<string name="geolocation_settings_page_dialog_ok_button">ОК</string>
@@ -245,9 +245,9 @@
 	<string name="menu_view_download">Загрузки</string>
 	<string name="move_to_up_folder">Вернуться</string>
 	<string name="clear_search_history">Очистить историю</string>
-	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте для закрытия</string>
+	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте вверх для закрытия</string>
 	<string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиньте вниз для закрытия</string>
-	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Все вкладки уже закрыты</string>
+	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Это последняя вкладка</string>
 	<string name="bookmark_folder_needs_title">Введите имя папки</string>	
 	<string name="multi_select_title">Выбрано: %1$s</string>
 	<string name="name">Ярлык</string>
@@ -589,11 +589,12 @@
     <string name="common_use_phrase_bottom_bar_up_analytic_txt">Развернуть</string>
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
     <string name="download_default_path_txt">Установить папку загрузок по умолчанию</string>
-	<string name="download_dialog_default_path_invalid">Неверный путь загрузки, будет использован путь по умолчанию.</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg">SD карта отключена</string>
-    <string name="pref_file_download_save_title">Загрузка и сохранение файлов</string>
+	<string name="download_dialog_default_path_invalid">Неверный путь загрузки, будет использован путь по умолчанию</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg" product="nosdcard">Требуется USB накопитель для изменения пути</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg" product="default">Требуется SD карта для изменения пути</string>
+    <string name="pref_file_download_save_title">Загрузка</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Сброс настроек</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию?</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию</string>
     <string name="pref_file_download_save_modify_default_path">Папка загрузок</string>
 	<string name="already_in_top_level">Эта закладка уже наверху</string>
 	<string name="webapp_app_name">Веб маркет приложений</string>
@@ -710,14 +711,14 @@
     <string name="error_wifi_state_enabled">Включено</string>
 	<string name="error_wifi_state_disable">Отключено</string>
 	<string name="save_image_success">Изображение сохранено</string>
-    <string name="save_image_failed">Ошибка сохранения изображения</string>
+    <string name="save_image_failed">Не удалось сохранить изображение</string>
     <string name="pref_version_summary">Версия: %s</string>
     <string name="pref_category_title_version">Версия</string>
     <string name="js_disable_confirm_title">Отключить JavaScript?</string>
-    <string name="js_disable_confirm_message">При отключении JavaScript некоторые сайты могут отображаться некорректно.</string>
+    <string name="js_disable_confirm_message">При отключении JavaScript некоторые сайты могут отображаться некорректно</string>
     <string name="cloud_tab">Облако</string>
     <string name="sync_item_browser_title">Синхронизация данных</string>
-    <string name="sync_item_browser_summary">Синхронизировать данные браузера.</string>
+    <string name="sync_item_browser_summary">Синхронизировать данные браузера</string>
     <string name="sub_sync_item_browser_title_history">История</string>
     <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю браузера</string>
     <string name="sub_sync_item_browser_title_novel">Книги</string>
@@ -826,11 +827,11 @@
     <string name="pref_webapp_settings_hidebottombar">Всегда прятать нижнюю панель</string>
     <string name="sub_sync_item_browser_title_webapp">Вэб приложения</string>
     <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения и избранное</string>
-    <string name="loading_tips">Потяните вниз, чтобы обновить</string>
-    <string name="up_to_loading_tips">Отпустите, чтобы обновить</string>
-    <string name="cloud_loading_tips">Потяните вниз, чтобы синхронизировать</string>
-    <string name="cloud_up_to_loading_tips">Отпустите, чтобы синхронизировать</string>
+    <string name="loading_tips">Потяните вниз чтобы обновить</string>
+    <string name="up_to_loading_tips">Отпустите чтобы обновить</string>
+    <string name="cloud_loading_tips">Потяните вниз чтобы синхронизировать</string>
+    <string name="cloud_up_to_loading_tips">Отпустите чтобы синхронизировать</string>
     <string name="cloud_time_tips">Последняя синхронизация</string>
     <string name="cloud_no_new_data_toast">Нет новых данных</string>
-	<string name="pref_content_brightness_setting">Настройки подсветки</string>
+	<string name="pref_content_brightness_setting">Настройка яркости</string>
 </resources>

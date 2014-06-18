@@ -878,10 +878,10 @@
     <string name="validation_failed_prompt">Проверка не завершена, установите сервер %s</string>
     <string name="search_result">"Результаты поиска: "</string>
     <string name="not_subject">(Нет темы)</string>
-    <string name="pull_to_refresh">Потяните вниз, чтобы обновить</string>
-    <string name="release_to_refresh">Отпустите, чтобы обновить</string>
+    <string name="pull_to_refresh">Потяните вниз чтобы обновить</string>
+    <string name="release_to_refresh">Отпустите чтобы обновить</string>
     <string name="refreshing">Обновление…</string>
-    <string name="not_updated_yet">Потяните вниз, чтобы обновить</string>
+    <string name="not_updated_yet">Потяните вниз чтобы обновить</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="updated_just_now">Только что обновлено</string>
     <string name="time_error">Ошибка времени</string>

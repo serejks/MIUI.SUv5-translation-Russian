@@ -339,7 +339,7 @@
     <string name="my_bakup_video">Видео</string>
     <string name="my_bakup_music">Музыка</string>
     <string name="my_bakup_doc">Документы</string>
-    <string name="my_bakup_other">Другие</string>
+    <string name="my_bakup_other">Прочее</string>
     <string name="share_box">Переданные</string>
     <string name="share_box_send">Отправленные</string>
     <string name="share_box_receive">Принятые</string>

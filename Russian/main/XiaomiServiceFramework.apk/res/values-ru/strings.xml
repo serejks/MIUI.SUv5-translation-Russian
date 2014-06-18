@@ -530,8 +530,8 @@
     <string name="activate_popup_title_failed_query_info">Ошибка активации</string>
     <string name="activate_popup_desc_failed_query_info">Не удается получить номер телефона. Убедитесь, что ваша SIM карта обслуживается.</string>
     <string name="activate_popup_confirm_failed_query_info">Повтор</string>
-    <string name="activate_popup_title_failed_server">Ошибка активации</string>
-    <string name="activate_popup_desc_failed_server">Ошибка сервера. Проверьте параметры сети.</string>
+    <string name="activate_popup_title_failed_server">Ошибка сервера</string>
+    <string name="activate_popup_desc_failed_server">Проверьте подключение к сети и повторите еще раз.</string>
     <string name="activate_popup_confirm_failed_server">Повтор</string>
     <string name="activate_popup_title_failed_receive_sms">Ошибка активации</string>
     <string name="activate_popup_desc_failed_receive_sms">Введен неверный номер. Убедитесь, что ваша SIM карта обслуживается.</string>

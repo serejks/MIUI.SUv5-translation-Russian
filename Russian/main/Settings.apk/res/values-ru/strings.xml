@@ -96,7 +96,7 @@
     <string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
     <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование Bluetooth, когда экран заблокирован</string>
     <string name="bluetooth_devices">Устройства Bluetooth</string>
-    <string name="bluetooth_device_name">Имя устройства</string>
+    <string name="bluetooth_device_name">Имя устройства:</string>
     <string name="bluetooth_device_details">Настройки устройства</string>
     <string name="bluetooth_profile_details">Настройки профиля</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
@@ -525,7 +525,7 @@
     <string name="wifi_menu_connect">Подключиться к сети</string>
     <string name="wifi_menu_forget">Забыть сеть</string>
     <string name="wifi_menu_modify">Изменить сеть</string>
-    <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите Wi-Fi.</string>
+    <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Поиск сетей Wi-Fi…</string>
     <string name="wifi_other_network">Прочие сети…</string>
     <string name="wifi_more">Дополнительно</string>
@@ -4342,7 +4342,7 @@ Android File Transfer
     <string name="bluetooth_unlock_title">Разблокировка Bluetooth устройством</string>
     <string name="bluetooth_unlock_turned_off">Выключено</string>
     <string name="bluetooth_unlock_turned_on">Включено</string>
-    <string name="bluetooth_unlock_settings_toggle_title">Доступные устройства</string>
+    <string name="bluetooth_unlock_settings_toggle_title">Применить к</string>
     <string name="bluetooth_unlock_settings_unlock_device">Разблокировка экрана</string>
     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
@@ -4351,7 +4351,7 @@ Android File Transfer
     <string name="bluetooth_unlock_delete_device">Удалить устройство</string>
     <string name="bluetooth_unlock_confirm_device_text">Нажмите на устройство для подтверждения</string>
     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки экрана</string>
-    <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить выбранное устройство</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить выбранное устройство?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Заменить старое устройство на новое?</string>
 	<string name="wifi_type_approval_title">Подтверждение типа</string>
 	<string name="manage_xiaomi_router">Управление роутером Xiaomi</string>
@@ -4367,9 +4367,9 @@ Android File Transfer
     <string name="modem_tool_log_stop_toast">Остановить запись отчета модема из %s</string>
 	<string name="app_feedback">Отчеты</string>
     <string name="app_backup">Бэкап</string>
-    <string name="google_backup_section_title">Бэкап Google</string>
+    <string name="google_backup_section_title">Бэкап и восстановление Google</string>
     <string name="system_backup_section_title">Бэкап системы</string>
     <string name="local_backup_section_title">Локальный бэкап</string>
-    <string name="local_backup_section_summary">Резервное копирование данных</string>
+    <string name="local_backup_section_summary">Бэкап настроек системы, аккаунта и приложений</string>
 	<string name="bluetooth_device_address">Адрес устройства:</string>
 </resources>

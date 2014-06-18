@@ -993,13 +993,13 @@
     <string name="pref_camera_coloreffect_entry_planet">Спираль</string>
     <string name="pref_camera_coloreffect_entry_mirror">Зеркало</string>
     <string name="pref_camera_coloreffect_entry_gaussianblur">Размытие</string>
-	<string name="pref_camera_ubi_focus_title">Ubi-фокус</string>
+	<string name="pref_camera_ubi_focus_title">Перефокусировка</string>
     <string name="pref_camera_opti_zoom_title">Opti-приближение</string>
     <string name="pref_camera_chroma_flash_title">Chroma-вспышка</string>
-    <string name="simple_mode_button_text_ubi_focus">Отключить режим Ubi-фокус</string>
+    <string name="simple_mode_button_text_ubi_focus">Отключить режим перефокусировки</string>
     <string name="simple_mode_button_text_chroma_flash">Отключить режим Chroma-вспышки</string>
     <string name="simple_mode_button_text_opti_zoom">Отключить режим Opti-приближения</string>
-    <string name="ubi_focus_exit_button_text">Отключить режим Ubi-фокус</string>
+    <string name="ubi_focus_exit_button_text">Отключить режим перефокусировки</string>
     <string name="chroma_flash_exit_button_text">Отключить режим Chroma-вспышки</string>
     <string name="opti_zoom_exit_button_text">Отключить режим Opti-приближения</string>
     <string name="pref_camera_auto_opti_zoom_title">Использовать Opti-приближение, когда коофициент больше 2.</string>

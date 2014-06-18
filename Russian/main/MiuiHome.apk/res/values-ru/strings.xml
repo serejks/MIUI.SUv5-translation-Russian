@@ -22,9 +22,9 @@
 	<string name="default_folder_title_tools">Инструменты</string>
 	<string name="edit_folder_title">Редактирование папки</string>
 	<string name="editing_tips">Режим редактирования</string>
-	<string name="emptyplaylist">Плейлист пуст</string>
+	<string name="emptyplaylist">Нажмите для добавления песен</string>
 	<string name="encryption">Шифрование</string>
-	<string name="failed_to_delete_temporary">Ошибка удаления</string>
+	<string name="failed_to_delete_temporary">Не удалось удалить</string>
 	<string name="failed_to_drop">Не удалось переместить</string>
 	<string name="failed_to_drop_widget_invalid">Недопустимый виджет</string>
 	<string name="failed_to_drop_widget_nospace">Нет свободного места</string>
@@ -41,14 +41,14 @@
 	<string name="free_style_edit_tab_free_component">Компоненты</string>
 	<string name="free_style_edit_tab_shortcut">Ярлыки</string>
 	<string name="free_style_edit_tab_widget">Виджеты</string>
-	<string name="free_style_enter_tip">Проведите двумя пальцами вниз, чтобы перейти к рабочему столу MiSpace.</string>
-	<string name="free_style_exit_tip">Проведите двумя пальцами вверх, чтобы выйти из рабочего стола MiSpace.</string>
+	<string name="free_style_enter_tip">Свайп двумя пальцами вниз, чтобы перейти к рабочему столу MiSpace.</string>
+	<string name="free_style_exit_tip">Свайп двумя пальцами вверх, чтобы выйти из рабочего стола MiSpace.</string>
 	<string name="free_style_londing_text">Загрузка…</string>
 	<string name="gadget_clear_button_label">Очистка ОЗУ</string>
 	<string name="gadget_clock_12_label">Часы 1x2</string>
 	<string name="gadget_clock_22_label">Часы 2x2</string>
 	<string name="gadget_clock_24_label">Часы 2x4</string>
-	<string name="gadget_error_text">Проблема загрузки виджета</string>
+	<string name="gadget_error_text">Не удалось загрузить виджет</string>
 	<string name="gadget_google_search_label">Поиск Google</string>
 	<string name="gadget_load_error">Ошибка загрузки виджета…</string>
 	<string name="gadget_photo_22_label">Рамка 2x2</string>
@@ -190,7 +190,7 @@
 	<string name="widget_favorite_contacts_style">Размер</string>
 	<string name="widget_gadget_player">Музыка</string>
 	<string name="widget_global_search">Поиск</string>
-	<string name="multi_selecting_tips">Нажмите на иконки</string>
+	<string name="multi_selecting_tips">Для выбора приложения нажмите на иконку</string>
     <string name="editing_add_widget_tips">Виджеты</string>
     <string name="editing_set_wallpaper_tips">Обои</string>
     <string name="editing_set_transition_effect_tips">Эффекты переходов</string>
@@ -204,6 +204,6 @@
 	<string name="current_wallpaper">Выбранные</string>
 	<string name="apply_as_lock_wallpaper">ОК</string>
 	<string name="apply_as_lock_wallpaper_message">Применить выбранные обои на экран блокировки тоже?</string>
-	<string name="lock_screen_failed_message">Ошибка применения</string>
+	<string name="lock_screen_failed_message">Не удалось применить</string>
 	<string name="lock_screen_success_message">Применено</string>
 </resources>

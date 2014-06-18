@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Синхронизация Xiaomi</string>
+    <string name="app_name">Синхронизация Mi Cloud</string>
     <string name="sync_item_sms_title">Синхронизация сообщений</string>
     <string name="sync_item_sms_summary">Синхронизация сообщений между устройствами</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS только по Wi-Fi</string>
