@@ -64,13 +64,13 @@
 	<string name="deselect_all">Отмена</string>
 	<string name="download">Загрузить</string>
 	<string name="download_album_settings">Загрузка обложек</string>
-	<string name="download_album_summary">Автоматическая загрузка обложек через мобильный интернет</string>
+	<string name="download_album_summary">Автозагрузка обложек через мобильный интернет</string>
 	<string name="download_all_album">Загрузить обложки</string>
 	<string name="download_all_avatar">Загрузить аватары исполнителя</string>
 	<string name="download_all_track">Загрузить все треки</string>
 	<string name="download_batch_start">Загрузить все</string>
 	<string name="download_lyric_settings">Загрузка текстов</string>
-	<string name="download_lyric_summary">Автоматическая загрузка текстов песен через мобильный интернет</string>
+	<string name="download_lyric_summary">Автозагрузка текстов песен через мобильный интернет</string>
 	<string name="download_processing">Загрузка</string>
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
 	<string name="emptyplaylist">Плейлист пуст</string>
@@ -133,7 +133,7 @@
 	<string name="lyric_and_album">Текст и обложка</string>
 	<string name="lyric_display_settings">Показывать тексты</string>
 	<string name="lyric_display_summary">Показывать тексты песен на экране проигрывателя</string>
-	<string name="lyric_download">Загрузка текста песни</string>
+	<string name="lyric_download">Загрузка теста песни</string>
 	<string name="lyric_open_other_connect">Загрузка текстов через мобильный интернет отключена</string>
 	<string name="lyric_picker_not_found">Файловый менеджер не найден</string>
 	<string name="mediaplaybacklabel">Музыка</string>
@@ -289,8 +289,8 @@
 	<string name="enter_sleep_mode">Таймер сна</string>
 	<string name="unknown_album_name">Неизвестный альбом</string>
 	<string name="unknown_artist_name">Неизвестный исполнитель</string>
-	<string name="use_local_album">Присвоение обложки альбома</string>
-	<string name="use_local_lyric">Присвоение текста песни</string>
+	<string name="use_local_album">Использовать локальную обложку</string>
+	<string name="use_local_lyric">Использовать локальный текст</string>
 	<string name="spectrogram_display_settings">Отображать спектрограмму</string>
 	<string name="spectrogram_display_summary">Может негативно влиять на производительность</string>
 	<string name="account_setting">Аккаунт</string>

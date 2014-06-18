@@ -32,9 +32,9 @@
     <string name="not_login">Вход</string>
     <string name="mobile_connect_settings">Мобильная сеть</string>
     <string name="download_album_settings">Загружать изображения</string>
-    <string name="download_album_summary">Увеличится объем загружаемых данных.</string>
+    <string name="download_album_summary">Автозагрузка обложек через мобильный интернет</string>
     <string name="download_lyric_settings">Загружать тексты песен</string>
-    <string name="download_lyric_summary">Не сильно повлияет на объем загружаемых данных.</string>
+    <string name="download_lyric_summary">Автозагрузка текстов песен через мобильный интернет</string>
     <string name="listen_to_music_online_settings">Слушать онлайн Baidu</string>
     <string name="listen_to_online_summary">Увеличится объем загружаемых данных</string>
     <string name="load_album_artist_failed">Ошибка загрузки альбома и списка исполнителей.</string>
@@ -167,9 +167,9 @@
     <string name="music_open_other_connect">Загрузка музыки через мобильную сеть</string>
     <string name="modify_meta">Изменить информацию о треке</string>
     <string name="id3_edit">Изменить ID3 теги</string>
-    <string name="lyric_download">Загрузить текст трека</string>
+    <string name="lyric_download">Загрузка теста песни</string>
     <string name="use_local_lyric">Использовать локальный текст</string>
-    <string name="album_download">Загрузить обложку</string>
+    <string name="album_download">Загрузка обложки альбома</string>
     <string name="use_local_album">Использовать локальную обложку</string>
     <string name="lyric_picker_not_found">Не найден файловый менеджер</string>
     <string name="lrc_select">Выбрать текст трека</string>
