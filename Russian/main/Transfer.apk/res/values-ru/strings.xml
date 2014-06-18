@@ -106,7 +106,7 @@
     <string name="settings_receive_confirm_title">Получение подтверждения</string>
     <string name="settings_receive_confirm_summary">Требуется подтверждение на получение файлов</string>
     <string name="guide_label">Помощь</string>
-    <string name="title_step_one">Передача файлов без подключения к сети. Это сэкономит Ваш трафик</string>
+    <string name="title_step_one">Передача файлов без подключения к сети. Приложение будет открыто во время получения.</string>
     <string name="title_step_two">Кросплатформенность: не-MIUI пользователи используют AnyShare для передачи файлов.</string>
     <string name="title_step_three">Безлимитный обмен файлами с друзьями</string>
     <string name="summary_step_one">Отправлять фото, музыку, контакты и прочие файлы</string>
