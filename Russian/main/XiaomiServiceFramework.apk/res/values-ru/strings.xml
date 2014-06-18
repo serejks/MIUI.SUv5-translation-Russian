@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Системные службы Xiaomi</string>
+    <string name="app_name">Системные службы Mi Cloud</string>
     <string name="show_password">Показать пароль</string>
     <string name="account">Аккаунт</string>
     <string name="account_hint_text">Email/Номер телефона</string>

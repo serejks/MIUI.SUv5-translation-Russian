@@ -17,7 +17,7 @@
         <item quantity="one">Трек загружен</item>
      </plurals>
      <plurals name="Nalbums">
-        <item quantity="other">" альбомы"</item>
+        <item quantity="other">" альбомов"</item>
         <item quantity="one">" альбом"</item>
      </plurals>
      <plurals name="Nalbums_format">
@@ -25,11 +25,11 @@
         <item quantity="one">Альбомов: 1</item>
      </plurals>
      <plurals name="Nartists">
-        <item quantity="other">" исполнители"</item>
+        <item quantity="other">" исполнителей"</item>
         <item quantity="one">" исполнитель"</item>
      </plurals>
      <plurals name="Nfolders">
-        <item quantity="other">" папки"</item>
+        <item quantity="other">" папок"</item>
         <item quantity="one">" папка"</item>
      </plurals>
      <plurals name="Nhot_tracks_total">
@@ -57,7 +57,7 @@
         <item quantity="one">Треков: 1</item>
      </plurals>
      <plurals name="Ntracks">
-        <item quantity="other">" треки"</item>
+        <item quantity="other">" треков"</item>
         <item quantity="one">" трек"</item>
      </plurals>
      <plurals name="Ntracks_format">
@@ -85,15 +85,15 @@
         <item quantity="one">Треков: %d</item>
      </plurals>
      <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d треков</item>
-        <item quantity="one">%1$s, %2$d трек</item>
+        <item quantity="other">%1$s, треков: %2$d</item>
+        <item quantity="one">%1$s, треков: %2$d</item>
      </plurals>
 	 <plurals name="Nexpired_remind">
         <item quantity="other">Осталось дней: %d</item>
         <item quantity="one">Осталось дней: %d</item>
     </plurals>
     <plurals name="Nvip_expired_remind">
-        <item quantity="other">Заканичвается срок действия доступа к музыке высокого качества (осталось дней: %d)</item>
+        <item quantity="other">Заканчивается срок действия доступа к музыке высокого качества (осталось дней: %d)</item>
     </plurals>
 	<plurals name="Nexpiration_reminder">
         <item quantity="other">Срок действия заканчивается через %d дн.</item>
