@@ -90,24 +90,24 @@
         <item quantity="many">Выбрано: %d</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Переместить диалоги (%1$d)</item>
-		<item quantity="zero">Переместить диалоги (%1$d)</item>
-        <item quantity="one">Переместить диалог</item>
-        <item quantity="two">Переместить диалоги (%1$d)</item>
-        <item quantity="few">Переместить диалоги (%1$d)</item>
-        <item quantity="many">Переместить диалоги (%1$d)</item>
+        <item quantity="other">Переместить диалогов: %1$d</item>
+		<item quantity="zero">Переместить диалогов: %1$d</item>
+        <item quantity="one">Переместить диалогов: 1</item>
+        <item quantity="two">Переместить диалогов: %1$d</item>
+        <item quantity="few">Переместить диалогов: %1$d</item>
+        <item quantity="many">Переместить диалогов: %1$d</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Черновики</item>
         <item quantity="one">Черновик</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Удалить диалоги? (%1$d)</item>
-		<item quantity="zero">Удалить диалоги? (%1$d)</item>
-		<item quantity="one">Удалить выбранный диалог?</item>
-        <item quantity="two">Удалить диалоги? (%1$d)</item>
-        <item quantity="few">Удалить диалоги? (%1$d)</item>
-        <item quantity="many">Удалить диалоги? (%1$d)</item>
+        <item quantity="other">Удалить диалогов: %1$d?</item>
+		<item quantity="zero">Удалить диалогов: %1$d?</item>
+		<item quantity="one">Удалить диалогов: 1?</item>
+        <item quantity="two">Удалить диалогов: %1$d?</item>
+        <item quantity="few">Удалить диалогов: %1$d?</item>
+        <item quantity="many">Удалить диалогов: %1$d?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Выбранные диалоги имеют общие вложения, удалить их все?</item>
@@ -118,20 +118,20 @@
         <item quantity="many">Выбранные диалоги имеют общие вложения, удалить их все?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Архивировать диалоги? (%1$d)</item>
-		<item quantity="zero">Архивировать диалоги? (%1$d)</item>
-        <item quantity="one">Архивировать диалог?</item>
-        <item quantity="two">Архивировать диалоги? (%1$d)</item>
-        <item quantity="few">Архивировать диалоги? (%1$d)</item>
-        <item quantity="many">Архивировать диалоги? (%1$d)</item>
+        <item quantity="other">Архивировать диалогов: %1$d?</item>
+		<item quantity="zero">Архивировать диалогов: %1$d?</item>
+        <item quantity="one">Архивировать диалогов: 1?</item>
+        <item quantity="two">Архивировать диалогов: %1$d?</item>
+        <item quantity="few">Архивировать диалогов: %1$d?</item>
+        <item quantity="many">Архивировать диалогов: %1$d?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Удалить черновики из диалогов? (%1$d)</item>
-        <item quantity="one">Удалить черновик из диалога?</item>
+        <item quantity="other">Удалить черновиков из диалогов: %1$d?</item>
+        <item quantity="one">Удалить черновиков из диалогов: 1?</item>
     </plurals>
     <plurals name="conversation_unstarred">
-        <item quantity="other">Убрать диалоги из избранных? (%1$d)</item>
-        <item quantity="one">Убрать диалог из избранных? (%1$d)</item>
+        <item quantity="other">Убрать диалогов из избранных: %1$d?</item>
+        <item quantity="one">Убрать диалогов из избранных: %1$d?</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">Диалогов с отключенными уведомлениями: %1$d</item>
