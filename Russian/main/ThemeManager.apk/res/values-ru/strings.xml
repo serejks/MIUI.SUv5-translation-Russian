@@ -281,7 +281,7 @@
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_user_know">ОК</string>
-    <string name="resource_hint">Сигнал</string>
+    <string name="resource_hint">Предупреждение</string>
 	<string name="purchased_list">Купленные темы</string>
 	<string name="resource_import_failed">Ошибка импортирования</string>
 	<string name="resource_ringtone_playing_error">ошибка воспроизведения</string>
@@ -299,4 +299,18 @@
     <string name="theme_yes">ОК</string>
     <string name="theme_no">Отмена</string>
 	<string name="theme_fresh_man_notifaction">Доступны новые темы</string>
+	<string name="resource_allow">ОК</string>
+	<string name="resource_connect_network_message">Разрешить приложению доступ к сети?</string>
+	<string name="resource_connect_network_settings">Запрашивать доступ к сети</string>
+	<string name="resource_remind_another_time">Запомнить</string>
+	<string name="theme_user_agreement_allow">ОК</string>
+	<string name="theme_user_agreement_content1">"Прочтите перед использованием "</string>
+	<string name="theme_user_agreement_content2">Пользовательское соглашение</string>
+	<string name="theme_user_agreement_content3">" и "</string>
+	<string name="theme_user_agreement_content4">Политику безопасности</string>
+    <string name="theme_user_agreement_content5">.</string>
+	<string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
+    <string name="theme_user_agreement_remind_never">Запомнить</string>
+	<string name="theme_user_agreement_remind_summary">Запрос доступа к сети при каждом запуске приложения</string>
+	<string name="theme_user_agreement_title">Разрешить приложению доступ к сети?</string>
 </resources>

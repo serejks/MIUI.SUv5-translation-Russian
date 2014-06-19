@@ -106,7 +106,7 @@
 	<string name="id3_edit_failed">Не удалось отредактировать ID3 теги. \nТрек защищен.</string>
 	<string name="id3_modify_confirm_check">Сохранить изменения</string>
 	<string name="id3_modify_confirm_text">Сохранить</string>
-	<string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. \nПринять <a href="http://music.baidu.com/doc/agreement">условия использования</a>?</string>
+	<string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Принять <a href="http://music.baidu.com/doc/agreement">пользовательское соглашение</a> и разрешить доступ к сети?</string>
 	<string name="impunity_declaration_title">Предупреждение</string>
 	<string name="keep_quit_position_settings">Запоминать позицию</string>
 	<string name="keep_quit_position_summary">Автоматически переходить к недавно просмотренному экрану при запуске приложения</string>
@@ -376,4 +376,8 @@
 	<string name="volume_alert_playback_alert_title">Предупреждение</string>
 	<string name="volume_alert_playback_message">Прослушивание музыки на высокой громкости в течение длительного времени может повредить слух.</string>
 	<string name="select_device">Выбрать устройство</string>
+	<string name="impunity_declaration_ignore">Запомнить</string>
+	<string name="impunity_declaration_settings">Запрашивать доступ к сети</string>
+	<string name="impunity_declaration_summary">Запрос доступа к сети при каждом запуске проигрывателя</string>
+	<string name="take_effect_afater_restart">Для применения данной функции необходимо перезапустить проигрыватель</string>
 </resources>

@@ -206,4 +206,10 @@
 	<string name="apply_as_lock_wallpaper_message">Применить выбранные обои на экран блокировки тоже?</string>
 	<string name="lock_screen_failed_message">Не удалось применить</string>
 	<string name="lock_screen_success_message">Применено</string>
+	<string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
+	<string name="status_downloaded">Загруженные</string>
+	<string name="status_downloading">Загрузка…</string>
+	<string name="status_installing">Установка…</string>
+	<string name="status_paused">Остановлено</string>
+	<string name="status_pending">Ожидание…</string>
 </resources>

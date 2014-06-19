@@ -278,4 +278,7 @@
 	<string name="sms_delete_hint">Удалить все заблокированные сообщения от этого номера?</string>
     <string name="call_delete_hint">Удалить все заблокированные вызовы от этого номера?</string>
     <string name="backsound_set_hint">Установить сигнал блокировки на \"%s\"?</string>
+	<string name="ad_block_hint">Заблокировано: %d</string>
+	<string name="ad_permission_hint">Использование блокировщика рекламы может повлиять на производительность приложений и ухудшить их работу</string>
+	<string name="ad_single_block_hint">Заблокировано</string>
 </resources>

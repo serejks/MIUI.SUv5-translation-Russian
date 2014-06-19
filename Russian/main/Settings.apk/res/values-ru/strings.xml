@@ -4372,4 +4372,7 @@ Android File Transfer
     <string name="local_backup_section_title">Локальный бэкап</string>
     <string name="local_backup_section_summary">Бэкап настроек системы, аккаунта и приложений</string>
 	<string name="bluetooth_device_address">Адрес устройства:</string>
+	<string name="title_font">Шрифт</string>
+	<string name="title_font_current">Выбор шрифта</string>
+	<string name="use_network_warning">Сервисы Xiaomi запрашивают доступ к сети</string>
 </resources>

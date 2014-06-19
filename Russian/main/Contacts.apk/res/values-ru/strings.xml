@@ -1148,7 +1148,7 @@
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_user_know">ОК</string>
-    <string name="resource_hint">Сигнал</string>
+    <string name="resource_hint">Предупреждение</string>
     <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
     <string name="t9_search_guide_pinyin">Введите \"2\" и \"5\" для поиска \"Василий Потемкин\"</string>
     <string name="sim_contact_invalid">Некорректный контакт SIM</string>
@@ -1198,4 +1198,8 @@
     <string name="contact_detail_picture_description">Нажмите на фото для изменения</string>
     <string name="unknown_caller">Неизвестный абонент</string>
 	<string name="resource_delete">Удалить</string>
+	<string name="resource_allow">ОК</string>
+	<string name="resource_connect_network_message">Разрешить приложению доступ к сети?</string>
+	<string name="resource_connect_network_settings">Запрашивать доступ к сети</string>
+	<string name="resource_remind_another_time">Запомнить</string>
 </resources>

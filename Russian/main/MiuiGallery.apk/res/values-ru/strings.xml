@@ -525,4 +525,10 @@
     <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
     <string name="ubifocus_map_error">Некоторые данные повреждены</string>
     <string name="ubifocus_refocus_fail_tip">Не удалось сделать перефокусировку из за потерянных или поврежденных данных</string>
+	<string name="download_refocus_data">Скачать перефокусированные данные</string>
+	<string name="refocus_data_downloading">Загрузка перефокусированных данных…</string>
+	<string name="item_not_sync_for_origin_image">Изображение не было синхронизировано с облачным сервисом и не может быть загружено</string>
+	<string name="item_not_sync_for_origin_video">Видео не было синхронизировано с облачным сервисом и не может быть загружено</string>
+	<string name="item_not_sync_for_refocus_data">Изображение не было синхронизировано с облачным сервисом и перефокусированные данные не могут быть загружены</string>
+	<string name="ubifocus_guide_text">Удерживайте 0.5 секунды для перефокусировки</string>
 </resources>

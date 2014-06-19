@@ -1012,4 +1012,5 @@
 	<string name="pref_video_fast_speed_title_simple_mode">Скоростная съемка</string>
 	<string name="simple_mode_button_text_fast_video">Выйти из скоростной съемки</string>
 	<string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован.</string>
+	<string name="object_track_enable_toast">Проведите по окну предварительного просмотра, чтобы включить отслеживание объекта.</string>
 </resources>

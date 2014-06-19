@@ -86,4 +86,9 @@
     <string name="virus_scan_is_risk">Это приложение представляет угрозу для вашего устройства.</string>
     <string name="virus_scan_clear">Удалить</string>
 	<string name="virus_scan_caller_unknown">Неизвестно</string>
+	<string name="ad_block_button_title">Блокировать рекламу</string>
+	<string name="ad_relative">Реклама</string>
+	<string name="adware_count">Файлов рекламы: %d</string>
+	<string name="adware_hint">Эти файлы используются сторонними приложениями для отображения рекламы</string>
+	<string name="adware_title">Реклама</string>
 </resources>
