@@ -62,7 +62,7 @@
     <string name="menu_done">ОК</string>
     <string name="menu_doNotSave">Отмена</string>
     <string name="menu_discard">Отменить</string>
-    <string name="label_notes">Отменить</string>
+    <string name="label_notes">Заметка</string>
     <string name="label_sip_address">Интернет вызов</string>
     <string name="ghostData_company">Компания</string>
     <string name="ghostData_title">Должность</string>
