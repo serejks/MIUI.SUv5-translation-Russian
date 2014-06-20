@@ -2773,7 +2773,7 @@
     <string name="dolby_volume_leveler">Уровень звука</string>
     <string name="dolby_dialogue_enhancer">Улучшение речи</string>
     <string name="dolby_surround_virtualizer">Объемный звук</string>
-    <string name="dirac_mode_off">Dirac выкл.</string>
+    <string name="dirac_mode_off">Dirac выключен</string>
     <string name="dirac_mode_earbuds">Гарнитура</string>
     <string name="dirac_mode_in_ear">Вкладыши Xiaomi</string>
 	<string name="dirac_mode_piston_100">Пистоны Xiaomi</string>

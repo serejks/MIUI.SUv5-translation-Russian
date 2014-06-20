@@ -270,7 +270,7 @@
     <string name="headphone_settings">Настройки наушников</string>
     <string name="mi_effect_title">Использовать MiSound усилитель</string>
     <string name="mi_effect_summary">Всегда использовать MiSound усилитель при прослушивании через наушники</string>
-    <string name="dirac_mode_off">Dirac выкл.</string>
+    <string name="dirac_mode_off">Dirac выключен</string>
     <string name="dirac_mode_in_ear">Вкладыши Xiaomi</string>
     <string name="dirac_mode_earbuds">Наушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Пистоны Xiaomi</string>
