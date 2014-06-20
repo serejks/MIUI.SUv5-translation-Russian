@@ -19,7 +19,7 @@
     <string name="main_alert_message_no_imsi">Нет SIM карты</string>
     <string name="firewall_activity_lable">Ограничение трафика приложений</string>
     <string name="firewall_applist">Приложения</string>
-    <string name="firewall_rule_group_title_mobile">2G/3G</string>
+    <string name="firewall_rule_group_title_mobile">Мобильный</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Сторонние</string>
     <string name="firewall_fragment_tab_title_sys">Системные</string>
@@ -35,7 +35,7 @@
     <string name="sorted_button">Сортировка</string>
     <string name="app_detail">Информация</string>
     <string name="app_version">Версия</string>
-    <string name="app_mobile">2G/3G</string>
+    <string name="app_mobile">Мобильный</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Нет</string>
     <string name="sorted_dialog_title">Сортировка</string>
@@ -145,7 +145,7 @@
 За дальнейшее использование мобильного интернета могут взиматься дополнительные расходы согласно вашему тарифному плану."</string>
     <string name="data_usage_disabled_dialog_enable">Включить</string>
     <string name="data_usage_mobile_limit_snoozed_title">Предел трафика превышен</string>
-    <string name="data_usage_limit_snoozed_body">Нажмите для просмотра информации</string>
+    <string name="data_usage_limit_snoozed_body">Превышен лимит трафика за месяц.</string>
     <string name="data_usage_restricted_title">Фоновые соединения запрещены</string>
     <string name="data_usage_restricted_body">Нажмите, чтобы разрешить.</string>
     <string name="data_usage_leisure_warning_title">Предел бесплатного трафика</string>
@@ -174,12 +174,12 @@
 	<string name="network_assistant_upgraded_title">Обновление завершено</string>
     <string name="network_assistant_upgraded_body">Нажмите для настройки трафика</string>
 	<string name="pref_new_installed_preconfig_title">Настройки для новых приложений</string>
-	<string name="main_alert_message_slot_no_data_connection">Слот SIM карты не поддерживает доступ в интернет</string>
-	<string name="spinner_title">%1$s - Мобильный интернет: %2$s</string>
-	<string name="traffic_config_alert_title">Разница: %s </string>
+	<string name="main_alert_message_slot_no_data_connection">Слот SIM карты не поддерживает\nдоступ в интернет</string>
+	<string name="spinner_title">%1$s- Мобильный интернет: %2$s</string>
+	<string name="traffic_config_alert_title">Разница: %s</string>
     <string name="traffic_config_alert_ok">ОК</string>
     <string name="traffic_config_alert_cancel">Отмена</string>
-    <string name="traffic_config_alert_nomore">Запомнить</string>
+    <string name="traffic_config_alert_nomore">Больше не спрашивать</string>
     <string name="traffic_config_alert_body">"Данные мобильного оператора показывают, что трафика осталось: %s.
 Обновить локальные данные трафика?"</string>
     <string name="traffic_config_alert_body_normal">"
@@ -194,8 +194,8 @@
     <string name="datausage_purchase_title_pkglist">Купить трафик</string>
     <string name="datausage_purchase_title_confirm">Сведения о покупке</string>
     <string name="datausage_purchase_title_order">Купить трафик</string>
-    <string name="datausage_purchase_banner_title">Трафик превышен %s</string>
-    <string name="datausage_purchase_view_detail">Показать сведения</string>
+    <string name="datausage_purchase_banner_title">Трафик превышен на %s</string>
+    <string name="datausage_purchase_view_detail">Информация</string>
     <string name="datausage_purchase_buy">Купить</string>
     <string name="datausage_purchase_pay_confirm">Купить</string>
     <string name="datausage_purchase_pay_hint">Отменить вызов %s</string>
@@ -211,7 +211,7 @@
     <string name="datausage_purchase_result_failed">Не удается завершить покупку</string>
     <string name="datausage_purchase_backto_ns">Назад</string>
     <string name="datausage_purchase_goto_monthsetting">Изменить трафик</string>
-    <string name="datausage_purchase_pkglist_nodata">"Обнаружен конфликт вашего тарифного плана и текущего заказа. Обратитесь к мобильному оператору для выяснения информации."</string>
-    <string name="datausage_purchase_pkglist_networkerror">Сеть недоступна</string>
+    <string name="datausage_purchase_pkglist_nodata">"Обнаружен конфликт вашего тарифного плана и текущего заказа. Обратитесь к мобильному оператору для получения информации."</string>
+    <string name="datausage_purchase_pkglist_networkerror">Сеть недоступна. Проверьте подключение и повторите попытку.</string>
     <string name="datausage_purchase_pkglist_servererror">Ошибка сервера</string>
 </resources>

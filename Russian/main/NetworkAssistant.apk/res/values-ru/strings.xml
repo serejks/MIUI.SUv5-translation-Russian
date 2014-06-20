@@ -23,7 +23,7 @@
     <string name="warning_title">Предупреждение</string>
     <string name="close_txt">Закрыть</string>
     <string name="cancel_txt">Отмена</string>
-    <string name="disable_background_connect_warning">При ограничении объема трафика некоторые приложения не смогут работать через 2G/3G. Закрыть доступ?</string>
+    <string name="disable_background_connect_warning">При ограничении объема трафика некоторые приложения не смогут работать через мобильный интернет. Закрыть доступ?</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_sort">Сортировка</string>
     <string name="menu_display_wifi">Показать трафик Wi-Fi</string>
@@ -132,7 +132,7 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Не обновлялось более месяца</string>
     <string name="adjust_traffic_carrier_adjusting">настройка трафика…</string>
     <string name="menu_sort_by_name">Сорт. по имени</string>
-    <string name="menu_sort_by_mobile_traffic">Сорт. по 2G/3G трафику</string>
+    <string name="menu_sort_by_mobile_traffic">Сорт. по мобильному трафику</string>
     <string name="menu_sort_by_all_traffic">Сорт. по общему трафику</string>
     <string name="menu_sort_by_disabled">Сорт. по выкл. приложениям</string>
     <string name="notify_traffic_settings_format">%s не был настроен ваш тарифный план. Настроить?</string>
@@ -170,7 +170,7 @@
 	<string name="network_control_service_notification_title_single">%1$s: запрет сети %2$s</string>
 	<string name="network_control_service_notification_title_mutiple">%1$d: запрет сети %2$s</string>
 	<string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
-	<string name="network_control_service_notification_title_nettype_mobile">2G/3G</string>
+	<string name="network_control_service_notification_title_nettype_mobile">Мобильный</string>
 	<string name="traffic_bought">Покупка трафика</string>
 	<string name="sync_traffic_no_cmd_detail_custom_config">Для настройки SMS-шаблона перейдите в Настройки > Тарифный план > Информация о трафике.</string>
 	<string name="custom_adjust_title">Настройки синхронизации</string>

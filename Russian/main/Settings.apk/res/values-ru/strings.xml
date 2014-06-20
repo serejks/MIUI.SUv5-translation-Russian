@@ -4374,5 +4374,5 @@ Android File Transfer
 	<string name="bluetooth_device_address">Адрес устройства:</string>
 	<string name="title_font">Шрифт</string>
 	<string name="title_font_current">Выбор шрифта</string>
-	<string name="use_network_warning">Сервисы Xiaomi запрашивают доступ к сети</string>
+	<string name="use_network_warning">Системные службы Xiaomi и Mi Cloud запрашивают доступ к сети</string>
 </resources>

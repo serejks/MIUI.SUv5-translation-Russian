@@ -145,7 +145,7 @@
 	<string name="modify_tracks_id3_background">Изменить ID3 теги выбранных треков в фоновом режиме</string>
 	<string name="more">Еще</string>
 	<string name="music_browser_label">Музыка</string>
-	<string name="music_filter">Фильтр музыкальных файлов</string>
+	<string name="music_filter">Фильтр файлов</string>
 	<string name="music_filter_helper">Эти музыкальные файлы скрыты фильтром, который можно изменить в настройках музыкального плеера.</string>
 	<string name="music_open_other_connect">Загрузка музыки через мобильный интернет отключена</string>
 	<string name="music_picker_title">Выберите трек</string>

@@ -1328,7 +1328,7 @@ or visit CS center."</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="network_settings_title">Мобильные сети</string>
     <string name="location_title">Мое местоположение</string>
-    <string name="location_network_based">Беспроводные сети</string>
+    <string name="location_network_based">Wi-Fi и мобильные сети</string>
     <string name="location_neighborhood_level">Расположение определяется Wi-Fi и мобильными сетями</string>
     <string name="location_neighborhood_level_wifi">Расположение определяется сетью Wi-Fi</string>
     <string name="location_gps">Использовать GPS</string>

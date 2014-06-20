@@ -530,5 +530,5 @@
 	<string name="item_not_sync_for_origin_image">Изображение не было синхронизировано с облачным сервисом и не может быть загружено</string>
 	<string name="item_not_sync_for_origin_video">Видео не было синхронизировано с облачным сервисом и не может быть загружено</string>
 	<string name="item_not_sync_for_refocus_data">Изображение не было синхронизировано с облачным сервисом и перефокусированные данные не могут быть загружены</string>
-	<string name="ubifocus_guide_text">Удерживайте 0.5 секунды для перефокусировки</string>
+	<string name="ubifocus_guide_text">Долгое нажатие для перефокусировки</string>
 </resources>
