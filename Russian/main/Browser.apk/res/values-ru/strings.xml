@@ -572,7 +572,7 @@
 	<string name="download_video_please_download_market">Необходимо установить Mi-Маркет</string>
 	<string name="download_video_please_select_video">Выберите видео</string>
 	<string name="download_video_start_down_toast">Загрузка %1$s видео</string>
-	<string name="download_video_unseleted_all">Снять все</string>
+	<string name="download_video_unseleted_all">Снять выбор</string>
     <string name="download_video_alert_message">При загрузке видео возможно чрезмерное потребление трафика, продолжить?</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -834,4 +834,18 @@
     <string name="cloud_time_tips">Последняя синхронизация</string>
     <string name="cloud_no_new_data_toast">Нет новых данных</string>
 	<string name="pref_content_brightness_setting">Настройка яркости</string>
+    <string name="contextmenu_selecttext">Выбрать текст</string>
+    <string name="input_valid_url">Введите корректный адрес сайта</string>
+    <string name="quicklink_have_deleted">Сайт удален</string>
+    <string name="miui_function_menu_delete_to_quicklinks">Удалить закладку</string>
+    <string name="miui_function_menu_desktop_ua">ПК</string>
+    <string name="miui_function_menu_mobile_ua">Мобильный</string>
+    <string name="local_bookmarks">Закладки Xiaomi</string>
+    <string name="google_bookmarks">Закладки Google</string>
+    <string name="error_title">Ошибка синхронизации</string>
+    <string name="error_unauthorized">Слишком много попыток авторизации: синхронизация отключена.</string>
+    <string name="error_forbidden">Возникли проблемы с вашим аккаунтом: синхронизация отключена.</string>
+    <string name="error_not_acceptable">Ошибка сервера: синхронизация отключена.</string>
+    <string name="sub_sync_item_browser_title_bookmark">Синхронизировать закладки</string>
+    <string name="sub_sync_item_browser_title_bookmark_summary">Синхронизировать закладки браузера</string>
 </resources>

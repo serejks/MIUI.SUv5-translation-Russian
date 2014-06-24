@@ -91,4 +91,14 @@
 	<string name="adware_count">Файлов рекламы: %d</string>
 	<string name="adware_hint">Эти файлы используются сторонними приложениями для отображения рекламы</string>
 	<string name="adware_title">Реклама</string>
+    <string name="all">Все разрешения</string>
+    <string name="main_title">Установка приложений</string>
+    <string name="installer_name">Источник: %1$s</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_next">Далее</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_remove">Удалить</string>
+    <string name="button_continue_install">Продолжить установку</string>
+    <string name="button_install_lastest">Скачать и установить новую версию</string>
+    <string name="button_install_official">Скачать и установить официальную версию</string>
 </resources>

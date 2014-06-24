@@ -43,4 +43,6 @@
     <string name="account_setup_options_mail_window_2weeks">Две недели</string>
     <string name="account_setup_options_mail_window_1month">Один месяц</string>
     <string name="account_setup_options_mail_window_all">Все</string>
+    <string name="auth_error_notification_title">Ошибка аутентификации</string>
+    <string name="auth_error_notification_text">Нажмите для редактирования настроек %s</string>
 </resources>

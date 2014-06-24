@@ -661,7 +661,7 @@
     <string name="menu_photo_share_all">Отправить все</string>
     <string name="saving">Сохранение…</string>
     <string name="str_select_all">Выбрать все</string>
-    <string name="str_select_none">Снять все</string>
+    <string name="str_select_none">Снять выбор</string>
     <string name="content_description">%1$s о %2$s, %3$s в %4$s, %5$s</string>
     <string name="content_description_today">%1$s о %2$s, %3$s в %4$s, %5$s</string>
     <string name="read_string">диалог прочитан</string>

@@ -169,4 +169,12 @@
 	<string name="fourgrid_no_notificaiont">Не отображать в статус баре</string>
 	<string name="updater_finish_download">Загрузка прошивки завершена</string>
 	<string name="toast_update_failed_hints">Ошибка обновления. Загрузите полную прошивку.</string>
+    <string name="system_backup_helper">Как правило, обновление MIUI не повлияет на внутреннюю память, но мы рекомендуем чтобы вы сделали бэкап перед обновлением системы.</string>
+    <string name="new_update_content_title">Найдена новая версия</string>
+    <string name="update_comment_hint">(по желанию)</string>
+    <string name="toast_msg_reboot">Обновление завершено, необходима перезагрузка</string>
+    <string name="toast_need_login">Войдите в Mi аккаунт</string>
+    <string name="notify_title_reboot_now">Обновление завершено, необходима перезагрузка</string>
+    <string name="button_text_reboot_now">Перезагрузка</string>
+    <string name="toast_not_enough_free_space">Недостаточно свободного места для OTA</string>
 </resources>

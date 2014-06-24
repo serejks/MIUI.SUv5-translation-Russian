@@ -294,4 +294,8 @@
 	<string name="giftcard_expire_notification_prime_title">Срок действия вашей подарочной карты истек</string>
 	<string name="giftcard_expire_notification_sub_title">Срок действия подарочной карты MiCredits: %1$s</string>
 	<string name="btn_agree">ОК</string>
+    <string name="payment_actionbar_title">Подтвердить</string>
+    <string name="balance_title">Баланс</string>
+    <string name="recharge_group_familiar">Обычные методы</string>
+    <string name="pc_pay_login">Войдите</string>
 </resources>

@@ -9,4 +9,7 @@
     <string name="stock_photo_album_name">Стандартные фото</string>
     <string name="local_source_name">Фото на устройстве</string>
     <string name="need_to_configure">Нет выбранных фото.</string>
+    <string name="photodream_select_all">Выбрать все</string>
+    <string name="photodream_select_none">Снять выбор</string>
+    <string name="no_photos">На устройстве нет фото.</string>
 </resources>

@@ -5,7 +5,7 @@
     <string name="abc_action_bar_up_description">Назад</string>
     <string name="abc_action_bar_home_description">Домой</string>
     <string name="action_mode_select_all">Выбрать все</string>
-    <string name="action_mode_deselect_all">Снять все</string>
+    <string name="action_mode_deselect_all">Снять выбор</string>
     <string name="action_mode_title_empty">Выбрать</string>
     <string name="loading">Загрузка…</string>
     <string name="time_picker_label_hour">Ч</string>
@@ -34,7 +34,7 @@
     <string name="no_sim">SIM карта не обнаружена</string>
     <string name="activating">Активация…</string>
     <string name="check_phone_error_title">Служба синхронизации не запущена</string>
-    <string name="check_phone_io_error">Сетевая ошибка.</string>
+    <string name="check_phone_io_error">Сетевая ошибка</string>
     <string name="send_sms_for_sync_title">Сервис активации не запущен</string>
     <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="activate">Активировать</string>
@@ -50,7 +50,7 @@
     <string name="sim_not_ready">SIM карта используется. Повторите позже.</string>
     <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
     <string name="select_all">Выбрать все</string>
-    <string name="deselect_all">Снять все</string>
+    <string name="deselect_all">Снять выбор</string>
     <string name="select_item">Выбрать элементы</string>
     <string name="more">Еще</string>
     <string name="month_january">Январь</string>

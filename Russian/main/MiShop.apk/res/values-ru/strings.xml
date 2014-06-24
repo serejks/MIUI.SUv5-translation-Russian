@@ -163,7 +163,7 @@
     <string name="error_dup_phone">Такой номер телефона уже зарегистрирован</string>
     <string name="error_server">Ошибка сервера</string>
     <string name="error_unknown">Неизвестная ошибка:%1$s</string>
-    <string name="account_name">帐户:%1$s</string>
+    <string name="account_name">Аккаунт: %1$s</string>
     <string name="input_password_hint">Введите пароль</string>
     <string name="confirm">确定</string>
     <string name="login_notice">登录中, 请稍候</string>

@@ -345,4 +345,12 @@
     <string name="share_box_receive">Принятые</string>
 	<string name="file_not_exist">Файл не существует</string>
 	<string name="open_file_failed">Не удалось открыть файл</string>
+    <string name="byteShort">Б</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="petabyteShort">Пб</string>
+    <string name="tab_sys_size">Общая память</string>
+    <string name="menu_list_name">Меню</string>
 </resources>
