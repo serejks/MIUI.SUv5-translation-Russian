@@ -20,7 +20,7 @@
     <string name="err_type_data_lost">Потеря данных</string>
     <string name="status_msg_pending_upload">Загружается отчетов: %d…</string>
     <string name="status_msg_collecting_log">Сохранение логов</string>
-    <string name="action_submit">Подтвердить</string>
+    <string name="action_submit">Отправить</string>
     <string name="section_err_type">Тип отчета</string>
     <string name="section_description">Описание</string>
     <string name="section_screenshot">Скриншот</string>

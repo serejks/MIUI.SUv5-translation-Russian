@@ -97,7 +97,7 @@
 	<string name="msg_send_no_sim_error">Ошибка отправки сообщения, попробуйте еще раз.</string>
 	<string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
 	<string name="msg_telecom_order_denom">%1s yuan не читает данные мобильной сети</string>
-	<string name="msg_telecom_order_denom_label">Amout:</string>
+	<string name="msg_telecom_order_denom_label">Кол-во:</string>
 	<string name="msg_telecom_order_goods">%1s MiCredit</string>
 	<string name="msg_telecom_order_goods_label">Описание:</string>
 	<string name="msg_telecom_picker_hint_1_1">После подтверждения покупки, ваш телефон будет</string>

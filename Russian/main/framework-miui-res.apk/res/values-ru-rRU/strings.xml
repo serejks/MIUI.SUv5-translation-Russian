@@ -386,7 +386,7 @@
 	<string name="volume_alarm">Будильник</string>
 	<string name="volume_icon_description_bluetooth">Bluetooth</string>
 	<string name="volume_icon_description_incall">Вызов</string>
-	<string name="volume_icon_description_media">Мультимедиа</string>
+	<string name="volume_icon_description_media">Медиа</string>
 	<string name="volume_icon_description_notification">Уведомления</string>
 	<string name="volume_icon_description_ringer">Вызов</string>
 	<string name="wake_alarm_message">Следующий звонок будильника: %s</string>

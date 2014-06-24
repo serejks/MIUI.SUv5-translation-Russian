@@ -465,7 +465,7 @@
     <string name="keyguard_accessibility_user_selector">Выбор пользователя</string>
     <string name="keyguard_accessibility_status">Статус</string>
     <string name="keyguard_accessibility_camera">Камера</string>
-    <string name="keygaurd_accessibility_media_controls">Элементы управления мультимедиа</string>
+    <string name="keygaurd_accessibility_media_controls">Элементы управления медиа</string>
     <string name="keyguard_accessibility_widget_reorder_start">Переназначение виджета…</string>
     <string name="keyguard_accessibility_widget_reorder_end">ереназначение виджета завершено.</string>
     <string name="keyguard_accessibility_widget_deleted">Виджет: %1$s удален.</string>
@@ -612,7 +612,7 @@
     <string name="new_app_description">Остановить старое приложение без сохранения изменений.</string>
     <string name="sendText">Выберите действие для текста</string>
     <string name="volume_ringtone">Громкость звонка</string>
-    <string name="volume_music">Громкость мультимедиа</string>
+    <string name="volume_music">Громкость медиа</string>
     <string name="volume_music_hint_playing_through_bluetooth">Воспроизведение через Bluetooth</string>
     <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
     <string name="volume_call">Громкость при разговоре</string>
@@ -623,7 +623,7 @@
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_ringer">Мелодия</string>
     <string name="volume_icon_description_incall">Вызов</string>
-    <string name="volume_icon_description_media">Мультимедиа</string>
+    <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомления</string>
     <string name="ringtone_default">Мелодия по умолчанию</string>
     <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
@@ -1115,7 +1115,7 @@
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
     <string name="permlab_manageUsb">Управление USB устройствами</string>
     <string name="permlab_masterClear">Общий сброс</string>
-    <string name="permlab_mediaStorageWrite">Данные мультимедиа</string>
+    <string name="permlab_mediaStorageWrite">Данные медиа</string>
     <string name="permlab_modifyAudioSettings">Настройки звука</string>
     <string name="permlab_modifyNetworkAccounting">Изменение учета трафика</string>
     <string name="permlab_modifyPhoneState">Изменение состояния телефона</string>
@@ -1264,7 +1264,7 @@
     <string name="permdesc_manageNetworkPolicy">Позволяет приложению управлять сетевыми политиками и задавать свои правила для приложений.</string>
     <string name="permdesc_manageUsb">Позволяет приложению управлять настройками и разрешениями для USB устройств.</string>
     <string name="permdesc_masterClear">Позволяет приложению восстанавливать заводские настройки системы, удалять все данные и приложения.</string>
-    <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое мультимедиа во внутренней памяти.</string>
+    <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое медиа во внутренней памяти.</string>
     <string name="permdesc_modifyAudioSettings">Позволяет приложению изменять настройки звука.</string>
     <string name="permdesc_modifyNetworkAccounting">Позволяет системному приложению изменить способ учета трафика.</string>
     <string name="permdesc_modifyPhoneState">Позволяет приложению управлять функциями телефона. Приложение, обладающее этим разрешением, может переключать сети, включать и выключать радио на телефоне и выполнять другие подобные действия без уведомлений для пользователя.</string>

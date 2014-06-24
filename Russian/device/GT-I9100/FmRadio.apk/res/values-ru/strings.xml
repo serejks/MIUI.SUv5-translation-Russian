@@ -168,7 +168,7 @@
     <string name="dialog_selected_recorded_file_deleted">Выбранный записанный файл будет удален</string>
     <string name="dialog_selected_recorded_files_deleted">Выбранные записанные файлы будут удалены</string>
     <string name="dialog_title_motion">Сведения о перевороте</string>
-    <string name="dialog_message_motion">Чтобы отключить звук входящего вызова, сообщения, будильника или мультимедиа, переверните устройство</string>
+    <string name="dialog_message_motion">Чтобы отключить звук входящего вызова, сообщения, будильника или медиа, переверните устройство</string>
     <string name="dialog_motion_disabled">Движение отключено</string>
     <string name="dialog_do_not_show_again">Не показывать снова</string>
     <string name="skip">Пропустить</string>
