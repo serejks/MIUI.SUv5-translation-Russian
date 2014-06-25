@@ -4385,7 +4385,6 @@ Android File Transfer
     <string name="wallpaper_desktop">Рабочий стол</string>
     <string name="wallpaper_lockscreen">Экран блокировки</string>
     <string name="wallpaper_live">Живые обои</string>
-    <string name="key_settings_title">Клавиши</string>
     <string name="app_switch_key">Недавние</string>
     <string name="erase_data">Удалить</string>
     <string name="lockpassword_pin_fixed_length">PIN должен состоять из %d цифр</string>

@@ -150,7 +150,6 @@
     <string name="active_xiaomi_account_msg">"Для активации аккаунта Xiaomi посетите https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="active_xiaomi_account">Активный</string>
     <string name="update_comment_title">Комментарий</string>
-    <string name="update_comment_hint"></string>
     <string name="next">Далее</string>
     <string name="previous">Назад</string>
     <string name="finish">Готово</string>
@@ -169,8 +168,6 @@
 	<string name="fourgrid_no_notificaiont">Не отображать в статус баре</string>
 	<string name="updater_finish_download">Загрузка прошивки завершена</string>
 	<string name="toast_update_failed_hints">Ошибка обновления. Загрузите полную прошивку.</string>
-    <string name="system_backup_helper">Как правило, обновление MIUI не повлияет на внутреннюю память, но мы рекомендуем чтобы вы сделали бэкап перед обновлением системы.</string>
-    <string name="new_update_content_title">Найдена новая версия</string>
     <string name="update_comment_hint">(по желанию)</string>
     <string name="toast_msg_reboot">Обновление завершено, необходима перезагрузка</string>
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
