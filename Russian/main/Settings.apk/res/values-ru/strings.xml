@@ -4375,4 +4375,36 @@ Android File Transfer
 	<string name="title_font">Шрифт</string>
 	<string name="title_font_current">Выбор шрифта</string>
 	<string name="use_network_warning">Системные службы Xiaomi и Mi Cloud запрашивают доступ к сети</string>
+    <string name="menu_item_show_more">Еще</string>
+    <string name="ringtone_mute">Пусто</string>
+    <string name="title_system_resource">Системные ресурсы</string>
+    <string name="resource_ringtone_volume_mute">Сигнал в режиме \"Без звука\"</string>
+    <string name="audio_list_loading">Загрузка…</string>
+    <string name="title_local_resource">Локальные ресурсы</string>
+    <string name="online_resource_entry">Онлайн ресурсы</string>
+    <string name="wallpaper_desktop">Рабочий стол</string>
+    <string name="wallpaper_lockscreen">Экран блокировки</string>
+    <string name="wallpaper_live">Живые обои</string>
+    <string name="key_settings_title">Клавиши</string>
+    <string name="app_switch_key">Недавние</string>
+    <string name="erase_data">Удалить</string>
+    <string name="lockpassword_pin_fixed_length">PIN должен состоять из %d цифр</string>
+    <string name="toast_need_login">Войдите в Mi аккаунт</string>
+    <string name="button_text_reboot_now">Перезагрузка</string>
+    <string name="button_text_login">Вход</string>
+    <string name="dialog_title_login">Вход в Mi аккаунт</string>
+    <string name="dialog_content_login">Для обновления необходим Mi аккаунт, войти?</string>
+    <string name="launching_pho">Загрузка информации о телефоне.</string>
+    <string name="status_serialno">серийный номер</string>
+    <string name="msd_pc_system_install_summary_xp">1. Запустите установку</string>
+    <string name="msd_install_retry">Если компьютер не обнаружит устройство, то попробуйте следующее:</string>
+    <string name="msd_install_retry_connect">Отключить и подключить USB кабель заново.</string>
+    <string name="msd_install_retry_reinstall">Переустановить драйвера.</string>
+    <string name="msd_install_retry_reinstall_mac">"Введите в поиске Android File Transfer,
+и запустите программу."</string>
+    <string name="msd_driver_download_xp">Для Windows, загрузите MiPhoneManager для определения внешнего накопителя</string>
+    <string name="msd_driver_download_xp_url">Загрузите драйвер на http://zhushou.xiaomi.com/</string>
+    <string name="msd_driver_download_mac">Для Macs, загрузите драйвер и нажмите AndroidFileTransfer.dmg для установки</string>
+    <string name="msd_driver_download_mac_url">Загрузите драйвер на http://www.android.com/filetransfer/</string>
+    <string name="msd_install_download_zhushou">Загрузить MiPhoneManager</string>
 </resources>

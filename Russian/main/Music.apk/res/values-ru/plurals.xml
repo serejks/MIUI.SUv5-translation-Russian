@@ -10,7 +10,7 @@
      </plurals>
      <plurals name="NNNtrackstoplaylist">
         <item quantity="other">Добавлено треков в плейлист: %d</item>
-        <item quantity="one">Трек добавлен в плейлист</item>
+        <item quantity="one">Добавлено треков в плейлист: 1</item>
      </plurals>
      <plurals name="NTrackstoDownload">
         <item quantity="other">Треков загружено: %d</item>
@@ -98,5 +98,17 @@
 	<plurals name="Nexpiration_reminder">
         <item quantity="other">Срок действия заканчивается через %d дн.</item>
         <item quantity="one">Срок действия заканчивается через %d дн.</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">Найдено треков: %d</item>
+        <item quantity="one">Найдено треков: %d</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">Треков: %d</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">Добавлено треков в плейлист: %d</item>
+        <item quantity="one">Добавлено треков в плейлист: 1</item>
     </plurals>
 </resources>

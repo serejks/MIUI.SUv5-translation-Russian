@@ -398,7 +398,7 @@
     <string name="cate_game">Игры</string>
     <string name="cate_app">Приложения</string>
     <string name="pref_title_show_report_data">Показать отчет</string>
-    <string name="pref_title_use_pad">Use Pad</string>
+    <string name="pref_title_use_pad">Использовать планшет</string>
     <string name="comment_count_hint">Нажмите, для оценки:</string>
     <string name="send">отправить</string>
     <string name="delete">удалить</string>
@@ -409,10 +409,10 @@
     <string name="pref_title_clear_update_record">Очистить записи обновлений</string>
     <string name="clear_update_record_message">Очистить историю обновлений?</string>
     <string name="developer_label">Разработчик:</string>
-    <string name="expansion_info">(expansion files %1$s)</string>
+    <string name="expansion_info">(файлы расширений %1$s)</string>
     <string name="button_search_phone">Телефон</string>
-    <string name="expansion_confirm_title">App with expansion</string>
-    <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
-    <string name="expansion_main_download_name">%1$s pack 1</string>
-    <string name="expansion_append_download_name">%1$s pack 2</string>
+    <string name="expansion_confirm_title">Приложение с расширением</string>
+    <string name="expansion_confirm_message">Это приложение с пакетом расширений, установка займет больше времени. Продолжить установку?</string>
+    <string name="expansion_main_download_name">%1$s пакет 1</string>
+    <string name="expansion_append_download_name">%1$s пакет 2</string>
 </resources>

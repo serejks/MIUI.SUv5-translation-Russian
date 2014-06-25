@@ -212,4 +212,6 @@
 	<string name="status_installing">Установка…</string>
 	<string name="status_paused">Остановлено</string>
 	<string name="status_pending">Ожидание…</string>
+    <string name="editing_mode_title_empty">Выберите элементы</string>
+    <string name="gadget_mtz_label">Mi гаджеты</string>
 </resources>
