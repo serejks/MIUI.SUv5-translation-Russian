@@ -183,7 +183,7 @@
 	<string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
-	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы изменить параметры, выберите Настройки > Дополнительно > Данные веб-сайтов.</string>
+	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы изменить параметры, выберите Настройки &gt; Дополнительно &gt; Данные веб-сайтов.</string>
 	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении</string>
 	<string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
 	<string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>

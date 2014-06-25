@@ -172,7 +172,7 @@
 	<string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
 	<string name="network_control_service_notification_title_nettype_mobile">Мобильный</string>
 	<string name="traffic_bought">Покупка трафика</string>
-	<string name="sync_traffic_no_cmd_detail_custom_config">Для настройки SMS-шаблона перейдите в Настройки > Тарифный план > Информация о трафике.</string>
+	<string name="sync_traffic_no_cmd_detail_custom_config">Для настройки SMS-шаблона перейдите в Настройки &gt; Тарифный план &gt; Информация о трафике.</string>
 	<string name="custom_adjust_title">Настройки синхронизации</string>
     <string name="custom_adjust_sender">Номер отправителя</string>
     <string name="custom_adjust_command">Сообщение</string>

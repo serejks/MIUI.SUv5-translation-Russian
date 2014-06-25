@@ -619,7 +619,7 @@
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_failed_to_obtain_IP">Не удалось получить IP</string>
     <string name="wifi_disabled_network_failure">Сеть отключена. Плохое подключение</string>
-    <string name="wifi_disabled_help">Сеть не используется из-за плохого подключения. Отключите этот параметр в меню \"Параметры\" > \"Wi-Fi\" > \"Дополнительно\"</string>
+    <string name="wifi_disabled_help">Сеть не используется из-за плохого подключения. Отключите этот параметр в меню \"Параметры\" &gt; \"Wi-Fi\" &gt; \"Дополнительно\"</string>
     <string name="wifi_disabled_password_failure">Произошла ошибка проверки подлинности</string>
     <string name="wifi_not_in_range">Вне диапазона</string>
     <string name="wifi_wps_available_first_item">Доступен WPS</string>
@@ -1897,7 +1897,7 @@ or visit CS center."</string>
     <string name="wifi_setup_status_connecting">Подключение…</string>
     <string name="wifi_setup_status_proceed_to_next">Перейдите к следующему действию</string>
     <string name="wifi_setup_status_eap_not_supported">EAP не поддерживается</string>
-    <string name="wifi_setup_eap_not_supported">Во время установки невозможно настроить подключение EAP Wi-Fi. После установки это можно сделать в меню \"Параметры\" > \"Беспроводная связь и сети\"</string>
+    <string name="wifi_setup_eap_not_supported">Во время установки невозможно настроить подключение EAP Wi-Fi. После установки это можно сделать в меню \"Параметры\" &gt; \"Беспроводная связь и сети\"</string>
     <string name="wifi_setup_description_connecting">Идет подключение. Подождите…</string>
     <string name="wifi_setup_description_connected">Чтобы продолжить настройку, нажмите \"Далее\". Чтобы подключиться к другой сети Wi-Fi, нажмите \"Назад\"</string>
     <string name="time_zone_auto_stub">Выберите часовой пояс</string>
@@ -1942,7 +1942,7 @@ or visit CS center."</string>
     <string name="finish_button_label">Готово</string>
     <string name="really_remove_account_title">Удалить учетную запись?</string>
     <string name="really_remove_account_message">При удалении учетной записи с устройства будут удалены все связанные с ней сообщения, контакты и другие данные. Продолжить?</string>
-    <string name="remove_account_failed">Учетная запись требуется некоторым приложениям. Чтобы удалить ее, необходимо сбросить параметры устройства (при этом удаляются все личные данные). Это можно сделать в меню \"Параметры\" > \"Резервное копирование и сброс\"</string>
+    <string name="remove_account_failed">Учетная запись требуется некоторым приложениям. Чтобы удалить ее, необходимо сбросить параметры устройства (при этом удаляются все личные данные). Это можно сделать в меню \"Параметры\" &gt; \"Резервное копирование и сброс\"</string>
     <string name="provider_label">Принудительное получение подписок</string>
     <string name="sync_item_title">Синхронизировать %s</string>
     <string name="cant_sync_dialog_title">Невозможно синхронизировать вручную</string>
@@ -2055,7 +2055,7 @@ or visit CS center."</string>
 
 Некоторые учетные записи, например Google, также могут автоматически копировать любые изменения, внесенные на устройстве, в веб-службу.
 
-Чтобы выбрать, какую информацию нужно синхронизировать для каждой учетной записи, перейдите в меню \"Параметры\" > \"Учетные записи\""</string>
+Чтобы выбрать, какую информацию нужно синхронизировать для каждой учетной записи, перейдите в меню \"Параметры\" &gt; \"Учетные записи\""</string>
     <string name="data_usage_auto_sync_off_dialog_title">Отключить автоматическую синхронизацию</string>
     <string name="data_usage_auto_sync_off_dialog">При этом будет передаваться меньше данных, а расход заряда батареи снизится, но для получения последней информации вам потребуется синхронизировать учетные записи вручную. Пока эта функция включена, вы не будете получать уведомления об обновлениях</string>
     <string name="data_usage_cycle_editor_title">Дата сброса цикла</string>
@@ -3091,7 +3091,7 @@ or visit CS center."</string>
     <string name="auto_power_on_off">Автовключение/выключение</string>
     <string name="auto_power_on_off_summary_on">Disable Pre-alarm power on</string>
     <string name="auto_power_deactivate_alarm_summary">Disable Pre-alarm power on</string>
-    <string name="auto_power_deactivate_alarm">Включен параметр \"Включать перед сигналом будильника\". Чтобы включить параметр \"Автовключение/выключение\", отключите параметр \"Включать перед сигналом будильника\" (\"Будильник\" > клавиша меню > \"Включать перед сигналом будильника\") и повторите попытку</string>
+    <string name="auto_power_deactivate_alarm">Включен параметр \"Включать перед сигналом будильника\". Чтобы включить параметр \"Автовключение/выключение\", отключите параметр \"Включать перед сигналом будильника\" (\"Будильник\" &gt; клавиша меню &gt; \"Включать перед сигналом будильника\") и повторите попытку</string>
     <string name="auto_power_start_time">Время отключения</string>
     <string name="auto_power_end_time">Время включения</string>
     <string name="auto_power_repeat">Повторить</string>
@@ -3220,7 +3220,7 @@ Activating this setting disables any other use of USB except data transfering."<
     <string name="home_settings_easy_mode">TouchWiz Простой режим</string>
     <string name="home_settings_easy_mode_summary">Сделайте знакомство со смартфоном легким и понятным с помощью виджетов</string>
     <string name="home_settings_setup_title">Выбор лаунчера</string>
-    <string name="home_settings_setup_help">Вы можете изменить эти настройки позже, перейдя в Настройки > Выбор лаунчера</string>
+    <string name="home_settings_setup_help">Вы можете изменить эти настройки позже, перейдя в Настройки &gt; Выбор лаунчера</string>
     <string name="prev_button_label">Назад</string>
     <string name="iwlan_network_skt_default">По умолчанию</string>
     <string name="iwland_state_connected">Подключено</string>

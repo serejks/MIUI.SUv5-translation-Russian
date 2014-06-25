@@ -81,7 +81,7 @@
     <string name="input_new_password">Введите новый пароль, состоящий из 4 цифр</string>
     <string name="error_password">Ошибка пароля</string>
     <string name="help_title">Помощь</string>
-    <string name="err_nfc_off">Включите NFC в Настройки > Беспроводные сети > NFC</string>
+    <string name="err_nfc_off">Включите NFC в Настройки &gt; Беспроводные сети &gt; NFC</string>
     <string name="err_no_nfc">Ваш телефон не поддерживает NFC. Это приложение может не работать.</string>
     <string name="err_tag_not_supported">Ваш телефон не поддерживает привязку ярлыков</string>
     <string name="err_fail_to_read">Ошибка чтения ярлыка</string>

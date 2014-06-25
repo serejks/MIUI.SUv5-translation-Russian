@@ -338,7 +338,7 @@
     <string name="vip_recommend_buy">Оплатить (5 юаней в месяц)</string>
     <string name="vip_recommend_exchange">Использовать подарочный код</string>
     <string name="synchronize_to_baidu_cloud">Включить резервное копирование плейлистов онлайн через сервис Baidu Cloud.</string>
-    <string name="synchronize_guide_toast">Для включения синхронизации зайдите в \"Настройки\" > \"Синхронизировать плейлист\".</string>
+    <string name="synchronize_guide_toast">Для включения синхронизации зайдите в \"Настройки\" &gt; \"Синхронизировать плейлист\".</string>
 	<string name="find_ktv">Поиск музыки в KTV</string>
 	<string name="playlist_my_ktv">Плейлист KTV</string>
 	<string name="pay_service_guide_new">Доступна музыка высокого качества</string>
@@ -370,9 +370,9 @@
 	<string name="sync_alert_title">Синхронизация музыки</string>
     <string name="sync_alert_message">Синхронизировать музыку с Mi Cloud?</string>
     <string name="not_now">Отмена</string>
-    <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"Mi Cloud\"</string>
+    <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через Настройки &gt; Аккаунты &gt; Mi Cloud</string>
     <string name="login_and_enable">Синхронизировать</string>
-    <string name="sync_enable_toast">Вы можете изменить эту функцию через \"Настройки\" > \"Аккаунты\" > \"Mi Cloud\"</string>
+    <string name="sync_enable_toast">Вы можете изменить эту функцию через Настройки &gt; Аккаунты &gt; Mi Cloud</string>
 	<string name="volume_alert_playback_alert_title">Предупреждение</string>
 	<string name="volume_alert_playback_message">Прослушивание музыки на высокой громкости в течение длительного времени может повредить слух.</string>
 	<string name="select_device">Выбрать устройство</string>
