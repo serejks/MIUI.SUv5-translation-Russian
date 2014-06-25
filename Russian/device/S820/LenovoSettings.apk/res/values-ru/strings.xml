@@ -572,13 +572,13 @@
     <string name="crypt_keeper_enter_password">Введите пароль</string>
     <string name="crypt_keeper_failed_title">Сбой шифрования</string>
     <string name="crypt_keeper_failed_summary">Данные на вашем телефоне больше недоступны из-за прерванного шифрования.\n\nЧтобы продолжить использовать устройство, выполните сброс до заводских настроек. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии.</string>
-    <string name="crypt_keeper_switch_input_method">Изменить метод ввода</string>
+    <string name="crypt_keeper_switch_input_method">Изменить способ ввода</string>
     <string name="lock_settings_picker_title">Тип блокировки</string>
     <string name="backup_lock_settings_picker_title">Доп. способ блокировки</string>
     <string name="unlock_set_unlock_launch_picker_title">Блокировка экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN кода и пароля</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать способ блокировки экрана</string>
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_none_title">Защита отключена</string>
@@ -1489,7 +1489,7 @@
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
     <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
     <string name="show_password">Показывать пароль</string>
-    <string name="ime_security_warning">Этот метод ввода (%1$s) может сохранять вводимый текст, включая пароли, номера кредитных карт и прочую личную информацию. Использовать этот способ ввода?</string>
+    <string name="ime_security_warning">Этот способ ввода (%1$s) может сохранять вводимый текст, включая пароли, номера кредитных карт и прочую личную информацию. Использовать этот способ ввода?</string>
     <string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
     <string name="spellchecker_quick_settings">Настройки</string>
     <string name="spellchecker_language">Язык</string>
@@ -1544,7 +1544,7 @@
     <string name="input_method_selector_show_automatically_title">Автоматически</string>
     <string name="input_method_selector_always_show_title">Всегда показывать</string>
     <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
-    <string name="configure_input_method">Настройка методов ввода</string>
+    <string name="configure_input_method">Настройка способов ввода</string>
     <string name="input_method_settings">Настройки</string>
     <string name="input_method_settings_button">Настройки</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>

@@ -43,8 +43,8 @@
     <string name="radioInfo_display_bytes">байт</string>
     <string name="radioInfo_display_dbm">дБм</string>
     <string name="radioInfo_display_asu">asu</string>
-    <string name="sdcard_unmount">Извлечь SD карту</string>
-    <string name="sdcard_format">Очистить SD карту</string>
+    <string name="sdcard_unmount">Извлечь накопитель</string>
+    <string name="sdcard_format">Очистить накопитель</string>
     <string name="small_font">Маленький</string>
     <string name="medium_font">Средний</string>
     <string name="large_font">Большой</string>
@@ -326,13 +326,13 @@
     <string name="crypt_keeper_enter_password">Введите пароль</string>
     <string name="crypt_keeper_failed_title">Сбой шифрования</string>
     <string name="crypt_keeper_failed_summary">Данные на вашем телефоне больше недоступны из-за прерванного шифрования.\n\nЧтобы продолжить использовать устройство, выполните сброс до заводских настроек. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии.</string>
-    <string name="crypt_keeper_switch_input_method">Изменить метод ввода</string>
+    <string name="crypt_keeper_switch_input_method">Изменить Способ ввода</string>
     <string name="lock_settings_picker_title">Тип блокировки</string>
     <string name="backup_lock_settings_picker_title">Доп. способ блокировки</string>
     <string name="unlock_set_unlock_launch_picker_title">Блокировка экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Управление способами блокировки</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать способ блокировки экрана</string>
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_none_title">Отключено</string>
@@ -877,8 +877,8 @@
     <string name="memory_music_usage">Аудио (Музыка, мелодии и т.п.)</string>
     <string name="memory_media_misc_usage">Прочее</string>
     <string name="memory_media_cache_usage">Кэшированные данные</string>
-    <string name="sd_eject">Извлечь SD карту</string>
-    <string name="sd_eject_summary">Извлечь SD карту</string>
+    <string name="sd_eject">Извлечь накопитель</string>
+    <string name="sd_eject_summary">Извлечь внешний накопитель</string>
     <string name="sd_insert_summary">Подсоедините SD карту для подключения</string>
     <string name="sd_mount">Подключить SD карту</string>
     <string name="sd_format">Очистить SD карту</string>
@@ -1301,7 +1301,7 @@
     <string name="input_method_selector_show_automatically_title">Автоматически</string>
     <string name="input_method_selector_always_show_title">Всегда показывать</string>
     <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
-    <string name="configure_input_method">Настройка методов ввода</string>
+    <string name="configure_input_method">Настройка способов ввода</string>
     <string name="input_method_settings">Настройки</string>
     <string name="input_method_settings_button">Настройки</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>

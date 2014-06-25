@@ -142,10 +142,10 @@
     <string name="pref_recording_limit_250kb">250 KB</string>
     <string name="pref_recording_limit_1mb">1 MB</string>
     <string name="pref_recording_limit_2mb">2 MB</string>
-    <string name="pref_recording_limit_10s">10 сек.</string>
-    <string name="pref_recording_limit_30s">30 сек.</string>
-    <string name="pref_recording_limit_1min">1 мин.</string>
-    <string name="pref_recording_limit_3min">3 мин.</string>
+    <string name="pref_recording_limit_10s">10 секунд</string>
+    <string name="pref_recording_limit_30s">30 секунд</string>
+    <string name="pref_recording_limit_1min">1 минут</string>
+    <string name="pref_recording_limit_3min">3 минуты</string>
     <string name="pref_recording_limit_unlimited">Без ограничения</string>
     <string name="pref_metering_mode_spot">Точечный</string>
     <string name="pref_metering_mode_center">Центральный</string>

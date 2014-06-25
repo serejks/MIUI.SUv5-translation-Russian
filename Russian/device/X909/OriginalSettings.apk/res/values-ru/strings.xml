@@ -317,7 +317,7 @@
     <string name="unlock_set_unlock_launch_picker_title">Блокировки экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN кода и пароля</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать способ блокировки экрана</string>
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_none_title">Слайдер</string>
@@ -1129,7 +1129,7 @@
     <string name="input_method_selector_show_automatically_title">Автоматически</string>
     <string name="input_method_selector_always_show_title">Всегда показывать</string>
     <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
-    <string name="configure_input_method">Настройка методов ввода</string>
+    <string name="configure_input_method">Настройка способов ввода</string>
     <string name="input_method_settings">Настройки</string>
     <string name="input_method_settings_button">Настройки</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>

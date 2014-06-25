@@ -25,11 +25,11 @@
     <string name="summary_image_enhance_on">Вкл</string>
     <string name="summary_image_enhance_off">Выкл</string>
     <string name="screen_timeout_v5">Таймаут экрана</string>
-    <string name="screen_timeout_30_sec">15 сек.</string>
-    <string name="screen_timeout_1_min">30 сек.</string>
-    <string name="screen_timeout_2_min">2 мин.</string>
-    <string name="screen_timeout_5_min">5 мин.</string>
-    <string name="screen_timeout_10_min">10 мин.</string>
+    <string name="screen_timeout_30_sec">15 секунд</string>
+    <string name="screen_timeout_1_min">30 секунд</string>
+    <string name="screen_timeout_2_min">2 минуты</string>
+    <string name="screen_timeout_5_min">5 минут</string>
+    <string name="screen_timeout_10_min">10 минут</string>
     <string name="screen_timeout_30_min">никогда</string>
     <string name="sound_effect_srs_title">DTS аудио эффект</string>
     <string name="sound_effect_enhance_summary_on">Включен</string>

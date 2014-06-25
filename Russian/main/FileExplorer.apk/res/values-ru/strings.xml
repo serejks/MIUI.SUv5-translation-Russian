@@ -228,7 +228,7 @@
     <string name="rename">Переименовать</string>
     <string name="rename_description">Переименование…</string>
     <string name="share_link_failed">Не удалось создать ссылку</string>
-    <string name="choose_send_type">Выберите метод отправки</string>
+    <string name="choose_send_type">Выберите способ отправки</string>
     <string name="download_link_completed">"Я открыл доступ к %1$s через KuaiPan. Ссылка: "</string>
     <string name="transing">Отправка</string>
     <string name="finished">Завершено</string>

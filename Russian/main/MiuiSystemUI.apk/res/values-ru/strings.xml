@@ -63,7 +63,7 @@
     <string name="accessibility_home">Домой</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_recent">Недавние приложения</string>
-    <string name="accessibility_ime_switch_button">Кнопка изменения метода ввода.</string>
+    <string name="accessibility_ime_switch_button">Кнопка изменения способа ввода.</string>
     <string name="accessibility_compatibility_zoom_button">Кнопка совместимости масштаба.</string>
     <string name="accessibility_compatibility_zoom_example">Увеличить масштаб.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth подключен.</string>
@@ -292,44 +292,30 @@
     <string name="lockscreen_carrier_default">Нет сети</string>
     <string name="chooseUsbActivity">Выберите приложение для USB устройства</string>
     <string name="usb_storage_title">USB подключен</string>
-    <string name="usb_storage_message" product="nosdcard">Вы подключили компьютер по USB. Нажмите на кнопку внизу, если хотите скопировать файлы между компьютером и USB накопителем.</string>
-    <string name="usb_storage_message" product="default">Вы подключили компьютер по USB. Нажмите на кнопку внизу, если хотите скопировать файлы между компьютером и SD картой.</string>
-    <string name="usb_storage_error_message" product="nosdcard">Возникла проблема при использовании Вашего USB накопителя как съемного носителя.</string>
-    <string name="usb_storage_error_message" product="default">Возникла проблема с вашей SD картой.</string>
+    <string name="usb_storage_message">Вы подключили компьютер по USB. Нажмите на кнопку внизу, если хотите скопировать файлы между компьютером и накопителем.</string>
+    <string name="usb_storage_error_message">Возникла проблема с накопителем.</string>
     <string name="usb_storage_notification_title">USB подключен</string>
     <string name="usb_storage_notification_message">Выберите для копирования файлов на/с компьютера.</string>
     <string name="usb_storage_stop_notification_title">Выключить USB накопитель</string>
     <string name="usb_storage_stop_notification_message">Выберите, чтобы выключить USB накопитель.</string>
     <string name="usb_storage_stop_title">USB накопитель используется</string>
-    <string name="usb_storage_stop_message" product="nosdcard">Перед выключением USB накопителя удостоверьтесь, что \"извлекли\" USB накопитель из компьютера.</string>
-    <string name="usb_storage_stop_message" product="default">Перед выключением USB накопителя удостоверьтесь, что \"извлекли\" SD карту из компьютера.</string>
+    <string name="usb_storage_stop_message">Перед выключением USB накопителя удостоверьтесь, что \"извлекли\" накопитель из компьютера.</string>
     <string name="dlg_confirm_kill_storage_users_title">Включить USB накопитель</string>
     <string name="dlg_confirm_kill_storage_users_text">При включении USB накопителя некоторые используемые приложения будут остановлены и будут недоступны пока Вы не отключите USB накопитель.</string>
     <string name="dlg_error_title">Неудачная USB операция</string>
     <string name="dlg_ok">ОК</string>
-    <string name="ext_media_checking_notification_title" product="nosdcard">Подготовка USB накопителя</string>
-    <string name="ext_media_checking_notification_title" product="default">Подготовка SD карты</string>
+    <string name="ext_media_checking_notification_title">Подготовка накопителя</string>
     <string name="ext_media_checking_notification_message">Проверка на ошибки.</string>
-    <string name="ext_media_nofs_notification_title" product="nosdcard">Пустой USB накопитель</string>
-    <string name="ext_media_nofs_notification_title" product="default">Пустая SD карта</string>
-    <string name="ext_media_nofs_notification_message" product="nosdcard">USB накопитель пуст или файловая система не поддерживается.</string>
-    <string name="ext_media_nofs_notification_message" product="default">SD карта пустая или файловая система не поддерживается.</string>
-    <string name="ext_media_unmountable_notification_title" product="nosdcard">USB накопитель поврежден</string>
-    <string name="ext_media_unmountable_notification_title" product="default">SD карта повреждена</string>
-    <string name="ext_media_unmountable_notification_message" product="nosdcard">Возможно придется отформатировать USB накопитель.</string>
-    <string name="ext_media_unmountable_notification_message" product="default">Возможно придется отформатировать SD карту.</string>
-    <string name="ext_media_badremoval_notification_title" product="nosdcard">USB неожиданно отсоединен</string>
-    <string name="ext_media_badremoval_notification_title" product="default">SD карта неожиданно отсоединена</string>
-    <string name="ext_media_badremoval_notification_message" product="nosdcard">Извлеките USB накопитель перед отсоединением.</string>
-    <string name="ext_media_badremoval_notification_message" product="default">Извлеките SD карту перед отсоединением.</string>
-    <string name="ext_media_safe_unmount_notification_title" product="nosdcard">USB можно отсоединить</string>
-    <string name="ext_media_safe_unmount_notification_title" product="default">SD карту можно отсоединить</string>
-    <string name="ext_media_safe_unmount_notification_message" product="nosdcard">Отсоедините USB накопитель.</string>
-    <string name="ext_media_safe_unmount_notification_message" product="default">Отсоедините SD карту.</string>
-    <string name="ext_media_nomedia_notification_title" product="nosdcard">USB накопитель отсоединен</string>
-    <string name="ext_media_nomedia_notification_title" product="default">SD карта отсоединена</string>
-    <string name="ext_media_nomedia_notification_message" product="nosdcard">USB накопитель отсоединен.</string>
-    <string name="ext_media_nomedia_notification_message" product="default">SD карта отсоединена.</string>
+    <string name="ext_media_nofs_notification_title">Пустой накопитель</string>
+    <string name="ext_media_nofs_notification_message">Накопитель пуст или файловая система не поддерживается.</string>
+    <string name="ext_media_unmountable_notification_title">Накопитель поврежден</string>
+    <string name="ext_media_unmountable_notification_message">Возможно придется отформатировать накопитель.</string>
+    <string name="ext_media_badremoval_notification_title">Накопитель отсоединен</string>
+    <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отсоединением.</string>
+    <string name="ext_media_safe_unmount_notification_title">Накопитель можно отсоединить</string>
+    <string name="ext_media_safe_unmount_notification_message">Отсоедините накопитель.</string>
+    <string name="ext_media_nomedia_notification_title">Накопитель отсоединен</string>
+    <string name="ext_media_nomedia_notification_message">Накопитель отсоединен.</string>
     <string name="screen_button_custom">Настроить положение экранных клавиш</string>
     <string name="recent_apps_key">Клавиша \"Недавние приложения\"</string>
     <string name="recent_apps_key_show">Показать клавишу \"Недавние приложения\"</string>

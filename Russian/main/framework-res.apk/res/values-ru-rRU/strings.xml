@@ -567,7 +567,7 @@
     <string name="textSelectionCABTitle">Выбор текста</string>
     <string name="addToDictionary">добавить в словарь</string>
     <string name="deleteText">удалить</string>
-    <string name="inputMethod">Метод ввода</string>
+    <string name="inputMethod">Способ ввода</string>
     <string name="editTextMenuTitle">Действия с текстом</string>
     <string name="low_internal_storage_view_title">Мало внутренней памяти.</string>
     <string name="low_internal_storage_view_text">Внутренней памяти телефона становится все меньше и меньше.</string>
@@ -753,7 +753,7 @@
     <string name="permission_request_notification_title">Запрос разрешения</string>
     <string name="Permission requested">Запрос разрешения</string>
     <string name="permission_request_notification_with_subtitle">Требуется разрешение\n для аккаунта \"%s\"</string>
-    <string name="input_method_binding_label">Метод ввода</string>
+    <string name="input_method_binding_label">Способ ввода</string>
     <string name="sync_binding_label">Синхр.</string>
     <string name="accessibility_binding_label">Специальные возможности</string>
     <string name="wallpaper_binding_label">Обои</string>
@@ -1056,7 +1056,7 @@
     <string name="permlab_batteryStats">Статистика батареи</string>
     <string name="permlab_bindDeviceAdmin">Данные администратора</string>
     <string name="permlab_bindGadget">Виджеты</string>
-    <string name="permlab_bindInputMethod">Метод ввода</string>
+    <string name="permlab_bindInputMethod">Способ ввода</string>
     <string name="permlab_bindPackageVerifier">Проверка приложений</string>
     <string name="permlab_bindRemoteViews">Служба виджетов</string>
     <string name="permlab_bindTextService">Служба сообщений</string>
@@ -1205,7 +1205,7 @@
     <string name="permdesc_batteryStats">Позволяет системному приложению изменять статистику батареи.</string>
     <string name="permdesc_bindDeviceAdmin">Позволяет системному приложению отправлять данные администратору устройства.</string>
     <string name="permdesc_bindGadget">Позволяет системному приложению собирать информацию о виджетах.</string>
-    <string name="permdesc_bindInputMethod">Позволяет системному приложению выполнять привязку к методу ввода.</string>
+    <string name="permdesc_bindInputMethod">Позволяет системному приложению выполнять привязку к способу ввода.</string>
     <string name="permdesc_bindPackageVerifier">Позволяет системному приложению отправлять запросы на проверку пакетов приложений.</string>
     <string name="permdesc_bindRemoteViews">Позволяет системному приложению выполнять привязку к службе виджетов.</string>
     <string name="permdesc_bindTextService">Позволяет системному приложению выполнять привязку к службе текстовых сообщений (например, SpellCheckerService).</string>
@@ -1253,7 +1253,7 @@
     <string name="permdesc_getPackageSize">Позволяет приложению получать сведения о размере приложения.</string>
     <string name="permdesc_getTasks">Позволяет приложению получать сведения о последних и текущих процессах.</string>
     <string name="permdesc_hardware_test">Позволяет приложению управлять различными процессами для проверки аппаратного обеспечения.</string>
-    <string name="permdesc_injectEvents">Позволяет приложению передавать собственные методы ввода в другие приложения, например нажатия клавиш. Вредоносные приложения могут использовать эту возможность для установки полного контроля над телефоном.</string>
+    <string name="permdesc_injectEvents">Позволяет приложению передавать собственные способы ввода в другие приложения, например нажатия клавиш. Вредоносные приложения могут использовать эту возможность для установки полного контроля над телефоном.</string>
     <string name="permdesc_installLocationProvider">Позволяет приложению создавать фиктивные источники местоположения для тестирования.</string>
     <string name="permdesc_installPackages">Позволяет приложению устанавливать новые или обновленные приложения.</string>
     <string name="permdesc_internalSystemWindow">Позволяет системному приложению отображать всплывающие окна.</string>

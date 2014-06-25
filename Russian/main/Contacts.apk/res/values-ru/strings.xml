@@ -127,46 +127,24 @@
     <string name="simContacts_title">Контакты на SIM карте</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
-    <string name="noContactsHelpText" product="tablet">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с планшетом\n</li>
+    <string name="noContactsHelpText">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
+        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD карты\n</li>"
     </string>
-    <string name="noContactsHelpText" product="default">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с телефоном\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD карты\n</li>"
-    </string>
-    <string name="noContactsHelpTextWithSync" product="tablet">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с планшетом\n</li>
+    <string name="noContactsHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
+        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Параметры отображения</b></font> для выбора отображаемых контактов\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD карты\n</li>"
     </string>
-    <string name="noContactsHelpTextWithSync" product="default">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с телефоном\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Параметры отображения</b></font> для выбора отображаемых контактов\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD карты\n</li>"
-    </string>
-    <string name="noContactsNoSimHelpText" product="tablet">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с планшетом\n</li>
+    <string name="noContactsNoSimHelpText">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
+        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD карты\n</li>"
     </string>
-    <string name="noContactsNoSimHelpText" product="default">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с телефоном\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD карты\n</li>"
-    </string>
-    <string name="noContactsNoSimHelpTextWithSync" product="tablet">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с планшетом\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Параметры отображения</b></font> для выбора отображаемых контактов\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD карты\n</li>"
-    </string>
-    <string name="noContactsNoSimHelpTextWithSync" product="default">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
-        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с телефоном\n</li>
+    <string name="noContactsNoSimHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
+        \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Параметры отображения</b></font> для выбора отображаемых контактов\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD карты\n</li>"
@@ -219,8 +197,7 @@
     <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Данные контакта</string>
     <string name="no_sdcard_title">Нет SD карты</string>
-    <string name="no_sdcard_message" product="nosdcard">Накопитель не обнаружен.</string>
-    <string name="no_sdcard_message" product="default">SD карта не обнаружена.</string>
+    <string name="no_sdcard_message">Накопитель не обнаружен.</string>
     <string name="searching_vcard_title">Поиск vCard</string>
     <string name="import_from_sim">Импортировать с SIM карты</string>
     <string name="import_from_sim2">Импортировать с SIM карты 2</string>
@@ -230,18 +207,15 @@
     <string name="import_one_vcard_string">Импорт одного файла vCard</string>
     <string name="import_multiple_vcard_string">Импорт нескольких файлов vCard</string>
     <string name="import_all_vcard_string">Импорт всех файлов vCard</string>
-    <string name="searching_vcard_message" product="nosdcard">Поиск данных vCard на накопителе…</string>
-	<string name="searching_vcard_message" product="default">Поиск данных vCard на SD карте…</string>
-    <string name="scanning_sdcard_failed_title" product="nosdcard">Невозможно просканировать накопитель</string>
-	<string name="scanning_sdcard_failed_title" product="default">Невозможно просканировать SD карту</string>
+    <string name="searching_vcard_message">Поиск данных vCard на накопителе…</string>
+    <string name="scanning_sdcard_failed_title">Невозможно просканировать накопитель</string>
     <string name="scanning_sdcard_failed_message">Причина: %s</string>
     <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
     <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком велик.</string>
     <string name="fail_reason_vcard_parse_error">Не удалось открыть файл vCard.</string>
     <string name="fail_reason_not_supported">Формат не поддерживается.</string>
     <string name="vcard_import_failed">Не удалось импортировать файл vCard.</string>
-    <string name="import_failure_no_vcard_file" product="nosdcard">На накопителе не найдены файлы vCard.</string>
-    <string name="import_failure_no_vcard_file" product="default">На SD карте не найдены файлы vCard.</string>
+    <string name="import_failure_no_vcard_file">На накопителе не найдены файлы vCard.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать мета информацию из предоставленного файла vCard.</string>
     <string name="fail_reason_failed_to_read_files">Один или более файлов не могут быть импортированы (%s).</string>
     <string name="fail_reason_unknown">Неизвестная ошибка.</string>
@@ -266,8 +240,7 @@
     <string name="exporting_contact_failed_title">Не удалось экспортировать</string>
     <string name="exporting_contact_failed_message">Ошибка экспорта данных:\nПричина: %s</string>
     <string name="fail_reason_no_exportable_contact">Нет контактов, которые можно экспортировать.</string>
-    <string name="fail_reason_too_many_vcard" product="nosdcard">Слишком много файлов vCard на накопителе.</string>
-    <string name="fail_reason_too_many_vcard" product="default">Слишком много файлов vCard на SD карте.</string>
+    <string name="fail_reason_too_many_vcard">Слишком много файлов vCard на накопителе.</string>
     <string name="fail_reason_too_long_filename">Название файла слишком длинное (%s).</string>
     <string name="exporting_vcard_finished_title">Экспорт %s завершен.</string>
     <string name="exporting_vcard_canceled_title">Экспорт %s отменен.</string>
@@ -276,11 +249,10 @@
     <string name="fail_reason_could_not_initialize_exporter">Не удается запустить экспорт: \"%s\".</string>
     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте: \"%s\".</string>
     <string name="composer_failed_to_get_database_infomation">Не удалось получить сведения из базы данных.</string>
-    <string name="composer_has_no_exportable_contact" product="tablet">Нет контактов для экспорта. Если в вашем планшете имеются контакты, возможно, их экспорт был заблокирован поставщиком данных.</string>
-    <string name="composer_has_no_exportable_contact" product="default">Нет контактов для экспорта. Если в вашем телефоне имеются контакты, возможно, их экспорт был заблокирован поставщиком данных.</string>
+    <string name="composer_has_no_exportable_contact">Нет контактов для экспорта. Если в вашем устройстве имеются контакты, возможно, их экспорт был заблокирован поставщиком данных.</string>
     <string name="composer_not_initialized">Редактор vCard запущен некорректно.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть \"%s\": %s</string>
-    <string name="exporting_contact_list_progress" formatted="false">Контактов:%s из %s</string>
+    <string name="exporting_contact_list_progress" formatted="false">Контактов: %s из %s</string>
     <string name="cancel_import_confirmation_title">Отмена импорта vCard</string>
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
     <string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
@@ -327,8 +299,7 @@
     <string name="clear_digits">Очистить номер</string>
     <string name="call_record_setting_miui">Настройки записи звонков</string>
 	<string name="save">Сохранить</string>
-    <string name="account_phone" product="tablet">Планшет, без синхронизации</string>
-    <string name="account_phone" product="default">Телефон, без синхронизации</string>
+    <string name="account_phone">Устройство, без синхронизации</string>
     <string name="call_custom">Вызов %s</string>
     <string name="call_home">Домашний тел.</string>
     <string name="call_mobile">Мобильный тел.</string>
@@ -712,8 +683,7 @@
     <string name="quit_dialog_confirm_title">Вы не объединили ни один контакт. Выйти?</string>
     <string name="preference_import_export">Импорт/Экспорт</string>
     <string name="preference_import_export_title">Импорт/Экспорт контактов</string>
-    <string name="import_vcard_description" product="nosdcard">Импорт контактов из памяти телефона</string>
-    <string name="import_vcard_description" product="default">Импорт контактов с SD карты</string>
+    <string name="import_vcard_description">Импорт контактов из памяти телефона</string>
     <string name="import_weibo_dialog_title">Импорт контактов Sina Weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Нет совпадающих контактов</string>
     <string name="import_weibo_error_no_network">Ошибка сети</string>
@@ -725,8 +695,7 @@
     <string name="import_weibo_notification_title">Импортирование контактов Sina Weibo…</string>
     <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
     <string name="import_weibo_progress_hint">Импортирование…</string>
-    <string name="export_vcard_description" product="nosdcard">Экспорт vCard в память телефона</string>
-    <string name="export_vcard_description" product="default">Экспорт vCard на SD карту</string>
+    <string name="export_vcard_description">Экспорт vCard в память телефона</string>
     <string name="export_to_sim">Экспорт на SIM карту</string>
     <string name="export_to_sim2">Экспорт на SIM карту 2</string>
     <string name="export_to_sim_title">Экспортирование…</string>

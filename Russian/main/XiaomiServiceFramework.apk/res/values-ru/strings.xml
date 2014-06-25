@@ -222,8 +222,8 @@
     <string name="error_too_frequent_visits_summary">Вы совершаете запрос слишком часто. Пожалуйста, попробуйте еще раз через пять минут.</string>
     <string name="title_recharge">Пополнение счета</string>
     <string name="title_pay">Оплатить MiCredits</string> 
-    <string name="recharge_group_favorite">Используемые методы пополнения</string>
-    <string name="recharge_group_others">Другие методы пополнения</string>
+    <string name="recharge_group_favorite">Используемые способы пополнения</string>
+    <string name="recharge_group_others">Другие способы пополнения</string>
 	<string name="recharge_group_1to1">1 юань равен 1 MiCredit</string>
 	<string name="recharge_group_2to1">2 юаня равны 1 MiCredit</string>
     <string name="recharge_prepaid_title">Карты предоплаты</string>
@@ -235,7 +235,7 @@
     <string name="recharge_message_title">SMS</string>
     <string name="recharge_message_summary">Поддержка оплаты через телефон</string>
     <string name="recharge_pcpay_title">Пополнение через компьютер</string>
-    <string name="recharge_pcpay_summary">Поддерживает больше методов пополнения</string>
+    <string name="recharge_pcpay_summary">Поддерживает больше способов пополнения</string>
     <string name="recharge_voucher_title">Карты Mi Credit</string>
     <string name="recharge_voucher_summary">Поддержка переводов Mi Credit cards</string>
     <string name="recharge_hint">1 юань равен 1 Mi Credit</string>
@@ -245,7 +245,7 @@
     <string name="recharge_denomination">%1$s юань</string>
     <string name="btn_recharge_large">Пополнить сейчас</string>
     <string name="btn_pay_large">Оплатить сейчас</string> 
-    <string name="recharge_other">Выбрать другие методы пополнения</string>
+    <string name="recharge_other">Выбрать другие способы пополнения</string>
     <string name="paytool_picker_hint">Укажите сумму Mi Credit для зачисления</string>
     <string name="paytool_edit_hint">Сумма зачисления (RMB)</string>
     <string name="paytool_edit_limit">Меньше чем %1$s</string>

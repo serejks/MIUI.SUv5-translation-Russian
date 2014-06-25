@@ -39,7 +39,7 @@
 	<string name="btn_query">Узнать сейчас</string>
 	<string name="btn_recharge_confirm">Подтвердить покупку</string>
 	<string name="btn_recharge_large">Пополнить</string>
-	<string name="btn_recharge_other">Другие методы пополнения</string>
+	<string name="btn_recharge_other">Другие способы пополнения</string>
 	<string name="btn_recharge_success">Пополнение завершено</string>
 	<string name="btn_recharge_success_quick">Пополнение завершено</string>
 	<string name="btn_wait_call">Ожидание</string>
@@ -169,8 +169,8 @@
 	<string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
 	<string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$d~%2$dRMB)</string>
 	<string name="recharge_grid_picker_hint">Выбор суммы пополнения MiCredit</string>
-	<string name="recharge_group_favorite">Используемые методы пополнения</string>
-	<string name="recharge_group_others">Другие методы пополнения</string>
+	<string name="recharge_group_favorite">Используемые способы пополнения</string>
+	<string name="recharge_group_others">Другие способы пополнения</string>
 	<string name="recharge_notification">Пополнение MiCredit: %1$s</string>
 	<string name="recharge_message_title">Пополнение через SMS</string>
 	<string name="recharge_other">Отмена</string>
@@ -271,7 +271,7 @@
 	<string name="detail_pay_account">ID платежа</string>
 	<string name="detail_recharge_account">ID пополнения</string>
 	<string name="detail_recharge_amount">Сумма</string>
-	<string name="detail_recharge_method">Метод</string>
+	<string name="detail_recharge_method">Способ</string>
 	<string name="detail_recharge_order">Номер заказа пополнения</string>
 	<string name="detail_recharge_time">Время</string>
 	<string name="detail_recharge_title">Записи поплнения</string>
@@ -296,6 +296,6 @@
 	<string name="btn_agree">ОК</string>
     <string name="payment_actionbar_title">Подтвердить</string>
     <string name="balance_title">Баланс</string>
-    <string name="recharge_group_familiar">Обычные методы</string>
+    <string name="recharge_group_familiar">Обычные способы</string>
     <string name="pc_pay_login">Войдите</string>
 </resources>

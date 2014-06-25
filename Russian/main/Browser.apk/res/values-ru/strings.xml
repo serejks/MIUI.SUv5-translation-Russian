@@ -590,8 +590,7 @@
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
     <string name="download_default_path_txt">Установить папку загрузок по умолчанию</string>
 	<string name="download_dialog_default_path_invalid">Неверный путь загрузки, будет использован путь по умолчанию</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg" product="nosdcard">Требуется USB накопитель для изменения пути</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg" product="default">Требуется SD карта для изменения пути</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg">Требуется накопитель для изменения пути</string>
     <string name="pref_file_download_save_title">Загрузка</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Сброс настроек</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию</string>

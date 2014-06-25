@@ -132,7 +132,7 @@
     <string name="tutorial_title_change_input_mode">Изменить режим ввода</string>
     <string name="tutorial_title_change_lang">Изменить язык</string>
     <string name="tutorial_title_move_select">Перемещение и выделение</string>
-    <string name="tutorial_title_chage_input_method">Изменение метода ввода</string>
+    <string name="tutorial_title_chage_input_method">Изменение способа ввода</string>
     <string name="tutorial_title_multi_mode">Значок нескольких режимов</string>
     <string name="tutorial_title_customizable_key">Настраиваемая клавиша</string>
     <string name="tutorial_title_voice_input">Голосовой ввод</string>
@@ -141,7 +141,7 @@
     <string name="tutorial_title_clipboard">Буфер обмена</string>
     <string name="tutorial_title_keypad_settings">Параметры клавиатуры</string>
     <string name="tutorial_title_keypad_guide">Жесты для клавиатуры</string>
-    <string name="tutorial_title_change_input_method">Изменить метод ввода</string>
+    <string name="tutorial_title_change_input_method">Изменить способ ввода</string>
     <string name="tutorial_title_change_keyboard_type">Изменять тип клавиатуры</string>
     <string name="tutorial_helptext_open">Чтобы открыть клавиатуру, коснитесь любого текстового поля</string>
     <string name="tutorial_helptext_close">Нажмите \"Назад\", чтобы закрыть клавиатуру</string>
@@ -153,7 +153,7 @@
     <string name="tutorial_helptext_move2">Чтобы переместить курсор, передвиньте маркер в нужное место</string>
     <string name="tutorial_helptext_select">Чтобы начать выделение текста, нажмите \"Выберите слово\" или \"Выбрать все\"</string>
     <string name="tutorial_helptext_select1">Курсор включает начальный и конечный маркеры. Чтобы выделить текст, переместите оба маркера. Чтобы выбрать копирование, вырезание, вставку или другую функцию, отпустите маркер. Чтобы закончить выбор текста, нажмите на маркер</string>
-    <string name="tutorial_helptext_chage_input_method">Чтобы изменить метод ввода, нажмите значок клавиатуры на панели уведомлений</string>
+    <string name="tutorial_helptext_chage_input_method">Чтобы изменить способ ввода, нажмите значок клавиатуры на панели уведомлений</string>
     <string name="tutorial_helptext_multi_mode">Чтобы выбрать голосовой ввод, рукописный ввод, буфер обмена или клавиатуру, нажмите и удерживайте значок нескольких режимов. По умолчанию выбрана клавиатура</string>
     <string name="tutorial_helptext_voice_input">Чтобы использовать голосовой ввод, нажмите его значок</string>
     <string name="tutorial_helptext_handwriting">Чтобы использовать рукописный ввод, нажмите его значок</string>
@@ -164,8 +164,8 @@
     <string name="tutorial_helptext_keypad_guide_subtext1">Чтобы изменить тип клавиатуры, растяните область клавиатуры двумя пальцами</string>
     <string name="tutorial_helptext_keypad_guide_subtitle2">Перемещение клавиатуры</string>
     <string name="tutorial_helptext_keypad_guide_subtext2">Перемещайте разделенную и плавающую клавиатуры пальцами. Разделенную клавиатуру можно перемещать вверх и вниз, а плавающую — в любое место</string>
-    <string name="tutorial_helptext_change_input_method">Чтобы изменить метод ввода, коснитесь значка клавиатуры в строке состояния</string>
-    <string name="tutorial_helptext_setting_key">Нажмите кнопку параметров, чтобы открыть меню \"Параметры\" для клавиатуры Samsung QWERTY. Нажмите и удерживайте клавишу параметров для изменения метода ввода</string>
+    <string name="tutorial_helptext_change_input_method">Чтобы изменить способ ввода, коснитесь значка клавиатуры в строке состояния</string>
+    <string name="tutorial_helptext_setting_key">Нажмите кнопку параметров, чтобы открыть меню \"Параметры\" для клавиатуры Samsung QWERTY. Нажмите и удерживайте клавишу параметров для изменения способа ввода</string>
     <string name="tutorial_helptext_customizable_key">Чтобы выбрать голосовой ввод, рукописный ввод, буфер обмена, клавиатуру или знаки препинания, нажмите и удерживайте настраиваемую клавишу</string>
     <string name="tutorial_helptext_customizable_key_with_ocr">Чтобы выбрать голосовой ввод, рукописный ввод, распознавание текста, буфер обмена, клавиатуру или знаки препинания, нажмите и удерживайте настраиваемую клавишу</string>
     <string name="tutorial_helptext_customizable_key_with_ocr_without_hwr">Чтобы выбрать голосовой ввод, распознавание текста, буфер обмена, клавиатуру или знаки препинания, нажмите и удерживайте настраиваемую клавишу</string>
