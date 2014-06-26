@@ -35,5 +35,5 @@
     <string name="sound_effect_enhance_summary_on">Включен</string>
     <string name="sound_effect_enhance_summary_off">Выключен</string>
     <string name="led_app_msg_title">Сообщения уведомлений</string>
-    <string name="led_app_msg_summary">Индикация при пепрочитанных сообщениях Mi Cloud, Mi-Маркет, Weibo, WeChat, QQ и email</string>
+    <string name="led_app_msg_summary">Индикация при пепрочитанных сообщениях Mi Cloud, Mi Маркет, Weibo, WeChat, QQ и email</string>
 </resources>

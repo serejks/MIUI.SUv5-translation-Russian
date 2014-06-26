@@ -3667,11 +3667,11 @@ Android File Transfer
     <string name="virus_scan_clear">Очистка</string>
     <string name="virus_scan_never_scaned">Необходимо сканирование</string>
     <string name="virus_scan_file_type_virus_installed">Вирус (установленное приложение)</string>
-    <string name="virus_scan_file_type_virus_apk">Вирус (установочный apk)</string>
+    <string name="virus_scan_file_type_virus_apk">Вирус (установочный APK)</string>
     <string name="virus_scan_file_type_risk_installed">Подозрительное приложение (установлено)</string>
-    <string name="virus_scan_file_type_risk_apk">Подозрительное приложение (установочный apk)</string>
+    <string name="virus_scan_file_type_risk_apk">Подозрительное приложение (установочный APK)</string>
     <string name="virus_scan_installed_package">%s (установленное приложение)</string>
-    <string name="virus_scan_uninstalled_package">%s (установочный apk)</string>
+    <string name="virus_scan_uninstalled_package">%s (установочный APK)</string>
     <string name="virus_scan_last_virus">При последней проверке были найдены вирусы.</string>
     <string name="virus_scan_last_risk">Найденные подозрительные приложения при последней проверке не были удалены.</string>
     <string name="virus_scan_settings_title">Настройки антивируса</string>

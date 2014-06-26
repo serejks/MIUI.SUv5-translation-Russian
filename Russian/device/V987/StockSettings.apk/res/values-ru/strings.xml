@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="stocks_app">Приложения ZTE</string>
-    <string name="zte_mi_pop_title">ZTE Mi-Pop</string>
-    <string name="zte_mi_pop_summary">Введите mi-pop для главного экрана приложения.</string>
+    <string name="zte_mi_pop_title">ZTE Mi Pop</string>
+    <string name="zte_mi_pop_summary">Введите Mi Pop для главного экрана приложения.</string>
     <string name="app_name">Расширенные настройки</string>
     <string name="action_settings">Настройки</string>
     <string name="title_section1">Системные настройки</string>
