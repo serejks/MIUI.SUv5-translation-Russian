@@ -151,7 +151,7 @@
 	<string name="close_dialog">ОК</string>
 	<string name="enable">Включить</string>
 	<string name="disable">Отключить</string>
-	<string name="enable_antispam_strange_summary">Не уведомлять о первом входящем вызове от неизвестного номера</string>
+	<string name="enable_antispam_strange_summary">Не уведомлять о первых двух гудках от неизвестного номера</string>
 	<string name="enable_antispam_strange_title">Неизвестные номера без звука</string>
 	<string name="change_num">Обновить</string>
 	<string name="vm_save_number">Сохранить номер голосовой почты</string>

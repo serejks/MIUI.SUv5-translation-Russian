@@ -35,9 +35,9 @@
 	<string name="menu_rename_folder">Переименовать</string>
 	<string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
 	<string name="alert_title_delete">Удаление выбранных заметок</string>
-	<string name="alert_message_delete_notes">Удалить заметки (%1$s шт.)?</string>
-	<string name="alert_message_delete_folders">Удалить папки (%1$s шт.)?</string>
-	<string name="alert_message_delete_folders_notes">Удалить папки (%1$s шт.) и заметки (%2$s шт.)?</string>
+	<string name="alert_message_delete_notes">Удалить заметок: %1$s?</string>
+	<string name="alert_message_delete_folders">Удалить папок: %1$s?</string>
+	<string name="alert_message_delete_folders_notes">Удалить\nпапок: %1$s\nзаметок: %2$s?</string>
 	<string name="alert_message_delete_note">Удалить заметку?</string>
 	<string name="alert_title_discard">Отменить изменения?</string>
 	<string name="alert_message_discard_changes">Отменить все изменения?</string>
