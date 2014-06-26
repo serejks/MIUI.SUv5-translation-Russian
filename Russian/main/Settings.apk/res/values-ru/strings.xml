@@ -4406,4 +4406,12 @@ Android File Transfer
     <string name="msd_driver_download_mac">Для Macs, загрузите драйвер и нажмите AndroidFileTransfer.dmg для установки</string>
     <string name="msd_driver_download_mac_url">Загрузите драйвер на http://www.android.com/filetransfer/</string>
     <string name="msd_install_download_zhushou">Загрузить MiPhoneManager</string>
+	<string name="cta_button_text_agree">ОК</string>
+	<string name="cta_button_text_cancel">Отмена</string>
+	<string name="cta_checkbox_title">Запомнить</string>
+	<string name="cta_dialog_msg">Для использования некоторых сервисов приложения \"Безопасность\" требуется доступ к сети.</string>
+	<string name="cta_dialog_title">Разрешить приложению доступ к сети?</string>
+	<string name="cta_settings">Разрешить доступ к сети</string>
+	<string name="accessibility_service_no_apps_confirm">ОК</string>
+	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
 </resources>
