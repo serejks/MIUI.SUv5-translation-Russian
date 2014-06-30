@@ -95,7 +95,7 @@
     <string name="snooze_all_label">Отложить все</string>
     <string name="dismiss_all_label">Отклонить все</string>
     <string name="snooze_label">Отложить</string>
-    <string name="does_not_repeat">Однократное событие</string>
+    <string name="does_not_repeat">Один раз</string>
     <string name="daily">Ежедневно</string>
     <string name="every_weekday">Каждый будний день (пн–пт)</string>
     <string name="weekly">Еженедельно (кажд. %s)</string>

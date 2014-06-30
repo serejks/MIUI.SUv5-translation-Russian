@@ -386,7 +386,7 @@
     <string name="add_connection_button">Добавить соц.сеть</string>
     <string name="recent">Недавние</string>
     <string name="recent_updates">Недавние</string>
-    <string name="account_type_format">Контакт %1$s</string>
+    <string name="account_type_format">Контакт: %1$s</string>
     <string name="use_photo_as_primary">Использовать это фото</string>
     <string name="contact_read_only">Не редактируется из этого приложения.</string>
     <string name="no_contact_details">Никакой дополнительной информации для этого контакта.</string>
@@ -449,7 +449,7 @@
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="hint_findContacts">Найти контакты</string>
     <string name="non_phone_caption">Номер телефона</string>
-    <string name="non_phone_add_to_contacts">Добавить в контакты</string>
+    <string name="non_phone_add_to_contacts">Добавить к контакту</string>
     <string name="activity_title_confirm_add_detail">Добавить к контакту</string>
     <string name="non_phone_close">Закрыть</string>
     <string name="date_year_toggle">Указать год</string>

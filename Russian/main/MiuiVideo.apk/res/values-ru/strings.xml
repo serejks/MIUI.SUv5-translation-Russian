@@ -335,4 +335,6 @@
 	<string name="receive_ad_notify_summary">Показывать самые новые и популярные видео при запуске.</string>
 	<string name="success_add_waitfornewset">Готово</string>
 	<string name="check_network">Ошибка подключения. Проверьте параметры сети.</string>
+    <string name="setting_use_network">Мобильная сеть</string>
+    <string name="setting_use_network_summery">Разрешить приложению использовать мобильную сеть</string>
 </resources>
