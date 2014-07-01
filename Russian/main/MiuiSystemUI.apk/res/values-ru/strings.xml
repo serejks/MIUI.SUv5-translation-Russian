@@ -207,7 +207,7 @@
     <string name="settings_toggle_layout_style">Стиль переключателей</string>
     <string name="settings_toggle_layout_style_compact">Строка</string>
     <string name="settings_toggle_layout_style_single_page">Сетка</string>
-    <string name="settings_toggle_layout_style_applying">Меняю стиль переключателей…</string>
+    <string name="settings_toggle_layout_style_applying">Изменение стиля…</string>
     <string name="settings_toggle">Переключатели</string>
     <string name="settings_toggle_position">Управление переключателями</string>
     <string name="settings_toggle_position_divider_page">%1$d переключателей выше отображаются</string>
@@ -344,8 +344,8 @@
     <string name="filter_item_preview_image">Предпросмотр</string>
 	<string name="filter_item_description">Для настройки уведомлений зайдите в Настройки &gt; Панель уведомлений &gt; Настройка уведомлений</string>
 	<string name="usb_share_net_info">Использовать интернет компьютера</string>
-	<string name="torch_opened">Фонарик запущен</string>
-    <string name="torch_closed">Фонарик закрыт</string>
+	<string name="torch_opened">Фонарик включен</string>
+    <string name="torch_closed">Фонарик выключен</string>
 	<string name="oldman_airplane_mode_text">В самолете</string>
     <string name="status_bar_and_notification_bar">Панель уведомлений и статус бар</string>
     <string name="settings_show_screenshot_notification">Уведомление о скриншоте</string>
