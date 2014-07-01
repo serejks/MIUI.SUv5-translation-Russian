@@ -24,16 +24,16 @@
     <string name="select_groups">Выбор групп</string>
     <string name="sim_capacity">Емкость SIM карты</string>
     <string name="sim_capacity_content" formatted="false">Доступно: %d | Занято: %d</string>
-    <string name="sim_contact_existing">Этот контакт на SIM уже существует</string>
+    <string name="sim_contact_existing">Контакт уже существует</string>
     <string name="sim_contact_number_missing">Контакт не найден</string>
-    <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
-    <string name="sim_error_email_full">Хранилище электронных адресов заполнено</string>
-    <string name="sim_error_email_too_long">Адрес почты слишком длинный</string>
+    <string name="sim_error_anr_full">память для номеров заполнена</string>
+    <string name="sim_error_email_full">Память для электронной почты заполнена</string>
+    <string name="sim_error_email_too_long">Адрес email слишком длинный</string>
     <string name="sim_error_generic_failure">Ошибка</string>
-    <string name="sim_error_not_ready">Загрузка контактов SIM карты. Подождите…</string>
+    <string name="sim_error_not_ready">Загрузка контактов SIM карты…</string>
     <string name="sim_error_number_too_long">Номер слишком длинный</string>
     <string name="sim_error_password_error">Неверный пароль</string>
-    <string name="sim_error_storage_full">Хранилище заполнено</string>
+    <string name="sim_error_storage_full">Память SIM карты заполнена.</string>
     <string name="sim_error_text_too_long">Имя слишком длинное</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="provider_tag">Данные</string>

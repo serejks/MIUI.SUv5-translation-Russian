@@ -352,7 +352,7 @@
     <string name="settings_show_carrier">Название оператора</string>
     <string name="settings_custom_carrier">Изменить название оператора</string>
     <string name="settings_no_carrier">Ничего</string>
-    <string name="settings_show_carrier_summary">Только на экране блокировки</string>
+    <string name="settings_show_carrier_summary">Если выключить, то название оператора будет отображаться только на экране блокировки и панели уведомлений</string>
     <string name="settings_basic_settings">Основные настройки</string>
     <string name="settings_advanced">Дополнительные настройки</string>
     <string name="accessibility_search_light">Поиск</string>

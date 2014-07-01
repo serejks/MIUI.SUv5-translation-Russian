@@ -212,11 +212,11 @@
     <string name="loading">Загрузка…</string>
     <string name="fail_to_load">Не загружено</string>
     <string name="fail_to_load_image">Не удалось загрузить изображение</string>
-    <string name="no_thumbnail">Нет уменьшенного изображения</string>
+    <string name="no_thumbnail">Нет эскиза</string>
     <string name="resume_playing_restart">Начать с начала</string>
     <string name="crop_save_text">ОК</string>
     <string name="ok">ОК</string>
-    <string name="multiface_crop_help">Нажмите на лицо, чтобы начать.</string>
+    <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
     <string name="saving_image">Сохранение картинки…</string>
     <string name="save_error">Изображение не сохранено.</string>
     <string name="crop_label">Обрезать фотографию</string>

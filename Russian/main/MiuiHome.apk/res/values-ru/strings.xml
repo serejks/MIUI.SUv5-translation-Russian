@@ -203,7 +203,7 @@
 	<string name="settings_shortcut">Настройки</string>
 	<string name="current_wallpaper">Выбранные</string>
 	<string name="apply_as_lock_wallpaper">ОК</string>
-	<string name="apply_as_lock_wallpaper_message">Применить выбранные обои на экран блокировки тоже?</string>
+	<string name="apply_as_lock_wallpaper_message">Применить выбранные обои также на экран блокировки?</string>
 	<string name="lock_screen_failed_message">Не удалось применить</string>
 	<string name="lock_screen_success_message">Применено</string>
 	<string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
