@@ -3730,7 +3730,7 @@ Android File Transfer
 	<string name="optimize_tips_ad_title">Реклама:</string>
     <string name="optimize_tips_ad_content">Изображения, текстовые файлы и другие данные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
     <string name="optimize_tips_apk_title">APK:</string>
-    <string name="optimize_tips_apk_content">Установочные файлы приложений приложений.</string>
+    <string name="optimize_tips_apk_content">Установочные файлы приложений.</string>
     <string name="optimize_tips_cache_title">Кэш:</string>
     <string name="optimize_tips_cache_content">Временные файлы, которые создаются в процессе работы приложений (например эскизы).</string>
     <string name="optimize_tips_residual_title">Мусор приложений:</string>
@@ -3775,7 +3775,7 @@ Android File Transfer
     <string name="scanning_prefix">Сканирование: %s</string>
     <string name="cleanning_prefix">Очистка: %s</string>
     <string name="scanning_start_hints">Подготовка к сканированию</string>
-    <string name="pref_category_title_auto_update_cleanup_db">Настройки обновлений базы очистки</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Настройки обновлений</string>
     <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
     <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
@@ -3985,7 +3985,7 @@ Android File Transfer
     <string name="free_wifi_confirm">Подтвердить</string>
 	<string name="pref_category_title_cleanup_white_list">Белый список очистки</string>
     <string name="pref_title_cleanup_white_list">Белый список очистки</string>
-    <string name="pref_summary_cleanup_white_list">Файлы из белого списка не будут очищаться</string>
+    <string name="pref_summary_cleanup_white_list">Файлы из белого списка не будут очищаться.</string>
 	<string name="tab_title_internal_storage">Внутренняя память</string>
     <string name="tab_title_external_storage">Внешняя память</string>
     <string name="tab_title_sdcard_storage">SD карта</string>
@@ -4025,10 +4025,10 @@ Android File Transfer
     <string name="white_list_residual_header">Мусор: %d</string>
     <string name="white_list_title">Белый список</string>
     <string name="button_text_delete_from_white_list">Удалить из списка</string>
-    <string name="toast_add_white_list_success">Добавлено в белый список</string>
+    <string name="toast_add_white_list_success">" добавлено в белый список"</string>
     <string name="dialog_title_check_all">Выбрать все</string>
     <string name="dialog_msg_check_all">Приложение: %1$s \nФайлов: %2$d</string>
-    <string name="toast_removed_from_white_list">Удалено из белого списка</string>
+    <string name="toast_removed_from_white_list">" удалено из белого списка"</string>
     <string name="notification_button_text_of_low_memory">Очистка</string>
     <string name="notification_title_of_low_memory">Память заполнена на %s</string>
     <string name="notification_summary_of_low_memory">Нажмите для очистки</string>
@@ -4347,10 +4347,10 @@ Android File Transfer
     <string name="bluetooth_unlock_change_matched_device">Выберите другое устройство</string>
     <string name="bluetooth_unlock_add_device">Добавить устройство</string>
     <string name="bluetooth_unlock_delete_device">Удалить устройство</string>
-    <string name="bluetooth_unlock_confirm_device_text">Нажмите на устройство для подтверждения</string>
-    <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки экрана</string>
-    <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить выбранное устройство?</string>
-    <string name="bluetooth_unlock_change_device_confirm_msg">Заменить старое устройство на новое?</string>
+    <string name="bluetooth_unlock_confirm_device_text">Коснитесь устройствами для разблокировки.</string>
+    <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить устройство?</string>
+    <string name="bluetooth_unlock_change_device_confirm_msg">Старое устройство будет заменено на текущее.</string>
 	<string name="wifi_type_approval_title">Подтверждение типа</string>
 	<string name="manage_xiaomi_router">Управление роутером Xiaomi</string>
     <string name="xiaomi_router_notif_title">Уведомлять о роутере Xiaomi</string>
@@ -4372,7 +4372,7 @@ Android File Transfer
 	<string name="bluetooth_device_address">Адрес устройства:</string>
 	<string name="title_font">Шрифт</string>
 	<string name="title_font_current">Выбор шрифта</string>
-	<string name="use_network_warning">Системные службы Xiaomi и Mi Cloud запрашивают доступ к сети</string>
+	<string name="use_network_warning">Необходим интернет для настройки и синхронизации Mi аккаунта</string>
     <string name="menu_item_show_more">Еще</string>
     <string name="ringtone_mute">Пусто</string>
     <string name="title_system_resource">Системные ресурсы</string>

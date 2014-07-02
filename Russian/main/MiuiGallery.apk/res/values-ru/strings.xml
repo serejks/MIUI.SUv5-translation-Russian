@@ -528,13 +528,13 @@
 	<string name="ubifocus_guide_text">Долгое нажатие для перефокусировки</string>
 	<string name="bigscreen_slide_playing">Слайдшоу воспроизводится на устройстве: %s</string>
 	<string name="confirm_delete_has_cloud_image">Удалить %s фото из Mi Cloud?</string>
-	<string name="confirm_delete_has_cloud_image_video">Удалить выбранные файлы из Mi Cloud? (%s)</string>
+	<string name="confirm_delete_has_cloud_image_video">Удалить файлов из Mi Cloud: %s?</string>
 	<string name="confirm_delete_has_cloud_local_image">Удалить %s фото из памяти телефона и Mi Cloud?</string>
-	<string name="confirm_delete_has_cloud_local_image_video">Удалить выбранные файлы из памяти телефона и Mi Cloud? (%s)</string>
+	<string name="confirm_delete_has_cloud_local_image_video">Удалить файлов из памяти телефона и Mi Cloud: %s?</string>
 	<string name="confirm_delete_has_cloud_local_video">Удалить %s видео из памяти телефона и Mi Cloud?</string>
 	<string name="confirm_delete_has_cloud_video">Удалить %s видео из Mi Cloud?</string>
 	<string name="confirm_delete_has_local_image">Удалить %s фото?</string>
-	<string name="confirm_delete_has_local_image_video">Удалить выбранные файлы? (%s)</string>
+	<string name="confirm_delete_has_local_image_video">Удалить файлов: %s?</string>
 	<string name="confirm_delete_has_local_video">Удалить %s видео?</string>
 	<string name="confirm_delete_init_message">Файлы будут удалены из памяти телефона и Mi Cloud. Если вы хотите удалить их только из памяти телефона, то удалите через локальные альбомы.</string>
 	<string name="confirm_delete_init_title">Предупреждение</string>
