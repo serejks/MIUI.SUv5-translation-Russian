@@ -53,7 +53,7 @@
         <item>Быстрее</item>
         <item>Очень быстрая</item>
         <item>Скоростная</item>
-        <item>Очень скорост ная</item>
+        <item>Очень скоростная</item>
         <item>Самая быстрая</item>
     </string-array>
     <string-array name="change_security_lock_picker">
