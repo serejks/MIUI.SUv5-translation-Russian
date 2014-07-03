@@ -61,7 +61,7 @@
 	<string name="delete_item">Удалить</string>
 	<string name="delete_playlist_menu">Удалить</string>
 	<string name="delete_song_desc">Удалить выбранные треки? \n\n%s </string>
-	<string name="deselect_all">Отмена</string>
+	<string name="deselect_all">Снять выбор</string>
 	<string name="download">Загрузить</string>
 	<string name="download_album_settings">Загрузка обложек</string>
 	<string name="download_album_summary">Автозагрузка обложек через мобильный интернет</string>
@@ -262,7 +262,7 @@
 	<string name="search_settings_description">Исполнители, альбомы и треки.</string>
 	<string name="search_suggestion">Поиск:</string>
 	<string name="search_title">Поиск</string>
-	<string name="select_all">Все</string>
+	<string name="select_all">Выбрать все</string>
 	<string name="select_folder">Выберите папку</string>
 	<string name="select_quit_time">Время до отключения (в минутах)</string>
 	<string name="send_to">Отправить</string>
