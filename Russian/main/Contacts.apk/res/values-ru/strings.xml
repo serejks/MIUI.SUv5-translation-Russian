@@ -550,13 +550,13 @@
     <string name="no_contact_name">Имя контакта не сохранено</string>
     <string name="contact_pick_photo">Фото</string>
     <string name="btn_delete_one_contact">Удалить контакт</string>
-    <string name="btn_delete_multi_contacts">Удалить %d</string>
+    <string name="btn_delete_multi_contacts">Удалить контактов: %d</string>
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="use_photo_as_primary2">Использовать фото контакта %1$s</string>
     <string name="label_custom_type">По выбору</string>
     <string name="select_photo_from_photo_package">Выбрать фото из пакета</string>
-    <string name="select_new_photo_from_photo_package">Выбрать новое фото из пакета</string>
-    <string name="photo_package_activity_title">Фото из пакета</string>
+    <string name="select_new_photo_from_photo_package">Обзор папок</string>
+    <string name="photo_package_activity_title">Обзор папок</string>
     <string name="lunarBirthdayLabelsGroup">Лунный календарь</string>
     <string name="callrecordview_menu_show_title">Варианты отображения вызовов</string>
     <string name="callrecordview_menu_show_all">Все вызовы</string>
@@ -643,7 +643,7 @@
     <string name="pick_recent_list_title">Недавних контактов: %1$d</string>
     <string name="noRecentContacts">Нет недавних контактов</string>
     <string name="hint_search_contacts">Контактов: %d</string>
-	<string name="hint_search_emails">Почтовых адресов: %d</string>
+	<string name="hint_search_emails">Email адресов: %d</string>
     <string name="hint_search_phone_numbers">Номеров контактов: %d</string>
     <string name="pick_favorites_contacts_list_title">Избранных: %1$d</string>
     <string name="pick_recent_contacts_list_title">Недавних контактов: %1$d</string>
@@ -818,10 +818,10 @@
     <string name="preference_smart_group_title">Умная группировка</string>
     <string name="preference_smart_group_company_title">По компании</string>
     <string name="preference_smart_group_company_summary">Группировка контактов по компании</string>
-    <string name="preference_smart_group_location_title">По местонахождению</string>
+    <string name="preference_smart_group_location_title">По местоположению</string>
     <string name="preference_smart_group_location_summary">Группировка контактов по коду оператора</string>
     <string name="preference_smart_group_frequency_title">По последним вызовам</string>
-    <string name="preference_smart_group_frequency_summary">Группировка контактов по последним вызовам или SMS</string>
+    <string name="preference_smart_group_frequency_summary">Группировка контактов по последним вызовам или сообщениям</string>
     <string name="smart_group_label">Умная группировка</string>
     <string name="smart_group_loading">Загрузка групп…</string>
     <string name="smart_group_company_label">По компании</string>
@@ -894,7 +894,7 @@
     <string name="starred_contacts">Избранные</string>
     <string name="other_contacts">Прочие</string>
     <string name="set_photo_failed_msg">При установке аватарки возникла ошибка.</string>
-    <string name="cloud_antispam_title">Облачный антиспам</string>
+    <string name="cloud_antispam_title">Определение неизвестных номеров</string>
     <string name="cloud_antispam_summary">Сетевые запросы только при Wi-Fi или 3G</string>
     <string name="resource_app_name">Диспетчер ресурсов</string>
     <string name="resource_price_free">Бесплатно</string>
@@ -1065,7 +1065,7 @@
     <string name="pref_key_sim_manage">Контакты SIM карты</string>
     <string name="accessibility_calllog_detail">Журнал</string>
     <string name="select_groups">Выбрать группы</string>
-    <string name="sim_contact_existing">Контакт уже существует/</string>
+    <string name="sim_contact_existing">Контакт уже существует</string>
     <string name="sim_contact_number_missing">Номер контакта на SIM карте отсутствует.</string>
     <string name="sim_error_generic_failure">Ошибка</string>
     <string name="sim_error_storage_full">Память SIM карты заполнена.</string>
