@@ -1085,7 +1085,6 @@
     <string name="skip_button_label">Отмена</string>
     <string name="next_button_label">Далее</string>
     <string name="lock_title">Обеспечение безопасности телефона</string>
-    <string name="lock_intro_message">Чтобы никто, кроме вас, не мог воспользоваться вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. \n\nЧтобы начать, нажмите \"Далее\".</string>
     <string name="manageapplications_settings_title">Управление приложениями</string>
     <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
     <string name="applications_settings">Приложения</string>
@@ -1552,7 +1551,7 @@
     <string name="credentials_unlock_hint">Введите пароль для памяти регистрационных данных.</string>
     <string name="credentials_old_password">Текущий пароль:</string>
     <string name="credentials_reset_hint">Удалить весь контент?</string>
-    <string name="credentials_password_too_short">Не менее 8 символов.</string>
+    <string name="credentials_password_too_short">Введите пароль (минимум 8 символов)</string>
     <string name="credentials_wrong_password">Неправильный пароль.</string>
     <string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
     <string name="credentials_reset_warning_plural">Неверный пароль. Осталось попыток: %1$d. Затем хранилище регистрационных данных будет очищено.</string>

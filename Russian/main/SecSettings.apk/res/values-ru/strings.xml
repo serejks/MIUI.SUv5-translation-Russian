@@ -1407,7 +1407,6 @@ or visit CS center."</string>
     <string name="skip_button_label">Отмена</string>
     <string name="next_button_label">Далее</string>
     <string name="lock_title">Защита устройства</string>
-    <string name="lock_intro_message">Защитите телефон от нежелательного использования с помощью рисунка разблокировки экрана. На следующем экране пальцем соедините точки в любом порядке. Необходимо соединить как минимум четыре точки. Готовы? Нажмите \"Далее\"</string>
     <string name="manageapplications_settings_title">Управление приложениями</string>
     <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
     <string name="applications_settings">Диспетчер приложений</string>
@@ -1828,7 +1827,7 @@ or visit CS center."</string>
     <string name="credentials_unlock_hint">Ввод пароля для хранилища учетных данных</string>
     <string name="credentials_old_password">Текущий пароль</string>
     <string name="credentials_reset_hint">Удалить все содержимое?</string>
-    <string name="credentials_password_too_short">Введите пароль длиной не менее 8 символов</string>
+    <string name="credentials_password_too_short">Введите пароль (минимум 8 символов)</string>
     <string name="credentials_wrong_password">Неправильный пароль</string>
     <string name="credentials_reset_warning">Неправильный пароль. Осталась одна попытка. При вводе неправильного пароля хранилище учетных данных будет очищено</string>
     <string name="credentials_reset_warning_plural">Неправильный пароль. Осталось попыток: %1$d. Затем хранилище учетных данных будет очищено</string>
