@@ -202,7 +202,7 @@
     <string name="signin_error">Не удалось подключиться к серверу. Проверьте подключение к сети.</string>
     <string name="signin_success">Добро пожаловать!\n Получено свободного места %1$s</string>
     <string name="already_signin_description">Вы уже вошли.</string>
-    <string name="pull_to_signin">Сдвиньте вниз, чтобы войти.</string>
+    <string name="pull_to_signin">Сдвиньте вниз, чтобы войти</string>
     <string name="release_to_signin">Отпустите для входа</string>
     <string name="server_control_settings">Настройки</string>
     <string name="server_control_advanced_settings">Настройки FTP</string>

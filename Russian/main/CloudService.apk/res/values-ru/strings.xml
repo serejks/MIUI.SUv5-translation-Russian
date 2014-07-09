@@ -29,6 +29,6 @@
     <string name="no_sim">SIM карта не обнаружена.</string>
     <string name="sim_unavailable">SIM карта недоступна.</string>
     <string name="sim_locked">SIM карта заблокирована.</string>
-    <string name="sim_not_ready">SIM карта используется. Повторите позже.</string>
+    <string name="sim_not_ready">SIM карта уже используется.</string>
     <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
 </resources>

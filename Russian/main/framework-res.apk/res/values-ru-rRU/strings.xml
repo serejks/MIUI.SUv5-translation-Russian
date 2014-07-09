@@ -656,12 +656,12 @@
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> отправляет большое количество SMS сообщений. Нажмите \"ОК\" для продолжения или \"Отмена\" для прекращения отправки.</string>
     <string name="sms_control_yes">ОК</string>
     <string name="sms_control_no">Отмена</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хочет отправить сообщение &lt;b>%2$s&lt;/b>.</string>
-    <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к расходам</font> на вашем счету.</string>
-    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Это приведет к расходам на вашем счету.</font></string>
+    <string name="sms_short_code_confirm_message">Приложение &lt;b>%1$s&lt;/b> хочет отправить сообщение абоненту &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к дополнительным расходам</font>.</string>
+    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Это приведет к дополнительным расходам</font>.</string>
     <string name="sms_short_code_confirm_allow">Отправить</string>
     <string name="sms_short_code_confirm_deny">Отмена</string>
-    <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
+    <string name="sms_short_code_remember_choice">Запомнить выбор</string>
     <string name="sms_short_code_remember_undo_instruction">Вы сможете изменить это позже в Настройки > Приложения</string>
     <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
     <string name="sms_short_code_confirm_never_allow">Запретить всегда</string>
@@ -1673,7 +1673,7 @@
 	<string name="candidates_style">Кандидаты</string>
     <string name="sim_unavailable">SIM карта отсутствует</string>
     <string name="sim_locked">SIM карта заблокирована</string>
-    <string name="sim_not_ready">SIM карта не готова. Попробуйте позже.</string>
+    <string name="sim_not_ready">SIM карта уже используется</string>
     <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
     <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
     <string name="resolver_guide_title">Настройки по умолчанию</string>

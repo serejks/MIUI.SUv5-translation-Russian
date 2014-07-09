@@ -4,7 +4,7 @@
 	<string name="activate_fail_notification_title">Повторная активации</string>
 	<string name="activating">Активация…</string>
 	<string name="alwaysUsePrompt">Запомнить выбор</string>
-	<string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт Xiaomi</string>
+	<string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в Mi аккаунт</string>
 	<string name="today">Сегодня</string>
 	<string name="tomorrow">Завтра</string>
 	<string name="yesterday">Вчера</string>
@@ -258,17 +258,17 @@
 	<string name="error_unauthorized">Слишком много ошибок авторизации: синхронизация отключена.</string>
 	<string name="every_day">Каждый день</string>
 	<string name="experimental_validate">Идентификация</string>
-	<string name="experimental_validate_fail">Идентификация не удалась.</string>
+	<string name="experimental_validate_fail">Не удалось войти</string>
 	<string name="experimental_validate_password">Пароль</string>
 	<string name="experimental_validate_progress">Идентификация…</string>
 	<string name="experimental_validate_thanks">Спасибо!</string>
 	<string name="experimental_validate_username">Имя пользователя</string>
 	<string name="experimental_validate_warning">Спасибо за то, что помогаете MIUI стать лучше!</string>
 	<string name="find_device_check_sim">Проверка SIM…</string>
-	<string name="find_device_sim_change_instructions">Ваше устройство было заблокировано\nВставьте SIM карту или введите пароль вашего аккаунта Xiaomi</string>
+	<string name="find_device_sim_change_instructions">Ваше устройство было заблокировано.\nВставьте SIM карту или введите пароль вашего Mi аккаунта.</string>
 	<string name="find_device_sim_change_instructions_no_network">Ваше устройство заблокировано.\nДля разблокировки вставьте SIM карту.</string>
 	<string name="find_device_turn_off_flight_mode">Выключите режим \"В самолете\"</string>
-	<string name="find_device_turn_off_flight_mode_instructions">Ваше устройство заблокировано\nДля разблокировки выключите режим \"В самолете\".</string>
+	<string name="find_device_turn_off_flight_mode_instructions">Ваше устройство заблокировано.\nДля разблокировки выключите режим \"В самолете\".</string>
 	<string name="firewall_setting">Черный список</string>
 	<string name="first_back_long_press_message">Долгое нажатие клавиши \"Назад\" остановит процесс приложения.\n\nВключение этой функиции: Настройки &lt; Устройство &lt; Клавиши</string>
 	<string name="fools_day">День дураков</string>
@@ -292,7 +292,7 @@
 	<string name="lantern_festival">Фестиваль фонарей</string>
 	<string name="light_snow">Легкий снег</string>
 	<string name="lockscreen_unlock_sim_via_puk">Введите PUK код для разблокировки SIM карты</string>
-	<string name="memory_clear_nothing_result">Очистка памяти уже произведена</string>
+	<string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
 	<string name="memory_clear_result">Очищено: %1$s\nДоступно: %2$s</string>
 	<string name="miui_copyright_title">Авторские права</string>
 	<string name="miui_mibi_license_title">Пользовательское соглашение MiCredit</string>
@@ -321,10 +321,10 @@
 	<string name="payphone">Телефон-автомат</string>
 	<string name="peace_day">Международный день мира</string>
 	<string name="perm_auto_backup">Автобэкап</string>
-	<string name="perm_payment_dspt">Разрешить приложению оплату через сервисы Xiaomi</string>
-	<string name="perm_payment_lab">Сервис оплаты Xiaomi</string>
-	<string name="perm_send_push_dspt">Позволяет отправлять Xiaomi push-сообщения</string>
-	<string name="perm_send_push_lab">Отправка push-сообщений</string>
+	<string name="perm_payment_dspt">Разрешить приложению оплату через Mi Pay</string>
+	<string name="perm_payment_lab">Mi Pay</string>
+	<string name="perm_send_push_dspt">Разрешить push сообщения от Xaiomi</string>
+	<string name="perm_send_push_lab">Отправка push сообщений</string>
 	<string name="perm_tigger_toggle_dspt">Разрешает приложениям управлять переключателями в статус баре</string>
 	<string name="perm_tigger_toggle_lab">Управление переключателями в статус баре</string>
 	<string name="perm_use_find_device">Поиск устройства</string>
@@ -440,7 +440,7 @@
  Повторите через %d сек."</string>
     <string name="sim_unavailable">SIM карта недоступна</string>
     <string name="sim_locked">SIM карта заблокирована</string>
-    <string name="sim_not_ready">SIM карта используется. Повторите позже.</string>
+    <string name="sim_not_ready">SIM карта уже используется</string>
     <string name="sim_in_airplane_mode">Выключите режим \"В самолете\"</string>
     <string name="days">%d дн.</string>
     <string name="hours">%d ч.</string>

@@ -113,7 +113,7 @@
     <string name="theme_batch_update_dlg_content_single">Обновить %1$s?</string>
 	<string name="resource_comment_sending">Отправка комментария…</string>
 	<string name="resource_comment_upload_failed">Не удалось отправить комментарий</string>
-	<string name="resource_comment_upload_success">Комментарий отправлен! Он будет опубликован после проверки.</string>
+	<string name="resource_comment_upload_success">Комментарий будет опубликован после проверки.</string>
 	<string name="resource_comment_upload_data_invalid">Некорректный комментарий</string>
 	<string name="resource_comment_upload_not_logined">Сначала войдите в систему</string>
 	<string name="resource_comment_upload_not_bought">Прежде чем оставить комментарий, необходимо применить тему</string>
@@ -252,7 +252,7 @@
     <string name="resource_account_login_title">Вход</string>
     <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
     <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
-    <string name="resource_account_login_before_action">Войдите в ваш аккаунт Xiaomi</string>
+    <string name="resource_account_login_before_action">Войдите в ваш аккаунт Mi аккаунт</string>
     <string name="resource_send">Отправить</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
     <string name="resource_present">Подарок</string>
@@ -277,7 +277,7 @@
     <string name="resource_comment_score_count">Пользователей: %1$s</string>
     <string name="resource_comment_loading_list">Загрузка…</string>
     <string name="account_unactivated">Аккаунт не активирован</string>
-    <string name="to_activate_the_account">Активируйте аккаунт Xiaomi</string>
+    <string name="to_activate_the_account">Активируйте Mi аккаунт</string>
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_user_know">ОК</string>

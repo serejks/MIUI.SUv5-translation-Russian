@@ -36,7 +36,7 @@
     <string-array name="traffic_sort_type">
         <item>По мобильному трафику</item>
         <item>По трафику Wi-Fi</item>
-        <item>По общему трафику</item>
+        <item>По сжатым данным</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Автоматически получить шаблон сообщения</item>

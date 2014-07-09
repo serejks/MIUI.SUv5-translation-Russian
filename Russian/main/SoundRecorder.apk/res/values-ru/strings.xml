@@ -44,7 +44,7 @@
     <string name="second">%d сек.</string>
     <string name="minute">%d мин.</string>
     <string name="hour">%d ч.</string>
-    <string name="call_record_or">или</string>
+    <string name="call_record_or">" или "</string>
     <string name="dialog_play">Воспроизвести</string>
     <string name="dialog_send">Отправить</string>
     <string name="dialog_delete">Удалить</string>

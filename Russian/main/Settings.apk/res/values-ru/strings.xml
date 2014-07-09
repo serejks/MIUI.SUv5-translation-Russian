@@ -2095,7 +2095,7 @@
     <string name="perm_hips_adjust_ringer_volume">Регулировка громкости сигнала вызова</string>
     <string name="perm_hips_security_prompt_caption">Предупреждение безопасности</string>
     <string name="perm_hips_security_prompt_title">%1$s пытается %2$s</string>
-    <string name="perm_hips_security_prompt_remember">Запомнить мой выбор</string>
+    <string name="perm_hips_security_prompt_remember">Запомнить выбор</string>
     <string name="perm_hips_security_prompt_accept">Разрешить (%d)</string>
     <string name="perm_hips_security_prompt_reject">Запретить (%d)</string>
     <string name="perm_hips_security_prompt_accept_root">Разрешить</string>
@@ -4375,7 +4375,7 @@ Android File Transfer
     <string name="menu_item_show_more">Еще</string>
     <string name="ringtone_mute">Пусто</string>
     <string name="title_system_resource">Системные ресурсы</string>
-    <string name="resource_ringtone_volume_mute">Сигнал в режиме \"Без звука\"</string>
+    <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
     <string name="audio_list_loading">Загрузка…</string>
     <string name="title_local_resource">Локальные ресурсы</string>
     <string name="online_resource_entry">Онлайн ресурсы</string>
