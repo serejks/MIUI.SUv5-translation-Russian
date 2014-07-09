@@ -4029,8 +4029,8 @@ Android File Transfer
     <string name="dialog_msg_check_all">Приложение: %1$s \nФайлов: %2$d</string>
     <string name="toast_removed_from_white_list">" удалено из белого списка"</string>
     <string name="notification_button_text_of_low_memory">Очистка</string>
-    <string name="notification_title_of_low_memory">Память заполнена на %s</string>
-    <string name="notification_summary_of_low_memory">Нажмите для очистки</string>
+    <string name="notification_title_of_low_memory">Использовано памяти %s</string>
+    <string name="notification_summary_of_low_memory">Нет места для новых приложений.</string>
 	<string name="power_20s_enter_mode">%1$dс до режима %2$s</string>
     <string name="power_notify_lowbattery">Заряд менее %1$d%%</string>
     <string name="power_recovery_mode">Восстановлен режим %1$s</string>
