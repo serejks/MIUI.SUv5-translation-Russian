@@ -448,4 +448,6 @@
     <string name="online_playlist_is_empty">Онлайн музыка пуста!</string>
     <string name="network_failure">Сбой сети, повторите позже.</string>
     <string name="local_music_is_not_available">Локальная музыка недоступна.</string>
+	<string name="priority_storage">Загрузка во внешний накопитель</string>
+	<string name="priority_storage_summary">Загружать музыку во внешний накопитель, когда он подключен.</string>
 </resources>
