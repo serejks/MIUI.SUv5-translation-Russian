@@ -19,7 +19,7 @@
     <string name="main_alert_message_no_imsi">Нет SIM карты</string>
     <string name="firewall_activity_lable">Ограничение трафика приложений</string>
     <string name="firewall_applist">Приложения</string>
-    <string name="firewall_rule_group_title_mobile">Мобильный</string>
+    <string name="firewall_rule_group_title_mobile">Моб.</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Сторонние</string>
     <string name="firewall_fragment_tab_title_sys">Системные</string>
@@ -35,7 +35,7 @@
     <string name="sorted_button">Сортировка</string>
     <string name="app_detail">Информация</string>
     <string name="app_version">Версия</string>
-    <string name="app_mobile">Моб.</string>
+    <string name="app_mobile">Мобильный</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Нет</string>
     <string name="sorted_dialog_title">Сортировка</string>

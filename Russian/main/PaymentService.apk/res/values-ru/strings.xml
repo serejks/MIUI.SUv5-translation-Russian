@@ -298,4 +298,7 @@
     <string name="balance_title">Баланс</string>
     <string name="recharge_group_familiar">Обычные способы</string>
     <string name="pc_pay_login">Войдите</string>
+    <string name="mibi_license_net_prompt_title">Разрешить приложению доступ к сети?</string>
+    <string name="mibi_license_net_prompt_message">Для использования Mi Credit требуется доступ к сети.</string>
+    <string name="mibi_license_checkbox_prompt">Запомнить</string>
 </resources>

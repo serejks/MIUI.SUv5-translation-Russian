@@ -364,7 +364,7 @@
 	<string name="gong_count_netdevice">Интернет устройств: %d</string>
 	<string name="sure">ОК</string>
 	<string name="declaration_content_short">Принять условия пользования от Sohu, iQiyi и других видео контент-провайдеров?</string>
-    <string name="ok_no_more">ОК и запомнить</string>
+    <string name="ok_no_more">Запомнить</string>
 	<string name="net_device_name">Интернет устройство</string>
 	<string name="thunder_cinema">Кинотеатр xunlei</string>
     <string name="xunlei_login_error">Ошибка авторизации</string>
