@@ -35,7 +35,7 @@
     <string name="sorted_button">Сортировка</string>
     <string name="app_detail">Информация</string>
     <string name="app_version">Версия</string>
-    <string name="app_mobile">Мобильный</string>
+    <string name="app_mobile">Моб.</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Нет</string>
     <string name="sorted_dialog_title">Сортировка</string>
