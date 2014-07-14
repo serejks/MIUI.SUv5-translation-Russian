@@ -111,4 +111,10 @@
         <item quantity="other">Добавлено треков в плейлист: %d</item>
         <item quantity="one">Добавлено треков в плейлист: 1</item>
     </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">Треков: %d</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d из %1$d треков</item>
+    </plurals>
 </resources>

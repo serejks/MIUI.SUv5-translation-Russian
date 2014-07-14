@@ -763,7 +763,6 @@
     <string name="pref_camera_focus_entry_infinit">Бесконечно</string>
     <string name="no_storage_title">Нет накопителя</string>
     <string name="no_storage_message">Внешний накопитель отсутствует.</string>
-<!-- ZTE Nubia Z5S Mini -->
     <string name="pref_camera_autoexposure_entry_focus_ae_af_separation">AE/AF Separation</string>
     <string name="pref_camera_videoencoder_title">Формат видео</string>
     <string name="pref_camera_videoencoder_dialogtitle">Формат видео</string>
@@ -1150,4 +1149,10 @@
     <string name="selectmethod">Pictures more than 150, please reselect</string>
     <string name="interval_select">Interval Selection</string>
     <string name="random_select">Random Selection</string>
+    <string name="pref_camera_picturesize_entry_8mp">8 Мп</string>
+    <string name="pref_camera_picturesize_entry_5mp">5 Мп</string>
+    <string name="pref_camera_picturesize_entry_3mp">3 Мп</string>
+    <string name="pref_camera_picturesize_entry_2mp">2 Мп</string>
+    <string name="pref_camera_picturesize_entry_1_3mp">1.3 Мп</string>
+    <string name="pref_camera_picturesize_entry_1mp">1 Мп</string>
 </resources>
