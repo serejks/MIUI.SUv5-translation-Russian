@@ -639,7 +639,7 @@
     <string name="face_beauty_intelligent_title">Улучшение тона кожи</string>
     <string name="face_beauty_manual_title">Улучшение тона кожи</string>
     <string name="face_beauty_simple_mode_title">Тон кожи</string>
-    <string name="face_beauty_intelligent_level_0">Выключено</string>
+    <string name="face_beauty_intelligent_level_0">Выкл.</string>
     <string name="face_beauty_intelligent_level_1">Низкое</string>
     <string name="face_beauty_intelligent_level_2">Среднее</string>
     <string name="face_beauty_intelligent_level_3">Высокое</string>
