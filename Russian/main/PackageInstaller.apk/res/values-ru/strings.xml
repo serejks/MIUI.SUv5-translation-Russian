@@ -64,7 +64,7 @@
     <string name="safe_relative">Личная безопасность</string>
     <string name="privacy_relative">Доступ к личным данным</string>
     <string name="other_relative">Прочие разрешения</string>
-    <string name="perm_notice">Оповещение безопасности</string>
+    <string name="perm_notice">Предупреждение</string>
     <string name="trust_switch_dialog_msg">MIUI не будет спрашивать вашего разрешения на любые действия этого приложения.</string>
     <string name="auto_startup_dialog_msg">MIUI позволит этому приложению запускаться автоматически.</string>
     <string name="low_risk_perms">Мало опасные разрешения</string>

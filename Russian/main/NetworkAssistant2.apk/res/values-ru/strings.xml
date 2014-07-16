@@ -180,15 +180,14 @@
     <string name="traffic_config_alert_ok">ОК</string>
     <string name="traffic_config_alert_cancel">Отмена</string>
     <string name="traffic_config_alert_nomore">Больше не спрашивать</string>
-    <string name="traffic_config_alert_body">"Данные мобильного оператора показывают, что трафика осталось: %s.
+    <string name="traffic_config_alert_body">"По данным мобильного оператора, трафика осталось: %s.
 Обновить локальные данные трафика?"</string>
     <string name="traffic_config_alert_body_normal">"
-Данные мобильного оператора показывают, что трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
-    <string name="traffic_config_alert_body_leisure">"
-Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
+По данным мобильного оператора, трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
+    <string name="traffic_config_alert_body_leisure">"По данным мобильного оператора, трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Локальный трафик не установлен."</string>
-    <string name="traffic_config_alert_setted">Ввести трафик</string>
+По данным мобильного оператора, трафика осталось: %s. Локальный трафик не установлен."</string>
+    <string name="traffic_config_alert_setted">Настройки применены</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="datausage_purchase_title_pkglist">Купить трафик</string>
@@ -202,16 +201,16 @@
     <string name="datausage_purchase_pay_captcha_hint">Введите проверочный код</string>
     <string name="datausage_purchase_pay_captcha_tips">"После ввода проверочного кода нажмите \"Купить\". Вы получите подтверждение в течение 10 минут."</string>
     <string name="datausage_purchase_get_captcha">Получить код (%d)</string>
-    <string name="datausage_purchase_get_captcha_again">Повторить отправку</string>
+    <string name="datausage_purchase_get_captcha_again">Отправить новый код</string>
     <string name="datausage_purchase_get_captcha_failed">Не удается получить проверочный код. Проверьте параметры сети.</string>
     <string name="datausage_purchase_confirm_tip">Заказ:</string>
     <string name="datausage_purchase_ordering">Покупка…</string>
     <string name="datausage_purchase_result_ok">"Вы приобрели %s
-Прочтите полученную SMS для получения подробной информации."</string>
+Прочтите полученную SMS для получения подробной информации"</string>
     <string name="datausage_purchase_result_failed">Не удается завершить покупку</string>
     <string name="datausage_purchase_backto_ns">Назад</string>
     <string name="datausage_purchase_goto_monthsetting">Изменить трафик</string>
-    <string name="datausage_purchase_pkglist_nodata">"Обнаружен конфликт вашего тарифного плана и текущего заказа. Обратитесь к мобильному оператору для получения информации."</string>
+    <string name="datausage_purchase_pkglist_nodata">"Обнаружен конфликт вашего тарифного плана и текущего заказа.\nОбратитесь к мобильному оператору для получения информации."</string>
     <string name="datausage_purchase_pkglist_networkerror">Сеть недоступна. Проверьте подключение и повторите попытку.</string>
     <string name="datausage_purchase_pkglist_servererror">Ошибка сервера</string>
 	<string name="main_toolbar_saving">Экономия</string>
