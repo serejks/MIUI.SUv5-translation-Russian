@@ -988,7 +988,7 @@
     <string name="filter_apps_onsdcard">Память телефона</string>
     <string name="disabled">Отключено</string>
     <string name="no_applications">Нет приложений</string>
-    <string name="internal_storage">ВНУТРЕННЯЯ ПАМЯТЬ</string>
+    <string name="internal_storage">Внутренняя память</string>
     <string name="sd_card_storage">Память телефона</string>
     <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="clear_data_dlg_title">Удалить данные приложения?</string>
