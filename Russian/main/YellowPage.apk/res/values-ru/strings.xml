@@ -329,4 +329,8 @@
 	<string name="added_to_favorite">Добавлено</string>
 	<string name="remove_from_favorite">Удалить из избранного</string>
 	<string name="removed_from_favorite">Удалено</string>
+	<string name="dont_enable">Отмена</string>
+	<string name="enable_now">Включить</string>
+	<string name="express_inquiry_provider_info">Поддержка:</string>
+	<string name="group_name_more">Прочее</string>
 </resources>

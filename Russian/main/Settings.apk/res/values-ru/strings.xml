@@ -4412,4 +4412,11 @@ Android File Transfer
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
 	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
 	<string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
+	<string name="priority_storage_app_settings">Данные будут сохранены во %1$s</string>
+	<string name="priority_storage_settings_summary">Когда SD-карта не подключена, данные будут автоматически сохраняться во внутреннюю память устройства.</string>
+	<string name="priority_storage_summary">Выберите память по умолчанию для сохранения данных</string>
+	<string name="priority_storage_title">Настройки памяти</string>
+	<string name="high_performance_notif_summary">Высокое потребление батареи</string>
+	<string name="high_performance_notif_title">Режим производительности активен</string>
+	<string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса и получения лучшего результата в бенчмарках</string>
 </resources>

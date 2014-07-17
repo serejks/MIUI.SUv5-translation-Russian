@@ -1021,4 +1021,6 @@
 	<string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
 	<string name="pref_camera_countdown_title">Таймер</string>
 	<string name="simple_mode_button_text_countdown">Выключить таймер</string>
+	<string name="burst_shoot_exit_button_text">Отключить серийную съемку</string>
+	<string name="pref_burst_shoot_title">Серийная съемка</string>
 </resources>

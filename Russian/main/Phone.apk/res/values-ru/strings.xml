@@ -1641,4 +1641,9 @@
 	<string name="open_miui">Открыть</string>
 	<string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
 	<string name="preferred_network_type_pref_entries_4g_preferred_miui">Предпочтительно 4G</string>
+	<string name="ivr_menu_dialing_msg">Переадресация…</string>
+	<string name="ivr_menu_list_title">Голосовое меню</string>
+	<string name="non_ivr_menu_collapse_menu">Свернуть меню</string>
+	<string name="non_ivr_menu_view_menu">Показать меню</string>
+	<string name="ivr_menu_list_sub_menu_count_format">Нажмите %s</string>
 </resources>
