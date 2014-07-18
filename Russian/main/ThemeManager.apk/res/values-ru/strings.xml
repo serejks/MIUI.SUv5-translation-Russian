@@ -41,7 +41,7 @@
 	<string name="theme_component_title_all">Темы</string>
 	<string name="apply_theme_no_select_message">Выберите компоненты</string>
 	<string name="apply_lockscreen_paper_tips">Экран не поддерживает разные обои.</string>
-	<string name="theme_import_from_sdcard">Импорт с SD карты</string>
+	<string name="theme_import_from_sdcard">Импорт темы</string>
 	<string name="theme_select_others">Другие</string>
 	<string name="third_party_pickers_activity_title">Установить %1$s</string>
 	<string name="lockstyle_personal_settings">Персонализация</string>
