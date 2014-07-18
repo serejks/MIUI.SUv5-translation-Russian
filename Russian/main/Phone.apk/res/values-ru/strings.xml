@@ -1646,4 +1646,5 @@
 	<string name="non_ivr_menu_collapse_menu">Свернуть меню</string>
 	<string name="non_ivr_menu_view_menu">Показать меню</string>
 	<string name="ivr_menu_list_sub_menu_count_format">Нажмите %s</string>
+	<string name="ivr_menu_dialing_msg_no_mute">Передача выбранных номеров (игнорировать сообщения об ошибках)…</string>
 </resources>
