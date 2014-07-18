@@ -134,7 +134,7 @@
     <string name="time_foramt_yesterday">Вчера</string>
     <string name="camera_rotate">Повернуть</string>
     <string name="camera_focus">Фокус</string>
-    <string name="camera_sdcard_disabled">SD-карта отключена</string>
+    <string name="camera_sdcard_disabled">SD карта отключена</string>
     <string name="camera_please_wait">Подождите…</string>
     <string name="camera_reading_image">Чтение файла…</string>
     <string name="camera_rc_rotate">Повернуть</string>
@@ -246,7 +246,7 @@
     <string name="alert_disable_dialog_text">Больше не показывать</string>
     <string name="processing">Обработка…</string>
     <string name="sdcard_invalid_for_install_voice_engine">Нельзя использовать SD​​-карту. Не удается установить голосого помощника.</string>
-    <string name="sdcard_space_lack">Не хватает места на SD-карте</string>
+    <string name="sdcard_space_lack">Не хватает места на SD карте</string>
     <string name="tts_install_failed">Не удалось установить голосовой движок</string>
     <string name="nonsupport_asr">Нет поддержки</string>
     <string name="text_uninstall">Удаление</string>
@@ -276,8 +276,8 @@
     <string name="status_bar_hint">Статус бар</string>
     <string name="settings_dial_voice_title">Голосовой набор</string>
     <string name="settings_speak_phone_number">Читайть имя входящего вызова</string>
-    <string name="camera_storage_error">Не сохранено! Надо вставить SD-карту.</string>
-    <string name="sdcard_invalid_for_ring">Ошибка настройки! Вставьте SD-карту.</string>
+    <string name="camera_storage_error">Не сохранено! Надо вставить SD карту.</string>
+    <string name="sdcard_invalid_for_ring">Ошибка настройки! Вставьте SD карту.</string>
     <string name="lock_screen_battery_charging_hint">Зарядка: %1$d%%</string>
     <string name="lock_screen_battery_full_hint">Батарея заряжена</string>
 </resources>
