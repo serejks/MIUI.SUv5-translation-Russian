@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="usb_no_ask_name">Не спрашивать в следующий раз</string>
+    <string name="usb_no_ask_name">Не спрашивать</string>
     <string name="USB_SETTINGS">USB подключение</string>
     <string name="usb_charge">Только зарядка</string>
     <string name="usb_charge_detail">Зарядить телефон по USB</string>
